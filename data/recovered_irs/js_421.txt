@@ -1,0 +1,60 @@
+### CODE
+let out = {};
+try {
+  const pdfjs = await import('https://cdn.jsdelivr.net/npm/pdfjs-dist@4.4.168/build/pdf.min.mjs');
+  const w = await import('https://cdn.jsdelivr.net/npm/pdfjs-dist@4.4.168/build/pdf.worker.min.mjs');
+  globalThis.pdfjsWorker = w;
+  pdfjs.GlobalWorkerOptions.workerSrc = 'https://cdn.jsdelivr.net/npm/pdfjs-dist@4.4.168/build/pdf.worker.min.mjs';
+  window.__pdfjs = pdfjs;
+  out.ok = typeof pdfjs.getDocument;
+} catch (e) { out.err = String(e).slice(0,300); }
+window.__pdfCache = window.__pdfCache || {};
+window.__pdfDoc = async (url) => {
+  if (window.__pdfCache[url]) return window.__pdfCache[url];
+  const r = await fetch(url);
+  if (!r.ok) throw new Error('HTTP ' + r.status + ' ' + url);
+  const buf = await r.arrayBuffer();
+  const doc = await window.__pdfjs.getDocument({data: new Uint8Array(buf)}).promise;
+  window.__pdfCache[url] = doc;
+  return doc;
+};
+window.__pdfPage = async (url, p) => {
+  const doc = await window.__pdfDoc(url);
+  const page = await doc.getPage(p);
+  const tc = await page.getTextContent();
+  const items = tc.items.filter(it => it.str && it.str.trim().length).map(it => ({s: it.str, x: it.transform[4], y: it.transform[5]}));
+  // group by y (tolerance 2.5)
+  items.sort((a,b) => b.y - a.y || a.x - b.x);
+  const lines = [];
+  for (const it of items) {
+    let ln = lines.find(l => Math.abs(l.y - it.y) < 2.5);
+    if (!ln) { ln = {y: it.y, items: []}; lines.push(ln); }
+    ln.items.push(it);
+  }
+  lines.sort((a,b) => b.y - a.y);
+  return lines.map(l => l.items.sort((a,b)=>a.x-b.x).map(i=>i.s).join(' | ')).join('\n');
+};
+window.__pdfFind = async (url, re, maxHits) => {
+  const doc = await window.__pdfDoc(url);
+  const hits = [];
+  for (let p = 1; p <= doc.numPages; p++) {
+    const page = await doc.getPage(p);
+    const tc = await page.getTextContent();
+    const txt = tc.items.map(i => i.str).join(' ');
+    if (re.test(txt)) hits.push(p);
+    if (maxHits && hits.length >= maxHits) break;
+  }
+  return 'pages=' + doc.numPages + ' hits=' + hits.join(',');
+};
+JSON.stringify(out)
+
+### RESULT
+"{\"ok\":\"function\"}"
+
+(captured at origin https://ici.org)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "The IRA Investor Database™ | Investment Company Institute" ("https://www.ici.org/research-iras/the-ira-investor-database")

@@ -1,0 +1,10 @@
+# Raw survey downloads (several files exceed GitHub's 100 MB limit; scripts re-download them)
+scf/raw/
+**/raw_downloads/
+*.dta
+*.sas7bdat
+*.zip
+
+# Python
+__pycache__/
+*.pyc

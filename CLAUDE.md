@@ -1,0 +1,39 @@
+# Retirement account withdrawal trends
+
+## Goal
+Research report (self-contained HTML, charts + animation) on trends in withdrawal **incidence** and **rates** from retirement accounts (IRAs and DC plans) in retirement, separating **partial withdrawals**, **full cash-outs**, and **rollovers**. Phase 2: analyze SCF and CPS ASEC microdata to extend/validate the report (see `microdata/`).
+
+## Layout
+- `output/` final standalone report (built; do not hand-edit)
+- `report/parts/` source: `10-head.html` (CSS tokens, fonts), `20-body.html` (13 sections, 22 figures, 9 tables), `30-script.html` (REFS map of 77 sources, `CH` chart data, SVG renderers). Build: `python report/build.py` (writes `output/` standalone and `report/index.html`, the body to publish to the live artifact URL)
+- `data/` `irs_derived.json`, `irs_2023_table4.json`, `recovered_irs/` raw IRS SOI + ICI spreadsheet extractions (`js_559`=IRS Table 4 by age 2004-23; `js_563`=Table 1 by IRA type; `js_331`=TY2023 Table 4 incl. rollovers; `js_355/359/367`=Form 1040 taxable IRA distributions). Rebuild derived series: `python scripts/build_data.py`
+- `notes/` 5 research notes (IRA, DC plans, rollovers, household surveys, RMD/policy/tax), `verification.md` (fact-check: 38 findings, all fixed), `PROGRESS.md`
+- `scripts/shoot*.js` Playwright render checks (needs `npm i playwright`)
+- `scf/` SCF microdata results (README = method + findings), `cps/` CPS ASEC results from Census files (README); `sipp/` SIPP 2021-2025 public-use IRA rates (README), `irs/` IRS SOI refresh incl. 2022 method break and rollover reconciliation (README), `sipp_hist/` SIPP 1996-2024 long series by age, IRA+401(k) combined (README; Figs 17-18), `scf_6064/` decomposition of the SCF 60-64 rate decline (README); `microdata/` original starter (superseded)
+
+## Definitions (keep consistent)
+- **Incidence** = withdrawers per 100 year-end account holders.
+- **Dollar-weighted rate** = withdrawals in year t / same-age year-end balance in t-1.
+- Partial withdrawal vs full cash-out vs rollover are distinct; rollovers are not "spending".
+
+## Known caveats (do not lose)
+- IRS SOI withdrawer counts jump in 2012 (also odd in 2004, 2008): use 2012-2023 as the consistent era.
+- Roth conversions may be counted in IRS withdrawals (Form 1040 cross-check: adding conversions overshoots by 4-10%, so mostly not).
+- ICI survey mode change in 2016. CPS ASEC redesigns in 2014 and 2019 (series breaks).
+- RMDs waived 2009 and 2020: incidence dips in both years (e.g. IRS 70-74: 86.0 in 2019 -> 58.8 in 2020).
+- RESOLVED 2026-10-04 (rollovers 2022): use IRS traditional $635.9B / all types $664.3B. The ICI $669.8B came from an older IRS release of the same cell; ICI's current file gives $636B (Table 6).
+- IRS method break in TY2022: Roth distributions jump ($5.7B -> $23.8B) and SEP falls ($26.4B -> $6.7B). Treat 2012-2021 and 2022-2023 as separate consistent eras; TY2024 not released yet.
+- CPS ASEC: 2020-2021 use Census pandemic entropy-balance weights; 2026 file uses Vintage 2025 population controls (~1.65M jump), not a real change. SEs from replicate weights (cps/README).
+- SIPP long series (sipp_hist/): incidence comparable-ish across eras from age 60 up; 2014-2019 is a pooled item incl. DB pensions with a 2017 wording break; dollar rates NOT comparable across eras (old panels capture ~half of ICI IRA balances). 1996 core files need NBER's layout, not Census's posted dictionaries.
+- Key computed facts: TY2023 IRA rollovers $682.4B, 5.86M taxpayers; 60+ hold 66.1% of rollover dollars (2001: 40.6%).
+
+## Conventions
+- Every number must trace to a source in the REFS map; chart values were verified against source tables (506 values OK). Re-verify after any data edit.
+- Charts: inline SVG from vanilla JS, max 3 hues in multi-line charts (palette validated), light + dark tokens, respects reduced motion, print CSS.
+- Do not edit `output/` directly; edit `report/parts/` then rebuild.
+- Network note: federalreserve.gov and census.gov are reachable from project threads started after 2026-10-04; irs.gov reachable; HRS site blocked.
+
+## Next steps
+1-3. DONE 2026-10-04: SCF (scf/), CPS ASEC (cps/), and report Section 10 "Checking against the microdata" (Figs 15-20, Tables 7-9 (Table 9 = all waves by age), incl. all-owner vs withdrawers-only rates from scf/scripts/scf_rates.py; refs scf-micro, cps-micro, fed-scf-2023, census-pinc09). Section 10 numbers come from scf/output and cps/output CSVs plus data/irs_derived.json; SCF 2021 dollars converted from 2022$ by the Fed CPILAG 4315/3992.
+4. When SCF 2025 is out (late 2026): add 2024 withdrawals (RMD age 73) to Fig 15 and Table 7.
+5. DONE 2026-10-04: SIPP rates + age-72 RMD chart (Fig 16), IRS refresh, SCF 60-64 explanation (concentrated in a few large payouts, partly composition), CPS SEs. Optional: HRS (needs Richard's upload); consider restricted IRS 1099-R/5498 access (OTA/JSRP/FSRDC) for true flows.

@@ -1,0 +1,2647 @@
+age_band,wd_year,grouping,group,stat,estimate,se,n_holders,n_withdrawers
+55-59,2003,r_or_spouse_working,working,pct_of_holders,96.3243,1.0111,352,7
+55-59,2003,r_or_spouse_working,working,pct_of_balances,94.5781,2.4413,352,7
+55-59,2003,r_or_spouse_working,working,incidence_per100,1.5313,0.6175,352,7
+55-59,2003,r_or_spouse_working,working,rate_pct,0.0803,0.0514,352,7
+55-59,2003,r_or_spouse_working,working,rate_ira_part_pct,0.0717,0.0501,352,7
+55-59,2003,r_or_spouse_working,working,rate_pension_part_pct,0.0086,0.0099,352,7
+55-59,2003,r_or_spouse_working,neither working,pct_of_holders,3.6757,1.0111,18,1
+55-59,2003,r_or_spouse_working,neither working,pct_of_balances,5.4219,2.4413,18,1
+55-59,2003,r_or_spouse_working,neither working,incidence_per100,14.7642,13.1042,18,1
+55-59,2003,r_or_spouse_working,neither working,rate_pct,0.3130,0.3969,18,1
+55-59,2003,r_or_spouse_working,neither working,rate_ira_part_pct,0.2374,0.3307,18,1
+55-59,2003,r_or_spouse_working,neither working,rate_pension_part_pct,0.0756,0.2041,18,1
+55-59,2003,r_working,R working,pct_of_holders,88.7783,1.5683,331,7
+55-59,2003,r_working,R working,pct_of_balances,88.6977,2.9380,331,7
+55-59,2003,r_working,R working,incidence_per100,1.6614,0.6662,331,7
+55-59,2003,r_working,R working,rate_pct,0.0856,0.0552,331,7
+55-59,2003,r_working,R working,rate_ira_part_pct,0.0764,0.0539,331,7
+55-59,2003,r_working,R working,rate_pension_part_pct,0.0092,0.0107,331,7
+55-59,2003,r_working,R not working,pct_of_holders,11.2217,1.5683,38,1
+55-59,2003,r_working,R not working,pct_of_balances,11.3023,2.9380,38,1
+55-59,2003,r_working,R not working,incidence_per100,4.8360,4.7699,38,1
+55-59,2003,r_working,R not working,rate_pct,0.1501,0.1577,38,1
+55-59,2003,r_working,R not working,rate_ira_part_pct,0.1139,0.1251,38,1
+55-59,2003,r_working,R not working,rate_pension_part_pct,0.0362,0.0924,38,1
+55-59,2003,account_type,IRA only,pct_of_holders,29.0886,2.4374,130,2
+55-59,2003,account_type,IRA only,pct_of_balances,15.3486,2.8489,130,2
+55-59,2003,account_type,IRA only,incidence_per100,3.7480,2.2947,130,2
+55-59,2003,account_type,IRA only,rate_pct,0.4739,0.3365,130,2
+55-59,2003,account_type,IRA only,rate_ira_part_pct,0.4739,0.3365,130,2
+55-59,2003,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,130,2
+55-59,2003,account_type,IRA and DC,pct_of_holders,35.2207,2.6839,151,6
+55-59,2003,account_type,IRA and DC,pct_of_balances,61.5586,5.6532,151,6
+55-59,2003,account_type,IRA and DC,incidence_per100,2.6332,1.2114,151,6
+55-59,2003,account_type,IRA and DC,rate_pct,0.0327,0.0231,151,6
+55-59,2003,account_type,IRA and DC,rate_ira_part_pct,0.0128,0.0065,151,6
+55-59,2003,account_type,IRA and DC,rate_pension_part_pct,0.0199,0.0221,151,6
+55-59,2003,account_type,DC only,pct_of_holders,35.6907,2.5278,89,0
+55-59,2003,account_type,DC only,pct_of_balances,23.0928,4.8307,89,0
+55-59,2003,account_type,DC only,incidence_per100,0.0000,0.0000,89,0
+55-59,2003,account_type,DC only,rate_pct,0.0000,0.0000,89,0
+55-59,2003,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,89,0
+55-59,2003,account_type,DC only,rate_pension_part_pct,0.0000,0.0000,89,0
+55-59,2003,current_job_dc,has THRIFT,pct_of_holders,65.1428,2.4801,218,3
+55-59,2003,current_job_dc,has THRIFT,pct_of_balances,77.6625,3.5521,218,3
+55-59,2003,current_job_dc,has THRIFT,incidence_per100,1.3424,0.6439,218,3
+55-59,2003,current_job_dc,has THRIFT,rate_pct,0.0098,0.0049,218,3
+55-59,2003,current_job_dc,has THRIFT,rate_ira_part_pct,0.0098,0.0049,218,3
+55-59,2003,current_job_dc,has THRIFT,rate_pension_part_pct,0.0000,0.0000,218,3
+55-59,2003,current_job_dc,no THRIFT,pct_of_holders,34.8572,2.4801,152,5
+55-59,2003,current_job_dc,no THRIFT,pct_of_balances,22.3375,3.5521,152,5
+55-59,2003,current_job_dc,no THRIFT,incidence_per100,3.2797,1.9853,152,5
+55-59,2003,current_job_dc,no THRIFT,rate_pct,0.3818,0.2352,152,5
+55-59,2003,current_job_dc,no THRIFT,rate_ira_part_pct,0.3269,0.2244,152,5
+55-59,2003,current_job_dc,no THRIFT,rate_pension_part_pct,0.0549,0.0623,152,5
+55-59,2003,r_social_security,R gets SS,pct_of_holders,3.8203,0.9216,9,1
+55-59,2003,r_social_security,R gets SS,pct_of_balances,1.2237,0.4427,9,1
+55-59,2003,r_social_security,R gets SS,incidence_per100,13.4896,11.7687,9,1
+55-59,2003,r_social_security,R gets SS,rate_pct,1.0519,1.0164,9,1
+55-59,2003,r_social_security,R gets SS,rate_ira_part_pct,1.0519,1.0164,9,1
+55-59,2003,r_social_security,R gets SS,rate_pension_part_pct,0.0000,0.0000,9,1
+55-59,2003,r_social_security,R no SS,pct_of_holders,96.1797,0.9216,361,7
+55-59,2003,r_social_security,R no SS,pct_of_balances,98.7763,0.4427,361,7
+55-59,2003,r_social_security,R no SS,incidence_per100,1.5620,0.6527,361,7
+55-59,2003,r_social_security,R no SS,rate_pct,0.0810,0.0500,361,7
+55-59,2003,r_social_security,R no SS,rate_ira_part_pct,0.0686,0.0477,361,7
+55-59,2003,r_social_security,R no SS,rate_pension_part_pct,0.0124,0.0138,361,7
+55-59,2003,db_pension,DB,pct_of_holders,43.8073,2.6215,136,1
+55-59,2003,db_pension,DB,pct_of_balances,41.7438,5.6268,136,1
+55-59,2003,db_pension,DB,incidence_per100,1.3762,1.0909,136,1
+55-59,2003,db_pension,DB,rate_pct,0.1544,0.1188,136,1
+55-59,2003,db_pension,DB,rate_ira_part_pct,0.1446,0.1166,136,1
+55-59,2003,db_pension,DB,rate_pension_part_pct,0.0098,0.0233,136,1
+55-59,2003,db_pension,no DB,pct_of_holders,56.1927,2.6215,234,6
+55-59,2003,db_pension,no DB,pct_of_balances,58.2562,5.6268,234,6
+55-59,2003,db_pension,no DB,incidence_per100,2.5177,1.1849,234,6
+55-59,2003,db_pension,no DB,rate_pct,0.0488,0.0312,234,6
+55-59,2003,db_pension,no DB,rate_ira_part_pct,0.0348,0.0260,234,6
+55-59,2003,db_pension,no DB,rate_pension_part_pct,0.0140,0.0165,234,6
+55-59,2003,work_x_thrift,not working + THRIFT,pct_of_holders,0.0000,0.0000,0,0
+55-59,2003,work_x_thrift,not working + THRIFT,pct_of_balances,0.0000,0.0000,0,0
+55-59,2003,work_x_thrift,not working + THRIFT,incidence_per100,,,0,0
+55-59,2003,work_x_thrift,not working + THRIFT,rate_pct,,,0,0
+55-59,2003,work_x_thrift,not working + THRIFT,rate_ira_part_pct,,,0,0
+55-59,2003,work_x_thrift,not working + THRIFT,rate_pension_part_pct,,,0,0
+55-59,2003,work_x_thrift,not working no THRIFT,pct_of_holders,3.6757,1.0111,18,1
+55-59,2003,work_x_thrift,not working no THRIFT,pct_of_balances,5.4219,2.4413,18,1
+55-59,2003,work_x_thrift,not working no THRIFT,incidence_per100,14.7642,13.1042,18,1
+55-59,2003,work_x_thrift,not working no THRIFT,rate_pct,0.3130,0.3969,18,1
+55-59,2003,work_x_thrift,not working no THRIFT,rate_ira_part_pct,0.2374,0.3307,18,1
+55-59,2003,work_x_thrift,not working no THRIFT,rate_pension_part_pct,0.0756,0.2041,18,1
+55-59,2003,work_x_thrift,working + THRIFT,pct_of_holders,65.1428,2.4801,218,3
+55-59,2003,work_x_thrift,working + THRIFT,pct_of_balances,77.6625,3.5521,218,3
+55-59,2003,work_x_thrift,working + THRIFT,incidence_per100,1.3424,0.6439,218,3
+55-59,2003,work_x_thrift,working + THRIFT,rate_pct,0.0098,0.0049,218,3
+55-59,2003,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.0098,0.0049,218,3
+55-59,2003,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0000,0.0000,218,3
+55-59,2003,work_x_thrift,working no THRIFT,pct_of_holders,31.1815,2.4364,134,4
+55-59,2003,work_x_thrift,working no THRIFT,pct_of_balances,16.9157,2.5366,134,4
+55-59,2003,work_x_thrift,working no THRIFT,incidence_per100,1.9259,1.3548,134,4
+55-59,2003,work_x_thrift,working no THRIFT,rate_pct,0.4038,0.2913,134,4
+55-59,2003,work_x_thrift,working no THRIFT,rate_ira_part_pct,0.3556,0.2847,134,4
+55-59,2003,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.0482,0.0566,134,4
+55-59,2006,r_or_spouse_working,working,pct_of_holders,95.3071,1.1840,354,15
+55-59,2006,r_or_spouse_working,working,pct_of_balances,95.9739,1.5243,354,15
+55-59,2006,r_or_spouse_working,working,incidence_per100,5.4784,1.2763,354,15
+55-59,2006,r_or_spouse_working,working,rate_pct,0.4587,0.1144,354,15
+55-59,2006,r_or_spouse_working,working,rate_ira_part_pct,0.3309,0.0918,354,15
+55-59,2006,r_or_spouse_working,working,rate_pension_part_pct,0.1278,0.0716,354,15
+55-59,2006,r_or_spouse_working,neither working,pct_of_holders,4.6929,1.1840,18,4
+55-59,2006,r_or_spouse_working,neither working,pct_of_balances,4.0261,1.5243,18,4
+55-59,2006,r_or_spouse_working,neither working,incidence_per100,37.4735,10.5318,18,4
+55-59,2006,r_or_spouse_working,neither working,rate_pct,1.7964,1.2438,18,4
+55-59,2006,r_or_spouse_working,neither working,rate_ira_part_pct,0.0912,0.2025,18,4
+55-59,2006,r_or_spouse_working,neither working,rate_pension_part_pct,1.7052,1.2282,18,4
+55-59,2006,r_working,R working,pct_of_holders,92.1880,1.3550,341,14
+55-59,2006,r_working,R working,pct_of_balances,92.1649,2.0890,341,14
+55-59,2006,r_working,R working,incidence_per100,5.4803,1.2844,341,14
+55-59,2006,r_working,R working,rate_pct,0.4559,0.1095,341,14
+55-59,2006,r_working,R working,rate_ira_part_pct,0.3444,0.0948,341,14
+55-59,2006,r_working,R working,rate_pension_part_pct,0.1114,0.0565,341,14
+55-59,2006,r_working,R not working,pct_of_holders,7.8120,1.3550,31,4
+55-59,2006,r_working,R not working,pct_of_balances,7.8351,2.0890,31,4
+55-59,2006,r_working,R not working,incidence_per100,24.6762,8.7703,31,4
+55-59,2006,r_working,R not working,rate_pct,1.1791,0.7119,31,4
+55-59,2006,r_working,R not working,rate_ira_part_pct,0.0484,0.0430,31,4
+55-59,2006,r_working,R not working,rate_pension_part_pct,1.1308,0.7130,31,4
+55-59,2006,account_type,IRA only,pct_of_holders,27.0926,2.5336,127,7
+55-59,2006,account_type,IRA only,pct_of_balances,20.3771,3.6002,127,7
+55-59,2006,account_type,IRA only,incidence_per100,9.9017,3.4233,127,7
+55-59,2006,account_type,IRA only,rate_pct,0.9276,0.3949,127,7
+55-59,2006,account_type,IRA only,rate_ira_part_pct,0.9276,0.3949,127,7
+55-59,2006,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,127,7
+55-59,2006,account_type,IRA and DC,pct_of_holders,32.3688,2.6255,143,8
+55-59,2006,account_type,IRA and DC,pct_of_balances,55.0661,4.6949,143,8
+55-59,2006,account_type,IRA and DC,incidence_per100,8.3056,2.0249,143,8
+55-59,2006,account_type,IRA and DC,rate_pct,0.4577,0.1516,143,8
+55-59,2006,account_type,IRA and DC,rate_ira_part_pct,0.2401,0.0790,143,8
+55-59,2006,account_type,IRA and DC,rate_pension_part_pct,0.2176,0.1301,143,8
+55-59,2006,account_type,DC only,pct_of_holders,40.5386,2.8473,101,3
+55-59,2006,account_type,DC only,pct_of_balances,24.5568,3.4671,101,3
+55-59,2006,account_type,DC only,incidence_per100,3.9687,1.0688,101,3
+55-59,2006,account_type,DC only,rate_pct,0.2909,0.0843,101,3
+55-59,2006,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,101,3
+55-59,2006,account_type,DC only,rate_pension_part_pct,0.2909,0.0843,101,3
+55-59,2006,current_job_dc,has THRIFT,pct_of_holders,64.5268,2.5447,220,4
+55-59,2006,current_job_dc,has THRIFT,pct_of_balances,70.8499,4.0238,220,4
+55-59,2006,current_job_dc,has THRIFT,incidence_per100,1.9659,0.8785,220,4
+55-59,2006,current_job_dc,has THRIFT,rate_pct,0.0887,0.0404,220,4
+55-59,2006,current_job_dc,has THRIFT,rate_ira_part_pct,0.0870,0.0406,220,4
+55-59,2006,current_job_dc,has THRIFT,rate_pension_part_pct,0.0017,0.0040,220,4
+55-59,2006,current_job_dc,no THRIFT,pct_of_holders,35.4732,2.5447,151,14
+55-59,2006,current_job_dc,no THRIFT,pct_of_balances,29.1501,4.0238,151,14
+55-59,2006,current_job_dc,no THRIFT,incidence_per100,16.1005,3.2335,151,14
+55-59,2006,current_job_dc,no THRIFT,rate_pct,1.5426,0.3548,151,14
+55-59,2006,current_job_dc,no THRIFT,rate_ira_part_pct,0.8905,0.3481,151,14
+55-59,2006,current_job_dc,no THRIFT,rate_pension_part_pct,0.6522,0.2449,151,14
+55-59,2006,r_social_security,R gets SS,pct_of_holders,2.7966,0.6792,5,1
+55-59,2006,r_social_security,R gets SS,pct_of_balances,1.5244,0.6021,5,1
+55-59,2006,r_social_security,R gets SS,incidence_per100,23.3440,18.5663,5,1
+55-59,2006,r_social_security,R gets SS,rate_pct,0.8484,1.0730,5,1
+55-59,2006,r_social_security,R gets SS,rate_ira_part_pct,0.0000,0.0000,5,1
+55-59,2006,r_social_security,R gets SS,rate_pension_part_pct,0.8484,1.0730,5,1
+55-59,2006,r_social_security,R no SS,pct_of_holders,97.2034,0.6792,367,18
+55-59,2006,r_social_security,R no SS,pct_of_balances,98.4756,0.6021,367,18
+55-59,2006,r_social_security,R no SS,incidence_per100,6.5091,1.3525,367,18
+55-59,2006,r_social_security,R no SS,rate_pct,0.5073,0.1049,367,18
+55-59,2006,r_social_security,R no SS,rate_ira_part_pct,0.3262,0.0904,367,18
+55-59,2006,r_social_security,R no SS,rate_pension_part_pct,0.1811,0.0796,367,18
+55-59,2006,db_pension,DB,pct_of_holders,43.3329,2.3835,134,5
+55-59,2006,db_pension,DB,pct_of_balances,40.1636,4.3379,134,5
+55-59,2006,db_pension,DB,incidence_per100,3.1189,1.3265,134,5
+55-59,2006,db_pension,DB,rate_pct,0.2984,0.1458,134,5
+55-59,2006,db_pension,DB,rate_ira_part_pct,0.1945,0.1164,134,5
+55-59,2006,db_pension,DB,rate_pension_part_pct,0.1039,0.0941,134,5
+55-59,2006,db_pension,no DB,pct_of_holders,56.6671,2.3835,238,13
+55-59,2006,db_pension,no DB,pct_of_balances,59.8364,4.3379,238,13
+55-59,2006,db_pension,no DB,incidence_per100,9.9324,2.1217,238,13
+55-59,2006,db_pension,no DB,rate_pct,0.6562,0.1599,238,13
+55-59,2006,db_pension,no DB,rate_ira_part_pct,0.4063,0.1467,238,13
+55-59,2006,db_pension,no DB,rate_pension_part_pct,0.2499,0.1130,238,13
+55-59,2006,work_x_thrift,not working + THRIFT,pct_of_holders,0.0000,0.0000,0,0
+55-59,2006,work_x_thrift,not working + THRIFT,pct_of_balances,0.0000,0.0000,0,0
+55-59,2006,work_x_thrift,not working + THRIFT,incidence_per100,,,0,0
+55-59,2006,work_x_thrift,not working + THRIFT,rate_pct,,,0,0
+55-59,2006,work_x_thrift,not working + THRIFT,rate_ira_part_pct,,,0,0
+55-59,2006,work_x_thrift,not working + THRIFT,rate_pension_part_pct,,,0,0
+55-59,2006,work_x_thrift,not working no THRIFT,pct_of_holders,4.6929,1.1840,18,4
+55-59,2006,work_x_thrift,not working no THRIFT,pct_of_balances,4.0261,1.5243,18,4
+55-59,2006,work_x_thrift,not working no THRIFT,incidence_per100,37.4735,10.5318,18,4
+55-59,2006,work_x_thrift,not working no THRIFT,rate_pct,1.7964,1.2438,18,4
+55-59,2006,work_x_thrift,not working no THRIFT,rate_ira_part_pct,0.0912,0.2025,18,4
+55-59,2006,work_x_thrift,not working no THRIFT,rate_pension_part_pct,1.7052,1.2282,18,4
+55-59,2006,work_x_thrift,working + THRIFT,pct_of_holders,64.5268,2.5447,220,4
+55-59,2006,work_x_thrift,working + THRIFT,pct_of_balances,70.8499,4.0238,220,4
+55-59,2006,work_x_thrift,working + THRIFT,incidence_per100,1.9659,0.8785,220,4
+55-59,2006,work_x_thrift,working + THRIFT,rate_pct,0.0887,0.0404,220,4
+55-59,2006,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.0870,0.0406,220,4
+55-59,2006,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0017,0.0040,220,4
+55-59,2006,work_x_thrift,working no THRIFT,pct_of_holders,30.7802,2.5277,133,10
+55-59,2006,work_x_thrift,working no THRIFT,pct_of_balances,25.1240,4.1235,133,10
+55-59,2006,work_x_thrift,working no THRIFT,incidence_per100,12.8419,3.5778,133,10
+55-59,2006,work_x_thrift,working no THRIFT,rate_pct,1.5020,0.4271,133,10
+55-59,2006,work_x_thrift,working no THRIFT,rate_ira_part_pct,1.0186,0.4043,133,10
+55-59,2006,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.4834,0.2439,133,10
+55-59,2009,r_or_spouse_working,working,pct_of_holders,93.3034,1.3198,492,22
+55-59,2009,r_or_spouse_working,working,pct_of_balances,95.6335,1.4050,492,22
+55-59,2009,r_or_spouse_working,working,incidence_per100,5.2210,0.9724,492,22
+55-59,2009,r_or_spouse_working,working,rate_pct,0.4154,0.1692,492,22
+55-59,2009,r_or_spouse_working,working,rate_ira_part_pct,0.3931,0.1686,492,22
+55-59,2009,r_or_spouse_working,working,rate_pension_part_pct,0.0223,0.0180,492,22
+55-59,2009,r_or_spouse_working,neither working,pct_of_holders,6.6966,1.3198,28,3
+55-59,2009,r_or_spouse_working,neither working,pct_of_balances,4.3665,1.4050,28,3
+55-59,2009,r_or_spouse_working,neither working,incidence_per100,14.3192,6.7340,28,3
+55-59,2009,r_or_spouse_working,neither working,rate_pct,3.3559,1.4528,28,3
+55-59,2009,r_or_spouse_working,neither working,rate_ira_part_pct,3.3503,1.4548,28,3
+55-59,2009,r_or_spouse_working,neither working,rate_pension_part_pct,0.0056,0.0087,28,3
+55-59,2009,r_working,R working,pct_of_holders,87.3231,1.5490,469,19
+55-59,2009,r_working,R working,pct_of_balances,88.8439,3.3826,469,19
+55-59,2009,r_working,R working,incidence_per100,4.5641,0.8686,469,19
+55-59,2009,r_working,R working,rate_pct,0.3923,0.1786,469,19
+55-59,2009,r_working,R working,rate_ira_part_pct,0.3733,0.1783,469,19
+55-59,2009,r_working,R working,rate_pension_part_pct,0.0190,0.0188,469,19
+55-59,2009,r_working,R not working,pct_of_holders,12.6769,1.5490,50,6
+55-59,2009,r_working,R not working,pct_of_balances,11.1561,3.3826,50,6
+55-59,2009,r_working,R not working,incidence_per100,14.5526,4.7859,50,6
+55-59,2009,r_working,R not working,rate_pct,1.7505,0.6914,50,6
+55-59,2009,r_working,R not working,rate_ira_part_pct,1.7086,0.6900,50,6
+55-59,2009,r_working,R not working,rate_pension_part_pct,0.0419,0.0445,50,6
+55-59,2009,account_type,IRA only,pct_of_holders,34.2659,2.0551,193,12
+55-59,2009,account_type,IRA only,pct_of_balances,19.4061,2.9825,193,12
+55-59,2009,account_type,IRA only,incidence_per100,9.1544,1.9804,193,12
+55-59,2009,account_type,IRA only,rate_pct,1.8687,0.8190,193,12
+55-59,2009,account_type,IRA only,rate_ira_part_pct,1.8687,0.8190,193,12
+55-59,2009,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,193,12
+55-59,2009,account_type,IRA and DC,pct_of_holders,31.9448,2.0401,186,13
+55-59,2009,account_type,IRA and DC,pct_of_balances,62.9077,4.4425,186,13
+55-59,2009,account_type,IRA and DC,incidence_per100,8.0087,2.2726,186,13
+55-59,2009,account_type,IRA and DC,rate_pct,0.2876,0.1367,186,13
+55-59,2009,account_type,IRA and DC,rate_ira_part_pct,0.2537,0.1334,186,13
+55-59,2009,account_type,IRA and DC,rate_pension_part_pct,0.0339,0.0272,186,13
+55-59,2009,account_type,DC only,pct_of_holders,33.7893,1.8682,140,0
+55-59,2009,account_type,DC only,pct_of_balances,17.6861,3.6190,140,0
+55-59,2009,account_type,DC only,incidence_per100,0.3998,0.6013,140,0
+55-59,2009,account_type,DC only,rate_pct,0.0014,0.0027,140,0
+55-59,2009,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,140,0
+55-59,2009,account_type,DC only,rate_pension_part_pct,0.0014,0.0027,140,0
+55-59,2009,current_job_dc,has THRIFT,pct_of_holders,59.3541,2.0802,296,11
+55-59,2009,current_job_dc,has THRIFT,pct_of_balances,75.3369,3.6790,296,11
+55-59,2009,current_job_dc,has THRIFT,incidence_per100,3.6005,1.1552,296,11
+55-59,2009,current_job_dc,has THRIFT,rate_pct,0.2074,0.1134,296,11
+55-59,2009,current_job_dc,has THRIFT,rate_ira_part_pct,0.2015,0.1131,296,11
+55-59,2009,current_job_dc,has THRIFT,rate_pension_part_pct,0.0059,0.0049,296,11
+55-59,2009,current_job_dc,no THRIFT,pct_of_holders,40.6459,2.0802,223,14
+55-59,2009,current_job_dc,no THRIFT,pct_of_balances,24.6631,3.6790,223,14
+55-59,2009,current_job_dc,no THRIFT,incidence_per100,9.0864,1.7717,223,14
+55-59,2009,current_job_dc,no THRIFT,rate_pct,1.5712,0.6318,223,14
+55-59,2009,current_job_dc,no THRIFT,rate_ira_part_pct,1.5019,0.6370,223,14
+55-59,2009,current_job_dc,no THRIFT,rate_pension_part_pct,0.0693,0.0662,223,14
+55-59,2009,r_social_security,R gets SS,pct_of_holders,3.5544,0.7858,11,1
+55-59,2009,r_social_security,R gets SS,pct_of_balances,0.7121,0.5450,11,1
+55-59,2009,r_social_security,R gets SS,incidence_per100,4.9353,3.9624,11,1
+55-59,2009,r_social_security,R gets SS,rate_pct,4.4760,5.5808,11,1
+55-59,2009,r_social_security,R gets SS,rate_ira_part_pct,4.4760,5.5808,11,1
+55-59,2009,r_social_security,R gets SS,rate_pension_part_pct,0.0000,0.0000,11,1
+55-59,2009,r_social_security,R no SS,pct_of_holders,96.4456,0.7858,508,25
+55-59,2009,r_social_security,R no SS,pct_of_balances,99.2879,0.5450,508,25
+55-59,2009,r_social_security,R no SS,incidence_per100,5.8633,0.9908,508,25
+55-59,2009,r_social_security,R no SS,rate_pct,0.5156,0.1739,508,25
+55-59,2009,r_social_security,R no SS,rate_ira_part_pct,0.4939,0.1734,508,25
+55-59,2009,r_social_security,R no SS,rate_pension_part_pct,0.0217,0.0174,508,25
+55-59,2009,db_pension,DB,pct_of_holders,42.7267,2.2944,193,10
+55-59,2009,db_pension,DB,pct_of_balances,39.1070,5.4990,193,10
+55-59,2009,db_pension,DB,incidence_per100,5.9802,1.4926,193,10
+55-59,2009,db_pension,DB,rate_pct,0.3926,0.1999,193,10
+55-59,2009,db_pension,DB,rate_ira_part_pct,0.3812,0.1995,193,10
+55-59,2009,db_pension,DB,rate_pension_part_pct,0.0114,0.0093,193,10
+55-59,2009,db_pension,no DB,pct_of_holders,57.2733,2.2944,326,15
+55-59,2009,db_pension,no DB,pct_of_balances,60.8930,5.4990,326,15
+55-59,2009,db_pension,no DB,incidence_per100,5.7184,1.3385,326,15
+55-59,2009,db_pension,no DB,rate_pct,0.6409,0.2719,326,15
+55-59,2009,db_pension,no DB,rate_ira_part_pct,0.6128,0.2721,326,15
+55-59,2009,db_pension,no DB,rate_pension_part_pct,0.0281,0.0288,326,15
+55-59,2009,work_x_thrift,not working + THRIFT,pct_of_holders,0.3328,0.2372,1,0
+55-59,2009,work_x_thrift,not working + THRIFT,pct_of_balances,0.0446,0.0332,1,0
+55-59,2009,work_x_thrift,not working + THRIFT,incidence_per100,0.0000,0.0000,1,0
+55-59,2009,work_x_thrift,not working + THRIFT,rate_pct,0.0000,0.0000,1,0
+55-59,2009,work_x_thrift,not working + THRIFT,rate_ira_part_pct,0.0000,0.0000,1,0
+55-59,2009,work_x_thrift,not working + THRIFT,rate_pension_part_pct,0.0000,0.0000,1,0
+55-59,2009,work_x_thrift,not working no THRIFT,pct_of_holders,6.3638,1.2316,27,3
+55-59,2009,work_x_thrift,not working no THRIFT,pct_of_balances,4.3219,1.4040,27,3
+55-59,2009,work_x_thrift,not working no THRIFT,incidence_per100,15.0681,7.0349,27,3
+55-59,2009,work_x_thrift,not working no THRIFT,rate_pct,3.3905,1.4816,27,3
+55-59,2009,work_x_thrift,not working no THRIFT,rate_ira_part_pct,3.3849,1.4837,27,3
+55-59,2009,work_x_thrift,not working no THRIFT,rate_pension_part_pct,0.0056,0.0088,27,3
+55-59,2009,work_x_thrift,working + THRIFT,pct_of_holders,59.0213,2.1458,295,11
+55-59,2009,work_x_thrift,working + THRIFT,pct_of_balances,75.2923,3.6803,295,11
+55-59,2009,work_x_thrift,working + THRIFT,incidence_per100,3.6208,1.1623,295,11
+55-59,2009,work_x_thrift,working + THRIFT,rate_pct,0.2076,0.1135,295,11
+55-59,2009,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.2017,0.1132,295,11
+55-59,2009,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0059,0.0049,295,11
+55-59,2009,work_x_thrift,working no THRIFT,pct_of_holders,34.2821,1.8918,196,11
+55-59,2009,work_x_thrift,working no THRIFT,pct_of_balances,20.3412,3.4017,196,11
+55-59,2009,work_x_thrift,working no THRIFT,incidence_per100,7.9760,1.7912,196,11
+55-59,2009,work_x_thrift,working no THRIFT,rate_pct,1.1847,0.6843,196,11
+55-59,2009,work_x_thrift,working no THRIFT,rate_ira_part_pct,1.1018,0.6881,196,11
+55-59,2009,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.0829,0.0778,196,11
+55-59,2012,r_or_spouse_working,working,pct_of_holders,94.7252,0.8786,439,19
+55-59,2012,r_or_spouse_working,working,pct_of_balances,94.5167,2.3702,439,19
+55-59,2012,r_or_spouse_working,working,incidence_per100,4.4372,0.9817,439,19
+55-59,2012,r_or_spouse_working,working,rate_pct,0.4635,0.1802,439,19
+55-59,2012,r_or_spouse_working,working,rate_ira_part_pct,0.4273,0.1787,439,19
+55-59,2012,r_or_spouse_working,working,rate_pension_part_pct,0.0362,0.0188,439,19
+55-59,2012,r_or_spouse_working,neither working,pct_of_holders,5.2748,0.8786,25,2
+55-59,2012,r_or_spouse_working,neither working,pct_of_balances,5.4833,2.3702,25,2
+55-59,2012,r_or_spouse_working,neither working,incidence_per100,10.0534,5.7548,25,2
+55-59,2012,r_or_spouse_working,neither working,rate_pct,0.4661,0.5301,25,2
+55-59,2012,r_or_spouse_working,neither working,rate_ira_part_pct,0.1529,0.2013,25,2
+55-59,2012,r_or_spouse_working,neither working,rate_pension_part_pct,0.3133,0.4132,25,2
+55-59,2012,r_working,R working,pct_of_holders,90.1825,1.3344,424,19
+55-59,2012,r_working,R working,pct_of_balances,92.4067,2.4397,424,19
+55-59,2012,r_working,R working,incidence_per100,4.6607,1.0234,424,19
+55-59,2012,r_working,R working,rate_pct,0.4741,0.1844,424,19
+55-59,2012,r_working,R working,rate_ira_part_pct,0.4371,0.1829,424,19
+55-59,2012,r_working,R working,rate_pension_part_pct,0.0370,0.0192,424,19
+55-59,2012,r_working,R not working,pct_of_holders,9.8175,1.3344,40,2
+55-59,2012,r_working,R not working,pct_of_balances,7.5933,2.4397,40,2
+55-59,2012,r_working,R not working,incidence_per100,5.4016,3.0953,40,2
+55-59,2012,r_working,R not working,rate_pct,0.3366,0.2937,40,2
+55-59,2012,r_working,R not working,rate_ira_part_pct,0.1104,0.1152,40,2
+55-59,2012,r_working,R not working,rate_pension_part_pct,0.2262,0.2359,40,2
+55-59,2012,account_type,IRA only,pct_of_holders,21.7560,1.8502,122,7
+55-59,2012,account_type,IRA only,pct_of_balances,18.9455,3.1641,122,7
+55-59,2012,account_type,IRA only,incidence_per100,7.7265,2.4627,122,7
+55-59,2012,account_type,IRA only,rate_pct,1.4643,0.8293,122,7
+55-59,2012,account_type,IRA only,rate_ira_part_pct,1.4643,0.8293,122,7
+55-59,2012,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,122,7
+55-59,2012,account_type,IRA and DC,pct_of_holders,39.1173,2.5825,202,12
+55-59,2012,account_type,IRA and DC,pct_of_balances,63.3599,4.0011,202,12
+55-59,2012,account_type,IRA and DC,incidence_per100,6.8612,1.7982,202,12
+55-59,2012,account_type,IRA and DC,rate_pct,0.2659,0.1235,202,12
+55-59,2012,account_type,IRA and DC,rate_ira_part_pct,0.2129,0.1185,202,12
+55-59,2012,account_type,IRA and DC,rate_pension_part_pct,0.0531,0.0288,202,12
+55-59,2012,account_type,DC only,pct_of_holders,39.1267,2.4511,139,1
+55-59,2012,account_type,DC only,pct_of_balances,17.6946,2.8660,139,1
+55-59,2012,account_type,DC only,incidence_per100,0.9419,0.6816,139,1
+55-59,2012,account_type,DC only,rate_pct,0.1005,0.0767,139,1
+55-59,2012,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,139,1
+55-59,2012,account_type,DC only,rate_pension_part_pct,0.1005,0.0767,139,1
+55-59,2012,current_job_dc,has THRIFT,pct_of_holders,71.6566,1.9459,311,10
+55-59,2012,current_job_dc,has THRIFT,pct_of_balances,74.1617,3.7851,311,10
+55-59,2012,current_job_dc,has THRIFT,incidence_per100,3.1049,0.9180,311,10
+55-59,2012,current_job_dc,has THRIFT,rate_pct,0.2010,0.1031,311,10
+55-59,2012,current_job_dc,has THRIFT,rate_ira_part_pct,0.1790,0.1012,311,10
+55-59,2012,current_job_dc,has THRIFT,rate_pension_part_pct,0.0221,0.0160,311,10
+55-59,2012,current_job_dc,no THRIFT,pct_of_holders,28.3434,1.9459,152,10
+55-59,2012,current_job_dc,no THRIFT,pct_of_balances,25.8383,3.7851,152,10
+55-59,2012,current_job_dc,no THRIFT,incidence_per100,8.8507,2.3970,152,10
+55-59,2012,current_job_dc,no THRIFT,rate_pct,1.2176,0.6091,152,10
+55-59,2012,current_job_dc,no THRIFT,rate_ira_part_pct,1.0820,0.6015,152,10
+55-59,2012,current_job_dc,no THRIFT,rate_pension_part_pct,0.1356,0.0749,152,10
+55-59,2012,r_social_security,R gets SS,pct_of_holders,2.8672,0.6423,9,1
+55-59,2012,r_social_security,R gets SS,pct_of_balances,3.5309,2.2191,9,1
+55-59,2012,r_social_security,R gets SS,incidence_per100,10.6197,8.2440,9,1
+55-59,2012,r_social_security,R gets SS,rate_pct,0.4865,1.2239,9,1
+55-59,2012,r_social_security,R gets SS,rate_ira_part_pct,0.0000,0.0000,9,1
+55-59,2012,r_social_security,R gets SS,rate_pension_part_pct,0.4865,1.2239,9,1
+55-59,2012,r_social_security,R no SS,pct_of_holders,97.1328,0.6423,454,20
+55-59,2012,r_social_security,R no SS,pct_of_balances,96.4691,2.2191,454,20
+55-59,2012,r_social_security,R no SS,incidence_per100,4.5597,0.9728,454,20
+55-59,2012,r_social_security,R no SS,rate_pct,0.4628,0.1758,454,20
+55-59,2012,r_social_security,R no SS,rate_ira_part_pct,0.4274,0.1744,454,20
+55-59,2012,r_social_security,R no SS,rate_pension_part_pct,0.0355,0.0183,454,20
+55-59,2012,db_pension,DB,pct_of_holders,39.9434,2.1678,153,7
+55-59,2012,db_pension,DB,pct_of_balances,39.9904,4.3543,153,7
+55-59,2012,db_pension,DB,incidence_per100,4.6030,1.4158,153,7
+55-59,2012,db_pension,DB,rate_pct,0.6930,0.4001,153,7
+55-59,2012,db_pension,DB,rate_ira_part_pct,0.6457,0.3974,153,7
+55-59,2012,db_pension,DB,rate_pension_part_pct,0.0472,0.0341,153,7
+55-59,2012,db_pension,no DB,pct_of_holders,60.0566,2.1678,310,13
+55-59,2012,db_pension,no DB,pct_of_balances,60.0096,4.3543,310,13
+55-59,2012,db_pension,no DB,incidence_per100,4.8202,1.2405,310,13
+55-59,2012,db_pension,no DB,rate_pct,0.3109,0.1299,310,13
+55-59,2012,db_pension,no DB,rate_ira_part_pct,0.2567,0.1246,310,13
+55-59,2012,db_pension,no DB,rate_pension_part_pct,0.0542,0.0298,310,13
+55-59,2012,work_x_thrift,not working + THRIFT,pct_of_holders,0.0000,0.0000,0,0
+55-59,2012,work_x_thrift,not working + THRIFT,pct_of_balances,0.0000,0.0000,0,0
+55-59,2012,work_x_thrift,not working + THRIFT,incidence_per100,,,0,0
+55-59,2012,work_x_thrift,not working + THRIFT,rate_pct,,,0,0
+55-59,2012,work_x_thrift,not working + THRIFT,rate_ira_part_pct,,,0,0
+55-59,2012,work_x_thrift,not working + THRIFT,rate_pension_part_pct,,,0,0
+55-59,2012,work_x_thrift,not working no THRIFT,pct_of_holders,5.2748,0.8786,25,2
+55-59,2012,work_x_thrift,not working no THRIFT,pct_of_balances,5.4833,2.3702,25,2
+55-59,2012,work_x_thrift,not working no THRIFT,incidence_per100,10.0534,5.7548,25,2
+55-59,2012,work_x_thrift,not working no THRIFT,rate_pct,0.4661,0.5301,25,2
+55-59,2012,work_x_thrift,not working no THRIFT,rate_ira_part_pct,0.1529,0.2013,25,2
+55-59,2012,work_x_thrift,not working no THRIFT,rate_pension_part_pct,0.3133,0.4132,25,2
+55-59,2012,work_x_thrift,working + THRIFT,pct_of_holders,71.6566,1.9459,311,10
+55-59,2012,work_x_thrift,working + THRIFT,pct_of_balances,74.1617,3.7851,311,10
+55-59,2012,work_x_thrift,working + THRIFT,incidence_per100,3.1049,0.9180,311,10
+55-59,2012,work_x_thrift,working + THRIFT,rate_pct,0.2010,0.1031,311,10
+55-59,2012,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.1790,0.1012,311,10
+55-59,2012,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0221,0.0160,311,10
+55-59,2012,work_x_thrift,working no THRIFT,pct_of_holders,23.0686,1.7716,127,8
+55-59,2012,work_x_thrift,working no THRIFT,pct_of_balances,20.3549,3.1989,127,8
+55-59,2012,work_x_thrift,working no THRIFT,incidence_per100,8.5757,2.6203,127,8
+55-59,2012,work_x_thrift,working no THRIFT,rate_pct,1.4201,0.7675,127,8
+55-59,2012,work_x_thrift,working no THRIFT,rate_ira_part_pct,1.3323,0.7646,127,8
+55-59,2012,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.0878,0.0648,127,8
+55-59,2015,r_or_spouse_working,working,pct_of_holders,95.3306,0.8697,490,20
+55-59,2015,r_or_spouse_working,working,pct_of_balances,92.5498,2.4174,490,20
+55-59,2015,r_or_spouse_working,working,incidence_per100,5.3934,0.8382,490,20
+55-59,2015,r_or_spouse_working,working,rate_pct,0.4633,0.1550,490,20
+55-59,2015,r_or_spouse_working,working,rate_ira_part_pct,0.1575,0.0481,490,20
+55-59,2015,r_or_spouse_working,working,rate_pension_part_pct,0.3058,0.1459,490,20
+55-59,2015,r_or_spouse_working,neither working,pct_of_holders,4.6694,0.8697,27,2
+55-59,2015,r_or_spouse_working,neither working,pct_of_balances,7.4502,2.4174,27,2
+55-59,2015,r_or_spouse_working,neither working,incidence_per100,11.7246,6.0815,27,2
+55-59,2015,r_or_spouse_working,neither working,rate_pct,0.5399,0.4645,27,2
+55-59,2015,r_or_spouse_working,neither working,rate_ira_part_pct,0.5399,0.4645,27,2
+55-59,2015,r_or_spouse_working,neither working,rate_pension_part_pct,0.0000,0.0000,27,2
+55-59,2015,r_working,R working,pct_of_holders,90.4334,1.1484,468,17
+55-59,2015,r_working,R working,pct_of_balances,89.5872,2.5856,468,17
+55-59,2015,r_working,R working,incidence_per100,4.8329,0.8039,468,17
+55-59,2015,r_working,R working,rate_pct,0.3943,0.1506,468,17
+55-59,2015,r_working,R working,rate_ira_part_pct,0.1524,0.0488,468,17
+55-59,2015,r_working,R working,rate_pension_part_pct,0.2419,0.1423,468,17
+55-59,2015,r_working,R not working,pct_of_holders,9.5666,1.1484,49,5
+55-59,2015,r_working,R not working,pct_of_balances,10.4128,2.5856,49,5
+55-59,2015,r_working,R not working,incidence_per100,13.7825,4.4252,49,5
+55-59,2015,r_working,R not working,rate_pct,1.1121,0.6049,49,5
+55-59,2015,r_working,R not working,rate_ira_part_pct,0.4753,0.3189,49,5
+55-59,2015,r_working,R not working,rate_pension_part_pct,0.6367,0.4582,49,5
+55-59,2015,account_type,IRA only,pct_of_holders,27.0672,1.7339,155,14
+55-59,2015,account_type,IRA only,pct_of_balances,17.9820,3.1835,155,14
+55-59,2015,account_type,IRA only,incidence_per100,13.6634,2.6467,155,14
+55-59,2015,account_type,IRA only,rate_pct,0.9139,0.2954,155,14
+55-59,2015,account_type,IRA only,rate_ira_part_pct,0.9139,0.2954,155,14
+55-59,2015,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,155,14
+55-59,2015,account_type,IRA and DC,pct_of_holders,33.4924,2.0546,197,4
+55-59,2015,account_type,IRA and DC,pct_of_balances,61.0931,4.3968,197,4
+55-59,2015,account_type,IRA and DC,incidence_per100,2.7775,1.1129,197,4
+55-59,2015,account_type,IRA and DC,rate_pct,0.0498,0.0279,197,4
+55-59,2015,account_type,IRA and DC,rate_ira_part_pct,0.0355,0.0179,197,4
+55-59,2015,account_type,IRA and DC,rate_pension_part_pct,0.0144,0.0203,197,4
+55-59,2015,account_type,DC only,pct_of_holders,39.4404,2.1008,164,4
+55-59,2015,account_type,DC only,pct_of_balances,20.9249,3.2206,164,4
+55-59,2015,account_type,DC only,incidence_per100,2.6889,0.9564,164,4
+55-59,2015,account_type,DC only,rate_pct,1.3106,0.6428,164,4
+55-59,2015,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,164,4
+55-59,2015,account_type,DC only,rate_pension_part_pct,1.3106,0.6428,164,4
+55-59,2015,current_job_dc,has THRIFT,pct_of_holders,66.4553,1.8119,331,6
+55-59,2015,current_job_dc,has THRIFT,pct_of_balances,74.8632,3.7394,331,6
+55-59,2015,current_job_dc,has THRIFT,incidence_per100,2.3763,0.7475,331,6
+55-59,2015,current_job_dc,has THRIFT,rate_pct,0.1085,0.0457,331,6
+55-59,2015,current_job_dc,has THRIFT,rate_ira_part_pct,0.0289,0.0144,331,6
+55-59,2015,current_job_dc,has THRIFT,rate_pension_part_pct,0.0795,0.0424,331,6
+55-59,2015,current_job_dc,no THRIFT,pct_of_holders,33.5447,1.8119,186,16
+55-59,2015,current_job_dc,no THRIFT,pct_of_balances,25.1368,3.7394,186,16
+55-59,2015,current_job_dc,no THRIFT,incidence_per100,12.2519,2.3663,186,16
+55-59,2015,current_job_dc,no THRIFT,rate_pct,1.5430,0.5891,186,16
+55-59,2015,current_job_dc,no THRIFT,rate_ira_part_pct,0.6538,0.2137,186,16
+55-59,2015,current_job_dc,no THRIFT,rate_pension_part_pct,0.8892,0.5267,186,16
+55-59,2015,r_social_security,R gets SS,pct_of_holders,4.3804,0.7713,16,3
+55-59,2015,r_social_security,R gets SS,pct_of_balances,1.0117,0.3698,16,3
+55-59,2015,r_social_security,R gets SS,incidence_per100,17.7806,7.3505,16,3
+55-59,2015,r_social_security,R gets SS,rate_pct,2.7747,1.8814,16,3
+55-59,2015,r_social_security,R gets SS,rate_ira_part_pct,1.3981,1.2192,16,3
+55-59,2015,r_social_security,R gets SS,rate_pension_part_pct,1.3766,1.1686,16,3
+55-59,2015,r_social_security,R no SS,pct_of_holders,95.6196,0.7713,501,19
+55-59,2015,r_social_security,R no SS,pct_of_balances,98.9883,0.3698,501,19
+55-59,2015,r_social_security,R no SS,incidence_per100,5.1351,0.8102,501,19
+55-59,2015,r_social_security,R no SS,rate_pct,0.4455,0.1457,501,19
+55-59,2015,r_social_security,R no SS,rate_ira_part_pct,0.1736,0.0506,501,19
+55-59,2015,r_social_security,R no SS,rate_pension_part_pct,0.2719,0.1362,501,19
+55-59,2015,db_pension,DB,pct_of_holders,39.1908,2.1812,163,7
+55-59,2015,db_pension,DB,pct_of_balances,43.3141,4.9927,163,7
+55-59,2015,db_pension,DB,incidence_per100,4.3412,1.2334,163,7
+55-59,2015,db_pension,DB,rate_pct,0.0850,0.0313,163,7
+55-59,2015,db_pension,DB,rate_ira_part_pct,0.0850,0.0313,163,7
+55-59,2015,db_pension,DB,rate_pension_part_pct,0.0000,0.0000,163,7
+55-59,2015,db_pension,no DB,pct_of_holders,60.8092,2.1812,354,15
+55-59,2015,db_pension,no DB,pct_of_balances,56.6859,4.9927,354,15
+55-59,2015,db_pension,no DB,incidence_per100,6.5577,1.1215,354,15
+55-59,2015,db_pension,no DB,rate_pct,0.7625,0.2579,354,15
+55-59,2015,db_pension,no DB,rate_ira_part_pct,0.2632,0.0869,354,15
+55-59,2015,db_pension,no DB,rate_pension_part_pct,0.4993,0.2410,354,15
+55-59,2015,work_x_thrift,not working + THRIFT,pct_of_holders,0.0000,0.0000,0,0
+55-59,2015,work_x_thrift,not working + THRIFT,pct_of_balances,0.0000,0.0000,0,0
+55-59,2015,work_x_thrift,not working + THRIFT,incidence_per100,,,0,0
+55-59,2015,work_x_thrift,not working + THRIFT,rate_pct,,,0,0
+55-59,2015,work_x_thrift,not working + THRIFT,rate_ira_part_pct,,,0,0
+55-59,2015,work_x_thrift,not working + THRIFT,rate_pension_part_pct,,,0,0
+55-59,2015,work_x_thrift,not working no THRIFT,pct_of_holders,4.6694,0.8697,27,2
+55-59,2015,work_x_thrift,not working no THRIFT,pct_of_balances,7.4502,2.4174,27,2
+55-59,2015,work_x_thrift,not working no THRIFT,incidence_per100,11.7246,6.0815,27,2
+55-59,2015,work_x_thrift,not working no THRIFT,rate_pct,0.5399,0.4645,27,2
+55-59,2015,work_x_thrift,not working no THRIFT,rate_ira_part_pct,0.5399,0.4645,27,2
+55-59,2015,work_x_thrift,not working no THRIFT,rate_pension_part_pct,0.0000,0.0000,27,2
+55-59,2015,work_x_thrift,working + THRIFT,pct_of_holders,66.4553,1.8119,331,6
+55-59,2015,work_x_thrift,working + THRIFT,pct_of_balances,74.8632,3.7394,331,6
+55-59,2015,work_x_thrift,working + THRIFT,incidence_per100,2.3763,0.7475,331,6
+55-59,2015,work_x_thrift,working + THRIFT,rate_pct,0.1085,0.0457,331,6
+55-59,2015,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.0289,0.0144,331,6
+55-59,2015,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0795,0.0424,331,6
+55-59,2015,work_x_thrift,working no THRIFT,pct_of_holders,28.8753,1.7513,159,14
+55-59,2015,work_x_thrift,working no THRIFT,pct_of_balances,17.6866,2.9775,159,14
+55-59,2015,work_x_thrift,working no THRIFT,incidence_per100,12.3371,2.5427,159,14
+55-59,2015,work_x_thrift,working no THRIFT,rate_pct,1.9655,0.7863,159,14
+55-59,2015,work_x_thrift,working no THRIFT,rate_ira_part_pct,0.7017,0.2437,159,14
+55-59,2015,work_x_thrift,working no THRIFT,rate_pension_part_pct,1.2637,0.7292,159,14
+55-59,2018,r_or_spouse_working,working,pct_of_holders,94.0204,1.2415,398,19
+55-59,2018,r_or_spouse_working,working,pct_of_balances,94.9889,1.4811,398,19
+55-59,2018,r_or_spouse_working,working,incidence_per100,4.5500,1.0768,398,19
+55-59,2018,r_or_spouse_working,working,rate_pct,0.4852,0.1905,398,19
+55-59,2018,r_or_spouse_working,working,rate_ira_part_pct,0.4545,0.1892,398,19
+55-59,2018,r_or_spouse_working,working,rate_pension_part_pct,0.0308,0.0153,398,19
+55-59,2018,r_or_spouse_working,neither working,pct_of_holders,5.9796,1.2415,21,3
+55-59,2018,r_or_spouse_working,neither working,pct_of_balances,5.0111,1.4811,21,3
+55-59,2018,r_or_spouse_working,neither working,incidence_per100,28.2503,10.2938,21,3
+55-59,2018,r_or_spouse_working,neither working,rate_pct,2.4650,1.6964,21,3
+55-59,2018,r_or_spouse_working,neither working,rate_ira_part_pct,0.1568,0.1231,21,3
+55-59,2018,r_or_spouse_working,neither working,rate_pension_part_pct,2.3082,1.6900,21,3
+55-59,2018,r_working,R working,pct_of_holders,90.2251,1.5368,382,16
+55-59,2018,r_working,R working,pct_of_balances,89.2009,2.7082,382,16
+55-59,2018,r_working,R working,incidence_per100,4.0360,1.0349,382,16
+55-59,2018,r_working,R working,rate_pct,0.4548,0.1969,382,16
+55-59,2018,r_working,R working,rate_ira_part_pct,0.4228,0.1956,382,16
+55-59,2018,r_working,R working,rate_pension_part_pct,0.0320,0.0162,382,16
+55-59,2018,r_working,R not working,pct_of_holders,9.7749,1.5368,37,6
+55-59,2018,r_working,R not working,pct_of_balances,10.7991,2.7082,37,6
+55-59,2018,r_working,R not working,incidence_per100,23.7924,7.2357,37,6
+55-59,2018,r_working,R not working,rate_pct,1.6555,0.8327,37,6
+55-59,2018,r_working,R not working,rate_ira_part_pct,0.5776,0.3818,37,6
+55-59,2018,r_working,R not working,rate_pension_part_pct,1.0779,0.7540,37,6
+55-59,2018,account_type,IRA only,pct_of_holders,21.4485,1.8461,106,9
+55-59,2018,account_type,IRA only,pct_of_balances,19.7433,4.7795,106,9
+55-59,2018,account_type,IRA only,incidence_per100,7.4939,2.5736,106,9
+55-59,2018,account_type,IRA only,rate_pct,1.8325,1.1209,106,9
+55-59,2018,account_type,IRA only,rate_ira_part_pct,1.8325,1.1209,106,9
+55-59,2018,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,106,9
+55-59,2018,account_type,IRA and DC,pct_of_holders,34.1398,2.6118,165,8
+55-59,2018,account_type,IRA and DC,pct_of_balances,57.5009,5.3222,165,8
+55-59,2018,account_type,IRA and DC,incidence_per100,5.3466,1.9355,165,8
+55-59,2018,account_type,IRA and DC,rate_pct,0.1366,0.0710,165,8
+55-59,2018,account_type,IRA and DC,rate_ira_part_pct,0.1352,0.0710,165,8
+55-59,2018,account_type,IRA and DC,rate_pension_part_pct,0.0013,0.0015,165,8
+55-59,2018,account_type,DC only,pct_of_holders,44.4116,2.3488,147,5
+55-59,2018,account_type,DC only,pct_of_balances,22.7559,4.4197,147,5
+55-59,2018,account_type,DC only,incidence_per100,5.7069,2.0338,147,5
+55-59,2018,account_type,DC only,rate_pct,0.6334,0.3634,147,5
+55-59,2018,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,147,5
+55-59,2018,account_type,DC only,rate_pension_part_pct,0.6334,0.3634,147,5
+55-59,2018,current_job_dc,has THRIFT,pct_of_holders,71.0468,2.0762,287,7
+55-59,2018,current_job_dc,has THRIFT,pct_of_balances,75.0252,4.8124,287,7
+55-59,2018,current_job_dc,has THRIFT,incidence_per100,2.6257,0.9475,287,7
+55-59,2018,current_job_dc,has THRIFT,rate_pct,0.1038,0.0544,287,7
+55-59,2018,current_job_dc,has THRIFT,rate_ira_part_pct,0.1020,0.0543,287,7
+55-59,2018,current_job_dc,has THRIFT,rate_pension_part_pct,0.0018,0.0022,287,7
+55-59,2018,current_job_dc,no THRIFT,pct_of_holders,28.9532,2.0762,132,14
+55-59,2018,current_job_dc,no THRIFT,pct_of_balances,24.9748,4.8124,132,14
+55-59,2018,current_job_dc,no THRIFT,incidence_per100,14.1667,3.5194,132,14
+55-59,2018,current_job_dc,no THRIFT,rate_pct,2.0282,0.9264,132,14
+55-59,2018,current_job_dc,no THRIFT,rate_ira_part_pct,1.4534,0.8133,132,14
+55-59,2018,current_job_dc,no THRIFT,rate_pension_part_pct,0.5748,0.3337,132,14
+55-59,2018,r_social_security,R gets SS,pct_of_holders,2.5896,0.7968,7,1
+55-59,2018,r_social_security,R gets SS,pct_of_balances,0.6441,0.2423,7,1
+55-59,2018,r_social_security,R gets SS,incidence_per100,26.8120,17.8391,7,1
+55-59,2018,r_social_security,R gets SS,rate_pct,3.0901,2.7394,7,1
+55-59,2018,r_social_security,R gets SS,rate_ira_part_pct,0.0000,0.0000,7,1
+55-59,2018,r_social_security,R gets SS,rate_pension_part_pct,3.0901,2.7394,7,1
+55-59,2018,r_social_security,R no SS,pct_of_holders,97.4104,0.7968,412,21
+55-59,2018,r_social_security,R no SS,pct_of_balances,99.3559,0.2423,412,21
+55-59,2018,r_social_security,R no SS,incidence_per100,5.4130,1.1863,412,21
+55-59,2018,r_social_security,R no SS,rate_pct,0.5682,0.1952,412,21
+55-59,2018,r_social_security,R no SS,rate_ira_part_pct,0.4424,0.1809,412,21
+55-59,2018,r_social_security,R no SS,rate_pension_part_pct,0.1258,0.0698,412,21
+55-59,2018,db_pension,DB,pct_of_holders,36.3459,2.2808,133,4
+55-59,2018,db_pension,DB,pct_of_balances,44.9221,5.3835,133,4
+55-59,2018,db_pension,DB,incidence_per100,3.6416,1.4965,133,4
+55-59,2018,db_pension,DB,rate_pct,0.1903,0.0934,133,4
+55-59,2018,db_pension,DB,rate_ira_part_pct,0.1530,0.0886,133,4
+55-59,2018,db_pension,DB,rate_pension_part_pct,0.0373,0.0268,133,4
+55-59,2018,db_pension,no DB,pct_of_holders,63.6541,2.2808,286,18
+55-59,2018,db_pension,no DB,pct_of_balances,55.0779,5.3835,286,18
+55-59,2018,db_pension,no DB,incidence_per100,7.2950,1.6857,286,18
+55-59,2018,db_pension,no DB,rate_pct,0.9059,0.3641,286,18
+55-59,2018,db_pension,no DB,rate_ira_part_pct,0.6732,0.3322,286,18
+55-59,2018,db_pension,no DB,rate_pension_part_pct,0.2327,0.1335,286,18
+55-59,2018,work_x_thrift,not working + THRIFT,pct_of_holders,0.0000,0.0000,0,0
+55-59,2018,work_x_thrift,not working + THRIFT,pct_of_balances,0.0000,0.0000,0,0
+55-59,2018,work_x_thrift,not working + THRIFT,incidence_per100,,,0,0
+55-59,2018,work_x_thrift,not working + THRIFT,rate_pct,,,0,0
+55-59,2018,work_x_thrift,not working + THRIFT,rate_ira_part_pct,,,0,0
+55-59,2018,work_x_thrift,not working + THRIFT,rate_pension_part_pct,,,0,0
+55-59,2018,work_x_thrift,not working no THRIFT,pct_of_holders,5.9796,1.2415,21,3
+55-59,2018,work_x_thrift,not working no THRIFT,pct_of_balances,5.0111,1.4811,21,3
+55-59,2018,work_x_thrift,not working no THRIFT,incidence_per100,28.2503,10.2938,21,3
+55-59,2018,work_x_thrift,not working no THRIFT,rate_pct,2.4650,1.6964,21,3
+55-59,2018,work_x_thrift,not working no THRIFT,rate_ira_part_pct,0.1568,0.1231,21,3
+55-59,2018,work_x_thrift,not working no THRIFT,rate_pension_part_pct,2.3082,1.6900,21,3
+55-59,2018,work_x_thrift,working + THRIFT,pct_of_holders,71.0468,2.0762,287,7
+55-59,2018,work_x_thrift,working + THRIFT,pct_of_balances,75.0252,4.8124,287,7
+55-59,2018,work_x_thrift,working + THRIFT,incidence_per100,2.6257,0.9475,287,7
+55-59,2018,work_x_thrift,working + THRIFT,rate_pct,0.1038,0.0544,287,7
+55-59,2018,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.1020,0.0543,287,7
+55-59,2018,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0018,0.0022,287,7
+55-59,2018,work_x_thrift,working no THRIFT,pct_of_holders,22.9735,1.7963,111,11
+55-59,2018,work_x_thrift,working no THRIFT,pct_of_balances,19.9637,4.7903,111,11
+55-59,2018,work_x_thrift,working no THRIFT,incidence_per100,10.5010,3.3381,111,11
+55-59,2018,work_x_thrift,working no THRIFT,rate_pct,1.9186,1.1318,111,11
+55-59,2018,work_x_thrift,working no THRIFT,rate_ira_part_pct,1.7789,1.1084,111,11
+55-59,2018,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.1397,0.0899,111,11
+55-59,2021,r_or_spouse_working,working,pct_of_holders,96.9033,0.9320,298,11
+55-59,2021,r_or_spouse_working,working,pct_of_balances,98.4342,0.9535,298,11
+55-59,2021,r_or_spouse_working,working,incidence_per100,4.5229,1.5847,298,11
+55-59,2021,r_or_spouse_working,working,rate_pct,0.2631,0.1254,298,11
+55-59,2021,r_or_spouse_working,working,rate_ira_part_pct,0.1327,0.0496,298,11
+55-59,2021,r_or_spouse_working,working,rate_pension_part_pct,0.1304,0.1139,298,11
+55-59,2021,r_or_spouse_working,neither working,pct_of_holders,3.0967,0.9320,10,2
+55-59,2021,r_or_spouse_working,neither working,pct_of_balances,1.5658,0.9535,10,2
+55-59,2021,r_or_spouse_working,neither working,incidence_per100,14.2712,11.1247,10,2
+55-59,2021,r_or_spouse_working,neither working,rate_pct,0.4163,0.3422,10,2
+55-59,2021,r_or_spouse_working,neither working,rate_ira_part_pct,0.4163,0.3422,10,2
+55-59,2021,r_or_spouse_working,neither working,rate_pension_part_pct,0.0000,0.0000,10,2
+55-59,2021,r_working,R working,pct_of_holders,91.4440,1.8610,285,10
+55-59,2021,r_working,R working,pct_of_balances,91.5521,3.9118,285,10
+55-59,2021,r_working,R working,incidence_per100,4.4397,1.6229,285,10
+55-59,2021,r_working,R working,rate_pct,0.2466,0.1298,285,10
+55-59,2021,r_working,R working,rate_ira_part_pct,0.1068,0.0472,285,10
+55-59,2021,r_working,R working,rate_pension_part_pct,0.1398,0.1221,285,10
+55-59,2021,r_working,R not working,pct_of_holders,8.5560,1.8610,23,3
+55-59,2021,r_working,R not working,pct_of_balances,8.4479,3.9118,23,3
+55-59,2021,r_working,R not working,incidence_per100,8.9404,4.4213,23,3
+55-59,2021,r_working,R not working,rate_pct,0.4704,0.3624,23,3
+55-59,2021,r_working,R not working,rate_ira_part_pct,0.4658,0.3572,23,3
+55-59,2021,r_working,R not working,rate_pension_part_pct,0.0046,0.0271,23,3
+55-59,2021,account_type,IRA only,pct_of_holders,21.9624,2.3779,73,4
+55-59,2021,account_type,IRA only,pct_of_balances,16.3182,3.9609,73,4
+55-59,2021,account_type,IRA only,incidence_per100,3.2613,1.5385,73,4
+55-59,2021,account_type,IRA only,rate_pct,0.2497,0.2392,73,4
+55-59,2021,account_type,IRA only,rate_ira_part_pct,0.2497,0.2392,73,4
+55-59,2021,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,73,4
+55-59,2021,account_type,IRA and DC,pct_of_holders,34.1459,2.8819,131,8
+55-59,2021,account_type,IRA and DC,pct_of_balances,63.3923,5.0832,131,8
+55-59,2021,account_type,IRA and DC,incidence_per100,9.3232,3.1437,131,8
+55-59,2021,account_type,IRA and DC,rate_pct,0.2409,0.1171,131,8
+55-59,2021,account_type,IRA and DC,rate_ira_part_pct,0.1520,0.0546,131,8
+55-59,2021,account_type,IRA and DC,rate_pension_part_pct,0.0889,0.0988,131,8
+55-59,2021,account_type,DC only,pct_of_holders,43.8917,2.9767,103,1
+55-59,2021,account_type,DC only,pct_of_balances,20.2894,3.5394,103,1
+55-59,2021,account_type,DC only,incidence_per100,2.1076,2.5678,103,1
+55-59,2021,account_type,DC only,rate_pct,0.3549,0.4160,103,1
+55-59,2021,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,103,1
+55-59,2021,account_type,DC only,rate_pension_part_pct,0.3549,0.4160,103,1
+55-59,2021,current_job_dc,has THRIFT,pct_of_holders,73.5653,2.2773,215,7
+55-59,2021,current_job_dc,has THRIFT,pct_of_balances,77.9196,4.6386,215,7
+55-59,2021,current_job_dc,has THRIFT,incidence_per100,4.1216,1.9609,215,7
+55-59,2021,current_job_dc,has THRIFT,rate_pct,0.2576,0.1490,215,7
+55-59,2021,current_job_dc,has THRIFT,rate_ira_part_pct,0.1188,0.0426,215,7
+55-59,2021,current_job_dc,has THRIFT,rate_pension_part_pct,0.1387,0.1416,215,7
+55-59,2021,current_job_dc,no THRIFT,pct_of_holders,26.4347,2.2773,93,6
+55-59,2021,current_job_dc,no THRIFT,pct_of_balances,22.0804,4.6386,93,6
+55-59,2021,current_job_dc,no THRIFT,incidence_per100,6.7817,2.4168,93,6
+55-59,2021,current_job_dc,no THRIFT,rate_pct,0.2935,0.1974,93,6
+55-59,2021,current_job_dc,no THRIFT,rate_ira_part_pct,0.2017,0.1753,93,6
+55-59,2021,current_job_dc,no THRIFT,rate_pension_part_pct,0.0918,0.0787,93,6
+55-59,2021,r_social_security,R gets SS,pct_of_holders,3.3527,1.3914,5,0
+55-59,2021,r_social_security,R gets SS,pct_of_balances,0.4831,0.2812,5,0
+55-59,2021,r_social_security,R gets SS,incidence_per100,0.0000,0.0000,5,0
+55-59,2021,r_social_security,R gets SS,rate_pct,0.0000,0.0000,5,0
+55-59,2021,r_social_security,R gets SS,rate_ira_part_pct,0.0000,0.0000,5,0
+55-59,2021,r_social_security,R gets SS,rate_pension_part_pct,0.0000,0.0000,5,0
+55-59,2021,r_social_security,R no SS,pct_of_holders,96.6473,1.3914,303,13
+55-59,2021,r_social_security,R no SS,pct_of_balances,99.5169,0.2812,303,13
+55-59,2021,r_social_security,R no SS,incidence_per100,4.9922,1.5943,303,13
+55-59,2021,r_social_security,R no SS,rate_pct,0.2668,0.1237,303,13
+55-59,2021,r_social_security,R no SS,rate_ira_part_pct,0.1378,0.0491,303,13
+55-59,2021,r_social_security,R no SS,rate_pension_part_pct,0.1290,0.1126,303,13
+55-59,2021,db_pension,DB,pct_of_holders,42.0856,3.4268,102,6
+55-59,2021,db_pension,DB,pct_of_balances,37.4834,5.8537,102,6
+55-59,2021,db_pension,DB,incidence_per100,6.0220,2.1932,102,6
+55-59,2021,db_pension,DB,rate_pct,0.2537,0.1742,102,6
+55-59,2021,db_pension,DB,rate_ira_part_pct,0.1574,0.0662,102,6
+55-59,2021,db_pension,DB,rate_pension_part_pct,0.0963,0.1606,102,6
+55-59,2021,db_pension,no DB,pct_of_holders,57.9144,3.4268,206,7
+55-59,2021,db_pension,no DB,pct_of_balances,62.5166,5.8537,206,7
+55-59,2021,db_pension,no DB,incidence_per100,3.9548,2.1991,206,7
+55-59,2021,db_pension,no DB,rate_pct,0.2726,0.1698,206,7
+55-59,2021,db_pension,no DB,rate_ira_part_pct,0.1250,0.0693,206,7
+55-59,2021,db_pension,no DB,rate_pension_part_pct,0.1476,0.1516,206,7
+55-59,2021,work_x_thrift,not working + THRIFT,pct_of_holders,0.0000,0.0000,0,0
+55-59,2021,work_x_thrift,not working + THRIFT,pct_of_balances,0.0000,0.0000,0,0
+55-59,2021,work_x_thrift,not working + THRIFT,incidence_per100,,,0,0
+55-59,2021,work_x_thrift,not working + THRIFT,rate_pct,,,0,0
+55-59,2021,work_x_thrift,not working + THRIFT,rate_ira_part_pct,,,0,0
+55-59,2021,work_x_thrift,not working + THRIFT,rate_pension_part_pct,,,0,0
+55-59,2021,work_x_thrift,not working no THRIFT,pct_of_holders,3.0967,0.9320,10,2
+55-59,2021,work_x_thrift,not working no THRIFT,pct_of_balances,1.5658,0.9535,10,2
+55-59,2021,work_x_thrift,not working no THRIFT,incidence_per100,14.2712,11.1247,10,2
+55-59,2021,work_x_thrift,not working no THRIFT,rate_pct,0.4163,0.3422,10,2
+55-59,2021,work_x_thrift,not working no THRIFT,rate_ira_part_pct,0.4163,0.3422,10,2
+55-59,2021,work_x_thrift,not working no THRIFT,rate_pension_part_pct,0.0000,0.0000,10,2
+55-59,2021,work_x_thrift,working + THRIFT,pct_of_holders,73.5653,2.2773,215,7
+55-59,2021,work_x_thrift,working + THRIFT,pct_of_balances,77.9196,4.6386,215,7
+55-59,2021,work_x_thrift,working + THRIFT,incidence_per100,4.1216,1.9609,215,7
+55-59,2021,work_x_thrift,working + THRIFT,rate_pct,0.2576,0.1490,215,7
+55-59,2021,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.1188,0.0426,215,7
+55-59,2021,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.1387,0.1416,215,7
+55-59,2021,work_x_thrift,working no THRIFT,pct_of_holders,23.3381,2.3503,83,4
+55-59,2021,work_x_thrift,working no THRIFT,pct_of_balances,20.5146,4.5613,83,4
+55-59,2021,work_x_thrift,working no THRIFT,incidence_per100,5.7880,2.5652,83,4
+55-59,2021,work_x_thrift,working no THRIFT,rate_pct,0.2841,0.2156,83,4
+55-59,2021,work_x_thrift,working no THRIFT,rate_ira_part_pct,0.1853,0.1906,83,4
+55-59,2021,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.0988,0.0862,83,4
+55-59,2003/06,r_or_spouse_working,working,pct_of_holders,95.7819,0.7254,706,22
+55-59,2003/06,r_or_spouse_working,working,pct_of_balances,95.3567,1.3571,706,22
+55-59,2003/06,r_or_spouse_working,working,incidence_per100,3.6255,0.7419,706,22
+55-59,2003/06,r_or_spouse_working,working,rate_pct,0.2927,0.0695,706,22
+55-59,2003/06,r_or_spouse_working,working,rate_ira_part_pct,0.2172,0.0574,706,22
+55-59,2003/06,r_or_spouse_working,working,rate_pension_part_pct,0.0755,0.0407,706,22
+55-59,2003/06,r_or_spouse_working,neither working,pct_of_holders,4.2181,0.7254,36,5
+55-59,2003/06,r_or_spouse_working,neither working,pct_of_balances,4.6433,1.3571,36,5
+55-59,2003/06,r_or_spouse_working,neither working,incidence_per100,28.2363,8.1721,36,5
+55-59,2003/06,r_or_spouse_working,neither working,rate_pct,1.0304,0.6506,36,5
+55-59,2003/06,r_or_spouse_working,neither working,rate_ira_part_pct,0.1667,0.1515,36,5
+55-59,2003/06,r_or_spouse_working,neither working,rate_pension_part_pct,0.8637,0.6269,36,5
+55-59,2003/06,r_working,R working,pct_of_holders,90.5964,1.0148,673,21
+55-59,2003/06,r_working,R working,pct_of_balances,90.6316,1.7101,673,21
+55-59,2003/06,r_working,R working,incidence_per100,3.7335,0.7735,673,21
+55-59,2003/06,r_working,R working,rate_pct,0.2956,0.0704,673,21
+55-59,2003/06,r_working,R working,rate_ira_part_pct,0.2284,0.0599,673,21
+55-59,2003/06,r_working,R working,rate_pension_part_pct,0.0672,0.0339,673,21
+55-59,2003/06,r_working,R not working,pct_of_holders,9.4036,1.0148,69,5
+55-59,2003/06,r_working,R not working,pct_of_balances,9.3684,1.7101,69,5
+55-59,2003/06,r_working,R not working,incidence_per100,13.6246,4.7358,69,5
+55-59,2003/06,r_working,R not working,rate_pct,0.6302,0.3331,69,5
+55-59,2003/06,r_working,R not working,rate_ira_part_pct,0.0833,0.0694,69,5
+55-59,2003/06,r_working,R not working,rate_pension_part_pct,0.5468,0.3300,69,5
+55-59,2003/06,account_type,IRA only,pct_of_holders,28.0243,1.6452,257,9
+55-59,2003/06,account_type,IRA only,pct_of_balances,18.1534,2.4702,257,9
+55-59,2003/06,account_type,IRA only,incidence_per100,6.9202,2.0875,257,9
+55-59,2003/06,account_type,IRA only,rate_pct,0.7580,0.2746,257,9
+55-59,2003/06,account_type,IRA only,rate_ira_part_pct,0.7580,0.2746,257,9
+55-59,2003/06,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,257,9
+55-59,2003/06,account_type,IRA and DC,pct_of_holders,33.7000,1.9352,294,14
+55-59,2003/06,account_type,IRA and DC,pct_of_balances,57.9372,3.8489,294,14
+55-59,2003/06,account_type,IRA and DC,incidence_per100,5.5383,1.2147,294,14
+55-59,2003/06,account_type,IRA and DC,rate_pct,0.2581,0.0811,294,14
+55-59,2003/06,account_type,IRA and DC,rate_ira_part_pct,0.1333,0.0420,294,14
+55-59,2003/06,account_type,IRA and DC,rate_pension_part_pct,0.1247,0.0690,294,14
+55-59,2003/06,account_type,DC only,pct_of_holders,38.2757,1.9041,190,3
+55-59,2003/06,account_type,DC only,pct_of_balances,23.9094,2.9916,190,3
+55-59,2003/06,account_type,DC only,incidence_per100,2.2413,0.6000,190,3
+55-59,2003/06,account_type,DC only,rate_pct,0.1667,0.0531,190,3
+55-59,2003/06,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,190,3
+55-59,2003/06,account_type,DC only,rate_pension_part_pct,0.1667,0.0531,190,3
+55-59,2003/06,current_job_dc,has THRIFT,pct_of_holders,64.8144,1.6505,438,7
+55-59,2003/06,current_job_dc,has THRIFT,pct_of_balances,73.8625,2.8368,438,7
+55-59,2003/06,current_job_dc,has THRIFT,incidence_per100,1.6734,0.5535,438,7
+55-59,2003/06,current_job_dc,has THRIFT,rate_pct,0.0520,0.0217,438,7
+55-59,2003/06,current_job_dc,has THRIFT,rate_ira_part_pct,0.0511,0.0218,438,7
+55-59,2003/06,current_job_dc,has THRIFT,rate_pension_part_pct,0.0009,0.0021,438,7
+55-59,2003/06,current_job_dc,no THRIFT,pct_of_holders,35.1856,1.6505,304,20
+55-59,2003/06,current_job_dc,no THRIFT,pct_of_balances,26.1375,2.8368,304,20
+55-59,2003/06,current_job_dc,no THRIFT,incidence_per100,10.1718,1.9153,304,20
+55-59,2003/06,current_job_dc,no THRIFT,rate_pct,1.1039,0.2386,304,20
+55-59,2003/06,current_job_dc,no THRIFT,rate_ira_part_pct,0.6775,0.2282,304,20
+55-59,2003/06,current_job_dc,no THRIFT,rate_pension_part_pct,0.4264,0.1562,304,20
+55-59,2003/06,r_social_security,R gets SS,pct_of_holders,3.2745,0.6586,14,2
+55-59,2003/06,r_social_security,R gets SS,pct_of_balances,1.3914,0.4296,14,2
+55-59,2003/06,r_social_security,R gets SS,incidence_per100,17.9773,10.4670,14,2
+55-59,2003/06,r_social_security,R gets SS,rate_pct,0.9276,0.7342,14,2
+55-59,2003/06,r_social_security,R gets SS,rate_ira_part_pct,0.4091,0.4870,14,2
+55-59,2003/06,r_social_security,R gets SS,rate_pension_part_pct,0.5185,0.5670,14,2
+55-59,2003/06,r_social_security,R no SS,pct_of_holders,96.7255,0.6586,728,25
+55-59,2003/06,r_social_security,R no SS,pct_of_balances,98.6086,0.4296,728,25
+55-59,2003/06,r_social_security,R no SS,incidence_per100,4.2129,0.8090,728,25
+55-59,2003/06,r_social_security,R no SS,rate_pct,0.3185,0.0637,728,25
+55-59,2003/06,r_social_security,R no SS,rate_ira_part_pct,0.2121,0.0556,728,25
+55-59,2003/06,r_social_security,R no SS,rate_pension_part_pct,0.1064,0.0443,728,25
+55-59,2003/06,db_pension,DB,pct_of_holders,43.5544,1.8566,270,7
+55-59,2003/06,db_pension,DB,pct_of_balances,40.8624,3.4862,270,7
+55-59,2003/06,db_pension,DB,incidence_per100,2.3007,0.8801,270,7
+55-59,2003/06,db_pension,DB,rate_pct,0.2334,0.0959,270,7
+55-59,2003/06,db_pension,DB,rate_ira_part_pct,0.1719,0.0794,270,7
+55-59,2003/06,db_pension,DB,rate_pension_part_pct,0.0614,0.0548,270,7
+55-59,2003/06,db_pension,no DB,pct_of_holders,56.4456,1.8566,472,20
+55-59,2003/06,db_pension,no DB,pct_of_balances,59.1376,3.4862,472,20
+55-59,2003/06,db_pension,no DB,incidence_per100,6.4868,1.3307,472,20
+55-59,2003/06,db_pension,no DB,rate_pct,0.3916,0.0947,472,20
+55-59,2003/06,db_pension,no DB,rate_ira_part_pct,0.2445,0.0870,472,20
+55-59,2003/06,db_pension,no DB,rate_pension_part_pct,0.1471,0.0633,472,20
+55-59,2003/06,work_x_thrift,not working + THRIFT,pct_of_holders,0.0000,0.0000,0,0
+55-59,2003/06,work_x_thrift,not working + THRIFT,pct_of_balances,0.0000,0.0000,0,0
+55-59,2003/06,work_x_thrift,not working + THRIFT,incidence_per100,,,0,0
+55-59,2003/06,work_x_thrift,not working + THRIFT,rate_pct,,,0,0
+55-59,2003/06,work_x_thrift,not working + THRIFT,rate_ira_part_pct,,,0,0
+55-59,2003/06,work_x_thrift,not working + THRIFT,rate_pension_part_pct,,,0,0
+55-59,2003/06,work_x_thrift,not working no THRIFT,pct_of_holders,4.2181,0.7254,36,5
+55-59,2003/06,work_x_thrift,not working no THRIFT,pct_of_balances,4.6433,1.3571,36,5
+55-59,2003/06,work_x_thrift,not working no THRIFT,incidence_per100,28.2363,8.1721,36,5
+55-59,2003/06,work_x_thrift,not working no THRIFT,rate_pct,1.0304,0.6506,36,5
+55-59,2003/06,work_x_thrift,not working no THRIFT,rate_ira_part_pct,0.1667,0.1515,36,5
+55-59,2003/06,work_x_thrift,not working no THRIFT,rate_pension_part_pct,0.8637,0.6269,36,5
+55-59,2003/06,work_x_thrift,working + THRIFT,pct_of_holders,64.8144,1.6505,438,7
+55-59,2003/06,work_x_thrift,working + THRIFT,pct_of_balances,73.8625,2.8368,438,7
+55-59,2003/06,work_x_thrift,working + THRIFT,incidence_per100,1.6734,0.5535,438,7
+55-59,2003/06,work_x_thrift,working + THRIFT,rate_pct,0.0520,0.0217,438,7
+55-59,2003/06,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.0511,0.0218,438,7
+55-59,2003/06,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0009,0.0021,438,7
+55-59,2003/06,work_x_thrift,working no THRIFT,pct_of_holders,30.9675,1.6175,268,15
+55-59,2003/06,work_x_thrift,working no THRIFT,pct_of_balances,21.4941,2.6626,268,15
+55-59,2003/06,work_x_thrift,working no THRIFT,incidence_per100,7.7113,1.9942,268,15
+55-59,2003/06,work_x_thrift,working no THRIFT,rate_pct,1.1198,0.2946,268,15
+55-59,2003/06,work_x_thrift,working no THRIFT,rate_ira_part_pct,0.7878,0.2739,268,15
+55-59,2003/06,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.3320,0.1659,268,15
+55-59,2018/21,r_or_spouse_working,working,pct_of_holders,95.4383,0.7665,697,30
+55-59,2018/21,r_or_spouse_working,working,pct_of_balances,96.7441,0.8640,697,30
+55-59,2018/21,r_or_spouse_working,working,incidence_per100,4.5365,0.9777,697,30
+55-59,2018/21,r_or_spouse_working,working,rate_pct,0.3701,0.1146,697,30
+55-59,2018/21,r_or_spouse_working,working,rate_ira_part_pct,0.2877,0.0998,697,30
+55-59,2018/21,r_or_spouse_working,working,rate_pension_part_pct,0.0824,0.0574,697,30
+55-59,2018/21,r_or_spouse_working,neither working,pct_of_holders,4.5617,0.7665,31,5
+55-59,2018/21,r_or_spouse_working,neither working,pct_of_balances,3.2559,0.8640,31,5
+55-59,2018/21,r_or_spouse_working,neither working,incidence_per100,23.5829,7.6390,31,5
+55-59,2018/21,r_or_spouse_working,neither working,rate_pct,1.9631,1.2100,31,5
+55-59,2018/21,r_or_spouse_working,neither working,rate_ira_part_pct,0.2204,0.1154,31,5
+55-59,2018/21,r_or_spouse_working,neither working,rate_pension_part_pct,1.7427,1.1920,31,5
+55-59,2018/21,r_working,R working,pct_of_holders,90.8246,1.1416,668,26
+55-59,2018/21,r_working,R working,pct_of_balances,90.3987,2.3206,668,26
+55-59,2018/21,r_working,R working,incidence_per100,4.2359,0.9798,668,26
+55-59,2018/21,r_working,R working,rate_pct,0.3474,0.1182,668,26
+55-59,2018/21,r_working,R working,rate_ira_part_pct,0.2598,0.1035,668,26
+55-59,2018/21,r_working,R working,rate_pension_part_pct,0.0876,0.0612,668,26
+55-59,2018/21,r_working,R not working,pct_of_holders,9.1754,1.1416,60,9
+55-59,2018/21,r_working,R not working,pct_of_balances,9.6013,2.3206,60,9
+55-59,2018/21,r_working,R not working,incidence_per100,16.9807,4.7173,60,9
+55-59,2018/21,r_working,R not working,rate_pct,1.1243,0.5030,60,9
+55-59,2018/21,r_working,R not working,rate_ira_part_pct,0.5275,0.2472,60,9
+55-59,2018/21,r_working,R not working,rate_pension_part_pct,0.5968,0.4071,60,9
+55-59,2018/21,account_type,IRA only,pct_of_holders,21.7013,1.5984,180,13
+55-59,2018/21,account_type,IRA only,pct_of_balances,17.9984,3.1685,180,13
+55-59,2018/21,account_type,IRA only,incidence_per100,5.3871,1.5259,180,13
+55-59,2018/21,account_type,IRA only,rate_pct,1.1014,0.5715,180,13
+55-59,2018/21,account_type,IRA only,rate_ira_part_pct,1.1014,0.5715,180,13
+55-59,2018/21,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,180,13
+55-59,2018/21,account_type,IRA and DC,pct_of_holders,34.1428,2.0265,297,16
+55-59,2018/21,account_type,IRA and DC,pct_of_balances,60.5023,3.9959,297,16
+55-59,2018/21,account_type,IRA and DC,incidence_per100,7.3026,1.9809,297,16
+55-59,2018/21,account_type,IRA and DC,rate_pct,0.1923,0.0704,297,16
+55-59,2018/21,account_type,IRA and DC,rate_ira_part_pct,0.1442,0.0441,297,16
+55-59,2018/21,account_type,IRA and DC,rate_pension_part_pct,0.0481,0.0501,297,16
+55-59,2018/21,account_type,DC only,pct_of_holders,44.1559,1.9368,250,6
+55-59,2018/21,account_type,DC only,pct_of_balances,21.4993,2.8040,250,6
+55-59,2018/21,account_type,DC only,incidence_per100,3.9472,1.5717,250,6
+55-59,2018/21,account_type,DC only,rate_pct,0.4995,0.2672,250,6
+55-59,2018/21,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,250,6
+55-59,2018/21,account_type,DC only,rate_pension_part_pct,0.4995,0.2672,250,6
+55-59,2018/21,current_job_dc,has THRIFT,pct_of_holders,72.2855,1.4889,502,15
+55-59,2018/21,current_job_dc,has THRIFT,pct_of_balances,76.4998,3.3515,502,15
+55-59,2018/21,current_job_dc,has THRIFT,incidence_per100,3.3745,1.1200,502,15
+55-59,2018/21,current_job_dc,has THRIFT,rate_pct,0.1836,0.0810,502,15
+55-59,2018/21,current_job_dc,has THRIFT,rate_ira_part_pct,0.1108,0.0346,502,15
+55-59,2018/21,current_job_dc,has THRIFT,rate_pension_part_pct,0.0728,0.0717,502,15
+55-59,2018/21,current_job_dc,no THRIFT,pct_of_holders,27.7145,1.4889,225,20
+55-59,2018/21,current_job_dc,no THRIFT,pct_of_balances,23.5002,3.3515,225,20
+55-59,2018/21,current_job_dc,no THRIFT,incidence_per100,10.7022,2.2511,225,20
+55-59,2018/21,current_job_dc,no THRIFT,rate_pct,1.1978,0.4670,225,20
+55-59,2018/21,current_job_dc,no THRIFT,rate_ira_part_pct,0.8542,0.4168,225,20
+55-59,2018/21,current_job_dc,no THRIFT,rate_pension_part_pct,0.3436,0.1701,225,20
+55-59,2018/21,r_social_security,R gets SS,pct_of_holders,2.9649,0.7999,12,1
+55-59,2018/21,r_social_security,R gets SS,pct_of_balances,0.5621,0.1833,12,1
+55-59,2018/21,r_social_security,R gets SS,incidence_per100,11.9002,8.8403,12,1
+55-59,2018/21,r_social_security,R gets SS,rate_pct,1.7371,1.6324,12,1
+55-59,2018/21,r_social_security,R gets SS,rate_ira_part_pct,0.0000,0.0000,12,1
+55-59,2018/21,r_social_security,R gets SS,rate_pension_part_pct,1.7371,1.6324,12,1
+55-59,2018/21,r_social_security,R no SS,pct_of_holders,97.0351,0.7999,716,34
+55-59,2018/21,r_social_security,R no SS,pct_of_balances,99.4379,0.1833,716,34
+55-59,2018/21,r_social_security,R no SS,incidence_per100,5.2069,1.0164,716,34
+55-59,2018/21,r_social_security,R no SS,rate_pct,0.4145,0.1170,716,34
+55-59,2018/21,r_social_security,R no SS,rate_ira_part_pct,0.2871,0.0970,716,34
+55-59,2018/21,r_social_security,R no SS,rate_pension_part_pct,0.1274,0.0654,716,34
+55-59,2018/21,db_pension,DB,pct_of_holders,39.1689,2.0470,235,10
+55-59,2018/21,db_pension,DB,pct_of_balances,41.1324,4.0036,235,10
+55-59,2018/21,db_pension,DB,incidence_per100,4.8996,1.3745,235,10
+55-59,2018/21,db_pension,DB,rate_pct,0.2197,0.0924,235,10
+55-59,2018/21,db_pension,DB,rate_ira_part_pct,0.1551,0.0558,235,10
+55-59,2018/21,db_pension,DB,rate_pension_part_pct,0.0647,0.0716,235,10
+55-59,2018/21,db_pension,no DB,pct_of_holders,60.8311,2.0470,492,25
+55-59,2018/21,db_pension,no DB,pct_of_balances,58.8676,4.0036,492,25
+55-59,2018/21,db_pension,no DB,incidence_per100,5.7310,1.3134,492,25
+55-59,2018/21,db_pension,no DB,rate_pct,0.5633,0.1868,492,25
+55-59,2018/21,db_pension,no DB,rate_ira_part_pct,0.3766,0.1585,492,25
+55-59,2018/21,db_pension,no DB,rate_pension_part_pct,0.1867,0.1010,492,25
+55-59,2018/21,work_x_thrift,not working + THRIFT,pct_of_holders,0.0000,0.0000,0,0
+55-59,2018/21,work_x_thrift,not working + THRIFT,pct_of_balances,0.0000,0.0000,0,0
+55-59,2018/21,work_x_thrift,not working + THRIFT,incidence_per100,,,0,0
+55-59,2018/21,work_x_thrift,not working + THRIFT,rate_pct,,,0,0
+55-59,2018/21,work_x_thrift,not working + THRIFT,rate_ira_part_pct,,,0,0
+55-59,2018/21,work_x_thrift,not working + THRIFT,rate_pension_part_pct,,,0,0
+55-59,2018/21,work_x_thrift,not working no THRIFT,pct_of_holders,4.5617,0.7665,31,5
+55-59,2018/21,work_x_thrift,not working no THRIFT,pct_of_balances,3.2559,0.8640,31,5
+55-59,2018/21,work_x_thrift,not working no THRIFT,incidence_per100,23.5829,7.6390,31,5
+55-59,2018/21,work_x_thrift,not working no THRIFT,rate_pct,1.9631,1.2100,31,5
+55-59,2018/21,work_x_thrift,not working no THRIFT,rate_ira_part_pct,0.2204,0.1154,31,5
+55-59,2018/21,work_x_thrift,not working no THRIFT,rate_pension_part_pct,1.7427,1.1920,31,5
+55-59,2018/21,work_x_thrift,working + THRIFT,pct_of_holders,72.2855,1.4889,502,15
+55-59,2018/21,work_x_thrift,working + THRIFT,pct_of_balances,76.4998,3.3515,502,15
+55-59,2018/21,work_x_thrift,working + THRIFT,incidence_per100,3.3745,1.1200,502,15
+55-59,2018/21,work_x_thrift,working + THRIFT,rate_pct,0.1836,0.0810,502,15
+55-59,2018/21,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.1108,0.0346,502,15
+55-59,2018/21,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0728,0.0717,502,15
+55-59,2018/21,work_x_thrift,working no THRIFT,pct_of_holders,23.1528,1.4702,194,15
+55-59,2018/21,work_x_thrift,working no THRIFT,pct_of_balances,20.2444,3.3375,194,15
+55-59,2018/21,work_x_thrift,working no THRIFT,incidence_per100,8.1644,2.1312,194,15
+55-59,2018/21,work_x_thrift,working no THRIFT,rate_pct,1.0748,0.5159,194,15
+55-59,2018/21,work_x_thrift,working no THRIFT,rate_ira_part_pct,0.9562,0.5029,194,15
+55-59,2018/21,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.1186,0.0583,194,15
+60-64,2003,r_or_spouse_working,working,pct_of_holders,79.3614,2.8968,243,19
+60-64,2003,r_or_spouse_working,working,pct_of_balances,80.6736,4.4932,243,19
+60-64,2003,r_or_spouse_working,working,incidence_per100,10.6771,2.7015,243,19
+60-64,2003,r_or_spouse_working,working,rate_pct,1.2298,0.4939,243,19
+60-64,2003,r_or_spouse_working,working,rate_ira_part_pct,0.3940,0.1326,243,19
+60-64,2003,r_or_spouse_working,working,rate_pension_part_pct,0.8358,0.4779,243,19
+60-64,2003,r_or_spouse_working,neither working,pct_of_holders,20.6386,2.8968,51,10
+60-64,2003,r_or_spouse_working,neither working,pct_of_balances,19.3264,4.4932,51,10
+60-64,2003,r_or_spouse_working,neither working,incidence_per100,34.0594,7.9822,51,10
+60-64,2003,r_or_spouse_working,neither working,rate_pct,3.1068,1.2799,51,10
+60-64,2003,r_or_spouse_working,neither working,rate_ira_part_pct,1.0706,0.5625,51,10
+60-64,2003,r_or_spouse_working,neither working,rate_pension_part_pct,2.0362,1.1526,51,10
+60-64,2003,r_working,R working,pct_of_holders,69.6056,3.0043,225,17
+60-64,2003,r_working,R working,pct_of_balances,71.3746,5.1730,225,17
+60-64,2003,r_working,R working,incidence_per100,10.4087,2.9161,225,17
+60-64,2003,r_working,R working,rate_pct,1.2823,0.5531,225,17
+60-64,2003,r_working,R working,rate_ira_part_pct,0.3375,0.1360,225,17
+60-64,2003,r_working,R working,rate_pension_part_pct,0.9447,0.5387,225,17
+60-64,2003,r_working,R not working,pct_of_holders,30.3944,3.0043,68,12
+60-64,2003,r_working,R not working,pct_of_balances,28.6254,5.1730,68,12
+60-64,2003,r_working,R not working,incidence_per100,27.1691,5.8332,68,12
+60-64,2003,r_working,R not working,rate_pct,2.3663,0.8720,68,12
+60-64,2003,r_working,R not working,rate_ira_part_pct,0.9916,0.3943,68,12
+60-64,2003,r_working,R not working,rate_pension_part_pct,1.3747,0.7790,68,12
+60-64,2003,account_type,IRA only,pct_of_holders,42.3698,3.5404,131,18
+60-64,2003,account_type,IRA only,pct_of_balances,29.9101,4.9367,131,18
+60-64,2003,account_type,IRA only,incidence_per100,21.7921,4.3837,131,18
+60-64,2003,account_type,IRA only,rate_pct,1.6563,0.5319,131,18
+60-64,2003,account_type,IRA only,rate_ira_part_pct,1.6563,0.5319,131,18
+60-64,2003,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,131,18
+60-64,2003,account_type,IRA and DC,pct_of_holders,33.1534,3.6222,112,8
+60-64,2003,account_type,IRA and DC,pct_of_balances,56.8228,5.9096,112,8
+60-64,2003,account_type,IRA and DC,incidence_per100,12.0928,5.2081,112,8
+60-64,2003,account_type,IRA and DC,rate_pct,1.4086,0.7188,112,8
+60-64,2003,account_type,IRA and DC,rate_ira_part_pct,0.0517,0.0496,112,8
+60-64,2003,account_type,IRA and DC,rate_pension_part_pct,1.3569,0.7160,112,8
+60-64,2003,account_type,DC only,pct_of_holders,24.4768,3.2271,51,3
+60-64,2003,account_type,DC only,pct_of_balances,13.2671,3.6781,51,3
+60-64,2003,account_type,DC only,incidence_per100,9.2350,4.6795,51,3
+60-64,2003,account_type,DC only,rate_pct,2.2370,1.4651,51,3
+60-64,2003,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,51,3
+60-64,2003,account_type,DC only,rate_pension_part_pct,2.2370,1.4651,51,3
+60-64,2003,current_job_dc,has THRIFT,pct_of_holders,51.7392,3.7504,145,5
+60-64,2003,current_job_dc,has THRIFT,pct_of_balances,59.4494,5.9189,145,5
+60-64,2003,current_job_dc,has THRIFT,incidence_per100,4.7426,2.5186,145,5
+60-64,2003,current_job_dc,has THRIFT,rate_pct,0.5483,0.3933,145,5
+60-64,2003,current_job_dc,has THRIFT,rate_ira_part_pct,0.0494,0.0468,145,5
+60-64,2003,current_job_dc,has THRIFT,rate_pension_part_pct,0.4989,0.3984,145,5
+60-64,2003,current_job_dc,no THRIFT,pct_of_holders,48.2608,3.7504,149,24
+60-64,2003,current_job_dc,no THRIFT,pct_of_balances,40.5506,5.9189,149,24
+60-64,2003,current_job_dc,no THRIFT,incidence_per100,27.0388,5.3613,149,24
+60-64,2003,current_job_dc,no THRIFT,rate_pct,3.1235,1.2890,149,24
+60-64,2003,current_job_dc,no THRIFT,rate_ira_part_pct,1.2217,0.3910,149,24
+60-64,2003,current_job_dc,no THRIFT,rate_pension_part_pct,1.9018,1.2243,149,24
+60-64,2003,r_social_security,R gets SS,pct_of_holders,23.1185,2.7708,43,9
+60-64,2003,r_social_security,R gets SS,pct_of_balances,14.5648,3.4095,43,9
+60-64,2003,r_social_security,R gets SS,incidence_per100,29.6334,6.7891,43,9
+60-64,2003,r_social_security,R gets SS,rate_pct,3.1893,1.5979,43,9
+60-64,2003,r_social_security,R gets SS,rate_ira_part_pct,2.0234,0.8657,43,9
+60-64,2003,r_social_security,R gets SS,rate_pension_part_pct,1.1660,1.2602,43,9
+60-64,2003,r_social_security,R no SS,pct_of_holders,76.8815,2.7708,251,19
+60-64,2003,r_social_security,R no SS,pct_of_balances,85.4352,3.4095,251,19
+60-64,2003,r_social_security,R no SS,incidence_per100,11.2538,2.8287,251,19
+60-64,2003,r_social_security,R no SS,rate_pct,1.3203,0.5003,251,19
+60-64,2003,r_social_security,R no SS,rate_ira_part_pct,0.2693,0.1076,251,19
+60-64,2003,r_social_security,R no SS,rate_pension_part_pct,1.0511,0.4911,251,19
+60-64,2003,db_pension,DB,pct_of_holders,53.4541,3.3662,116,11
+60-64,2003,db_pension,DB,pct_of_balances,48.4485,6.0845,116,11
+60-64,2003,db_pension,DB,incidence_per100,12.5527,3.7350,116,11
+60-64,2003,db_pension,DB,rate_pct,0.8703,0.3024,116,11
+60-64,2003,db_pension,DB,rate_ira_part_pct,0.3867,0.1498,116,11
+60-64,2003,db_pension,DB,rate_pension_part_pct,0.4836,0.2769,116,11
+60-64,2003,db_pension,no DB,pct_of_holders,46.5459,3.3662,178,18
+60-64,2003,db_pension,no DB,pct_of_balances,51.5515,6.0845,178,18
+60-64,2003,db_pension,no DB,incidence_per100,18.8909,4.4830,178,18
+60-64,2003,db_pension,no DB,rate_pct,2.2714,0.8505,178,18
+60-64,2003,db_pension,no DB,rate_ira_part_pct,0.6545,0.2375,178,18
+60-64,2003,db_pension,no DB,rate_pension_part_pct,1.6169,0.8078,178,18
+60-64,2003,work_x_thrift,not working no THRIFT,pct_of_holders,20.6386,2.8968,51,10
+60-64,2003,work_x_thrift,not working no THRIFT,pct_of_balances,19.3264,4.4932,51,10
+60-64,2003,work_x_thrift,not working no THRIFT,incidence_per100,34.0594,7.9822,51,10
+60-64,2003,work_x_thrift,not working no THRIFT,rate_pct,3.1068,1.2799,51,10
+60-64,2003,work_x_thrift,not working no THRIFT,rate_ira_part_pct,1.0706,0.5625,51,10
+60-64,2003,work_x_thrift,not working no THRIFT,rate_pension_part_pct,2.0362,1.1526,51,10
+60-64,2003,work_x_thrift,working + THRIFT,pct_of_holders,51.7392,3.7504,145,5
+60-64,2003,work_x_thrift,working + THRIFT,pct_of_balances,59.4494,5.9189,145,5
+60-64,2003,work_x_thrift,working + THRIFT,incidence_per100,4.7426,2.5186,145,5
+60-64,2003,work_x_thrift,working + THRIFT,rate_pct,0.5483,0.3933,145,5
+60-64,2003,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.0494,0.0468,145,5
+60-64,2003,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.4989,0.3984,145,5
+60-64,2003,work_x_thrift,working no THRIFT,pct_of_holders,27.6222,3.3007,98,14
+60-64,2003,work_x_thrift,working no THRIFT,pct_of_balances,21.2242,4.4923,98,14
+60-64,2003,work_x_thrift,working no THRIFT,incidence_per100,21.7931,7.1722,98,14
+60-64,2003,work_x_thrift,working no THRIFT,rate_pct,3.1387,2.0812,98,14
+60-64,2003,work_x_thrift,working no THRIFT,rate_ira_part_pct,1.3592,0.5656,98,14
+60-64,2003,work_x_thrift,working no THRIFT,rate_pension_part_pct,1.7795,2.0491,98,14
+60-64,2006,r_or_spouse_working,working,pct_of_holders,82.6037,2.4807,265,22
+60-64,2006,r_or_spouse_working,working,pct_of_balances,84.7031,3.5109,265,22
+60-64,2006,r_or_spouse_working,working,incidence_per100,13.1798,2.3532,265,22
+60-64,2006,r_or_spouse_working,working,rate_pct,0.7805,0.2052,265,22
+60-64,2006,r_or_spouse_working,working,rate_ira_part_pct,0.6676,0.1877,265,22
+60-64,2006,r_or_spouse_working,working,rate_pension_part_pct,0.1129,0.0750,265,22
+60-64,2006,r_or_spouse_working,neither working,pct_of_holders,17.3963,2.4807,43,9
+60-64,2006,r_or_spouse_working,neither working,pct_of_balances,15.2969,3.5109,43,9
+60-64,2006,r_or_spouse_working,neither working,incidence_per100,27.7185,7.1487,43,9
+60-64,2006,r_or_spouse_working,neither working,rate_pct,5.9044,2.9814,43,9
+60-64,2006,r_or_spouse_working,neither working,rate_ira_part_pct,0.9126,0.3881,43,9
+60-64,2006,r_or_spouse_working,neither working,rate_pension_part_pct,4.9918,3.0805,43,9
+60-64,2006,r_working,R working,pct_of_holders,70.8456,2.9054,242,18
+60-64,2006,r_working,R working,pct_of_balances,77.7176,3.9695,242,18
+60-64,2006,r_working,R working,incidence_per100,11.5062,2.4665,242,18
+60-64,2006,r_working,R working,rate_pct,0.5006,0.1549,242,18
+60-64,2006,r_working,R working,rate_ira_part_pct,0.3775,0.1258,242,18
+60-64,2006,r_working,R working,rate_pension_part_pct,0.1231,0.0817,242,18
+60-64,2006,r_working,R not working,pct_of_holders,29.1544,2.9054,66,13
+60-64,2006,r_working,R not working,pct_of_balances,22.2824,3.9695,66,13
+60-64,2006,r_working,R not working,incidence_per100,25.9216,5.8414,66,13
+60-64,2006,r_working,R not working,rate_pct,5.2745,2.1504,66,13
+60-64,2006,r_working,R not working,rate_ira_part_pct,1.8476,0.6259,66,13
+60-64,2006,r_working,R not working,rate_pension_part_pct,3.4269,2.2765,66,13
+60-64,2006,account_type,IRA only,pct_of_holders,43.3550,3.6841,153,19
+60-64,2006,account_type,IRA only,pct_of_balances,35.0721,5.4049,153,19
+60-64,2006,account_type,IRA only,incidence_per100,23.6630,3.7555,153,19
+60-64,2006,account_type,IRA only,rate_pct,1.3691,0.3429,153,19
+60-64,2006,account_type,IRA only,rate_ira_part_pct,1.3691,0.3429,153,19
+60-64,2006,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,153,19
+60-64,2006,account_type,IRA and DC,pct_of_holders,28.4214,3.5325,101,10
+60-64,2006,account_type,IRA and DC,pct_of_balances,53.8537,6.4730,101,10
+60-64,2006,account_type,IRA and DC,incidence_per100,14.5883,4.4383,101,10
+60-64,2006,account_type,IRA and DC,rate_pct,1.9036,1.0272,101,10
+60-64,2006,account_type,IRA and DC,rate_ira_part_pct,0.4177,0.2181,101,10
+60-64,2006,account_type,IRA and DC,rate_pension_part_pct,1.4859,1.0204,101,10
+60-64,2006,account_type,DC only,pct_of_holders,28.2236,2.7710,52,2
+60-64,2006,account_type,DC only,pct_of_balances,11.0742,2.4705,52,2
+60-64,2006,account_type,DC only,incidence_per100,4.6191,2.2487,52,2
+60-64,2006,account_type,DC only,rate_pct,0.5329,0.2693,52,2
+60-64,2006,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,52,2
+60-64,2006,account_type,DC only,rate_pension_part_pct,0.5329,0.2693,52,2
+60-64,2006,current_job_dc,has THRIFT,pct_of_holders,43.8464,3.7378,127,6
+60-64,2006,current_job_dc,has THRIFT,pct_of_balances,50.4001,6.9810,127,6
+60-64,2006,current_job_dc,has THRIFT,incidence_per100,5.8308,2.4044,127,6
+60-64,2006,current_job_dc,has THRIFT,rate_pct,0.4327,0.2227,127,6
+60-64,2006,current_job_dc,has THRIFT,rate_ira_part_pct,0.4325,0.2227,127,6
+60-64,2006,current_job_dc,has THRIFT,rate_pension_part_pct,0.0002,0.0002,127,6
+60-64,2006,current_job_dc,no THRIFT,pct_of_holders,56.1536,3.7378,180,25
+60-64,2006,current_job_dc,no THRIFT,pct_of_balances,49.5999,6.9810,180,25
+60-64,2006,current_job_dc,no THRIFT,incidence_per100,23.4221,3.4918,180,25
+60-64,2006,current_job_dc,no THRIFT,rate_pct,2.7142,1.0979,180,25
+60-64,2006,current_job_dc,no THRIFT,rate_ira_part_pct,0.9821,0.2628,180,25
+60-64,2006,current_job_dc,no THRIFT,rate_pension_part_pct,1.7321,1.1008,180,25
+60-64,2006,r_social_security,R gets SS,pct_of_holders,29.5317,3.2864,52,16
+60-64,2006,r_social_security,R gets SS,pct_of_balances,17.7806,3.3396,52,16
+60-64,2006,r_social_security,R gets SS,incidence_per100,31.4657,5.7229,52,16
+60-64,2006,r_social_security,R gets SS,rate_pct,3.5868,0.6502,52,16
+60-64,2006,r_social_security,R gets SS,rate_ira_part_pct,3.5116,0.6506,52,16
+60-64,2006,r_social_security,R gets SS,rate_pension_part_pct,0.0752,0.0538,52,16
+60-64,2006,r_social_security,R no SS,pct_of_holders,70.4683,3.2864,256,15
+60-64,2006,r_social_security,R no SS,pct_of_balances,82.2194,3.3396,256,15
+60-64,2006,r_social_security,R no SS,incidence_per100,9.1057,2.1422,256,15
+60-64,2006,r_social_security,R no SS,rate_pct,1.1270,0.6658,256,15
+60-64,2006,r_social_security,R no SS,rate_ira_part_pct,0.0982,0.0332,256,15
+60-64,2006,r_social_security,R no SS,rate_pension_part_pct,1.0288,0.6656,256,15
+60-64,2006,db_pension,DB,pct_of_holders,47.5956,3.3006,117,16
+60-64,2006,db_pension,DB,pct_of_balances,61.7805,6.1908,117,16
+60-64,2006,db_pension,DB,incidence_per100,17.5765,3.5973,117,16
+60-64,2006,db_pension,DB,rate_pct,1.8672,0.9247,117,16
+60-64,2006,db_pension,DB,rate_ira_part_pct,0.4982,0.1893,117,16
+60-64,2006,db_pension,DB,rate_pension_part_pct,1.3690,0.9000,117,16
+60-64,2006,db_pension,no DB,pct_of_holders,52.4044,3.3006,191,15
+60-64,2006,db_pension,no DB,pct_of_balances,38.2195,6.1908,191,15
+60-64,2006,db_pension,no DB,incidence_per100,14.0128,3.2351,191,15
+60-64,2006,db_pension,no DB,rate_pct,1.0748,0.2824,191,15
+60-64,2006,db_pension,no DB,rate_ira_part_pct,1.0396,0.2826,191,15
+60-64,2006,db_pension,no DB,rate_pension_part_pct,0.0352,0.0235,191,15
+60-64,2006,work_x_thrift,not working no THRIFT,pct_of_holders,17.3963,2.4807,43,9
+60-64,2006,work_x_thrift,not working no THRIFT,pct_of_balances,15.2969,3.5109,43,9
+60-64,2006,work_x_thrift,not working no THRIFT,incidence_per100,27.7185,7.1487,43,9
+60-64,2006,work_x_thrift,not working no THRIFT,rate_pct,5.9044,2.9814,43,9
+60-64,2006,work_x_thrift,not working no THRIFT,rate_ira_part_pct,0.9126,0.3881,43,9
+60-64,2006,work_x_thrift,not working no THRIFT,rate_pension_part_pct,4.9918,3.0805,43,9
+60-64,2006,work_x_thrift,working + THRIFT,pct_of_holders,43.8464,3.7378,127,6
+60-64,2006,work_x_thrift,working + THRIFT,pct_of_balances,50.4001,6.9810,127,6
+60-64,2006,work_x_thrift,working + THRIFT,incidence_per100,5.8308,2.4044,127,6
+60-64,2006,work_x_thrift,working + THRIFT,rate_pct,0.4327,0.2227,127,6
+60-64,2006,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.4325,0.2227,127,6
+60-64,2006,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0002,0.0002,127,6
+60-64,2006,work_x_thrift,working no THRIFT,pct_of_holders,38.7573,3.2783,137,16
+60-64,2006,work_x_thrift,working no THRIFT,pct_of_balances,34.3030,5.4769,137,16
+60-64,2006,work_x_thrift,working no THRIFT,incidence_per100,21.4937,4.0328,137,16
+60-64,2006,work_x_thrift,working no THRIFT,rate_pct,1.2916,0.3671,137,16
+60-64,2006,work_x_thrift,working no THRIFT,rate_ira_part_pct,1.0131,0.3345,137,16
+60-64,2006,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.2786,0.1841,137,16
+60-64,2009,r_or_spouse_working,working,pct_of_holders,85.8973,1.5974,352,35
+60-64,2009,r_or_spouse_working,working,pct_of_balances,88.4955,2.1340,352,35
+60-64,2009,r_or_spouse_working,working,incidence_per100,10.8662,1.7793,352,35
+60-64,2009,r_or_spouse_working,working,rate_pct,0.6937,0.1668,352,35
+60-64,2009,r_or_spouse_working,working,rate_ira_part_pct,0.4937,0.1434,352,35
+60-64,2009,r_or_spouse_working,working,rate_pension_part_pct,0.2000,0.0668,352,35
+60-64,2009,r_or_spouse_working,neither working,pct_of_holders,14.1027,1.5974,51,15
+60-64,2009,r_or_spouse_working,neither working,pct_of_balances,11.5045,2.1340,51,15
+60-64,2009,r_or_spouse_working,neither working,incidence_per100,33.2180,5.0805,51,15
+60-64,2009,r_or_spouse_working,neither working,rate_pct,2.7457,0.7207,51,15
+60-64,2009,r_or_spouse_working,neither working,rate_ira_part_pct,2.1652,0.6605,51,15
+60-64,2009,r_or_spouse_working,neither working,rate_pension_part_pct,0.5805,0.2407,51,15
+60-64,2009,r_working,R working,pct_of_holders,73.7861,2.2999,317,27
+60-64,2009,r_working,R working,pct_of_balances,82.2743,2.8301,317,27
+60-64,2009,r_working,R working,incidence_per100,9.5903,1.8391,317,27
+60-64,2009,r_working,R working,rate_pct,0.5869,0.1649,317,27
+60-64,2009,r_working,R working,rate_ira_part_pct,0.4139,0.1435,317,27
+60-64,2009,r_working,R working,rate_pension_part_pct,0.1730,0.0641,317,27
+60-64,2009,r_working,R not working,pct_of_holders,26.2139,2.2999,86,22
+60-64,2009,r_working,R not working,pct_of_balances,17.7257,2.8301,86,22
+60-64,2009,r_working,R not working,incidence_per100,26.4823,3.4880,86,22
+60-64,2009,r_working,R not working,rate_pct,2.5214,0.5038,86,22
+60-64,2009,r_working,R not working,rate_ira_part_pct,1.9491,0.4655,86,22
+60-64,2009,r_working,R not working,rate_pension_part_pct,0.5722,0.2116,86,22
+60-64,2009,account_type,IRA only,pct_of_holders,35.5110,2.2224,157,27
+60-64,2009,account_type,IRA only,pct_of_balances,26.6840,4.4805,157,27
+60-64,2009,account_type,IRA only,incidence_per100,21.2593,3.0865,157,27
+60-64,2009,account_type,IRA only,rate_pct,2.2044,0.5579,157,27
+60-64,2009,account_type,IRA only,rate_ira_part_pct,2.2044,0.5579,157,27
+60-64,2009,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,157,27
+60-64,2009,account_type,IRA and DC,pct_of_holders,37.4322,2.8419,159,18
+60-64,2009,account_type,IRA and DC,pct_of_balances,57.7894,5.5049,159,18
+60-64,2009,account_type,IRA and DC,incidence_per100,13.7061,3.1001,159,18
+60-64,2009,account_type,IRA and DC,rate_pct,0.5093,0.1515,159,18
+60-64,2009,account_type,IRA and DC,rate_ira_part_pct,0.1693,0.0704,159,18
+60-64,2009,account_type,IRA and DC,rate_pension_part_pct,0.3400,0.1193,159,18
+60-64,2009,account_type,DC only,pct_of_holders,27.0568,2.2603,88,5
+60-64,2009,account_type,DC only,pct_of_balances,15.5266,3.7069,88,5
+60-64,2009,account_type,DC only,incidence_per100,4.9470,2.0559,88,5
+60-64,2009,account_type,DC only,rate_pct,0.3042,0.1630,88,5
+60-64,2009,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,88,5
+60-64,2009,account_type,DC only,rate_pension_part_pct,0.3042,0.1630,88,5
+60-64,2009,current_job_dc,has THRIFT,pct_of_holders,54.9746,2.6115,213,11
+60-64,2009,current_job_dc,has THRIFT,pct_of_balances,63.5909,5.1652,213,11
+60-64,2009,current_job_dc,has THRIFT,incidence_per100,6.1071,2.0031,213,11
+60-64,2009,current_job_dc,has THRIFT,rate_pct,0.2034,0.0805,213,11
+60-64,2009,current_job_dc,has THRIFT,rate_ira_part_pct,0.1348,0.0599,213,11
+60-64,2009,current_job_dc,has THRIFT,rate_pension_part_pct,0.0686,0.0501,213,11
+60-64,2009,current_job_dc,no THRIFT,pct_of_holders,45.0254,2.6115,190,39
+60-64,2009,current_job_dc,no THRIFT,pct_of_balances,36.4091,5.1652,190,39
+60-64,2009,current_job_dc,no THRIFT,incidence_per100,23.6778,2.9598,190,39
+60-64,2009,current_job_dc,no THRIFT,rate_pct,2.1984,0.4483,190,39
+60-64,2009,current_job_dc,no THRIFT,rate_ira_part_pct,1.6487,0.3966,190,39
+60-64,2009,current_job_dc,no THRIFT,rate_pension_part_pct,0.5497,0.1616,190,39
+60-64,2009,r_social_security,R gets SS,pct_of_holders,21.2738,2.3026,56,15
+60-64,2009,r_social_security,R gets SS,pct_of_balances,13.3184,3.4043,56,15
+60-64,2009,r_social_security,R gets SS,incidence_per100,26.9133,5.0424,56,15
+60-64,2009,r_social_security,R gets SS,rate_pct,2.0007,0.6298,56,15
+60-64,2009,r_social_security,R gets SS,rate_ira_part_pct,1.3764,0.4729,56,15
+60-64,2009,r_social_security,R gets SS,rate_pension_part_pct,0.6243,0.3227,56,15
+60-64,2009,r_social_security,R no SS,pct_of_holders,78.7262,2.3026,347,35
+60-64,2009,r_social_security,R no SS,pct_of_balances,86.6816,3.4043,347,35
+60-64,2009,r_social_security,R no SS,incidence_per100,10.5339,1.7108,347,35
+60-64,2009,r_social_security,R no SS,rate_pct,0.7652,0.1928,347,35
+60-64,2009,r_social_security,R no SS,rate_ira_part_pct,0.5800,0.1689,347,35
+60-64,2009,r_social_security,R no SS,rate_pension_part_pct,0.1853,0.0612,347,35
+60-64,2009,db_pension,DB,pct_of_holders,49.7867,2.1912,167,27
+60-64,2009,db_pension,DB,pct_of_balances,44.8449,5.0891,167,27
+60-64,2009,db_pension,DB,incidence_per100,18.7722,2.9553,167,27
+60-64,2009,db_pension,DB,rate_pct,1.1213,0.2977,167,27
+60-64,2009,db_pension,DB,rate_ira_part_pct,0.9043,0.2809,167,27
+60-64,2009,db_pension,DB,rate_pension_part_pct,0.2170,0.0826,167,27
+60-64,2009,db_pension,no DB,pct_of_holders,50.2133,2.1912,236,22
+60-64,2009,db_pension,no DB,pct_of_balances,55.1551,5.0891,236,22
+60-64,2009,db_pension,no DB,incidence_per100,9.3050,1.8872,236,22
+60-64,2009,db_pension,no DB,rate_pct,0.7741,0.1957,236,22
+60-64,2009,db_pension,no DB,rate_ira_part_pct,0.5086,0.1440,236,22
+60-64,2009,db_pension,no DB,rate_pension_part_pct,0.2655,0.1029,236,22
+60-64,2009,work_x_thrift,not working no THRIFT,pct_of_holders,14.1027,1.5974,51,15
+60-64,2009,work_x_thrift,not working no THRIFT,pct_of_balances,11.5045,2.1340,51,15
+60-64,2009,work_x_thrift,not working no THRIFT,incidence_per100,33.2180,5.0805,51,15
+60-64,2009,work_x_thrift,not working no THRIFT,rate_pct,2.7457,0.7207,51,15
+60-64,2009,work_x_thrift,not working no THRIFT,rate_ira_part_pct,2.1652,0.6605,51,15
+60-64,2009,work_x_thrift,not working no THRIFT,rate_pension_part_pct,0.5805,0.2407,51,15
+60-64,2009,work_x_thrift,working + THRIFT,pct_of_holders,54.9746,2.6115,213,11
+60-64,2009,work_x_thrift,working + THRIFT,pct_of_balances,63.5909,5.1652,213,11
+60-64,2009,work_x_thrift,working + THRIFT,incidence_per100,6.1071,2.0031,213,11
+60-64,2009,work_x_thrift,working + THRIFT,rate_pct,0.2034,0.0805,213,11
+60-64,2009,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.1348,0.0599,213,11
+60-64,2009,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0686,0.0501,213,11
+60-64,2009,work_x_thrift,working no THRIFT,pct_of_holders,30.9227,2.0895,139,24
+60-64,2009,work_x_thrift,working no THRIFT,pct_of_balances,24.9047,4.6633,139,24
+60-64,2009,work_x_thrift,working no THRIFT,incidence_per100,19.3269,3.3396,139,24
+60-64,2009,work_x_thrift,working no THRIFT,rate_pct,1.9456,0.5505,139,24
+60-64,2009,work_x_thrift,working no THRIFT,rate_ira_part_pct,1.4102,0.4706,139,24
+60-64,2009,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.5355,0.2067,139,24
+60-64,2012,r_or_spouse_working,working,pct_of_holders,83.7801,1.7429,343,31
+60-64,2012,r_or_spouse_working,working,pct_of_balances,78.3776,3.2804,343,31
+60-64,2012,r_or_spouse_working,working,incidence_per100,10.7186,1.6297,343,31
+60-64,2012,r_or_spouse_working,working,rate_pct,0.6732,0.1486,343,31
+60-64,2012,r_or_spouse_working,working,rate_ira_part_pct,0.5925,0.1476,343,31
+60-64,2012,r_or_spouse_working,working,rate_pension_part_pct,0.0806,0.0358,343,31
+60-64,2012,r_or_spouse_working,neither working,pct_of_holders,16.2199,1.7429,62,24
+60-64,2012,r_or_spouse_working,neither working,pct_of_balances,21.6224,3.2804,62,24
+60-64,2012,r_or_spouse_working,neither working,incidence_per100,40.7030,5.2416,62,24
+60-64,2012,r_or_spouse_working,neither working,rate_pct,3.7741,0.7600,62,24
+60-64,2012,r_or_spouse_working,neither working,rate_ira_part_pct,2.9601,0.7063,62,24
+60-64,2012,r_or_spouse_working,neither working,rate_pension_part_pct,0.8140,0.4037,62,24
+60-64,2012,r_working,R working,pct_of_holders,73.2715,2.1835,311,25
+60-64,2012,r_working,R working,pct_of_balances,71.5122,3.6009,311,25
+60-64,2012,r_working,R working,incidence_per100,10.0793,1.7317,311,25
+60-64,2012,r_working,R working,rate_pct,0.6789,0.1625,311,25
+60-64,2012,r_working,R working,rate_ira_part_pct,0.6139,0.1604,311,25
+60-64,2012,r_working,R working,rate_pension_part_pct,0.0650,0.0349,311,25
+60-64,2012,r_working,R not working,pct_of_holders,26.7285,2.1835,94,29
+60-64,2012,r_working,R not working,pct_of_balances,28.4878,3.6009,94,29
+60-64,2012,r_working,R not working,incidence_per100,30.6669,4.0507,94,29
+60-64,2012,r_working,R not working,rate_pct,3.0123,0.5906,94,29
+60-64,2012,r_working,R not working,rate_ira_part_pct,2.3359,0.5280,94,29
+60-64,2012,r_working,R not working,rate_pension_part_pct,0.6765,0.3191,94,29
+60-64,2012,account_type,IRA only,pct_of_holders,39.6472,2.1824,167,31
+60-64,2012,account_type,IRA only,pct_of_balances,28.8442,3.3170,167,31
+60-64,2012,account_type,IRA only,incidence_per100,21.1237,2.8770,167,31
+60-64,2012,account_type,IRA only,rate_pct,2.9528,0.5508,167,31
+60-64,2012,account_type,IRA only,rate_ira_part_pct,2.9528,0.5508,167,31
+60-64,2012,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,167,31
+60-64,2012,account_type,IRA and DC,pct_of_holders,28.9594,2.5561,141,19
+60-64,2012,account_type,IRA and DC,pct_of_balances,54.0410,4.1801,141,19
+60-64,2012,account_type,IRA and DC,incidence_per100,20.1464,3.8039,141,19
+60-64,2012,account_type,IRA and DC,rate_pct,0.8522,0.2226,141,19
+60-64,2012,account_type,IRA and DC,rate_ira_part_pct,0.4677,0.1534,141,19
+60-64,2012,account_type,IRA and DC,rate_pension_part_pct,0.3845,0.1787,141,19
+60-64,2012,account_type,DC only,pct_of_holders,31.3934,1.9899,96,4
+60-64,2012,account_type,DC only,pct_of_balances,17.1148,2.2294,96,4
+60-64,2012,account_type,DC only,incidence_per100,4.3729,1.7795,96,4
+60-64,2012,account_type,DC only,rate_pct,0.1835,0.0860,96,4
+60-64,2012,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,96,4
+60-64,2012,account_type,DC only,rate_pension_part_pct,0.1835,0.0860,96,4
+60-64,2012,current_job_dc,has THRIFT,pct_of_holders,50.2703,2.4682,202,12
+60-64,2012,current_job_dc,has THRIFT,pct_of_balances,58.2614,4.3154,202,12
+60-64,2012,current_job_dc,has THRIFT,incidence_per100,7.8295,2.1401,202,12
+60-64,2012,current_job_dc,has THRIFT,rate_pct,0.3941,0.1402,202,12
+60-64,2012,current_job_dc,has THRIFT,rate_ira_part_pct,0.3647,0.1411,202,12
+60-64,2012,current_job_dc,has THRIFT,rate_pension_part_pct,0.0293,0.0222,202,12
+60-64,2012,current_job_dc,no THRIFT,pct_of_holders,49.7297,2.4682,202,42
+60-64,2012,current_job_dc,no THRIFT,pct_of_balances,41.7386,4.3154,202,42
+60-64,2012,current_job_dc,no THRIFT,incidence_per100,23.4188,2.4093,202,42
+60-64,2012,current_job_dc,no THRIFT,rate_pct,2.6692,0.4589,202,42
+60-64,2012,current_job_dc,no THRIFT,rate_ira_part_pct,2.1370,0.4209,202,42
+60-64,2012,current_job_dc,no THRIFT,rate_pension_part_pct,0.5322,0.2223,202,42
+60-64,2012,r_social_security,R gets SS,pct_of_holders,18.9329,2.0103,58,17
+60-64,2012,r_social_security,R gets SS,pct_of_balances,10.8242,1.8759,58,17
+60-64,2012,r_social_security,R gets SS,incidence_per100,28.6608,5.0048,58,17
+60-64,2012,r_social_security,R gets SS,rate_pct,4.3840,1.1651,58,17
+60-64,2012,r_social_security,R gets SS,rate_ira_part_pct,3.8322,1.1373,58,17
+60-64,2012,r_social_security,R gets SS,rate_pension_part_pct,0.5518,0.3104,58,17
+60-64,2012,r_social_security,R no SS,pct_of_holders,81.0671,2.0103,347,37
+60-64,2012,r_social_security,R no SS,pct_of_balances,89.1758,1.8759,347,37
+60-64,2012,r_social_security,R no SS,incidence_per100,12.5276,1.7033,347,37
+60-64,2012,r_social_security,R no SS,rate_pct,0.9746,0.1870,347,37
+60-64,2012,r_social_security,R no SS,rate_ira_part_pct,0.7734,0.1602,347,37
+60-64,2012,r_social_security,R no SS,rate_pension_part_pct,0.2013,0.1024,347,37
+60-64,2012,db_pension,DB,pct_of_holders,51.0903,2.4599,179,24
+60-64,2012,db_pension,DB,pct_of_balances,52.4143,4.3684,179,24
+60-64,2012,db_pension,DB,incidence_per100,15.0296,2.4785,179,24
+60-64,2012,db_pension,DB,rate_pct,1.0386,0.2036,179,24
+60-64,2012,db_pension,DB,rate_ira_part_pct,0.8704,0.1951,179,24
+60-64,2012,db_pension,DB,rate_pension_part_pct,0.1682,0.0661,179,24
+60-64,2012,db_pension,no DB,pct_of_holders,48.9097,2.4599,226,31
+60-64,2012,db_pension,no DB,pct_of_balances,47.5857,4.3684,226,31
+60-64,2012,db_pension,no DB,incidence_per100,16.1591,2.2163,226,31
+60-64,2012,db_pension,no DB,rate_pct,1.6797,0.3850,226,31
+60-64,2012,db_pension,no DB,rate_ira_part_pct,1.3623,0.3397,226,31
+60-64,2012,db_pension,no DB,rate_pension_part_pct,0.3174,0.1889,226,31
+60-64,2012,work_x_thrift,not working no THRIFT,pct_of_holders,16.2199,1.7429,62,24
+60-64,2012,work_x_thrift,not working no THRIFT,pct_of_balances,21.6224,3.2804,62,24
+60-64,2012,work_x_thrift,not working no THRIFT,incidence_per100,40.7030,5.2416,62,24
+60-64,2012,work_x_thrift,not working no THRIFT,rate_pct,3.7741,0.7600,62,24
+60-64,2012,work_x_thrift,not working no THRIFT,rate_ira_part_pct,2.9601,0.7063,62,24
+60-64,2012,work_x_thrift,not working no THRIFT,rate_pension_part_pct,0.8140,0.4037,62,24
+60-64,2012,work_x_thrift,working + THRIFT,pct_of_holders,50.2703,2.4682,202,12
+60-64,2012,work_x_thrift,working + THRIFT,pct_of_balances,58.2614,4.3154,202,12
+60-64,2012,work_x_thrift,working + THRIFT,incidence_per100,7.8295,2.1401,202,12
+60-64,2012,work_x_thrift,working + THRIFT,rate_pct,0.3941,0.1402,202,12
+60-64,2012,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.3647,0.1411,202,12
+60-64,2012,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0293,0.0222,202,12
+60-64,2012,work_x_thrift,working no THRIFT,pct_of_holders,33.5098,2.2972,140,18
+60-64,2012,work_x_thrift,working no THRIFT,pct_of_balances,20.1162,2.6830,140,18
+60-64,2012,work_x_thrift,working no THRIFT,incidence_per100,15.0527,2.6771,140,18
+60-64,2012,work_x_thrift,working no THRIFT,rate_pct,1.4816,0.4727,140,18
+60-64,2012,work_x_thrift,working no THRIFT,rate_ira_part_pct,1.2522,0.4592,140,18
+60-64,2012,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.2294,0.1225,140,18
+60-64,2015,r_or_spouse_working,working,pct_of_holders,84.0662,1.3381,408,37
+60-64,2015,r_or_spouse_working,working,pct_of_balances,85.7728,3.0181,408,37
+60-64,2015,r_or_spouse_working,working,incidence_per100,10.4426,1.3517,408,37
+60-64,2015,r_or_spouse_working,working,rate_pct,0.7037,0.1920,408,37
+60-64,2015,r_or_spouse_working,working,rate_ira_part_pct,0.4174,0.1124,408,37
+60-64,2015,r_or_spouse_working,working,rate_pension_part_pct,0.2863,0.1579,408,37
+60-64,2015,r_or_spouse_working,neither working,pct_of_holders,15.9338,1.3381,67,25
+60-64,2015,r_or_spouse_working,neither working,pct_of_balances,14.2272,3.0181,67,25
+60-64,2015,r_or_spouse_working,neither working,incidence_per100,46.0131,5.0132,67,25
+60-64,2015,r_or_spouse_working,neither working,rate_pct,3.8695,1.2647,67,25
+60-64,2015,r_or_spouse_working,neither working,rate_ira_part_pct,1.9616,0.6180,67,25
+60-64,2015,r_or_spouse_working,neither working,rate_pension_part_pct,1.9079,0.7098,67,25
+60-64,2015,r_working,R working,pct_of_holders,74.7388,1.8179,372,29
+60-64,2015,r_working,R working,pct_of_balances,79.1341,3.2635,372,29
+60-64,2015,r_working,R working,incidence_per100,8.4909,1.3127,372,29
+60-64,2015,r_working,R working,rate_pct,0.5927,0.1846,372,29
+60-64,2015,r_working,R working,rate_ira_part_pct,0.3729,0.1193,372,29
+60-64,2015,r_working,R working,rate_pension_part_pct,0.2198,0.1541,372,29
+60-64,2015,r_working,R not working,pct_of_holders,25.2612,1.8179,103,33
+60-64,2015,r_working,R not working,pct_of_balances,20.8659,3.2635,103,33
+60-64,2015,r_working,R not working,incidence_per100,38.6537,3.8164,103,33
+60-64,2015,r_working,R not working,rate_pct,3.2831,0.9022,103,33
+60-64,2015,r_working,R not working,rate_ira_part_pct,1.6390,0.4079,103,33
+60-64,2015,r_working,R not working,rate_pension_part_pct,1.6441,0.5574,103,33
+60-64,2015,account_type,IRA only,pct_of_holders,33.3772,1.9022,170,31
+60-64,2015,account_type,IRA only,pct_of_balances,26.2070,3.5332,170,31
+60-64,2015,account_type,IRA only,incidence_per100,25.1605,3.1989,170,31
+60-64,2015,account_type,IRA only,rate_pct,1.4565,0.4052,170,31
+60-64,2015,account_type,IRA only,rate_ira_part_pct,1.4565,0.4052,170,31
+60-64,2015,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,170,31
+60-64,2015,account_type,IRA and DC,pct_of_holders,33.9487,2.1956,190,24
+60-64,2015,account_type,IRA and DC,pct_of_balances,56.4913,4.2563,190,24
+60-64,2015,account_type,IRA and DC,incidence_per100,17.2300,2.5643,190,24
+60-64,2015,account_type,IRA and DC,rate_pct,0.9983,0.3377,190,24
+60-64,2015,account_type,IRA and DC,rate_ira_part_pct,0.4520,0.1643,190,24
+60-64,2015,account_type,IRA and DC,rate_pension_part_pct,0.5463,0.2068,190,24
+60-64,2015,account_type,DC only,pct_of_holders,32.6740,1.8666,114,7
+60-64,2015,account_type,DC only,pct_of_balances,17.3017,3.5220,114,7
+60-64,2015,account_type,DC only,incidence_per100,5.7022,1.8018,114,7
+60-64,2015,account_type,DC only,rate_pct,1.2046,0.5282,114,7
+60-64,2015,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,114,7
+60-64,2015,account_type,DC only,rate_pension_part_pct,1.2046,0.5282,114,7
+60-64,2015,current_job_dc,has THRIFT,pct_of_holders,55.0142,1.9951,257,15
+60-64,2015,current_job_dc,has THRIFT,pct_of_balances,60.2020,4.2827,257,15
+60-64,2015,current_job_dc,has THRIFT,incidence_per100,5.6549,1.1182,257,15
+60-64,2015,current_job_dc,has THRIFT,rate_pct,0.1827,0.0512,257,15
+60-64,2015,current_job_dc,has THRIFT,rate_ira_part_pct,0.1446,0.0463,257,15
+60-64,2015,current_job_dc,has THRIFT,rate_pension_part_pct,0.0381,0.0225,257,15
+60-64,2015,current_job_dc,no THRIFT,pct_of_holders,44.9858,1.9951,218,47
+60-64,2015,current_job_dc,no THRIFT,pct_of_balances,39.7980,4.2827,218,47
+60-64,2015,current_job_dc,no THRIFT,incidence_per100,28.8967,2.7571,218,47
+60-64,2015,current_job_dc,no THRIFT,rate_pct,2.6235,0.5523,218,47
+60-64,2015,current_job_dc,no THRIFT,rate_ira_part_pct,1.3821,0.3475,218,47
+60-64,2015,current_job_dc,no THRIFT,rate_pension_part_pct,1.2414,0.3634,218,47
+60-64,2015,r_social_security,R gets SS,pct_of_holders,19.1808,1.5629,64,26
+60-64,2015,r_social_security,R gets SS,pct_of_balances,8.6763,1.4704,64,26
+60-64,2015,r_social_security,R gets SS,incidence_per100,45.9009,4.7667,64,26
+60-64,2015,r_social_security,R gets SS,rate_pct,6.4704,1.5894,64,26
+60-64,2015,r_social_security,R gets SS,rate_ira_part_pct,3.1751,0.6793,64,26
+60-64,2015,r_social_security,R gets SS,rate_pension_part_pct,3.2953,1.0650,64,26
+60-64,2015,r_social_security,R no SS,pct_of_holders,80.8192,1.5629,411,36
+60-64,2015,r_social_security,R no SS,pct_of_balances,91.3237,1.4704,411,36
+60-64,2015,r_social_security,R no SS,incidence_per100,9.0402,1.4621,411,36
+60-64,2015,r_social_security,R no SS,rate_pct,0.6490,0.2000,411,36
+60-64,2015,r_social_security,R no SS,rate_ira_part_pct,0.3959,0.1367,411,36
+60-64,2015,r_social_security,R no SS,rate_pension_part_pct,0.2531,0.1356,411,36
+60-64,2015,db_pension,DB,pct_of_holders,45.5653,2.4697,181,24
+60-64,2015,db_pension,DB,pct_of_balances,43.9086,4.4072,181,24
+60-64,2015,db_pension,DB,incidence_per100,13.8425,2.0660,181,24
+60-64,2015,db_pension,DB,rate_pct,1.3819,0.4054,181,24
+60-64,2015,db_pension,DB,rate_ira_part_pct,0.6662,0.1981,181,24
+60-64,2015,db_pension,DB,rate_pension_part_pct,0.7158,0.2994,181,24
+60-64,2015,db_pension,no DB,pct_of_holders,54.4347,2.4697,293,38
+60-64,2015,db_pension,no DB,pct_of_balances,56.0914,4.4072,293,38
+60-64,2015,db_pension,no DB,incidence_per100,18.0087,1.7614,293,38
+60-64,2015,db_pension,no DB,rate_pct,0.9757,0.2371,293,38
+60-64,2015,db_pension,no DB,rate_ira_part_pct,0.6143,0.1586,293,38
+60-64,2015,db_pension,no DB,rate_pension_part_pct,0.3614,0.1430,293,38
+60-64,2015,work_x_thrift,not working no THRIFT,pct_of_holders,15.9338,1.3381,67,25
+60-64,2015,work_x_thrift,not working no THRIFT,pct_of_balances,14.2272,3.0181,67,25
+60-64,2015,work_x_thrift,not working no THRIFT,incidence_per100,46.0131,5.0132,67,25
+60-64,2015,work_x_thrift,not working no THRIFT,rate_pct,3.8695,1.2647,67,25
+60-64,2015,work_x_thrift,not working no THRIFT,rate_ira_part_pct,1.9616,0.6180,67,25
+60-64,2015,work_x_thrift,not working no THRIFT,rate_pension_part_pct,1.9079,0.7098,67,25
+60-64,2015,work_x_thrift,working + THRIFT,pct_of_holders,55.0142,1.9951,257,15
+60-64,2015,work_x_thrift,working + THRIFT,pct_of_balances,60.2020,4.2827,257,15
+60-64,2015,work_x_thrift,working + THRIFT,incidence_per100,5.6549,1.1182,257,15
+60-64,2015,work_x_thrift,working + THRIFT,rate_pct,0.1827,0.0512,257,15
+60-64,2015,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.1446,0.0463,257,15
+60-64,2015,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0381,0.0225,257,15
+60-64,2015,work_x_thrift,working no THRIFT,pct_of_holders,29.0519,2.0132,151,22
+60-64,2015,work_x_thrift,working no THRIFT,pct_of_balances,25.5708,3.8005,151,22
+60-64,2015,work_x_thrift,working no THRIFT,incidence_per100,19.5090,3.1660,151,22
+60-64,2015,work_x_thrift,working no THRIFT,rate_pct,1.9302,0.5178,151,22
+60-64,2015,work_x_thrift,working no THRIFT,rate_ira_part_pct,1.0596,0.3756,151,22
+60-64,2015,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.8706,0.4496,151,22
+60-64,2018,r_or_spouse_working,working,pct_of_holders,88.3890,1.5552,366,44
+60-64,2018,r_or_spouse_working,working,pct_of_balances,86.2390,3.0570,366,44
+60-64,2018,r_or_spouse_working,working,incidence_per100,12.7532,1.7433,366,44
+60-64,2018,r_or_spouse_working,working,rate_pct,0.6398,0.1729,366,44
+60-64,2018,r_or_spouse_working,working,rate_ira_part_pct,0.5672,0.1680,366,44
+60-64,2018,r_or_spouse_working,working,rate_pension_part_pct,0.0725,0.0260,366,44
+60-64,2018,r_or_spouse_working,neither working,pct_of_holders,11.6110,1.5552,44,13
+60-64,2018,r_or_spouse_working,neither working,pct_of_balances,13.7610,3.0570,44,13
+60-64,2018,r_or_spouse_working,neither working,incidence_per100,43.6850,6.6298,44,13
+60-64,2018,r_or_spouse_working,neither working,rate_pct,2.1455,0.6850,44,13
+60-64,2018,r_or_spouse_working,neither working,rate_ira_part_pct,1.4448,0.6275,44,13
+60-64,2018,r_or_spouse_working,neither working,rate_pension_part_pct,0.7007,0.3179,44,13
+60-64,2018,r_working,R working,pct_of_holders,77.7931,2.4601,329,41
+60-64,2018,r_working,R working,pct_of_balances,77.3255,4.0068,329,41
+60-64,2018,r_working,R working,incidence_per100,13.0883,1.7832,329,41
+60-64,2018,r_working,R working,rate_pct,0.6607,0.1908,329,41
+60-64,2018,r_working,R working,rate_ira_part_pct,0.5873,0.1847,329,41
+60-64,2018,r_working,R working,rate_pension_part_pct,0.0734,0.0300,329,41
+60-64,2018,r_working,R not working,pct_of_holders,22.2069,2.4601,81,16
+60-64,2018,r_working,R not working,pct_of_balances,22.6745,4.0068,81,16
+60-64,2018,r_working,R not working,incidence_per100,27.7522,4.7805,81,16
+60-64,2018,r_working,R not working,rate_pct,1.4822,0.4188,81,16
+60-64,2018,r_working,R not working,rate_ira_part_pct,1.0313,0.3872,81,16
+60-64,2018,r_working,R not working,rate_pension_part_pct,0.4509,0.1843,81,16
+60-64,2018,account_type,IRA only,pct_of_holders,23.2131,1.9246,117,24
+60-64,2018,account_type,IRA only,pct_of_balances,24.8294,3.2236,117,24
+60-64,2018,account_type,IRA only,incidence_per100,28.1847,4.1011,117,24
+60-64,2018,account_type,IRA only,rate_pct,2.1178,0.5151,117,24
+60-64,2018,account_type,IRA only,rate_ira_part_pct,2.1178,0.5151,117,24
+60-64,2018,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,117,24
+60-64,2018,account_type,IRA and DC,pct_of_holders,31.9620,2.5985,166,23
+60-64,2018,account_type,IRA and DC,pct_of_balances,54.1196,4.6042,166,23
+60-64,2018,account_type,IRA and DC,incidence_per100,16.2207,2.8199,166,23
+60-64,2018,account_type,IRA and DC,rate_pct,0.3546,0.1165,166,23
+60-64,2018,account_type,IRA and DC,rate_ira_part_pct,0.2997,0.1131,166,23
+60-64,2018,account_type,IRA and DC,rate_pension_part_pct,0.0549,0.0283,166,23
+60-64,2018,account_type,DC only,pct_of_holders,44.8249,2.5584,126,10
+60-64,2018,account_type,DC only,pct_of_balances,21.0510,3.2065,126,10
+60-64,2018,account_type,DC only,incidence_per100,10.3017,2.5390,126,10
+60-64,2018,account_type,DC only,rate_pct,0.6141,0.1854,126,10
+60-64,2018,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,126,10
+60-64,2018,account_type,DC only,rate_pension_part_pct,0.6141,0.1854,126,10
+60-64,2018,current_job_dc,has THRIFT,pct_of_holders,64.5946,2.5152,250,19
+60-64,2018,current_job_dc,has THRIFT,pct_of_balances,64.1308,3.9392,250,19
+60-64,2018,current_job_dc,has THRIFT,incidence_per100,8.1953,1.7568,250,19
+60-64,2018,current_job_dc,has THRIFT,rate_pct,0.2357,0.0861,250,19
+60-64,2018,current_job_dc,has THRIFT,rate_ira_part_pct,0.1958,0.0834,250,19
+60-64,2018,current_job_dc,has THRIFT,rate_pension_part_pct,0.0399,0.0211,250,19
+60-64,2018,current_job_dc,no THRIFT,pct_of_holders,35.4054,2.5152,160,38
+60-64,2018,current_job_dc,no THRIFT,pct_of_balances,35.8692,3.9392,160,38
+60-64,2018,current_job_dc,no THRIFT,incidence_per100,31.2126,3.6747,160,38
+60-64,2018,current_job_dc,no THRIFT,rate_pct,1.9400,0.3903,160,38
+60-64,2018,current_job_dc,no THRIFT,rate_ira_part_pct,1.5681,0.3891,160,38
+60-64,2018,current_job_dc,no THRIFT,rate_pension_part_pct,0.3719,0.1176,160,38
+60-64,2018,r_social_security,R gets SS,pct_of_holders,17.0916,1.9381,48,13
+60-64,2018,r_social_security,R gets SS,pct_of_balances,10.7108,2.2150,48,13
+60-64,2018,r_social_security,R gets SS,incidence_per100,27.2717,5.0343,48,13
+60-64,2018,r_social_security,R gets SS,rate_pct,2.2758,0.7308,48,13
+60-64,2018,r_social_security,R gets SS,rate_ira_part_pct,1.8867,0.7620,48,13
+60-64,2018,r_social_security,R gets SS,rate_pension_part_pct,0.3891,0.1712,48,13
+60-64,2018,r_social_security,R no SS,pct_of_holders,82.9084,1.9381,362,44
+60-64,2018,r_social_security,R no SS,pct_of_balances,89.2892,2.2150,362,44
+60-64,2018,r_social_security,R no SS,incidence_per100,14.0921,1.9711,362,44
+60-64,2018,r_social_security,R no SS,rate_pct,0.6756,0.1721,362,44
+60-64,2018,r_social_security,R no SS,rate_ira_part_pct,0.5442,0.1643,362,44
+60-64,2018,r_social_security,R no SS,rate_pension_part_pct,0.1314,0.0456,362,44
+60-64,2018,db_pension,DB,pct_of_holders,41.2563,2.6265,137,26
+60-64,2018,db_pension,DB,pct_of_balances,42.8875,4.1911,137,26
+60-64,2018,db_pension,DB,incidence_per100,19.0747,3.2079,137,26
+60-64,2018,db_pension,DB,rate_pct,0.7462,0.1673,137,26
+60-64,2018,db_pension,DB,rate_ira_part_pct,0.5620,0.1489,137,26
+60-64,2018,db_pension,DB,rate_pension_part_pct,0.1842,0.0872,137,26
+60-64,2018,db_pension,no DB,pct_of_holders,58.7437,2.6265,273,31
+60-64,2018,db_pension,no DB,pct_of_balances,57.1125,4.1911,273,31
+60-64,2018,db_pension,no DB,incidence_per100,14.4274,2.0858,273,31
+60-64,2018,db_pension,no DB,rate_pct,0.9227,0.2725,273,31
+60-64,2018,db_pension,no DB,rate_ira_part_pct,0.7826,0.2673,273,31
+60-64,2018,db_pension,no DB,rate_pension_part_pct,0.1401,0.0449,273,31
+60-64,2018,work_x_thrift,not working no THRIFT,pct_of_holders,11.6110,1.5552,44,13
+60-64,2018,work_x_thrift,not working no THRIFT,pct_of_balances,13.7610,3.0570,44,13
+60-64,2018,work_x_thrift,not working no THRIFT,incidence_per100,43.6850,6.6298,44,13
+60-64,2018,work_x_thrift,not working no THRIFT,rate_pct,2.1455,0.6850,44,13
+60-64,2018,work_x_thrift,not working no THRIFT,rate_ira_part_pct,1.4448,0.6275,44,13
+60-64,2018,work_x_thrift,not working no THRIFT,rate_pension_part_pct,0.7007,0.3179,44,13
+60-64,2018,work_x_thrift,working + THRIFT,pct_of_holders,64.5946,2.5152,250,19
+60-64,2018,work_x_thrift,working + THRIFT,pct_of_balances,64.1308,3.9392,250,19
+60-64,2018,work_x_thrift,working + THRIFT,incidence_per100,8.1953,1.7568,250,19
+60-64,2018,work_x_thrift,working + THRIFT,rate_pct,0.2357,0.0861,250,19
+60-64,2018,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.1958,0.0834,250,19
+60-64,2018,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0399,0.0211,250,19
+60-64,2018,work_x_thrift,working no THRIFT,pct_of_holders,23.7945,2.0956,116,25
+60-64,2018,work_x_thrift,working no THRIFT,pct_of_balances,22.1082,3.1856,116,25
+60-64,2018,work_x_thrift,working no THRIFT,incidence_per100,25.1265,4.6492,116,25
+60-64,2018,work_x_thrift,working no THRIFT,rate_pct,1.8120,0.5251,116,25
+60-64,2018,work_x_thrift,working no THRIFT,rate_ira_part_pct,1.6449,0.5277,116,25
+60-64,2018,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.1672,0.0824,116,25
+60-64,2021,r_or_spouse_working,working,pct_of_holders,85.2411,1.7998,305,25
+60-64,2021,r_or_spouse_working,working,pct_of_balances,82.0006,4.2555,305,25
+60-64,2021,r_or_spouse_working,working,incidence_per100,8.0740,1.2749,305,25
+60-64,2021,r_or_spouse_working,working,rate_pct,0.2479,0.0837,305,25
+60-64,2021,r_or_spouse_working,working,rate_ira_part_pct,0.2138,0.0798,305,25
+60-64,2021,r_or_spouse_working,working,rate_pension_part_pct,0.0341,0.0288,305,25
+60-64,2021,r_or_spouse_working,neither working,pct_of_holders,14.7589,1.7998,49,16
+60-64,2021,r_or_spouse_working,neither working,pct_of_balances,17.9994,4.2555,49,16
+60-64,2021,r_or_spouse_working,neither working,incidence_per100,47.5371,7.9427,49,16
+60-64,2021,r_or_spouse_working,neither working,rate_pct,2.0960,0.6074,49,16
+60-64,2021,r_or_spouse_working,neither working,rate_ira_part_pct,1.2175,0.4545,49,16
+60-64,2021,r_or_spouse_working,neither working,rate_pension_part_pct,0.8784,0.4558,49,16
+60-64,2021,r_working,R working,pct_of_holders,76.3200,2.5662,284,19
+60-64,2021,r_working,R working,pct_of_balances,72.9492,4.9954,284,19
+60-64,2021,r_working,R working,incidence_per100,6.3694,1.5497,284,19
+60-64,2021,r_working,R working,rate_pct,0.1867,0.0864,284,19
+60-64,2021,r_working,R working,rate_ira_part_pct,0.1821,0.0860,284,19
+60-64,2021,r_working,R working,rate_pension_part_pct,0.0047,0.0041,284,19
+60-64,2021,r_working,R not working,pct_of_holders,23.6800,2.5662,70,22
+60-64,2021,r_working,R not working,pct_of_balances,27.0508,4.9954,70,22
+60-64,2021,r_working,R not working,incidence_per100,38.1641,6.2334,70,22
+60-64,2021,r_working,R not working,rate_pct,1.6425,0.4182,70,22
+60-64,2021,r_working,R not working,rate_ira_part_pct,0.9673,0.2928,70,22
+60-64,2021,r_working,R not working,rate_pension_part_pct,0.6752,0.3063,70,22
+60-64,2021,account_type,IRA only,pct_of_holders,27.8197,2.9036,111,24
+60-64,2021,account_type,IRA only,pct_of_balances,23.6318,4.4455,111,24
+60-64,2021,account_type,IRA only,incidence_per100,33.1945,5.5802,111,24
+60-64,2021,account_type,IRA only,rate_pct,1.5248,0.4197,111,24
+60-64,2021,account_type,IRA only,rate_ira_part_pct,1.5248,0.4197,111,24
+60-64,2021,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,111,24
+60-64,2021,account_type,IRA and DC,pct_of_holders,29.8769,2.5662,136,11
+60-64,2021,account_type,IRA and DC,pct_of_balances,57.7666,5.7742,136,11
+60-64,2021,account_type,IRA and DC,incidence_per100,10.0015,2.7978,136,11
+60-64,2021,account_type,IRA and DC,rate_pct,0.2035,0.0949,136,11
+60-64,2021,account_type,IRA and DC,rate_ira_part_pct,0.0591,0.0329,136,11
+60-64,2021,account_type,IRA and DC,rate_pension_part_pct,0.1443,0.0933,136,11
+60-64,2021,account_type,DC only,pct_of_holders,42.3035,2.8847,106,5
+60-64,2021,account_type,DC only,pct_of_balances,18.6015,3.5042,106,5
+60-64,2021,account_type,DC only,incidence_per100,3.9610,1.4781,106,5
+60-64,2021,account_type,DC only,rate_pct,0.5519,0.4395,106,5
+60-64,2021,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,106,5
+60-64,2021,account_type,DC only,rate_pension_part_pct,0.5519,0.4395,106,5
+60-64,2021,current_job_dc,has THRIFT,pct_of_holders,59.8709,2.8226,211,7
+60-64,2021,current_job_dc,has THRIFT,pct_of_balances,60.2283,5.2470,211,7
+60-64,2021,current_job_dc,has THRIFT,incidence_per100,1.8794,0.8575,211,7
+60-64,2021,current_job_dc,has THRIFT,rate_pct,0.0480,0.0296,211,7
+60-64,2021,current_job_dc,has THRIFT,rate_ira_part_pct,0.0439,0.0294,211,7
+60-64,2021,current_job_dc,has THRIFT,rate_pension_part_pct,0.0041,0.0032,211,7
+60-64,2021,current_job_dc,no THRIFT,pct_of_holders,40.1291,2.8226,142,34
+60-64,2021,current_job_dc,no THRIFT,pct_of_balances,39.7717,5.2470,142,34
+60-64,2021,current_job_dc,no THRIFT,incidence_per100,31.8301,4.4431,142,34
+60-64,2021,current_job_dc,no THRIFT,rate_pct,1.3869,0.2715,142,34
+60-64,2021,current_job_dc,no THRIFT,rate_ira_part_pct,0.9254,0.2746,142,34
+60-64,2021,current_job_dc,no THRIFT,rate_pension_part_pct,0.4615,0.1745,142,34
+60-64,2021,r_social_security,R gets SS,pct_of_holders,13.5468,2.3159,29,10
+60-64,2021,r_social_security,R gets SS,pct_of_balances,9.4124,2.9948,29,10
+60-64,2021,r_social_security,R gets SS,incidence_per100,37.3851,9.0859,29,10
+60-64,2021,r_social_security,R gets SS,rate_pct,1.7946,0.9939,29,10
+60-64,2021,r_social_security,R gets SS,rate_ira_part_pct,1.2065,0.5656,29,10
+60-64,2021,r_social_security,R gets SS,rate_pension_part_pct,0.5882,0.8321,29,10
+60-64,2021,r_social_security,R no SS,pct_of_holders,86.4532,2.3159,325,31
+60-64,2021,r_social_security,R no SS,pct_of_balances,90.5876,2.9948,325,31
+60-64,2021,r_social_security,R no SS,incidence_per100,10.2181,1.8328,325,31
+60-64,2021,r_social_security,R no SS,rate_pct,0.4544,0.1087,325,31
+60-64,2021,r_social_security,R no SS,rate_ira_part_pct,0.3101,0.0870,325,31
+60-64,2021,r_social_security,R no SS,rate_pension_part_pct,0.1443,0.0717,325,31
+60-64,2021,db_pension,DB,pct_of_holders,43.9022,3.1467,129,17
+60-64,2021,db_pension,DB,pct_of_balances,42.2746,5.4588,129,17
+60-64,2021,db_pension,DB,incidence_per100,16.4850,3.2517,129,17
+60-64,2021,db_pension,DB,rate_pct,0.4230,0.1365,129,17
+60-64,2021,db_pension,DB,rate_ira_part_pct,0.3508,0.1216,129,17
+60-64,2021,db_pension,DB,rate_pension_part_pct,0.0721,0.0549,129,17
+60-64,2021,db_pension,no DB,pct_of_holders,56.0978,3.1467,225,24
+60-64,2021,db_pension,no DB,pct_of_balances,57.7254,5.4588,225,24
+60-64,2021,db_pension,no DB,incidence_per100,11.8741,2.5983,225,24
+60-64,2021,db_pension,no DB,rate_pct,0.6959,0.1793,225,24
+60-64,2021,db_pension,no DB,rate_ira_part_pct,0.4264,0.1444,225,24
+60-64,2021,db_pension,no DB,rate_pension_part_pct,0.2695,0.1210,225,24
+60-64,2021,work_x_thrift,not working no THRIFT,pct_of_holders,14.7589,1.7998,49,16
+60-64,2021,work_x_thrift,not working no THRIFT,pct_of_balances,17.9994,4.2555,49,16
+60-64,2021,work_x_thrift,not working no THRIFT,incidence_per100,47.5371,7.9427,49,16
+60-64,2021,work_x_thrift,not working no THRIFT,rate_pct,2.0960,0.6074,49,16
+60-64,2021,work_x_thrift,not working no THRIFT,rate_ira_part_pct,1.2175,0.4545,49,16
+60-64,2021,work_x_thrift,not working no THRIFT,rate_pension_part_pct,0.8784,0.4558,49,16
+60-64,2021,work_x_thrift,working + THRIFT,pct_of_holders,59.8709,2.8226,211,7
+60-64,2021,work_x_thrift,working + THRIFT,pct_of_balances,60.2283,5.2470,211,7
+60-64,2021,work_x_thrift,working + THRIFT,incidence_per100,1.8794,0.8575,211,7
+60-64,2021,work_x_thrift,working + THRIFT,rate_pct,0.0480,0.0296,211,7
+60-64,2021,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.0439,0.0294,211,7
+60-64,2021,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0041,0.0032,211,7
+60-64,2021,work_x_thrift,working no THRIFT,pct_of_holders,25.3701,2.6076,93,18
+60-64,2021,work_x_thrift,working no THRIFT,pct_of_balances,21.7723,4.9297,93,18
+60-64,2021,work_x_thrift,working no THRIFT,incidence_per100,22.6926,3.9557,93,18
+60-64,2021,work_x_thrift,working no THRIFT,rate_pct,0.8008,0.3474,93,18
+60-64,2021,work_x_thrift,working no THRIFT,rate_ira_part_pct,0.6839,0.3374,93,18
+60-64,2021,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.1169,0.1105,93,18
+60-64,2003/06,r_or_spouse_working,working,pct_of_holders,81.0245,1.7739,508,41
+60-64,2003/06,r_or_spouse_working,working,pct_of_balances,82.9128,2.8628,508,41
+60-64,2003/06,r_or_spouse_working,working,incidence_per100,11.9858,1.7471,508,41
+60-64,2003/06,r_or_spouse_working,working,rate_pct,0.9748,0.2396,508,41
+60-64,2003/06,r_or_spouse_working,working,rate_ira_part_pct,0.5493,0.1237,508,41
+60-64,2003/06,r_or_spouse_working,working,rate_pension_part_pct,0.4254,0.2086,508,41
+60-64,2003/06,r_or_spouse_working,neither working,pct_of_holders,18.9755,1.7739,94,19
+60-64,2003/06,r_or_spouse_working,neither working,pct_of_balances,17.0872,2.8628,94,19
+60-64,2003/06,r_or_spouse_working,neither working,incidence_per100,31.0775,4.9337,94,19
+60-64,2003/06,r_or_spouse_working,neither working,rate_pct,4.4985,1.7828,94,19
+60-64,2003/06,r_or_spouse_working,neither working,rate_ira_part_pct,0.9920,0.2840,94,19
+60-64,2003/06,r_or_spouse_working,neither working,rate_pension_part_pct,3.5065,1.8082,94,19
+60-64,2003/06,r_working,R working,pct_of_holders,70.2416,1.9862,467,35
+60-64,2003/06,r_working,R working,pct_of_balances,74.8994,3.3638,467,35
+60-64,2003/06,r_working,R working,incidence_per100,10.9765,1.7691,467,35
+60-64,2003/06,r_working,R working,rate_pct,0.8315,0.2408,467,35
+60-64,2003/06,r_working,R working,rate_ira_part_pct,0.3606,0.0892,467,35
+60-64,2003/06,r_working,R working,rate_pension_part_pct,0.4709,0.2302,467,35
+60-64,2003/06,r_working,R not working,pct_of_holders,29.7584,1.9862,134,25
+60-64,2003/06,r_working,R not working,pct_of_balances,25.1006,3.3638,134,25
+60-64,2003/06,r_working,R not working,incidence_per100,26.5422,3.4995,134,25
+60-64,2003/06,r_working,R not working,rate_pct,3.8009,1.2664,134,25
+60-64,2003/06,r_working,R not working,rate_ira_part_pct,1.4139,0.3870,134,25
+60-64,2003/06,r_working,R not working,rate_pension_part_pct,2.3871,1.2635,134,25
+60-64,2003/06,account_type,IRA only,pct_of_holders,42.8752,2.5061,284,37
+60-64,2003/06,account_type,IRA only,pct_of_balances,32.7787,3.7643,284,37
+60-64,2003/06,account_type,IRA only,incidence_per100,22.7625,2.4555,284,37
+60-64,2003/06,account_type,IRA only,rate_pct,1.4855,0.2586,284,37
+60-64,2003/06,account_type,IRA only,rate_ira_part_pct,1.4855,0.2586,284,37
+60-64,2003/06,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,284,37
+60-64,2003/06,account_type,IRA and DC,pct_of_holders,30.7261,2.4063,214,18
+60-64,2003/06,account_type,IRA and DC,pct_of_balances,55.1729,4.5243,214,18
+60-64,2003/06,account_type,IRA and DC,incidence_per100,13.2769,3.5124,214,18
+60-64,2003/06,account_type,IRA and DC,rate_pct,1.6771,0.6345,214,18
+60-64,2003/06,account_type,IRA and DC,rate_ira_part_pct,0.2502,0.1211,214,18
+60-64,2003/06,account_type,IRA and DC,rate_pension_part_pct,1.4269,0.6304,214,18
+60-64,2003/06,account_type,DC only,pct_of_holders,26.3987,2.1323,103,5
+60-64,2003/06,account_type,DC only,pct_of_balances,12.0485,2.0991,103,5
+60-64,2003/06,account_type,DC only,incidence_per100,6.7036,2.4773,103,5
+60-64,2003/06,account_type,DC only,rate_pct,1.3666,0.6485,103,5
+60-64,2003/06,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,103,5
+60-64,2003/06,account_type,DC only,rate_pension_part_pct,1.3666,0.6485,103,5
+60-64,2003/06,current_job_dc,has THRIFT,pct_of_holders,47.6906,2.6148,272,11
+60-64,2003/06,current_job_dc,has THRIFT,pct_of_balances,54.4207,4.7623,272,11
+60-64,2003/06,current_job_dc,has THRIFT,incidence_per100,5.2558,1.7453,272,11
+60-64,2003/06,current_job_dc,has THRIFT,rate_pct,0.4888,0.2279,272,11
+60-64,2003/06,current_job_dc,has THRIFT,rate_ira_part_pct,0.2466,0.1179,272,11
+60-64,2003/06,current_job_dc,has THRIFT,rate_pension_part_pct,0.2422,0.2003,272,11
+60-64,2003/06,current_job_dc,no THRIFT,pct_of_holders,52.3094,2.6148,330,49
+60-64,2003/06,current_job_dc,no THRIFT,pct_of_balances,45.5793,4.7623,330,49
+60-64,2003/06,current_job_dc,no THRIFT,incidence_per100,25.0473,2.7867,330,49
+60-64,2003/06,current_job_dc,no THRIFT,rate_pct,2.8760,0.8224,330,49
+60-64,2003/06,current_job_dc,no THRIFT,rate_ira_part_pct,1.0768,0.1944,330,49
+60-64,2003/06,current_job_dc,no THRIFT,rate_pension_part_pct,1.7992,0.8186,330,49
+60-64,2003/06,r_social_security,R gets SS,pct_of_holders,26.4081,2.2440,95,25
+60-64,2003/06,r_social_security,R gets SS,pct_of_balances,16.3519,2.5015,95,25
+60-64,2003/06,r_social_security,R gets SS,incidence_per100,30.6844,3.7593,95,25
+60-64,2003/06,r_social_security,R gets SS,rate_pct,3.4295,0.6886,95,25
+60-64,2003/06,r_social_security,R gets SS,rate_ira_part_pct,2.9226,0.5228,95,25
+60-64,2003/06,r_social_security,R gets SS,rate_pension_part_pct,0.5069,0.4367,95,25
+60-64,2003/06,r_social_security,R no SS,pct_of_holders,73.5919,2.2440,507,34
+60-64,2003/06,r_social_security,R no SS,pct_of_balances,83.6481,2.5015,507,34
+60-64,2003/06,r_social_security,R no SS,incidence_per100,10.1987,1.6908,507,34
+60-64,2003/06,r_social_security,R no SS,rate_pct,1.2147,0.4189,507,34
+60-64,2003/06,r_social_security,R no SS,rate_ira_part_pct,0.1758,0.0492,507,34
+60-64,2003/06,r_social_security,R no SS,rate_pension_part_pct,1.0389,0.4175,507,34
+60-64,2003/06,db_pension,DB,pct_of_holders,50.4490,2.3076,233,27
+60-64,2003/06,db_pension,DB,pct_of_balances,55.8571,4.5630,233,27
+60-64,2003/06,db_pension,DB,incidence_per100,14.9839,2.4322,233,27
+60-64,2003/06,db_pension,DB,rate_pct,1.4830,0.5916,233,27
+60-64,2003/06,db_pension,DB,rate_ira_part_pct,0.4552,0.1254,233,27
+60-64,2003/06,db_pension,DB,rate_pension_part_pct,1.0278,0.5778,233,27
+60-64,2003/06,db_pension,no DB,pct_of_holders,49.5510,2.3076,369,33
+60-64,2003/06,db_pension,no DB,pct_of_balances,44.1429,4.5630,369,33
+60-64,2003/06,db_pension,no DB,incidence_per100,16.2446,2.6113,369,33
+60-64,2003/06,db_pension,no DB,rate_pct,1.6957,0.4368,369,33
+60-64,2003/06,db_pension,no DB,rate_ira_part_pct,0.8398,0.1811,369,33
+60-64,2003/06,db_pension,no DB,rate_pension_part_pct,0.8559,0.4111,369,33
+60-64,2003/06,work_x_thrift,not working no THRIFT,pct_of_holders,18.9755,1.7739,94,19
+60-64,2003/06,work_x_thrift,not working no THRIFT,pct_of_balances,17.0872,2.8628,94,19
+60-64,2003/06,work_x_thrift,not working no THRIFT,incidence_per100,31.0775,4.9337,94,19
+60-64,2003/06,work_x_thrift,not working no THRIFT,rate_pct,4.4985,1.7828,94,19
+60-64,2003/06,work_x_thrift,not working no THRIFT,rate_ira_part_pct,0.9920,0.2840,94,19
+60-64,2003/06,work_x_thrift,not working no THRIFT,rate_pension_part_pct,3.5065,1.8082,94,19
+60-64,2003/06,work_x_thrift,working + THRIFT,pct_of_holders,47.6906,2.6148,272,11
+60-64,2003/06,work_x_thrift,working + THRIFT,pct_of_balances,54.4207,4.7623,272,11
+60-64,2003/06,work_x_thrift,working + THRIFT,incidence_per100,5.2558,1.7453,272,11
+60-64,2003/06,work_x_thrift,working + THRIFT,rate_pct,0.4888,0.2279,272,11
+60-64,2003/06,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.2466,0.1179,272,11
+60-64,2003/06,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.2422,0.2003,272,11
+60-64,2003/06,work_x_thrift,working no THRIFT,pct_of_holders,33.3339,2.5164,236,30
+60-64,2003/06,work_x_thrift,working no THRIFT,pct_of_balances,28.4922,3.6064,236,30
+60-64,2003/06,work_x_thrift,working no THRIFT,incidence_per100,21.6145,3.6670,236,30
+60-64,2003/06,work_x_thrift,working no THRIFT,rate_pct,1.9030,0.7351,236,30
+60-64,2003/06,work_x_thrift,working no THRIFT,rate_ira_part_pct,1.1276,0.2821,236,30
+60-64,2003/06,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.7753,0.7038,236,30
+60-64,2018/21,r_or_spouse_working,working,pct_of_holders,86.7136,1.1603,672,69
+60-64,2018/21,r_or_spouse_working,working,pct_of_balances,83.8082,2.9418,672,69
+60-64,2018/21,r_or_spouse_working,working,incidence_per100,10.3052,1.0807,672,69
+60-64,2018/21,r_or_spouse_working,working,rate_pct,0.4199,0.0896,672,69
+60-64,2018/21,r_or_spouse_working,working,rate_ira_part_pct,0.3689,0.0865,672,69
+60-64,2018/21,r_or_spouse_working,working,rate_pension_part_pct,0.0510,0.0199,672,69
+60-64,2018/21,r_or_spouse_working,neither working,pct_of_holders,13.2864,1.1603,93,29
+60-64,2018/21,r_or_spouse_working,neither working,pct_of_balances,16.1918,2.9418,93,29
+60-64,2018/21,r_or_spouse_working,neither working,incidence_per100,45.9623,5.7709,93,29
+60-64,2018/21,r_or_spouse_working,neither working,rate_pct,2.1139,0.4542,93,29
+60-64,2018/21,r_or_spouse_working,neither working,rate_ira_part_pct,1.2999,0.2963,93,29
+60-64,2018/21,r_or_spouse_working,neither working,rate_pension_part_pct,0.8140,0.3169,93,29
+60-64,2018/21,r_working,R working,pct_of_holders,77.0091,1.6848,613,60
+60-64,2018/21,r_working,R working,pct_of_balances,74.8156,3.4248,613,60
+60-64,2018/21,r_working,R working,incidence_per100,9.5444,1.2371,613,60
+60-64,2018/21,r_working,R working,rate_pct,0.3957,0.0992,613,60
+60-64,2018/21,r_working,R working,rate_ira_part_pct,0.3607,0.0958,613,60
+60-64,2018/21,r_working,R working,rate_pension_part_pct,0.0350,0.0135,613,60
+60-64,2018/21,r_working,R not working,pct_of_holders,22.9909,1.6848,151,38
+60-64,2018/21,r_working,R not working,pct_of_balances,25.1844,3.4248,151,38
+60-64,2018/21,r_working,R not working,incidence_per100,33.4596,4.3690,151,38
+60-64,2018/21,r_working,R not working,rate_pct,1.5810,0.2982,151,38
+60-64,2018/21,r_working,R not working,rate_ira_part_pct,0.9919,0.1910,151,38
+60-64,2018/21,r_working,R not working,rate_pension_part_pct,0.5891,0.2100,151,38
+60-64,2018/21,account_type,IRA only,pct_of_holders,25.6647,1.7845,229,49
+60-64,2018/21,account_type,IRA only,pct_of_balances,24.1426,2.8343,229,49
+60-64,2018/21,account_type,IRA only,incidence_per100,31.0748,3.5472,229,49
+60-64,2018/21,account_type,IRA only,rate_pct,1.7849,0.3550,229,49
+60-64,2018/21,account_type,IRA only,rate_ira_part_pct,1.7849,0.3550,229,49
+60-64,2018/21,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,229,49
+60-64,2018/21,account_type,IRA and DC,pct_of_holders,30.8523,1.7879,302,34
+60-64,2018/21,account_type,IRA and DC,pct_of_balances,56.2113,3.7789,302,34
+60-64,2018/21,account_type,IRA and DC,incidence_per100,13.0154,1.9871,302,34
+60-64,2018/21,account_type,IRA and DC,rate_pct,0.2655,0.0720,302,34
+60-64,2018/21,account_type,IRA and DC,rate_ira_part_pct,0.1579,0.0518,302,34
+60-64,2018/21,account_type,IRA and DC,rate_pension_part_pct,0.1076,0.0573,302,34
+60-64,2018/21,account_type,DC only,pct_of_holders,43.4830,2.0100,233,15
+60-64,2018/21,account_type,DC only,pct_of_balances,19.6462,2.4639,233,15
+60-64,2018/21,account_type,DC only,incidence_per100,7.0186,1.4756,233,15
+60-64,2018/21,account_type,DC only,rate_pct,0.5803,0.2689,233,15
+60-64,2018/21,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,233,15
+60-64,2018/21,account_type,DC only,rate_pension_part_pct,0.5803,0.2689,233,15
+60-64,2018/21,current_job_dc,has THRIFT,pct_of_holders,62.0806,1.8655,462,26
+60-64,2018/21,current_job_dc,has THRIFT,pct_of_balances,61.8927,3.5355,462,26
+60-64,2018/21,current_job_dc,has THRIFT,incidence_per100,4.9536,1.0187,462,26
+60-64,2018/21,current_job_dc,has THRIFT,rate_pct,0.1309,0.0429,462,26
+60-64,2018/21,current_job_dc,has THRIFT,rate_ira_part_pct,0.1110,0.0414,462,26
+60-64,2018/21,current_job_dc,has THRIFT,rate_pension_part_pct,0.0199,0.0096,462,26
+60-64,2018/21,current_job_dc,no THRIFT,pct_of_holders,37.9194,1.8655,302,72
+60-64,2018/21,current_job_dc,no THRIFT,pct_of_balances,38.1073,3.5355,302,72
+60-64,2018/21,current_job_dc,no THRIFT,incidence_per100,31.5604,3.0303,302,72
+60-64,2018/21,current_job_dc,no THRIFT,rate_pct,1.6089,0.2329,302,72
+60-64,2018/21,current_job_dc,no THRIFT,rate_ira_part_pct,1.1834,0.2221,302,72
+60-64,2018/21,current_job_dc,no THRIFT,rate_pension_part_pct,0.4255,0.1195,302,72
+60-64,2018/21,r_social_security,R gets SS,pct_of_holders,15.2050,1.5290,77,23
+60-64,2018/21,r_social_security,R gets SS,pct_of_balances,9.9662,1.9473,77,23
+60-64,2018/21,r_social_security,R gets SS,incidence_per100,32.0672,5.2313,77,23
+60-64,2018/21,r_social_security,R gets SS,rate_pct,2.0152,0.6249,77,23
+60-64,2018/21,r_social_security,R gets SS,rate_ira_part_pct,1.5183,0.4690,77,23
+60-64,2018/21,r_social_security,R gets SS,rate_pension_part_pct,0.4969,0.4522,77,23
+60-64,2018/21,r_social_security,R no SS,pct_of_holders,84.7950,1.5290,687,75
+60-64,2018/21,r_social_security,R no SS,pct_of_balances,90.0338,1.9473,687,75
+60-64,2018/21,r_social_security,R no SS,incidence_per100,11.9900,1.3721,687,75
+60-64,2018/21,r_social_security,R no SS,rate_pct,0.5479,0.0930,687,75
+60-64,2018/21,r_social_security,R no SS,rate_ira_part_pct,0.4091,0.0863,687,75
+60-64,2018/21,r_social_security,R no SS,rate_pension_part_pct,0.1388,0.0449,687,75
+60-64,2018/21,db_pension,DB,pct_of_holders,42.6645,1.9688,266,43
+60-64,2018/21,db_pension,DB,pct_of_balances,42.5360,3.5287,266,43
+60-64,2018/21,db_pension,DB,incidence_per100,17.6565,2.4354,266,43
+60-64,2018/21,db_pension,DB,rate_pct,0.5620,0.1116,266,43
+60-64,2018/21,db_pension,DB,rate_ira_part_pct,0.4417,0.1001,266,43
+60-64,2018/21,db_pension,DB,rate_pension_part_pct,0.1203,0.0495,266,43
+60-64,2018/21,db_pension,no DB,pct_of_holders,57.3355,1.9688,498,55
+60-64,2018/21,db_pension,no DB,pct_of_balances,57.4640,3.5287,498,55
+60-64,2018/21,db_pension,no DB,incidence_per100,13.0978,1.7382,498,55
+60-64,2018/21,db_pension,no DB,rate_pct,0.7920,0.1632,498,55
+60-64,2018/21,db_pension,no DB,rate_ira_part_pct,0.5774,0.1382,498,55
+60-64,2018/21,db_pension,no DB,rate_pension_part_pct,0.2146,0.0710,498,55
+60-64,2018/21,work_x_thrift,not working no THRIFT,pct_of_holders,13.2864,1.1603,93,29
+60-64,2018/21,work_x_thrift,not working no THRIFT,pct_of_balances,16.1918,2.9418,93,29
+60-64,2018/21,work_x_thrift,not working no THRIFT,incidence_per100,45.9623,5.7709,93,29
+60-64,2018/21,work_x_thrift,not working no THRIFT,rate_pct,2.1139,0.4542,93,29
+60-64,2018/21,work_x_thrift,not working no THRIFT,rate_ira_part_pct,1.2999,0.2963,93,29
+60-64,2018/21,work_x_thrift,not working no THRIFT,rate_pension_part_pct,0.8140,0.3169,93,29
+60-64,2018/21,work_x_thrift,working + THRIFT,pct_of_holders,62.0806,1.8655,462,26
+60-64,2018/21,work_x_thrift,working + THRIFT,pct_of_balances,61.8927,3.5355,462,26
+60-64,2018/21,work_x_thrift,working + THRIFT,incidence_per100,4.9536,1.0187,462,26
+60-64,2018/21,work_x_thrift,working + THRIFT,rate_pct,0.1309,0.0429,462,26
+60-64,2018/21,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.1110,0.0414,462,26
+60-64,2018/21,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0199,0.0096,462,26
+60-64,2018/21,work_x_thrift,working no THRIFT,pct_of_holders,24.6330,1.6025,209,43
+60-64,2018/21,work_x_thrift,working no THRIFT,pct_of_balances,21.9156,3.1626,209,43
+60-64,2018/21,work_x_thrift,working no THRIFT,incidence_per100,23.7924,2.9641,209,43
+60-64,2018/21,work_x_thrift,working no THRIFT,rate_pct,1.2359,0.3502,209,43
+60-64,2018/21,work_x_thrift,working no THRIFT,rate_ira_part_pct,1.0973,0.3437,209,43
+60-64,2018/21,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.1385,0.0720,209,43
+65-69,2003,r_or_spouse_working,working,pct_of_holders,64.8716,4.0516,124,17
+65-69,2003,r_or_spouse_working,working,pct_of_balances,57.5921,7.6668,124,17
+65-69,2003,r_or_spouse_working,working,incidence_per100,21.5057,4.7303,124,17
+65-69,2003,r_or_spouse_working,working,rate_pct,1.2622,0.2953,124,17
+65-69,2003,r_or_spouse_working,working,rate_ira_part_pct,0.7594,0.2312,124,17
+65-69,2003,r_or_spouse_working,working,rate_pension_part_pct,0.5028,0.1660,124,17
+65-69,2003,r_or_spouse_working,neither working,pct_of_holders,35.1284,4.0516,41,14
+65-69,2003,r_or_spouse_working,neither working,pct_of_balances,42.4079,7.6668,41,14
+65-69,2003,r_or_spouse_working,neither working,incidence_per100,36.8952,7.9125,41,14
+65-69,2003,r_or_spouse_working,neither working,rate_pct,3.3525,0.8739,41,14
+65-69,2003,r_or_spouse_working,neither working,rate_ira_part_pct,2.8836,0.8258,41,14
+65-69,2003,r_or_spouse_working,neither working,rate_pension_part_pct,0.4689,0.3347,41,14
+65-69,2003,r_working,R working,pct_of_holders,55.1087,3.9317,112,14
+65-69,2003,r_working,R working,pct_of_balances,50.4330,6.7242,112,14
+65-69,2003,r_working,R working,incidence_per100,17.9714,4.3050,112,14
+65-69,2003,r_working,R working,rate_pct,1.2288,0.3011,112,14
+65-69,2003,r_working,R working,rate_ira_part_pct,0.6546,0.2262,112,14
+65-69,2003,r_working,R working,rate_pension_part_pct,0.5742,0.2052,112,14
+65-69,2003,r_working,R not working,pct_of_holders,44.8913,3.9317,53,18
+65-69,2003,r_working,R not working,pct_of_balances,49.5670,6.7242,53,18
+65-69,2003,r_working,R not working,incidence_per100,37.8870,7.6613,53,18
+65-69,2003,r_working,R not working,rate_pct,3.0846,0.7146,53,18
+65-69,2003,r_working,R not working,rate_ira_part_pct,2.6834,0.6854,53,18
+65-69,2003,r_working,R not working,rate_pension_part_pct,0.4012,0.2735,53,18
+65-69,2003,account_type,IRA only,pct_of_holders,67.7105,4.4048,104,18
+65-69,2003,account_type,IRA only,pct_of_balances,66.8425,5.6068,104,18
+65-69,2003,account_type,IRA only,incidence_per100,22.9089,4.5221,104,18
+65-69,2003,account_type,IRA only,rate_pct,2.3777,0.5095,104,18
+65-69,2003,account_type,IRA only,rate_ira_part_pct,2.3777,0.5095,104,18
+65-69,2003,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,104,18
+65-69,2003,account_type,IRA and DC,pct_of_holders,14.6382,2.9686,37,9
+65-69,2003,account_type,IRA and DC,pct_of_balances,26.5282,5.3769,37,9
+65-69,2003,account_type,IRA and DC,incidence_per100,40.7864,11.5973,37,9
+65-69,2003,account_type,IRA and DC,rate_pct,1.0099,0.4424,37,9
+65-69,2003,account_type,IRA and DC,rate_ira_part_pct,0.2674,0.1473,37,9
+65-69,2003,account_type,IRA and DC,rate_pension_part_pct,0.7424,0.4382,37,9
+65-69,2003,account_type,DC only,pct_of_holders,17.6513,3.3418,24,4
+65-69,2003,account_type,DC only,pct_of_balances,6.6293,1.5745,24,4
+65-69,2003,account_type,DC only,incidence_per100,30.7605,10.1112,24,4
+65-69,2003,account_type,DC only,rate_pct,4.3965,1.8756,24,4
+65-69,2003,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,24,4
+65-69,2003,account_type,DC only,rate_pension_part_pct,4.3965,1.8756,24,4
+65-69,2003,current_job_dc,has THRIFT,pct_of_holders,21.4549,3.6667,46,3
+65-69,2003,current_job_dc,has THRIFT,pct_of_balances,22.5386,4.6703,46,3
+65-69,2003,current_job_dc,has THRIFT,incidence_per100,15.0646,7.9095,46,3
+65-69,2003,current_job_dc,has THRIFT,rate_pct,0.3610,0.2512,46,3
+65-69,2003,current_job_dc,has THRIFT,rate_ira_part_pct,0.2925,0.1859,46,3
+65-69,2003,current_job_dc,has THRIFT,rate_pension_part_pct,0.0685,0.1703,46,3
+65-69,2003,current_job_dc,no THRIFT,pct_of_holders,78.5451,3.6667,119,28
+65-69,2003,current_job_dc,no THRIFT,pct_of_balances,77.4614,4.6703,119,28
+65-69,2003,current_job_dc,no THRIFT,incidence_per100,30.1478,4.9963,119,28
+65-69,2003,current_job_dc,no THRIFT,rate_pct,2.6688,0.4673,119,28
+65-69,2003,current_job_dc,no THRIFT,rate_ira_part_pct,2.0582,0.4635,119,28
+65-69,2003,current_job_dc,no THRIFT,rate_pension_part_pct,0.6106,0.2175,119,28
+65-69,2003,r_social_security,R gets SS,pct_of_holders,95.8691,1.4597,139,31
+65-69,2003,r_social_security,R gets SS,pct_of_balances,95.1863,2.0459,139,31
+65-69,2003,r_social_security,R gets SS,incidence_per100,27.3609,4.2576,139,31
+65-69,2003,r_social_security,R gets SS,rate_pct,2.2241,0.3252,139,31
+65-69,2003,r_social_security,R gets SS,rate_ira_part_pct,1.7110,0.3375,139,31
+65-69,2003,r_social_security,R gets SS,rate_pension_part_pct,0.5131,0.1743,139,31
+65-69,2003,r_social_security,R no SS,pct_of_holders,4.1309,1.4597,26,1
+65-69,2003,r_social_security,R no SS,pct_of_balances,4.8137,2.0459,26,1
+65-69,2003,r_social_security,R no SS,incidence_per100,16.4877,14.2243,26,1
+65-69,2003,r_social_security,R no SS,rate_pct,0.6563,0.6390,26,1
+65-69,2003,r_social_security,R no SS,rate_ira_part_pct,0.6563,0.6390,26,1
+65-69,2003,r_social_security,R no SS,rate_pension_part_pct,0.0000,0.0000,26,1
+65-69,2003,db_pension,DB,pct_of_holders,58.5910,4.4504,78,13
+65-69,2003,db_pension,DB,pct_of_balances,49.7551,6.1599,78,13
+65-69,2003,db_pension,DB,incidence_per100,21.1520,5.0150,78,13
+65-69,2003,db_pension,DB,rate_pct,1.9017,0.6031,78,13
+65-69,2003,db_pension,DB,rate_ira_part_pct,1.6575,0.5850,78,13
+65-69,2003,db_pension,DB,rate_pension_part_pct,0.2443,0.1250,78,13
+65-69,2003,db_pension,no DB,pct_of_holders,41.4090,4.4504,87,18
+65-69,2003,db_pension,no DB,pct_of_balances,50.2449,6.1599,87,18
+65-69,2003,db_pension,no DB,incidence_per100,35.0614,6.6038,87,18
+65-69,2003,db_pension,no DB,rate_pct,2.3932,0.4846,87,18
+65-69,2003,db_pension,no DB,rate_ira_part_pct,1.6630,0.4242,87,18
+65-69,2003,db_pension,no DB,rate_pension_part_pct,0.7302,0.3215,87,18
+65-69,2003,work_x_thrift,not working no THRIFT,pct_of_holders,35.1284,4.0516,41,14
+65-69,2003,work_x_thrift,not working no THRIFT,pct_of_balances,42.4079,7.6668,41,14
+65-69,2003,work_x_thrift,not working no THRIFT,incidence_per100,36.8952,7.9125,41,14
+65-69,2003,work_x_thrift,not working no THRIFT,rate_pct,3.3525,0.8739,41,14
+65-69,2003,work_x_thrift,not working no THRIFT,rate_ira_part_pct,2.8836,0.8258,41,14
+65-69,2003,work_x_thrift,not working no THRIFT,rate_pension_part_pct,0.4689,0.3347,41,14
+65-69,2003,work_x_thrift,working + THRIFT,pct_of_holders,21.4549,3.6667,46,3
+65-69,2003,work_x_thrift,working + THRIFT,pct_of_balances,22.5386,4.6703,46,3
+65-69,2003,work_x_thrift,working + THRIFT,incidence_per100,15.0646,7.9095,46,3
+65-69,2003,work_x_thrift,working + THRIFT,rate_pct,0.3610,0.2512,46,3
+65-69,2003,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.2925,0.1859,46,3
+65-69,2003,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0685,0.1703,46,3
+65-69,2003,work_x_thrift,working no THRIFT,pct_of_holders,43.4168,5.2151,77,14
+65-69,2003,work_x_thrift,working no THRIFT,pct_of_balances,35.0535,6.8497,77,14
+65-69,2003,work_x_thrift,working no THRIFT,incidence_per100,24.6886,5.6861,77,14
+65-69,2003,work_x_thrift,working no THRIFT,rate_pct,1.8416,0.4199,77,14
+65-69,2003,work_x_thrift,working no THRIFT,rate_ira_part_pct,1.0596,0.3540,77,14
+65-69,2003,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.7820,0.2911,77,14
+65-69,2006,r_or_spouse_working,working,pct_of_holders,58.4159,3.8759,147,27
+65-69,2006,r_or_spouse_working,working,pct_of_balances,62.5608,5.4649,147,27
+65-69,2006,r_or_spouse_working,working,incidence_per100,20.6508,4.0233,147,27
+65-69,2006,r_or_spouse_working,working,rate_pct,1.8943,0.6464,147,27
+65-69,2006,r_or_spouse_working,working,rate_ira_part_pct,1.8852,0.6460,147,27
+65-69,2006,r_or_spouse_working,working,rate_pension_part_pct,0.0091,0.0055,147,27
+65-69,2006,r_or_spouse_working,neither working,pct_of_holders,41.5841,3.8759,67,20
+65-69,2006,r_or_spouse_working,neither working,pct_of_balances,37.4392,5.4649,67,20
+65-69,2006,r_or_spouse_working,neither working,incidence_per100,32.4135,4.6309,67,20
+65-69,2006,r_or_spouse_working,neither working,rate_pct,1.5651,0.4090,67,20
+65-69,2006,r_or_spouse_working,neither working,rate_ira_part_pct,1.2355,0.3779,67,20
+65-69,2006,r_or_spouse_working,neither working,rate_pension_part_pct,0.3295,0.1416,67,20
+65-69,2006,r_working,R working,pct_of_holders,50.1403,3.7350,130,23
+65-69,2006,r_working,R working,pct_of_balances,52.3632,6.0021,130,23
+65-69,2006,r_working,R working,incidence_per100,21.5558,4.5917,130,23
+65-69,2006,r_working,R working,rate_pct,2.1029,0.7770,130,23
+65-69,2006,r_working,R working,rate_ira_part_pct,2.0920,0.7765,130,23
+65-69,2006,r_working,R working,rate_pension_part_pct,0.0109,0.0066,130,23
+65-69,2006,r_working,R not working,pct_of_holders,49.8597,3.7350,84,24
+65-69,2006,r_working,R not working,pct_of_balances,47.6368,6.0021,84,24
+65-69,2006,r_working,R not working,incidence_per100,29.5510,4.1063,84,24
+65-69,2006,r_working,R not working,rate_pct,1.4062,0.3045,84,24
+65-69,2006,r_working,R not working,rate_ira_part_pct,1.1472,0.2875,84,24
+65-69,2006,r_working,R not working,rate_pension_part_pct,0.2590,0.1104,84,24
+65-69,2006,account_type,IRA only,pct_of_holders,58.9633,3.3480,122,36
+65-69,2006,account_type,IRA only,pct_of_balances,42.6612,5.7486,122,36
+65-69,2006,account_type,IRA only,incidence_per100,32.8017,4.6550,122,36
+65-69,2006,account_type,IRA only,rate_pct,3.5571,0.9118,122,36
+65-69,2006,account_type,IRA only,rate_ira_part_pct,3.5571,0.9118,122,36
+65-69,2006,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,122,36
+65-69,2006,account_type,IRA and DC,pct_of_holders,22.9220,3.1814,63,7
+65-69,2006,account_type,IRA and DC,pct_of_balances,44.7846,6.0884,63,7
+65-69,2006,account_type,IRA and DC,incidence_per100,18.7000,5.7724,63,7
+65-69,2006,account_type,IRA and DC,rate_pct,0.4907,0.1644,63,7
+65-69,2006,account_type,IRA and DC,rate_ira_part_pct,0.2779,0.1321,63,7
+65-69,2006,account_type,IRA and DC,rate_pension_part_pct,0.2128,0.1111,63,7
+65-69,2006,account_type,DC only,pct_of_holders,18.1147,2.5058,28,4
+65-69,2006,account_type,DC only,pct_of_balances,12.5543,4.5145,28,4
+65-69,2006,account_type,DC only,incidence_per100,10.5706,5.1620,28,4
+65-69,2006,account_type,DC only,rate_pct,0.2690,0.2150,28,4
+65-69,2006,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,28,4
+65-69,2006,account_type,DC only,rate_pension_part_pct,0.2690,0.2150,28,4
+65-69,2006,current_job_dc,has THRIFT,pct_of_holders,27.8223,3.0230,68,3
+65-69,2006,current_job_dc,has THRIFT,pct_of_balances,37.4212,5.8372,68,3
+65-69,2006,current_job_dc,has THRIFT,incidence_per100,3.9913,2.1105,68,3
+65-69,2006,current_job_dc,has THRIFT,rate_pct,0.3079,0.1717,68,3
+65-69,2006,current_job_dc,has THRIFT,rate_ira_part_pct,0.3079,0.1717,68,3
+65-69,2006,current_job_dc,has THRIFT,rate_pension_part_pct,0.0000,0.0000,68,3
+65-69,2006,current_job_dc,no THRIFT,pct_of_holders,72.1777,3.0230,145,44
+65-69,2006,current_job_dc,no THRIFT,pct_of_balances,62.5788,5.8372,145,44
+65-69,2006,current_job_dc,no THRIFT,incidence_per100,33.8494,4.0394,145,44
+65-69,2006,current_job_dc,no THRIFT,rate_pct,2.6460,0.6661,145,44
+65-69,2006,current_job_dc,no THRIFT,rate_ira_part_pct,2.4397,0.6617,145,44
+65-69,2006,current_job_dc,no THRIFT,rate_pension_part_pct,0.2063,0.0808,145,44
+65-69,2006,r_social_security,R gets SS,pct_of_holders,84.1542,2.6026,171,44
+65-69,2006,r_social_security,R gets SS,pct_of_balances,78.6307,5.0638,171,44
+65-69,2006,r_social_security,R gets SS,incidence_per100,29.4382,3.5836,171,44
+65-69,2006,r_social_security,R gets SS,rate_pct,2.1648,0.5477,171,44
+65-69,2006,r_social_security,R gets SS,rate_ira_part_pct,2.0027,0.5430,171,44
+65-69,2006,r_social_security,R gets SS,rate_pension_part_pct,0.1621,0.0643,171,44
+65-69,2006,r_social_security,R no SS,pct_of_holders,15.8458,2.6026,43,3
+65-69,2006,r_social_security,R no SS,pct_of_balances,21.3693,5.0638,43,3
+65-69,2006,r_social_security,R no SS,incidence_per100,4.8514,3.4315,43,3
+65-69,2006,r_social_security,R no SS,rate_pct,0.3220,0.2444,43,3
+65-69,2006,r_social_security,R no SS,rate_ira_part_pct,0.3144,0.2439,43,3
+65-69,2006,r_social_security,R no SS,rate_pension_part_pct,0.0076,0.0098,43,3
+65-69,2006,db_pension,DB,pct_of_holders,53.0065,3.8284,96,20
+65-69,2006,db_pension,DB,pct_of_balances,52.8704,5.9927,96,20
+65-69,2006,db_pension,DB,incidence_per100,22.7664,3.7543,96,20
+65-69,2006,db_pension,DB,rate_pct,1.4981,0.4072,96,20
+65-69,2006,db_pension,DB,rate_ira_part_pct,1.3148,0.3930,96,20
+65-69,2006,db_pension,DB,rate_pension_part_pct,0.1833,0.0934,96,20
+65-69,2006,db_pension,no DB,pct_of_holders,46.9935,3.8284,117,27
+65-69,2006,db_pension,no DB,pct_of_balances,47.1296,5.9927,117,27
+65-69,2006,db_pension,no DB,incidence_per100,28.6732,5.3758,117,27
+65-69,2006,db_pension,no DB,rate_pct,2.0772,0.7955,117,27
+65-69,2006,db_pension,no DB,rate_ira_part_pct,2.0090,0.7899,117,27
+65-69,2006,db_pension,no DB,rate_pension_part_pct,0.0682,0.0368,117,27
+65-69,2006,work_x_thrift,not working no THRIFT,pct_of_holders,41.5841,3.8759,67,20
+65-69,2006,work_x_thrift,not working no THRIFT,pct_of_balances,37.4392,5.4649,67,20
+65-69,2006,work_x_thrift,not working no THRIFT,incidence_per100,32.4135,4.6309,67,20
+65-69,2006,work_x_thrift,not working no THRIFT,rate_pct,1.5651,0.4090,67,20
+65-69,2006,work_x_thrift,not working no THRIFT,rate_ira_part_pct,1.2355,0.3779,67,20
+65-69,2006,work_x_thrift,not working no THRIFT,rate_pension_part_pct,0.3295,0.1416,67,20
+65-69,2006,work_x_thrift,working + THRIFT,pct_of_holders,27.8223,3.0230,68,3
+65-69,2006,work_x_thrift,working + THRIFT,pct_of_balances,37.4212,5.8372,68,3
+65-69,2006,work_x_thrift,working + THRIFT,incidence_per100,3.9913,2.1105,68,3
+65-69,2006,work_x_thrift,working + THRIFT,rate_pct,0.3079,0.1717,68,3
+65-69,2006,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.3079,0.1717,68,3
+65-69,2006,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0000,0.0000,68,3
+65-69,2006,work_x_thrift,working no THRIFT,pct_of_holders,30.5936,3.4539,78,24
+65-69,2006,work_x_thrift,working no THRIFT,pct_of_balances,25.1396,4.8977,78,24
+65-69,2006,work_x_thrift,working no THRIFT,incidence_per100,35.8012,6.9849,78,24
+65-69,2006,work_x_thrift,working no THRIFT,rate_pct,4.2557,1.4752,78,24
+65-69,2006,work_x_thrift,working no THRIFT,rate_ira_part_pct,4.2330,1.4744,78,24
+65-69,2006,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.0227,0.0144,78,24
+65-69,2009,r_or_spouse_working,working,pct_of_holders,61.5533,2.9678,192,23
+65-69,2009,r_or_spouse_working,working,pct_of_balances,59.7573,9.6658,192,23
+65-69,2009,r_or_spouse_working,working,incidence_per100,15.3406,2.7830,192,23
+65-69,2009,r_or_spouse_working,working,rate_pct,1.0205,0.2969,192,23
+65-69,2009,r_or_spouse_working,working,rate_ira_part_pct,0.7897,0.2891,192,23
+65-69,2009,r_or_spouse_working,working,rate_pension_part_pct,0.2308,0.0929,192,23
+65-69,2009,r_or_spouse_working,neither working,pct_of_holders,38.4467,2.9678,78,29
+65-69,2009,r_or_spouse_working,neither working,pct_of_balances,40.2427,9.6658,78,29
+65-69,2009,r_or_spouse_working,neither working,incidence_per100,44.6296,4.8124,78,29
+65-69,2009,r_or_spouse_working,neither working,rate_pct,3.6865,1.7062,78,29
+65-69,2009,r_or_spouse_working,neither working,rate_ira_part_pct,3.0421,1.5665,78,29
+65-69,2009,r_or_spouse_working,neither working,rate_pension_part_pct,0.6444,0.3467,78,29
+65-69,2009,r_working,R working,pct_of_holders,50.9027,3.1606,172,17
+65-69,2009,r_working,R working,pct_of_balances,49.7760,8.5741,172,17
+65-69,2009,r_working,R working,incidence_per100,11.2891,2.3463,172,17
+65-69,2009,r_working,R working,rate_pct,0.7622,0.2235,172,17
+65-69,2009,r_working,R working,rate_ira_part_pct,0.5342,0.2000,172,17
+65-69,2009,r_working,R working,rate_pension_part_pct,0.2280,0.1140,172,17
+65-69,2009,r_working,R not working,pct_of_holders,49.0973,3.1606,98,35
+65-69,2009,r_working,R not working,pct_of_balances,50.2240,8.5741,98,35
+65-69,2009,r_working,R not working,incidence_per100,42.4764,4.2933,98,35
+65-69,2009,r_working,R not working,rate_pct,3.4127,1.3807,98,35
+65-69,2009,r_working,R not working,rate_ira_part_pct,2.8477,1.2753,98,35
+65-69,2009,r_working,R not working,rate_pension_part_pct,0.5650,0.2618,98,35
+65-69,2009,account_type,IRA only,pct_of_holders,53.5849,2.9052,146,30
+65-69,2009,account_type,IRA only,pct_of_balances,53.7184,8.2558,146,30
+65-69,2009,account_type,IRA only,incidence_per100,30.7176,4.0470,146,30
+65-69,2009,account_type,IRA only,rate_pct,3.0632,1.2555,146,30
+65-69,2009,account_type,IRA only,rate_ira_part_pct,3.0632,1.2555,146,30
+65-69,2009,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,146,30
+65-69,2009,account_type,IRA and DC,pct_of_holders,24.8973,2.7758,80,16
+65-69,2009,account_type,IRA and DC,pct_of_balances,36.5453,7.0717,80,16
+65-69,2009,account_type,IRA and DC,incidence_per100,26.7866,5.7042,80,16
+65-69,2009,account_type,IRA and DC,rate_pct,1.0242,0.2879,80,16
+65-69,2009,account_type,IRA and DC,rate_ira_part_pct,0.1385,0.1272,80,16
+65-69,2009,account_type,IRA and DC,rate_pension_part_pct,0.8857,0.2923,80,16
+65-69,2009,account_type,DC only,pct_of_holders,21.5178,2.6028,44,6
+65-69,2009,account_type,DC only,pct_of_balances,9.7363,3.1442,44,6
+65-69,2009,account_type,DC only,incidence_per100,16.1358,5.5916,44,6
+65-69,2009,account_type,DC only,rate_pct,0.7555,0.4068,44,6
+65-69,2009,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,44,6
+65-69,2009,account_type,DC only,rate_pension_part_pct,0.7555,0.4068,44,6
+65-69,2009,current_job_dc,has THRIFT,pct_of_holders,29.5070,3.0361,87,5
+65-69,2009,current_job_dc,has THRIFT,pct_of_balances,33.0005,6.8880,87,5
+65-69,2009,current_job_dc,has THRIFT,incidence_per100,10.0189,4.5213,87,5
+65-69,2009,current_job_dc,has THRIFT,rate_pct,0.2167,0.1397,87,5
+65-69,2009,current_job_dc,has THRIFT,rate_ira_part_pct,0.1385,0.1400,87,5
+65-69,2009,current_job_dc,has THRIFT,rate_pension_part_pct,0.0782,0.0485,87,5
+65-69,2009,current_job_dc,no THRIFT,pct_of_holders,70.4930,3.0361,183,47
+65-69,2009,current_job_dc,no THRIFT,pct_of_balances,66.9995,6.8880,183,47
+65-69,2009,current_job_dc,no THRIFT,incidence_per100,33.5423,3.6751,183,47
+65-69,2009,current_job_dc,no THRIFT,rate_pct,3.0177,1.0250,183,47
+65-69,2009,current_job_dc,no THRIFT,rate_ira_part_pct,2.4634,0.9676,183,47
+65-69,2009,current_job_dc,no THRIFT,rate_pension_part_pct,0.5544,0.2028,183,47
+65-69,2009,r_social_security,R gets SS,pct_of_holders,82.5331,2.0211,194,44
+65-69,2009,r_social_security,R gets SS,pct_of_balances,77.0634,5.1104,194,44
+65-69,2009,r_social_security,R gets SS,incidence_per100,29.5435,3.2591,194,44
+65-69,2009,r_social_security,R gets SS,rate_pct,2.4421,0.8461,194,44
+65-69,2009,r_social_security,R gets SS,rate_ira_part_pct,2.0566,0.8085,194,44
+65-69,2009,r_social_security,R gets SS,rate_pension_part_pct,0.3855,0.1431,194,44
+65-69,2009,r_social_security,R no SS,pct_of_holders,17.4669,2.0211,76,8
+65-69,2009,r_social_security,R no SS,pct_of_balances,22.9366,5.1104,76,8
+65-69,2009,r_social_security,R no SS,incidence_per100,12.6985,4.1863,76,8
+65-69,2009,r_social_security,R no SS,rate_pct,0.9216,0.2935,76,8
+65-69,2009,r_social_security,R no SS,rate_ira_part_pct,0.4850,0.2172,76,8
+65-69,2009,r_social_security,R no SS,rate_pension_part_pct,0.4366,0.2085,76,8
+65-69,2009,db_pension,DB,pct_of_holders,52.8696,2.8296,123,22
+65-69,2009,db_pension,DB,pct_of_balances,47.3072,8.4946,123,22
+65-69,2009,db_pension,DB,incidence_per100,18.8644,3.1723,123,22
+65-69,2009,db_pension,DB,rate_pct,1.8347,0.4226,123,22
+65-69,2009,db_pension,DB,rate_ira_part_pct,1.3188,0.3812,123,22
+65-69,2009,db_pension,DB,rate_pension_part_pct,0.5159,0.2176,123,22
+65-69,2009,db_pension,no DB,pct_of_holders,47.1304,2.8296,146,30
+65-69,2009,db_pension,no DB,pct_of_balances,52.6928,8.4946,146,30
+65-69,2009,db_pension,no DB,incidence_per100,35.2802,4.4114,146,30
+65-69,2009,db_pension,no DB,rate_pct,2.3256,1.1441,146,30
+65-69,2009,db_pension,no DB,rate_ira_part_pct,2.0349,1.1213,146,30
+65-69,2009,db_pension,no DB,rate_pension_part_pct,0.2907,0.1020,146,30
+65-69,2009,work_x_thrift,not working no THRIFT,pct_of_holders,38.4467,2.9678,78,29
+65-69,2009,work_x_thrift,not working no THRIFT,pct_of_balances,40.2427,9.6658,78,29
+65-69,2009,work_x_thrift,not working no THRIFT,incidence_per100,44.6296,4.8124,78,29
+65-69,2009,work_x_thrift,not working no THRIFT,rate_pct,3.6865,1.7062,78,29
+65-69,2009,work_x_thrift,not working no THRIFT,rate_ira_part_pct,3.0421,1.5665,78,29
+65-69,2009,work_x_thrift,not working no THRIFT,rate_pension_part_pct,0.6444,0.3467,78,29
+65-69,2009,work_x_thrift,working + THRIFT,pct_of_holders,29.5070,3.0361,87,5
+65-69,2009,work_x_thrift,working + THRIFT,pct_of_balances,33.0005,6.8880,87,5
+65-69,2009,work_x_thrift,working + THRIFT,incidence_per100,10.0189,4.5213,87,5
+65-69,2009,work_x_thrift,working + THRIFT,rate_pct,0.2167,0.1397,87,5
+65-69,2009,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.1385,0.1400,87,5
+65-69,2009,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0782,0.0485,87,5
+65-69,2009,work_x_thrift,working no THRIFT,pct_of_holders,32.0464,2.7143,105,18
+65-69,2009,work_x_thrift,working no THRIFT,pct_of_balances,26.7569,5.4343,105,18
+65-69,2009,work_x_thrift,working no THRIFT,incidence_per100,20.2405,4.0784,105,18
+65-69,2009,work_x_thrift,working no THRIFT,rate_pct,2.0118,0.6085,105,18
+65-69,2009,work_x_thrift,working no THRIFT,rate_ira_part_pct,1.5929,0.6157,105,18
+65-69,2009,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.4189,0.2063,105,18
+65-69,2012,r_or_spouse_working,working,pct_of_holders,63.7620,2.9350,214,22
+65-69,2012,r_or_spouse_working,working,pct_of_balances,70.9390,4.7379,214,22
+65-69,2012,r_or_spouse_working,working,incidence_per100,13.8878,2.5946,214,22
+65-69,2012,r_or_spouse_working,working,rate_pct,1.7932,0.7632,214,22
+65-69,2012,r_or_spouse_working,working,rate_ira_part_pct,1.3947,0.7525,214,22
+65-69,2012,r_or_spouse_working,working,rate_pension_part_pct,0.3985,0.1710,214,22
+65-69,2012,r_or_spouse_working,neither working,pct_of_holders,36.2380,2.9350,82,23
+65-69,2012,r_or_spouse_working,neither working,pct_of_balances,29.0610,4.7379,82,23
+65-69,2012,r_or_spouse_working,neither working,incidence_per100,34.2464,3.9974,82,23
+65-69,2012,r_or_spouse_working,neither working,rate_pct,1.5146,0.3429,82,23
+65-69,2012,r_or_spouse_working,neither working,rate_ira_part_pct,1.1975,0.3059,82,23
+65-69,2012,r_or_spouse_working,neither working,rate_pension_part_pct,0.3171,0.1382,82,23
+65-69,2012,r_working,R working,pct_of_holders,50.9054,2.8857,187,18
+65-69,2012,r_working,R working,pct_of_balances,60.5198,5.2588,187,18
+65-69,2012,r_working,R working,incidence_per100,12.6221,2.5764,187,18
+65-69,2012,r_working,R working,rate_pct,1.7768,0.8694,187,18
+65-69,2012,r_working,R working,rate_ira_part_pct,1.5411,0.8736,187,18
+65-69,2012,r_working,R working,rate_pension_part_pct,0.2357,0.0929,187,18
+65-69,2012,r_working,R not working,pct_of_holders,49.0946,2.8857,109,27
+65-69,2012,r_working,R not working,pct_of_balances,39.4802,5.2588,109,27
+65-69,2012,r_working,R not working,incidence_per100,30.2275,3.8804,109,27
+65-69,2012,r_working,R not working,rate_pct,1.6132,0.3857,109,27
+65-69,2012,r_working,R not working,rate_ira_part_pct,1.0250,0.2315,109,27
+65-69,2012,r_working,R not working,rate_pension_part_pct,0.5882,0.2863,109,27
+65-69,2012,account_type,IRA only,pct_of_holders,60.6343,2.8711,164,28
+65-69,2012,account_type,IRA only,pct_of_balances,51.9802,5.7448,164,28
+65-69,2012,account_type,IRA only,incidence_per100,21.6745,3.3904,164,28
+65-69,2012,account_type,IRA only,rate_pct,2.3602,0.9272,164,28
+65-69,2012,account_type,IRA only,rate_ira_part_pct,2.3602,0.9272,164,28
+65-69,2012,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,164,28
+65-69,2012,account_type,IRA and DC,pct_of_holders,21.6207,2.1987,90,11
+65-69,2012,account_type,IRA and DC,pct_of_balances,36.6359,5.5609,90,11
+65-69,2012,account_type,IRA and DC,incidence_per100,22.7005,5.2626,90,11
+65-69,2012,account_type,IRA and DC,rate_pct,0.9579,0.3642,90,11
+65-69,2012,account_type,IRA and DC,rate_ira_part_pct,0.3017,0.1493,90,11
+65-69,2012,account_type,IRA and DC,rate_pension_part_pct,0.6562,0.3097,90,11
+65-69,2012,account_type,DC only,pct_of_holders,17.7450,2.1966,42,6
+65-69,2012,account_type,DC only,pct_of_balances,11.3839,4.2775,42,6
+65-69,2012,account_type,DC only,incidence_per100,18.1188,5.7879,42,6
+65-69,2012,account_type,DC only,rate_pct,1.1808,0.9294,42,6
+65-69,2012,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,42,6
+65-69,2012,account_type,DC only,rate_pension_part_pct,1.1808,0.9294,42,6
+65-69,2012,current_job_dc,has THRIFT,pct_of_holders,27.3630,2.7128,100,6
+65-69,2012,current_job_dc,has THRIFT,pct_of_balances,35.8824,5.8727,100,6
+65-69,2012,current_job_dc,has THRIFT,incidence_per100,10.0240,3.0078,100,6
+65-69,2012,current_job_dc,has THRIFT,rate_pct,0.2531,0.1021,100,6
+65-69,2012,current_job_dc,has THRIFT,rate_ira_part_pct,0.0811,0.0434,100,6
+65-69,2012,current_job_dc,has THRIFT,rate_pension_part_pct,0.1720,0.0860,100,6
+65-69,2012,current_job_dc,no THRIFT,pct_of_holders,72.6370,2.7128,196,39
+65-69,2012,current_job_dc,no THRIFT,pct_of_balances,64.1176,5.8727,196,39
+65-69,2012,current_job_dc,no THRIFT,incidence_per100,25.5001,3.0730,196,39
+65-69,2012,current_job_dc,no THRIFT,rate_pct,2.5288,0.7795,196,39
+65-69,2012,current_job_dc,no THRIFT,rate_ira_part_pct,2.0404,0.7729,196,39
+65-69,2012,current_job_dc,no THRIFT,rate_pension_part_pct,0.4883,0.1879,196,39
+65-69,2012,r_social_security,R gets SS,pct_of_holders,75.8158,2.6965,183,35
+65-69,2012,r_social_security,R gets SS,pct_of_balances,62.4004,5.9133,183,35
+65-69,2012,r_social_security,R gets SS,incidence_per100,22.7486,2.9630,183,35
+65-69,2012,r_social_security,R gets SS,rate_pct,2.4249,0.8056,183,35
+65-69,2012,r_social_security,R gets SS,rate_ira_part_pct,1.9990,0.7957,183,35
+65-69,2012,r_social_security,R gets SS,rate_pension_part_pct,0.4259,0.1824,183,35
+65-69,2012,r_social_security,R no SS,pct_of_holders,24.1842,2.6965,113,10
+65-69,2012,r_social_security,R no SS,pct_of_balances,37.5996,5.9133,113,10
+65-69,2012,r_social_security,R no SS,incidence_per100,16.6156,4.0787,113,10
+65-69,2012,r_social_security,R no SS,rate_pct,0.5294,0.1870,113,10
+65-69,2012,r_social_security,R no SS,rate_ira_part_pct,0.2393,0.1087,113,10
+65-69,2012,r_social_security,R no SS,rate_pension_part_pct,0.2901,0.1352,113,10
+65-69,2012,db_pension,DB,pct_of_holders,58.2666,2.6934,143,24
+65-69,2012,db_pension,DB,pct_of_balances,44.7404,5.6175,143,24
+65-69,2012,db_pension,DB,incidence_per100,23.0005,3.3838,143,24
+65-69,2012,db_pension,DB,rate_pct,1.0280,0.1992,143,24
+65-69,2012,db_pension,DB,rate_ira_part_pct,0.6055,0.1509,143,24
+65-69,2012,db_pension,DB,rate_pension_part_pct,0.4225,0.1315,143,24
+65-69,2012,db_pension,no DB,pct_of_holders,41.7334,2.6934,153,21
+65-69,2012,db_pension,no DB,pct_of_balances,55.2596,5.6175,153,21
+65-69,2012,db_pension,no DB,incidence_per100,18.8428,3.8183,153,21
+65-69,2012,db_pension,no DB,rate_pct,2.2662,0.9844,153,21
+65-69,2012,db_pension,no DB,rate_ira_part_pct,1.9299,0.9631,153,21
+65-69,2012,db_pension,no DB,rate_pension_part_pct,0.3363,0.2056,153,21
+65-69,2012,work_x_thrift,not working no THRIFT,pct_of_holders,36.2380,2.9350,82,23
+65-69,2012,work_x_thrift,not working no THRIFT,pct_of_balances,29.0610,4.7379,82,23
+65-69,2012,work_x_thrift,not working no THRIFT,incidence_per100,34.2464,3.9974,82,23
+65-69,2012,work_x_thrift,not working no THRIFT,rate_pct,1.5146,0.3429,82,23
+65-69,2012,work_x_thrift,not working no THRIFT,rate_ira_part_pct,1.1975,0.3059,82,23
+65-69,2012,work_x_thrift,not working no THRIFT,rate_pension_part_pct,0.3171,0.1382,82,23
+65-69,2012,work_x_thrift,working + THRIFT,pct_of_holders,27.3630,2.7128,100,6
+65-69,2012,work_x_thrift,working + THRIFT,pct_of_balances,35.8824,5.8727,100,6
+65-69,2012,work_x_thrift,working + THRIFT,incidence_per100,10.0240,3.0078,100,6
+65-69,2012,work_x_thrift,working + THRIFT,rate_pct,0.2531,0.1021,100,6
+65-69,2012,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.0811,0.0434,100,6
+65-69,2012,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.1720,0.0860,100,6
+65-69,2012,work_x_thrift,working no THRIFT,pct_of_holders,36.3990,2.9601,114,16
+65-69,2012,work_x_thrift,working no THRIFT,pct_of_balances,35.0566,5.6860,114,16
+65-69,2012,work_x_thrift,working no THRIFT,incidence_per100,16.7925,4.1164,114,16
+65-69,2012,work_x_thrift,working no THRIFT,rate_pct,3.3695,1.3323,114,16
+65-69,2012,work_x_thrift,working no THRIFT,rate_ira_part_pct,2.7392,1.3383,114,16
+65-69,2012,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.6303,0.3378,114,16
+65-69,2015,r_or_spouse_working,working,pct_of_holders,62.8128,2.6457,250,41
+65-69,2015,r_or_spouse_working,working,pct_of_balances,66.8290,4.8771,250,41
+65-69,2015,r_or_spouse_working,working,incidence_per100,21.5678,2.6088,250,41
+65-69,2015,r_or_spouse_working,working,rate_pct,1.0396,0.1911,250,41
+65-69,2015,r_or_spouse_working,working,rate_ira_part_pct,0.7539,0.1604,250,41
+65-69,2015,r_or_spouse_working,working,rate_pension_part_pct,0.2857,0.1017,250,41
+65-69,2015,r_or_spouse_working,neither working,pct_of_holders,37.1872,2.6457,100,43
+65-69,2015,r_or_spouse_working,neither working,pct_of_balances,33.1710,4.8771,100,43
+65-69,2015,r_or_spouse_working,neither working,incidence_per100,51.7650,4.6889,100,43
+65-69,2015,r_or_spouse_working,neither working,rate_pct,3.3808,0.7601,100,43
+65-69,2015,r_or_spouse_working,neither working,rate_ira_part_pct,2.0207,0.5865,100,43
+65-69,2015,r_or_spouse_working,neither working,rate_pension_part_pct,1.3602,0.4710,100,43
+65-69,2015,r_working,R working,pct_of_holders,42.1976,2.6119,196,32
+65-69,2015,r_working,R working,pct_of_balances,48.8329,4.4202,196,32
+65-69,2015,r_working,R working,incidence_per100,23.9320,3.2895,196,32
+65-69,2015,r_working,R working,rate_pct,1.1527,0.2166,196,32
+65-69,2015,r_working,R working,rate_ira_part_pct,0.7913,0.1760,196,32
+65-69,2015,r_working,R working,rate_pension_part_pct,0.3614,0.1365,196,32
+65-69,2015,r_working,R not working,pct_of_holders,57.8024,2.6119,154,52
+65-69,2015,r_working,R not working,pct_of_balances,51.1671,4.4202,154,52
+65-69,2015,r_working,R not working,incidence_per100,39.2693,3.5366,154,52
+65-69,2015,r_working,R not working,rate_pct,2.4494,0.4399,154,52
+65-69,2015,r_working,R not working,rate_ira_part_pct,1.5394,0.3616,154,52
+65-69,2015,r_working,R not working,rate_pension_part_pct,0.9100,0.2840,154,52
+65-69,2015,account_type,IRA only,pct_of_holders,55.3597,2.5200,187,54
+65-69,2015,account_type,IRA only,pct_of_balances,40.6945,4.0909,187,54
+65-69,2015,account_type,IRA only,incidence_per100,38.8770,3.2939,187,54
+65-69,2015,account_type,IRA only,rate_pct,2.4627,0.3775,187,54
+65-69,2015,account_type,IRA only,rate_ira_part_pct,2.4627,0.3775,187,54
+65-69,2015,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,187,54
+65-69,2015,account_type,IRA and DC,pct_of_holders,19.6171,1.8969,95,18
+65-69,2015,account_type,IRA and DC,pct_of_balances,46.7468,4.3346,95,18
+65-69,2015,account_type,IRA and DC,incidence_per100,28.3547,5.6591,95,18
+65-69,2015,account_type,IRA and DC,rate_pct,1.2235,0.3379,95,18
+65-69,2015,account_type,IRA and DC,rate_ira_part_pct,0.3678,0.1286,95,18
+65-69,2015,account_type,IRA and DC,rate_pension_part_pct,0.8557,0.3118,95,18
+65-69,2015,account_type,DC only,pct_of_holders,25.0233,2.4074,67,12
+65-69,2015,account_type,DC only,pct_of_balances,12.5587,2.5345,67,12
+65-69,2015,account_type,DC only,incidence_per100,22.8300,4.7256,67,12
+65-69,2015,account_type,DC only,rate_pct,1.9275,0.6408,67,12
+65-69,2015,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,67,12
+65-69,2015,account_type,DC only,rate_pension_part_pct,1.9275,0.6408,67,12
+65-69,2015,current_job_dc,has THRIFT,pct_of_holders,31.5846,2.3160,129,11
+65-69,2015,current_job_dc,has THRIFT,pct_of_balances,43.9548,4.4286,129,11
+65-69,2015,current_job_dc,has THRIFT,incidence_per100,9.2521,2.3680,129,11
+65-69,2015,current_job_dc,has THRIFT,rate_pct,0.4781,0.1415,129,11
+65-69,2015,current_job_dc,has THRIFT,rate_ira_part_pct,0.3270,0.1154,129,11
+65-69,2015,current_job_dc,has THRIFT,rate_pension_part_pct,0.1510,0.0770,129,11
+65-69,2015,current_job_dc,no THRIFT,pct_of_holders,68.4154,2.3160,221,74
+65-69,2015,current_job_dc,no THRIFT,pct_of_balances,56.0452,4.4286,221,74
+65-69,2015,current_job_dc,no THRIFT,incidence_per100,43.6672,3.0591,221,74
+65-69,2015,current_job_dc,no THRIFT,rate_pct,2.8656,0.4113,221,74
+65-69,2015,current_job_dc,no THRIFT,rate_ira_part_pct,1.8384,0.3134,221,74
+65-69,2015,current_job_dc,no THRIFT,rate_pension_part_pct,1.0272,0.2679,221,74
+65-69,2015,r_social_security,R gets SS,pct_of_holders,75.9899,2.1203,210,68
+65-69,2015,r_social_security,R gets SS,pct_of_balances,56.5546,4.4564,210,68
+65-69,2015,r_social_security,R gets SS,incidence_per100,37.0617,3.0015,210,68
+65-69,2015,r_social_security,R gets SS,rate_pct,2.6390,0.3752,210,68
+65-69,2015,r_social_security,R gets SS,rate_ira_part_pct,1.6457,0.2552,210,68
+65-69,2015,r_social_security,R gets SS,rate_pension_part_pct,0.9933,0.2674,210,68
+65-69,2015,r_social_security,R no SS,pct_of_holders,24.0101,2.1203,140,17
+65-69,2015,r_social_security,R no SS,pct_of_balances,43.4454,4.4564,140,17
+65-69,2015,r_social_security,R no SS,incidence_per100,19.3011,4.0995,140,17
+65-69,2015,r_social_security,R no SS,rate_pct,0.7452,0.2058,140,17
+65-69,2015,r_social_security,R no SS,rate_ira_part_pct,0.5602,0.1847,140,17
+65-69,2015,r_social_security,R no SS,rate_pension_part_pct,0.1850,0.0842,140,17
+65-69,2015,db_pension,DB,pct_of_holders,58.9679,2.4779,168,53
+65-69,2015,db_pension,DB,pct_of_balances,51.4663,4.3752,168,53
+65-69,2015,db_pension,DB,incidence_per100,36.0321,3.3721,168,53
+65-69,2015,db_pension,DB,rate_pct,2.2699,0.3944,168,53
+65-69,2015,db_pension,DB,rate_ira_part_pct,1.6589,0.3516,168,53
+65-69,2015,db_pension,DB,rate_pension_part_pct,0.6110,0.2006,168,53
+65-69,2015,db_pension,no DB,pct_of_holders,41.0321,2.4779,182,32
+65-69,2015,db_pension,no DB,pct_of_balances,48.5337,4.3752,182,32
+65-69,2015,db_pension,no DB,incidence_per100,28.1487,3.7466,182,32
+65-69,2015,db_pension,no DB,rate_pct,1.3351,0.3147,182,32
+65-69,2015,db_pension,no DB,rate_ira_part_pct,0.6601,0.1559,182,32
+65-69,2015,db_pension,no DB,rate_pension_part_pct,0.6751,0.2213,182,32
+65-69,2015,work_x_thrift,not working no THRIFT,pct_of_holders,37.1872,2.6457,100,43
+65-69,2015,work_x_thrift,not working no THRIFT,pct_of_balances,33.1710,4.8771,100,43
+65-69,2015,work_x_thrift,not working no THRIFT,incidence_per100,51.7650,4.6889,100,43
+65-69,2015,work_x_thrift,not working no THRIFT,rate_pct,3.3808,0.7601,100,43
+65-69,2015,work_x_thrift,not working no THRIFT,rate_ira_part_pct,2.0207,0.5865,100,43
+65-69,2015,work_x_thrift,not working no THRIFT,rate_pension_part_pct,1.3602,0.4710,100,43
+65-69,2015,work_x_thrift,working + THRIFT,pct_of_holders,31.5846,2.3160,129,11
+65-69,2015,work_x_thrift,working + THRIFT,pct_of_balances,43.9548,4.4286,129,11
+65-69,2015,work_x_thrift,working + THRIFT,incidence_per100,9.2521,2.3680,129,11
+65-69,2015,work_x_thrift,working + THRIFT,rate_pct,0.4781,0.1415,129,11
+65-69,2015,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.3270,0.1154,129,11
+65-69,2015,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.1510,0.0770,129,11
+65-69,2015,work_x_thrift,working no THRIFT,pct_of_holders,31.2281,2.5734,121,30
+65-69,2015,work_x_thrift,working no THRIFT,pct_of_balances,22.8741,3.3733,121,30
+65-69,2015,work_x_thrift,working no THRIFT,incidence_per100,34.0241,4.3947,121,30
+65-69,2015,work_x_thrift,working no THRIFT,rate_pct,2.1186,0.4783,121,30
+65-69,2015,work_x_thrift,working no THRIFT,rate_ira_part_pct,1.5742,0.3950,121,30
+65-69,2015,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.5444,0.2636,121,30
+65-69,2018,r_or_spouse_working,working,pct_of_holders,67.0607,2.6608,266,43
+65-69,2018,r_or_spouse_working,working,pct_of_balances,66.0808,4.2253,266,43
+65-69,2018,r_or_spouse_working,working,incidence_per100,23.9654,3.1707,266,43
+65-69,2018,r_or_spouse_working,working,rate_pct,1.3256,0.2321,266,43
+65-69,2018,r_or_spouse_working,working,rate_ira_part_pct,0.6979,0.1495,266,43
+65-69,2018,r_or_spouse_working,working,rate_pension_part_pct,0.6277,0.1668,266,43
+65-69,2018,r_or_spouse_working,neither working,pct_of_holders,32.9393,2.6608,97,33
+65-69,2018,r_or_spouse_working,neither working,pct_of_balances,33.9192,4.2253,97,33
+65-69,2018,r_or_spouse_working,neither working,incidence_per100,37.7925,5.4652,97,33
+65-69,2018,r_or_spouse_working,neither working,rate_pct,2.0837,0.3128,97,33
+65-69,2018,r_or_spouse_working,neither working,rate_ira_part_pct,1.7307,0.3147,97,33
+65-69,2018,r_or_spouse_working,neither working,rate_pension_part_pct,0.3531,0.1289,97,33
+65-69,2018,r_working,R working,pct_of_holders,51.9301,2.8663,222,25
+65-69,2018,r_working,R working,pct_of_balances,48.6382,4.4056,222,25
+65-69,2018,r_working,R working,incidence_per100,17.2225,3.2833,222,25
+65-69,2018,r_working,R working,rate_pct,0.7717,0.2003,222,25
+65-69,2018,r_working,R working,rate_ira_part_pct,0.4482,0.1452,222,25
+65-69,2018,r_working,R working,rate_pension_part_pct,0.3235,0.1380,222,25
+65-69,2018,r_working,R not working,pct_of_holders,48.0699,2.8663,141,52
+65-69,2018,r_working,R not working,pct_of_balances,51.3618,4.4056,141,52
+65-69,2018,r_working,R not working,incidence_per100,40.7246,4.7708,141,52
+65-69,2018,r_working,R not working,rate_pct,2.3508,0.2740,141,52
+65-69,2018,r_working,R not working,rate_ira_part_pct,1.6164,0.2319,141,52
+65-69,2018,r_working,R not working,rate_pension_part_pct,0.7344,0.2069,141,52
+65-69,2018,account_type,IRA only,pct_of_holders,47.8521,2.7069,170,37
+65-69,2018,account_type,IRA only,pct_of_balances,43.0530,4.4125,170,37
+65-69,2018,account_type,IRA only,incidence_per100,28.6831,4.0116,170,37
+65-69,2018,account_type,IRA only,rate_pct,1.7452,0.2947,170,37
+65-69,2018,account_type,IRA only,rate_ira_part_pct,1.7452,0.2947,170,37
+65-69,2018,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,170,37
+65-69,2018,account_type,IRA and DC,pct_of_holders,24.6657,2.3832,117,23
+65-69,2018,account_type,IRA and DC,pct_of_balances,44.0613,4.3561,117,23
+65-69,2018,account_type,IRA and DC,incidence_per100,29.2592,5.8934,117,23
+65-69,2018,account_type,IRA and DC,rate_pct,1.2481,0.2814,117,23
+65-69,2018,account_type,IRA and DC,rate_ira_part_pct,0.6737,0.1768,117,23
+65-69,2018,account_type,IRA and DC,rate_pension_part_pct,0.5744,0.2047,117,23
+65-69,2018,account_type,DC only,pct_of_holders,27.4822,2.1380,75,16
+65-69,2018,account_type,DC only,pct_of_balances,12.8857,2.3261,75,16
+65-69,2018,account_type,DC only,incidence_per100,27.5722,4.9095,75,16
+65-69,2018,account_type,DC only,rate_pct,2.1845,0.5679,75,16
+65-69,2018,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,75,16
+65-69,2018,account_type,DC only,rate_pension_part_pct,2.1845,0.5679,75,16
+65-69,2018,current_job_dc,has THRIFT,pct_of_holders,34.0735,2.4119,148,21
+65-69,2018,current_job_dc,has THRIFT,pct_of_balances,40.9811,3.8251,148,21
+65-69,2018,current_job_dc,has THRIFT,incidence_per100,19.3475,3.8076,148,21
+65-69,2018,current_job_dc,has THRIFT,rate_pct,1.1086,0.2791,148,21
+65-69,2018,current_job_dc,has THRIFT,rate_ira_part_pct,0.5852,0.1764,148,21
+65-69,2018,current_job_dc,has THRIFT,rate_pension_part_pct,0.5233,0.2253,148,21
+65-69,2018,current_job_dc,no THRIFT,pct_of_holders,65.9265,2.4119,215,56
+65-69,2018,current_job_dc,no THRIFT,pct_of_balances,59.0189,3.8251,215,56
+65-69,2018,current_job_dc,no THRIFT,incidence_per100,33.2606,3.8951,215,56
+65-69,2018,current_job_dc,no THRIFT,rate_pct,1.9120,0.2499,215,56
+65-69,2018,current_job_dc,no THRIFT,rate_ira_part_pct,1.3697,0.2237,215,56
+65-69,2018,current_job_dc,no THRIFT,rate_pension_part_pct,0.5424,0.1587,215,56
+65-69,2018,r_social_security,R gets SS,pct_of_holders,65.7478,2.4753,178,58
+65-69,2018,r_social_security,R gets SS,pct_of_balances,55.6482,4.2656,178,58
+65-69,2018,r_social_security,R gets SS,incidence_per100,33.3614,3.4902,178,58
+65-69,2018,r_social_security,R gets SS,rate_pct,2.0610,0.2453,178,58
+65-69,2018,r_social_security,R gets SS,rate_ira_part_pct,1.2865,0.2057,178,58
+65-69,2018,r_social_security,R gets SS,rate_pension_part_pct,0.7745,0.1931,178,58
+65-69,2018,r_social_security,R no SS,pct_of_holders,34.2522,2.4753,185,19
+65-69,2018,r_social_security,R no SS,pct_of_balances,44.3518,4.2656,185,19
+65-69,2018,r_social_security,R no SS,incidence_per100,19.2266,3.7644,185,19
+65-69,2018,r_social_security,R no SS,rate_pct,0.9827,0.2352,185,19
+65-69,2018,r_social_security,R no SS,rate_ira_part_pct,0.7492,0.2002,185,19
+65-69,2018,r_social_security,R no SS,rate_pension_part_pct,0.2336,0.1246,185,19
+65-69,2018,db_pension,DB,pct_of_holders,54.0582,3.0775,163,42
+65-69,2018,db_pension,DB,pct_of_balances,60.6441,4.3390,163,42
+65-69,2018,db_pension,DB,incidence_per100,30.8176,4.2810,163,42
+65-69,2018,db_pension,DB,rate_pct,1.5843,0.2511,163,42
+65-69,2018,db_pension,DB,rate_ira_part_pct,1.0124,0.1850,163,42
+65-69,2018,db_pension,DB,rate_pension_part_pct,0.5719,0.1760,163,42
+65-69,2018,db_pension,no DB,pct_of_holders,45.9418,3.0775,200,35
+65-69,2018,db_pension,no DB,pct_of_balances,39.3559,4.3390,200,35
+65-69,2018,db_pension,no DB,incidence_per100,25.8163,3.6063,200,35
+65-69,2018,db_pension,no DB,rate_pct,1.5804,0.2967,200,35
+65-69,2018,db_pension,no DB,rate_ira_part_pct,1.1033,0.2572,200,35
+65-69,2018,db_pension,no DB,rate_pension_part_pct,0.4770,0.1811,200,35
+65-69,2018,work_x_thrift,not working no THRIFT,pct_of_holders,32.9393,2.6608,97,33
+65-69,2018,work_x_thrift,not working no THRIFT,pct_of_balances,33.9192,4.2253,97,33
+65-69,2018,work_x_thrift,not working no THRIFT,incidence_per100,37.7925,5.4652,97,33
+65-69,2018,work_x_thrift,not working no THRIFT,rate_pct,2.0837,0.3128,97,33
+65-69,2018,work_x_thrift,not working no THRIFT,rate_ira_part_pct,1.7307,0.3147,97,33
+65-69,2018,work_x_thrift,not working no THRIFT,rate_pension_part_pct,0.3531,0.1289,97,33
+65-69,2018,work_x_thrift,working + THRIFT,pct_of_holders,34.0735,2.4119,148,21
+65-69,2018,work_x_thrift,working + THRIFT,pct_of_balances,40.9811,3.8251,148,21
+65-69,2018,work_x_thrift,working + THRIFT,incidence_per100,19.3475,3.8076,148,21
+65-69,2018,work_x_thrift,working + THRIFT,rate_pct,1.1086,0.2791,148,21
+65-69,2018,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.5852,0.1764,148,21
+65-69,2018,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.5233,0.2253,148,21
+65-69,2018,work_x_thrift,working no THRIFT,pct_of_holders,32.9872,2.7069,118,22
+65-69,2018,work_x_thrift,working no THRIFT,pct_of_balances,25.0997,3.7162,118,22
+65-69,2018,work_x_thrift,working no THRIFT,incidence_per100,28.7354,5.0266,118,22
+65-69,2018,work_x_thrift,working no THRIFT,rate_pct,1.6800,0.3831,118,22
+65-69,2018,work_x_thrift,working no THRIFT,rate_ira_part_pct,0.8818,0.2706,118,22
+65-69,2018,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.7982,0.2487,118,22
+65-69,2021,r_or_spouse_working,working,pct_of_holders,57.9193,3.5847,213,50
+65-69,2021,r_or_spouse_working,working,pct_of_balances,70.5905,6.5503,213,50
+65-69,2021,r_or_spouse_working,working,incidence_per100,26.1810,3.7355,213,50
+65-69,2021,r_or_spouse_working,working,rate_pct,1.6094,0.6177,213,50
+65-69,2021,r_or_spouse_working,working,rate_ira_part_pct,0.9790,0.3707,213,50
+65-69,2021,r_or_spouse_working,working,rate_pension_part_pct,0.6304,0.4547,213,50
+65-69,2021,r_or_spouse_working,neither working,pct_of_holders,42.0807,3.5847,96,29
+65-69,2021,r_or_spouse_working,neither working,pct_of_balances,29.4095,6.5503,96,29
+65-69,2021,r_or_spouse_working,neither working,incidence_per100,30.7725,4.9136,96,29
+65-69,2021,r_or_spouse_working,neither working,rate_pct,3.8702,1.0163,96,29
+65-69,2021,r_or_spouse_working,neither working,rate_ira_part_pct,2.3390,0.7479,96,29
+65-69,2021,r_or_spouse_working,neither working,rate_pension_part_pct,1.5312,0.7761,96,29
+65-69,2021,r_working,R working,pct_of_holders,40.7917,2.9615,169,34
+65-69,2021,r_working,R working,pct_of_balances,44.2615,9.1826,169,34
+65-69,2021,r_working,R working,incidence_per100,21.9900,4.3622,169,34
+65-69,2021,r_working,R working,rate_pct,0.6447,0.1707,169,34
+65-69,2021,r_working,R working,rate_ira_part_pct,0.5659,0.1595,169,34
+65-69,2021,r_working,R working,rate_pension_part_pct,0.0788,0.0519,169,34
+65-69,2021,r_working,R not working,pct_of_holders,59.2083,2.9615,140,45
+65-69,2021,r_working,R not working,pct_of_balances,55.7385,9.1826,140,45
+65-69,2021,r_working,R not working,incidence_per100,32.3317,4.0741,140,45
+65-69,2021,r_working,R not working,rate_pct,3.5683,1.2381,140,45
+65-69,2021,r_working,R not working,rate_ira_part_pct,2.0246,0.7631,140,45
+65-69,2021,r_working,R not working,rate_pension_part_pct,1.5437,0.7733,140,45
+65-69,2021,account_type,IRA only,pct_of_holders,57.7961,2.8040,164,45
+65-69,2021,account_type,IRA only,pct_of_balances,38.8828,8.1677,164,45
+65-69,2021,account_type,IRA only,incidence_per100,28.8239,4.4784,164,45
+65-69,2021,account_type,IRA only,rate_pct,3.1279,0.7494,164,45
+65-69,2021,account_type,IRA only,rate_ira_part_pct,3.1279,0.7494,164,45
+65-69,2021,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,164,45
+65-69,2021,account_type,IRA and DC,pct_of_holders,22.1910,2.4902,92,26
+65-69,2021,account_type,IRA and DC,pct_of_balances,52.6232,9.4241,92,26
+65-69,2021,account_type,IRA and DC,incidence_per100,31.9595,5.4067,92,26
+65-69,2021,account_type,IRA and DC,rate_pct,1.1003,0.6475,92,26
+65-69,2021,account_type,IRA and DC,rate_ira_part_pct,0.3093,0.1167,92,26
+65-69,2021,account_type,IRA and DC,rate_pension_part_pct,0.7911,0.6177,92,26
+65-69,2021,account_type,DC only,pct_of_holders,20.0128,2.3747,53,8
+65-69,2021,account_type,DC only,pct_of_balances,8.4940,2.3234,53,8
+65-69,2021,account_type,DC only,incidence_per100,21.7955,5.8003,53,8
+65-69,2021,account_type,DC only,rate_pct,5.6396,2.0783,53,8
+65-69,2021,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,53,8
+65-69,2021,account_type,DC only,rate_pension_part_pct,5.6396,2.0783,53,8
+65-69,2021,current_job_dc,has THRIFT,pct_of_holders,29.5191,2.5316,109,16
+65-69,2021,current_job_dc,has THRIFT,pct_of_balances,49.2478,9.8753,109,16
+65-69,2021,current_job_dc,has THRIFT,incidence_per100,16.2347,4.1191,109,16
+65-69,2021,current_job_dc,has THRIFT,rate_pct,0.9314,0.6531,109,16
+65-69,2021,current_job_dc,has THRIFT,rate_ira_part_pct,0.1983,0.0822,109,16
+65-69,2021,current_job_dc,has THRIFT,rate_pension_part_pct,0.7331,0.6437,109,16
+65-69,2021,current_job_dc,no THRIFT,pct_of_holders,70.4809,2.5316,200,63
+65-69,2021,current_job_dc,no THRIFT,pct_of_balances,50.7522,9.8753,200,63
+65-69,2021,current_job_dc,no THRIFT,incidence_per100,33.0881,3.8119,200,63
+65-69,2021,current_job_dc,no THRIFT,rate_pct,3.5773,0.7313,200,63
+65-69,2021,current_job_dc,no THRIFT,rate_ira_part_pct,2.5246,0.5749,200,63
+65-69,2021,current_job_dc,no THRIFT,rate_pension_part_pct,1.0527,0.4554,200,63
+65-69,2021,r_social_security,R gets SS,pct_of_holders,67.8165,2.5374,152,42
+65-69,2021,r_social_security,R gets SS,pct_of_balances,49.9434,9.8827,152,42
+65-69,2021,r_social_security,R gets SS,incidence_per100,26.8084,3.3673,152,42
+65-69,2021,r_social_security,R gets SS,rate_pct,2.3805,0.9247,152,42
+65-69,2021,r_social_security,R gets SS,rate_ira_part_pct,1.3769,0.5478,152,42
+65-69,2021,r_social_security,R gets SS,rate_pension_part_pct,1.0036,0.5506,152,42
+65-69,2021,r_social_security,R no SS,pct_of_holders,32.1835,2.5374,157,37
+65-69,2021,r_social_security,R no SS,pct_of_balances,50.0566,9.8827,157,37
+65-69,2021,r_social_security,R no SS,incidence_per100,30.8626,4.4874,157,37
+65-69,2021,r_social_security,R no SS,rate_pct,2.1683,0.7398,157,37
+65-69,2021,r_social_security,R no SS,rate_ira_part_pct,1.3810,0.5185,157,37
+65-69,2021,r_social_security,R no SS,rate_pension_part_pct,0.7873,0.6284,157,37
+65-69,2021,db_pension,DB,pct_of_holders,45.9021,3.3042,117,31
+65-69,2021,db_pension,DB,pct_of_balances,50.0249,9.7306,117,31
+65-69,2021,db_pension,DB,incidence_per100,24.8659,3.7937,117,31
+65-69,2021,db_pension,DB,rate_pct,2.5086,1.0347,117,31
+65-69,2021,db_pension,DB,rate_ira_part_pct,1.1700,0.5315,117,31
+65-69,2021,db_pension,DB,rate_pension_part_pct,1.3386,0.8006,117,31
+65-69,2021,db_pension,no DB,pct_of_holders,54.0979,3.3042,192,47
+65-69,2021,db_pension,no DB,pct_of_balances,49.9751,9.7306,192,47
+65-69,2021,db_pension,no DB,incidence_per100,30.8685,4.2715,192,47
+65-69,2021,db_pension,no DB,rate_pct,2.0397,0.5102,192,47
+65-69,2021,db_pension,no DB,rate_ira_part_pct,1.5881,0.4572,192,47
+65-69,2021,db_pension,no DB,rate_pension_part_pct,0.4516,0.1792,192,47
+65-69,2021,work_x_thrift,not working no THRIFT,pct_of_holders,42.0807,3.5847,96,29
+65-69,2021,work_x_thrift,not working no THRIFT,pct_of_balances,29.4095,6.5503,96,29
+65-69,2021,work_x_thrift,not working no THRIFT,incidence_per100,30.7725,4.9136,96,29
+65-69,2021,work_x_thrift,not working no THRIFT,rate_pct,3.8702,1.0163,96,29
+65-69,2021,work_x_thrift,not working no THRIFT,rate_ira_part_pct,2.3390,0.7479,96,29
+65-69,2021,work_x_thrift,not working no THRIFT,rate_pension_part_pct,1.5312,0.7761,96,29
+65-69,2021,work_x_thrift,working + THRIFT,pct_of_holders,29.5191,2.5316,109,16
+65-69,2021,work_x_thrift,working + THRIFT,pct_of_balances,49.2478,9.8753,109,16
+65-69,2021,work_x_thrift,working + THRIFT,incidence_per100,16.2347,4.1191,109,16
+65-69,2021,work_x_thrift,working + THRIFT,rate_pct,0.9314,0.6531,109,16
+65-69,2021,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.1983,0.0822,109,16
+65-69,2021,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.7331,0.6437,109,16
+65-69,2021,work_x_thrift,working no THRIFT,pct_of_holders,28.4002,2.9128,104,34
+65-69,2021,work_x_thrift,working no THRIFT,pct_of_balances,21.3427,4.9173,104,34
+65-69,2021,work_x_thrift,working no THRIFT,incidence_per100,36.5192,6.1038,104,34
+65-69,2021,work_x_thrift,working no THRIFT,rate_pct,3.1738,0.9710,104,34
+65-69,2021,work_x_thrift,working no THRIFT,rate_ira_part_pct,2.7805,0.9602,104,34
+65-69,2021,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.3933,0.1816,104,34
+65-69,2003/06,r_or_spouse_working,working,pct_of_holders,61.1215,2.7887,271,44
+65-69,2003/06,r_or_spouse_working,working,pct_of_balances,60.7924,4.5959,271,44
+65-69,2003/06,r_or_spouse_working,working,incidence_per100,21.0311,2.8821,271,44
+65-69,2003/06,r_or_spouse_working,working,rate_pct,1.6812,0.4394,271,44
+65-69,2003/06,r_or_spouse_working,working,rate_ira_part_pct,1.5056,0.4351,271,44
+65-69,2003/06,r_or_spouse_working,working,rate_pension_part_pct,0.1756,0.0602,271,44
+65-69,2003/06,r_or_spouse_working,neither working,pct_of_holders,38.8785,2.7887,108,34
+65-69,2003/06,r_or_spouse_working,neither working,pct_of_balances,39.2076,4.5959,108,34
+65-69,2003/06,r_or_spouse_working,neither working,incidence_per100,34.1106,3.8109,108,34
+65-69,2003/06,r_or_spouse_working,neither working,rate_pct,2.2532,0.4282,108,34
+65-69,2003/06,r_or_spouse_working,neither working,rate_ira_part_pct,1.8700,0.4016,108,34
+65-69,2003/06,r_or_spouse_working,neither working,rate_pension_part_pct,0.3832,0.1486,108,34
+65-69,2003/06,r_working,R working,pct_of_holders,52.2226,2.7224,242,37
+65-69,2003/06,r_working,R working,pct_of_balances,51.6762,4.5774,242,37
+65-69,2003/06,r_working,R working,incidence_per100,19.9705,3.1120,242,37
+65-69,2003/06,r_working,R working,rate_pct,1.7993,0.5184,242,37
+65-69,2003/06,r_working,R working,rate_ira_part_pct,1.5927,0.5108,242,37
+65-69,2003/06,r_working,R working,rate_pension_part_pct,0.2066,0.0741,242,37
+65-69,2003/06,r_working,R not working,pct_of_holders,47.7774,2.7224,137,42
+65-69,2003/06,r_working,R not working,pct_of_balances,48.3238,4.5774,137,42
+65-69,2003/06,r_working,R not working,incidence_per100,32.8336,3.5832,137,42
+65-69,2003/06,r_working,R not working,rate_pct,2.0189,0.3388,137,42
+65-69,2003/06,r_working,R not working,rate_ira_part_pct,1.7081,0.3171,137,42
+65-69,2003/06,r_working,R not working,rate_pension_part_pct,0.3109,0.1205,137,42
+65-69,2003/06,account_type,IRA only,pct_of_holders,62.6293,2.5946,226,54
+65-69,2003/06,account_type,IRA only,pct_of_balances,51.2677,4.4820,226,54
+65-69,2003/06,account_type,IRA only,incidence_per100,28.3192,3.4078,226,54
+65-69,2003/06,account_type,IRA only,rate_pct,3.0098,0.5288,226,54
+65-69,2003/06,account_type,IRA only,rate_ira_part_pct,3.0098,0.5288,226,54
+65-69,2003/06,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,226,54
+65-69,2003/06,account_type,IRA and DC,pct_of_holders,19.4502,2.1207,100,16
+65-69,2003/06,account_type,IRA and DC,pct_of_balances,38.2868,4.5443,100,16
+65-69,2003/06,account_type,IRA and DC,incidence_per100,25.6665,5.7410,100,16
+65-69,2003/06,account_type,IRA and DC,rate_pct,0.6188,0.1730,100,16
+65-69,2003/06,account_type,IRA and DC,rate_ira_part_pct,0.2753,0.1045,100,16
+65-69,2003/06,account_type,IRA and DC,rate_pension_part_pct,0.3434,0.1447,100,16
+65-69,2003/06,account_type,DC only,pct_of_holders,17.9205,2.1691,52,8
+65-69,2003/06,account_type,DC only,pct_of_balances,10.4455,3.0118,52,8
+65-69,2003/06,account_type,DC only,incidence_per100,18.9052,5.1770,52,8
+65-69,2003/06,account_type,DC only,rate_pct,1.2013,0.6351,52,8
+65-69,2003/06,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,52,8
+65-69,2003/06,account_type,DC only,rate_pension_part_pct,1.2013,0.6351,52,8
+65-69,2003/06,current_job_dc,has THRIFT,pct_of_holders,25.1537,2.2134,115,6
+65-69,2003/06,current_job_dc,has THRIFT,pct_of_balances,32.1242,4.2883,115,6
+65-69,2003/06,current_job_dc,has THRIFT,incidence_per100,7.9498,3.2735,115,6
+65-69,2003/06,current_job_dc,has THRIFT,rate_pct,0.3212,0.1424,115,6
+65-69,2003/06,current_job_dc,has THRIFT,rate_ira_part_pct,0.3040,0.1354,115,6
+65-69,2003/06,current_job_dc,has THRIFT,rate_pension_part_pct,0.0171,0.0406,115,6
+65-69,2003/06,current_job_dc,no THRIFT,pct_of_holders,74.8463,2.2134,265,72
+65-69,2003/06,current_job_dc,no THRIFT,pct_of_balances,67.8758,4.2883,265,72
+65-69,2003/06,current_job_dc,no THRIFT,incidence_per100,32.2214,3.1448,265,72
+65-69,2003/06,current_job_dc,no THRIFT,rate_pct,2.6552,0.4333,265,72
+65-69,2003/06,current_job_dc,no THRIFT,rate_ira_part_pct,2.2847,0.4336,265,72
+65-69,2003/06,current_job_dc,no THRIFT,rate_pension_part_pct,0.3705,0.0998,265,72
+65-69,2003/06,r_social_security,R gets SS,pct_of_holders,89.0640,1.5901,310,75
+65-69,2003/06,r_social_security,R gets SS,pct_of_balances,84.5231,3.4335,310,75
+65-69,2003/06,r_social_security,R gets SS,incidence_per100,28.5011,2.5610,310,75
+65-69,2003/06,r_social_security,R gets SS,rate_pct,2.1886,0.3541,310,75
+65-69,2003/06,r_social_security,R gets SS,rate_ira_part_pct,1.8858,0.3517,310,75
+65-69,2003/06,r_social_security,R gets SS,rate_pension_part_pct,0.3028,0.0813,310,75
+65-69,2003/06,r_social_security,R no SS,pct_of_holders,10.9360,1.5901,69,4
+65-69,2003/06,r_social_security,R no SS,pct_of_balances,15.4769,3.4335,69,4
+65-69,2003/06,r_social_security,R no SS,incidence_per100,6.6935,3.4841,69,4
+65-69,2003/06,r_social_security,R no SS,rate_pct,0.3590,0.2190,69,4
+65-69,2003/06,r_social_security,R no SS,rate_ira_part_pct,0.3522,0.2186,69,4
+65-69,2003/06,r_social_security,R no SS,rate_pension_part_pct,0.0068,0.0082,69,4
+65-69,2003/06,db_pension,DB,pct_of_holders,55.3470,2.8658,175,33
+65-69,2003/06,db_pension,DB,pct_of_balances,51.7616,4.5867,175,33
+65-69,2003/06,db_pension,DB,incidence_per100,22.0501,2.7695,175,33
+65-69,2003/06,db_pension,DB,rate_pct,1.6362,0.3300,175,33
+65-69,2003/06,db_pension,DB,rate_ira_part_pct,1.4320,0.3174,175,33
+65-69,2003/06,db_pension,DB,rate_pension_part_pct,0.2042,0.0737,175,33
+65-69,2003/06,db_pension,no DB,pct_of_holders,44.6530,2.8658,205,45
+65-69,2003/06,db_pension,no DB,pct_of_balances,48.2384,4.5867,205,45
+65-69,2003/06,db_pension,no DB,incidence_per100,31.1560,3.9563,205,45
+65-69,2003/06,db_pension,no DB,rate_pct,2.1943,0.5220,205,45
+65-69,2003/06,db_pension,no DB,rate_ira_part_pct,1.8807,0.5197,205,45
+65-69,2003/06,db_pension,no DB,rate_pension_part_pct,0.3136,0.1156,205,45
+65-69,2003/06,work_x_thrift,not working no THRIFT,pct_of_holders,38.8785,2.7887,108,34
+65-69,2003/06,work_x_thrift,not working no THRIFT,pct_of_balances,39.2076,4.5959,108,34
+65-69,2003/06,work_x_thrift,not working no THRIFT,incidence_per100,34.1106,3.8109,108,34
+65-69,2003/06,work_x_thrift,not working no THRIFT,rate_pct,2.2532,0.4282,108,34
+65-69,2003/06,work_x_thrift,not working no THRIFT,rate_ira_part_pct,1.8700,0.4016,108,34
+65-69,2003/06,work_x_thrift,not working no THRIFT,rate_pension_part_pct,0.3832,0.1486,108,34
+65-69,2003/06,work_x_thrift,working + THRIFT,pct_of_holders,25.1537,2.2134,115,6
+65-69,2003/06,work_x_thrift,working + THRIFT,pct_of_balances,32.1242,4.2883,115,6
+65-69,2003/06,work_x_thrift,working + THRIFT,incidence_per100,7.9498,3.2735,115,6
+65-69,2003/06,work_x_thrift,working + THRIFT,rate_pct,0.3212,0.1424,115,6
+65-69,2003/06,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.3040,0.1354,115,6
+65-69,2003/06,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.0171,0.0406,115,6
+65-69,2003/06,work_x_thrift,working no THRIFT,pct_of_holders,35.9679,2.9000,156,38
+65-69,2003/06,work_x_thrift,working no THRIFT,pct_of_balances,28.6681,4.0274,156,38
+65-69,2003/06,work_x_thrift,working no THRIFT,incidence_per100,30.1793,4.8408,156,38
+65-69,2003/06,work_x_thrift,working no THRIFT,rate_pct,3.2051,0.8656,156,38
+65-69,2003/06,work_x_thrift,working no THRIFT,rate_ira_part_pct,2.8520,0.8739,156,38
+65-69,2003/06,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.3532,0.1261,156,38
+65-69,2018/21,r_or_spouse_working,working,pct_of_holders,62.1824,2.2405,479,93
+65-69,2018/21,r_or_spouse_working,working,pct_of_balances,68.7836,4.5231,479,93
+65-69,2018/21,r_or_spouse_working,working,incidence_per100,25.0667,2.4806,479,93
+65-69,2018/21,r_or_spouse_working,working,rate_pct,1.5002,0.3964,479,93
+65-69,2018/21,r_or_spouse_working,working,rate_ira_part_pct,0.8708,0.2280,479,93
+65-69,2018/21,r_or_spouse_working,working,rate_pension_part_pct,0.6294,0.2931,479,93
+65-69,2018/21,r_or_spouse_working,neither working,pct_of_holders,37.8176,2.2405,193,62
+65-69,2018/21,r_or_spouse_working,neither working,pct_of_balances,31.2164,4.5231,193,62
+65-69,2018/21,r_or_spouse_working,neither working,incidence_per100,33.6240,3.4518,193,62
+65-69,2018/21,r_or_spouse_working,neither working,rate_pct,3.0925,0.5720,193,62
+65-69,2018/21,r_or_spouse_working,neither working,rate_ira_part_pct,2.0741,0.4228,193,62
+65-69,2018/21,r_or_spouse_working,neither working,rate_pension_part_pct,1.0183,0.4398,193,62
+65-69,2018/21,r_working,R working,pct_of_holders,45.9861,2.0639,391,59
+65-69,2018/21,r_working,R working,pct_of_balances,46.0151,5.9542,391,59
+65-69,2018/21,r_working,R working,incidence_per100,19.4793,2.7593,391,59
+65-69,2018/21,r_working,R working,rate_pct,0.6985,0.1329,391,59
+65-69,2018/21,r_working,R working,rate_ira_part_pct,0.5160,0.1109,391,59
+65-69,2018/21,r_working,R working,rate_pension_part_pct,0.1824,0.0650,391,59
+65-69,2018/21,r_working,R not working,pct_of_holders,54.0139,2.0639,281,97
+65-69,2018/21,r_working,R not working,pct_of_balances,53.9849,5.9542,281,97
+65-69,2018/21,r_working,R not working,incidence_per100,35.8150,3.0749,281,97
+65-69,2018/21,r_working,R not working,rate_pct,3.1042,0.7360,281,97
+65-69,2018/21,r_working,R not working,rate_ira_part_pct,1.8690,0.4524,281,97
+65-69,2018/21,r_working,R not working,rate_pension_part_pct,1.2352,0.4739,281,97
+65-69,2018/21,account_type,IRA only,pct_of_holders,53.1587,2.0327,334,82
+65-69,2018/21,account_type,IRA only,pct_of_balances,40.5537,5.5662,334,82
+65-69,2018/21,account_type,IRA only,incidence_per100,28.7648,3.1640,334,82
+65-69,2018/21,account_type,IRA only,rate_pct,2.5398,0.4387,334,82
+65-69,2018/21,account_type,IRA only,rate_ira_part_pct,2.5398,0.4387,334,82
+65-69,2018/21,account_type,IRA only,rate_pension_part_pct,0.0000,0.0000,334,82
+65-69,2018/21,account_type,IRA and DC,pct_of_holders,23.3451,1.7344,209,49
+65-69,2018/21,account_type,IRA and DC,pct_of_balances,49.1928,6.3919,209,49
+65-69,2018/21,account_type,IRA and DC,incidence_per100,30.6290,3.9796,209,49
+65-69,2018/21,account_type,IRA and DC,rate_pct,1.1534,0.4327,209,49
+65-69,2018/21,account_type,IRA and DC,rate_ira_part_pct,0.4400,0.1140,209,49
+65-69,2018/21,account_type,IRA and DC,rate_pension_part_pct,0.7133,0.4038,209,49
+65-69,2018/21,account_type,DC only,pct_of_holders,23.4962,1.5926,128,24
+65-69,2018/21,account_type,DC only,pct_of_balances,10.2536,1.7832,128,24
+65-69,2018/21,account_type,DC only,incidence_per100,24.9465,3.6559,128,24
+65-69,2018/21,account_type,DC only,rate_pct,3.8999,1.2032,128,24
+65-69,2018/21,account_type,DC only,rate_ira_part_pct,0.0000,0.0000,128,24
+65-69,2018/21,account_type,DC only,rate_pension_part_pct,3.8999,1.2032,128,24
+65-69,2018/21,current_job_dc,has THRIFT,pct_of_holders,31.6430,1.8133,257,37
+65-69,2018/21,current_job_dc,has THRIFT,pct_of_balances,45.9356,6.7246,257,37
+65-69,2018/21,current_job_dc,has THRIFT,incidence_per100,17.7978,2.7203,257,37
+65-69,2018/21,current_job_dc,has THRIFT,rate_pct,0.9947,0.4406,257,37
+65-69,2018/21,current_job_dc,has THRIFT,rate_ira_part_pct,0.3366,0.0976,257,37
+65-69,2018/21,current_job_dc,has THRIFT,rate_pension_part_pct,0.6581,0.4263,257,37
+65-69,2018/21,current_job_dc,no THRIFT,pct_of_holders,68.3570,1.8133,415,119
+65-69,2018/21,current_job_dc,no THRIFT,pct_of_balances,54.0644,6.7246,415,119
+65-69,2018/21,current_job_dc,no THRIFT,incidence_per100,33.1657,2.7023,415,119
+65-69,2018/21,current_job_dc,no THRIFT,rate_pct,2.8490,0.4237,415,119
+65-69,2018/21,current_job_dc,no THRIFT,rate_ira_part_pct,2.0195,0.3313,415,119
+65-69,2018/21,current_job_dc,no THRIFT,rate_pension_part_pct,0.8295,0.2639,415,119
+65-69,2018/21,r_social_security,R gets SS,pct_of_holders,66.8517,1.7299,330,100
+65-69,2018/21,r_social_security,R gets SS,pct_of_balances,52.2291,6.2125,330,100
+65-69,2018/21,r_social_security,R gets SS,incidence_per100,29.8139,2.5062,330,100
+65-69,2018/21,r_social_security,R gets SS,rate_pct,2.2441,0.5419,330,100
+65-69,2018/21,r_social_security,R gets SS,rate_ira_part_pct,1.3383,0.3221,330,100
+65-69,2018/21,r_social_security,R gets SS,rate_pension_part_pct,0.9058,0.3250,330,100
+65-69,2018/21,r_social_security,R no SS,pct_of_holders,33.1483,1.7299,342,56
+65-69,2018/21,r_social_security,R no SS,pct_of_balances,47.7709,6.2125,342,56
+65-69,2018/21,r_social_security,R no SS,incidence_per100,25.2554,2.9726,342,56
+65-69,2018/21,r_social_security,R no SS,rate_pct,1.7273,0.4755,342,56
+65-69,2018/21,r_social_security,R no SS,rate_ira_part_pct,1.1460,0.3250,342,56
+65-69,2018/21,r_social_security,R no SS,rate_pension_part_pct,0.5813,0.4067,342,56
+65-69,2018/21,db_pension,DB,pct_of_holders,49.7057,2.4456,280,73
+65-69,2018/21,db_pension,DB,pct_of_balances,54.2796,5.8205,280,73
+65-69,2018/21,db_pension,DB,incidence_per100,27.8845,2.9344,280,73
+65-69,2018/21,db_pension,DB,rate_pct,2.0949,0.5648,280,73
+65-69,2018/21,db_pension,DB,rate_ira_part_pct,1.0995,0.2988,280,73
+65-69,2018/21,db_pension,DB,rate_pension_part_pct,0.9954,0.4426,280,73
+65-69,2018/21,db_pension,no DB,pct_of_holders,50.2943,2.4456,392,82
+65-69,2018/21,db_pension,no DB,pct_of_balances,45.7204,5.8205,392,82
+65-69,2018/21,db_pension,no DB,incidence_per100,28.7163,2.8617,392,82
+65-69,2018/21,db_pension,no DB,rate_pct,1.8813,0.3406,392,82
+65-69,2018/21,db_pension,no DB,rate_ira_part_pct,1.4209,0.2983,392,82
+65-69,2018/21,db_pension,no DB,rate_pension_part_pct,0.4604,0.1299,392,82
+65-69,2018/21,work_x_thrift,not working no THRIFT,pct_of_holders,37.8176,2.2405,193,62
+65-69,2018/21,work_x_thrift,not working no THRIFT,pct_of_balances,31.2164,4.5231,193,62
+65-69,2018/21,work_x_thrift,not working no THRIFT,incidence_per100,33.6240,3.4518,193,62
+65-69,2018/21,work_x_thrift,not working no THRIFT,rate_pct,3.0925,0.5720,193,62
+65-69,2018/21,work_x_thrift,not working no THRIFT,rate_ira_part_pct,2.0741,0.4228,193,62
+65-69,2018/21,work_x_thrift,not working no THRIFT,rate_pension_part_pct,1.0183,0.4398,193,62
+65-69,2018/21,work_x_thrift,working + THRIFT,pct_of_holders,31.6430,1.8133,257,37
+65-69,2018/21,work_x_thrift,working + THRIFT,pct_of_balances,45.9356,6.7246,257,37
+65-69,2018/21,work_x_thrift,working + THRIFT,incidence_per100,17.7978,2.7203,257,37
+65-69,2018/21,work_x_thrift,working + THRIFT,rate_pct,0.9947,0.4406,257,37
+65-69,2018/21,work_x_thrift,working + THRIFT,rate_ira_part_pct,0.3366,0.0976,257,37
+65-69,2018/21,work_x_thrift,working + THRIFT,rate_pension_part_pct,0.6581,0.4263,257,37
+65-69,2018/21,work_x_thrift,working no THRIFT,pct_of_holders,30.5394,1.9646,222,56
+65-69,2018/21,work_x_thrift,working no THRIFT,pct_of_balances,22.8480,3.5313,222,56
+65-69,2018/21,work_x_thrift,working no THRIFT,incidence_per100,32.5982,4.0270,222,56
+65-69,2018/21,work_x_thrift,working no THRIFT,rate_pct,2.5163,0.5579,222,56
+65-69,2018/21,work_x_thrift,working no THRIFT,rate_ira_part_pct,1.9448,0.5434,222,56
+65-69,2018/21,work_x_thrift,working no THRIFT,rate_pension_part_pct,0.5715,0.1569,222,56

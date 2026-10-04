@@ -1,0 +1,39 @@
+### CODE
+window.__grab14c = async (yy) => {
+  const f = yy + 'in14ar.xls';
+  const url = 'https://www.irs.gov/pub/irs-soi/' + f;
+  const r = await fetch(url);
+  if (!r.ok) return '### ' + f + ' HTTP ' + r.status + '\n';
+  const buf = await r.arrayBuffer();
+  const wb = window.__XLSX.read(new Uint8Array(buf), {type:'array'});
+  let out = '### ' + f + '\n';
+  for (const name of wb.SheetNames) {
+    const rows = window.__XLSX.utils.sheet_to_json(wb.Sheets[name], {header:1, raw:false, defval:''});
+    for (let i = 0; i < rows.length; i++) {
+      rows[i].forEach((c, j) => {
+        const s = String(c).replace(/\s+/g,' ');
+        if (/\bIRA\b|individual retirement/i.test(s) && s.length < 120) {
+          let t = -1;
+          for (let k = i + 1; k < Math.min(rows.length, i + 15); k++) { if (/^All returns, total/i.test(String(rows[k][0]).trim())) { t = k; break; } }
+          const above = (rows[i-1] && rows[i-1][j]) || ''; const below = (rows[i+1] && rows[i+1][j]) || '';
+          out += 'sheet ' + name + ' r' + i + ' c' + j + ': [' + String(above).replace(/\s+/g,' ') + '] ' + s + ' [' + String(below).replace(/\s+/g,' ') + '] => ' + (t>=0 ? [rows[t][j], rows[t][j+1], rows[t][j+2], rows[t][j+3]].join(' | ') : 'no total row nearby') + '\n';
+        }
+      });
+    }
+  }
+  return out;
+};
+let res = '';
+for (const yy of ['03','02','01','00','99','98']) { res += await window.__grab14c(yy); }
+res
+
+### RESULT
+"### 03in14ar.xls\nsheet Sheet1 r379 c7: [Total taxable]  IRA distributions [Number of] => 8,611,702       | 88,335,605       | 24,767,067       | 565,420,626      \nsheet Sheet1 r611 c1: [Statutory adjustments--continued] IRA payments [ ] => 3,418,494       | 10,006,814       | 6,953,370       | 4,409,816      \n### 02in14ar.xls\nsheet Sheet1 r236 c7: [Total taxable] IRA distributions [Number of] => 8,291,357       | 88,219,481       | 24,857,470       | 561,031,602      \nsheet Sheet1 r421 c11: [] IRA Payments [ ] => 3,277,671       | 9,462,404       |  | \n### 01in14ar.xls\nsheet Sheet1 r189 c13: [Total taxable] IRA distributions [Number of] => 8,834,138      | 94,327,585    |  | \nsheet Sheet1 r374 c9: [] IRA payments [Number of] => 3,448,457    | 7,406,866    | 4,405,667      | 2,711,733     \n### 00in14ar.xls\nsheet Sheet1 r194 c13: [Total taxable] IRA distributions [Number of] => 8,732,290      | 98,966,627    |  | \nsheet Sheet1 r383 c9: [] IRA payments [Number of] => 3,505,033    | 7,477,074    | 4,477,986      | 2,639,472     \n### 99in14ar.xls\nsheet Sheet1 r173 c13: [Total taxable] IRA distributions [Number of] => 8,129,376      | 87,140,912    |  | \nsheet Sheet1 r342 c9: [] IRA payments [Number of] => 3,687,149    | 7,883,438    | 4,136,505      | 2,254,531     \n### 98in14ar.xls\nsheet Sheet1 r173 c9: [Total taxable] IRA distributions [Number of] => 7,774,091      | 74,094,367    | 22,211,348    | 441,521,385   \nsheet Sheet1 r342 c9: [] IRA payments [Number of] => 3,868,017    | 8,188,452    | 3,763,742      | 1,730,768     \n"
+
+(captured at origin https://irs.gov)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "SOI Tax Stats Accumulation and Distribution of Individual Retirement Arrangements | Internal Revenue Service" ("https://www.irs.gov/statistics/soi-tax-stats-accumulation-and-distribution-of-individual-retirement-arrangements")

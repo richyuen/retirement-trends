@@ -1,0 +1,15 @@
+### CODE
+let o = '';
+try { o += await window.__pdfFind('https://www.ici.org/files/2021/21_rpt_ira_traditional.pdf', /FIGURE\s*4\.\d/i) + '\n'; } catch (e) { o += 'ERR ' + String(e).slice(0,300); }
+o
+
+### RESULT
+"pages=88 hits=6,51,52,53,54,55,56,57,58\n"
+
+(captured at origin https://ici.org)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "The IRA Investor Database™ | Investment Company Institute" ("https://www.ici.org/research-iras/the-ira-investor-database")

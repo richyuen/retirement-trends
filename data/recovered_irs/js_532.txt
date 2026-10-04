@@ -1,0 +1,26 @@
+### CODE
+const u = 'https://www.ebri.org/publications/research-publications/issue-briefs/content/full/-ira-withdrawals-in-2013-and-longitudinal-results-2010-2013-and-satisfaction-with-health-coverage-and-care-findings-from-the-2014-ebri-greenwald-associates-consumer-engagement-in-health-care-survey--3245';
+let o = '';
+const r = await fetch(u, {redirect:'follow'});
+const ct = r.headers.get('content-type') || '';
+o += r.status + ' ' + ct + ' final=' + r.url.slice(0,200) + '\n';
+if (/html/.test(ct)) {
+  const t = await r.text();
+  const d = new DOMParser().parseFromString(t, 'text/html');
+  const pdfs = Array.from(d.querySelectorAll('a')).map(a => a.getAttribute('href')).filter(h => h && /\.pdf/i.test(h));
+  o += 'pdf links: ' + JSON.stringify(pdfs.slice(0,20)) + '\n';
+  const main = d.querySelector('main') || d.body;
+  o += 'textlen=' + main.textContent.replace(/\s+/g,' ').length + '\n' + main.textContent.replace(/\s+/g,' ').slice(0, 1500);
+}
+o
+
+### RESULT
+"200 application/pdf final=https://www.ebri.org/docs/default-source/ebri-pnotes/ebri_notes_07_july15_iras-cehcs.pdf?sfvrsn=1cd292f_2\n"
+
+(captured at origin https://ebri.org)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "IRA Database" ("https://www.ebri.org/retirement/individual-retirement-accounts")

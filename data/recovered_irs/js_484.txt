@@ -1,0 +1,16 @@
+### CODE
+let o = '';
+const u = 'https://www.ici.org/system/files/attachments/pdf/per22-01.pdf';
+for (const p of [23,24]) { const t = await window.__ctrlItems(u, p); if (/Mean|Retired/.test(t)) o += '=== p' + p + ' ===\n' + t; }
+o.slice(0, 6000)
+
+### RESULT
+"=== p23 ===\ny482 x73 _f46 Retired<25><24>did<24>not<24>take<24>a<24>withdrawal\ny485 x191 _f46 <16>\ny481 x202 _f47 <31><30>\ny461 x202 _f47 <29><28>\ny455 x507 _f47 <29><30><27>\ny446 x484 _f46 <15><14><25>\ny446 x508 _f46 <24>to<24><15> <25>\ny475 x337 _f47 <31><26><27>\ny466 x315 _f46 <15><14> <25>\ny466 x343 _f46 <24>or<24>more\ny519 x64 _f47 U<24>S<24><22>households<22>with<22>traditional<22>IRAs<22>in<22><31><26><29><5>\ny519 x299 _f47 Amount<22>withdrawn<22>in<22>tax<22>year<22><31><26><29><1>\ny510 x299 _f48 Percentage<31>of<31>traditional<31>IRA–owning<31>households<31>that<31>made<31>withdrawals\ny418 x72 _f46 t<24>retired<25><24>did<24>not<24>take<24>a<24>withdrawal\ny497 x483 _f47 <31><29><27>\ny488 x460 _f46 Less<24>than<24><15><14><25>\ny406 x489 _f47 <31><28><27>\ny397 x466 _f46 <15> <25>\ny397 x490 _f46 <24>to<24><15> <25>\ny356 x397 _f47 Mean<22><129><22><141><29><29><143><5><26><26>\ny346 x396 _f47 Median<22><129><22><141><144><143><26><26><26>\ny356 x152 _f47 Number<22>of<22>respondents<130><22><31><143><1><31><31>\ny449 x204 _f47 <28>\ny418 x202 _f47 <5><5>\ny460 x94 _f46 Retired<25><24>took<24>a<24>withdrawal\ny463 x186 _f46 <16><25><24><14>\ny449 x86 _f46 Not<24>retired<25><24>took<24>a<24>withdrawal\ny452 x191 _f46 <14>\ny439 x330 _f47 <5><27>\ny430 x300 _f46 <15><16> <25>\ny430 x328 _f46 <24>to<24><15><16> <25>\ny465 x221 _f47 <31><31><27>\ny465 x233 _f46 <24>\ny457 x221 _f46 took<24>withdrawals\ny449 x221 _f46 in<24>tax<24>year<24><14> <16>\ny403 x344 _f47 <29><5><27>\ny394 x317 _f46 <15><16> <25>\ny394 x345 _f46 <24>to<24><15><16> <25>\n"
+
+(captured at origin https://ici.org)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "The IRA Investor Database™ | Investment Company Institute" ("https://www.ici.org/research-iras/the-ira-investor-database")

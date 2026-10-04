@@ -1,0 +1,29 @@
+{
+ "rev559": {
+  "cells_compared": 720,
+  "cells_different": 0,
+  "max_abs_diff": 0
+ },
+ "rev563": {
+  "cells_compared": 240,
+  "cells_different": 0
+ },
+ "ici_old22": {
+  "contributions": 22.5,
+  "rollovers": 669.8,
+  "conversions": 36.5,
+  "withdrawals": 467.0,
+  "assets": 10781.2
+ },
+ "vintage_table5": {
+  "crs_old_trad_n": 4989322,
+  "crs_old_trad_avg": 4510,
+  "crs_old_roth_n": 10036960,
+  "crs_old_roth_avg": 3482,
+  "jun2026_trad_n": 5900726,
+  "jun2026_trad_amt_K": 25807585,
+  "jun2026_roth_n": 9170792,
+  "jun2026_roth_amt_K": 30584013,
+  "cells": "22in05ira.xlsx B7:C7; 22in06ira.xlsx B7:C7"
+ }
+}

@@ -1,0 +1,23 @@
+### CODE
+const u = 'https://www.ici.org/pubfile_pdf/rpt_15_ira_traditional.pdf';
+const doc = await window.__pdfDoc(u);
+let o = '';
+for (const p of [50, 52]) {
+  const page = await doc.getPage(p);
+  const tc = await page.getTextContent();
+  const txt = tc.items.map(i => i.str).join('~');
+  const idx = txt.search(p === 50 ? /percent~? ?of traditional IRA investors took withdrawals|took withdrawals from their traditional IRAs in 2013/ : /Specifically/);
+  o += '=== p' + p + ' ===\n' + txt.slice(Math.max(0, idx - 300), idx + 1500) + '\n';
+}
+o
+
+### RESULT
+"=== p50 ===\nSEARCH INVESTOR PROFILE: TRADITIONAL IRA INVESTORS’ ACTIVITY, 2007–2013~42~~Although traditional IRA investors across all age groups withdrew money from their traditional~~IRAs in 2013, withdrawal activity is concentrated among older traditional IRA investors~ ~In~~The IRA Investor Database, 22~ ~5 percent of traditional IRA investors took withdrawals from~~their traditional IRAs in 2013, and this varied considerably by age (Figure 4~ ~2)~ ~For example,~~73~ ~5 percent of traditional IRA investors aged 70 to 74 and 85~ ~6 percent of investors aged 75~~or older took withdrawals in 2013, compared with about 20 percent of traditional IRA investors~~in their sixties and less than 10 percent of traditional IRA investors aged 25 to 59~ ~In fact, the~~majority of traditional IRA withdrawals are taken by investors aged 60 or older, where penalties~~generally do not apply to the distributions and RMDs often apply~ ~Indeed, while traditional IRA~~investors aged 60 or older only accounted for 38~ ~4 percent of traditional IRA investors in The~~IRA Investor Database, they accounted for 75~ ~1 percent of the traditional IRA investors with~~withdrawals in 2013~~The IRA Investor Database does not show universal withdrawal rates among traditional IRA~~investors aged 70 or older, even though traditional IRA investors are required to take distributions~~beginning at age 70½, for a few reasons~ ~First, because age in the database refers to age at the~~end of 2013, some traditional IRA investors in this group did not turn 70½ until 2014 and would~~FIGURE 4.2~~Withdrawal Activity of Traditional IRA Investors in 2013 by Investor Age~~Number of traditional IRA investors and traditional IRA investors with withdrawals~1~ ~by age, 2013~~Age~~Traditional IRA~~investors~~Traditional IRA investors~\n=== p52 ===\nIt is possible to identify withdrawal amounts that fulfill the RMD by using the IRS~~distribution tables~ ~Among investors who (1) had traditional IRAs at year-end 2012 and 2013,~~(2) were aged 70 or older at year-end 2013, and (3) took withdrawals in 2013, more than half~~withdrew the RMD amount~ ~Specifically, 56~ ~2 percent took exactly the RMD amount based on the~~Uniform Lifetime table published by the IRS (self RMD); 1~ ~3 percent appear to have used the Joint~~and Last Survivor Expectancy table (joint RMD); and another 0~ ~2 percent appear to be taking~~distributions from an inherited IRA (inherited RMD) (Figure 4~ ~4)~ ~An additional 37~ ~7 percent of~~these older traditional IRA investors with withdrawals took more than the self RMD amount and~~4~ ~7 percent took less than that amount~ ~51~~FIGURE 4.4~~Required Minimum Distributions Often Were Used to Determine Withdrawal Amounts in 2013~~Percentage of traditional IRA investors aged 70 or older in 2013 with account balances at year-end 2012 and year-end~~2013 who took withdrawals in 2013~~\u001f\u001e\u001d\u001c~~Self\u001bRMD~ ~\u0017~~\u001b\u001a\u001d\u001a~~More\u001bthan\u001bthe\u001bself\u001bRMD~ ~\u0017~~\u0019\u001d\u001c~~Inherited\u001bRMD~~\u0018\u001d\u001a~~Less\u001bthan\u001bthe\u001bself\u001bRMD~ ~\u0017~ ~\u0017\u001d\u001b~~Joint\u001bRMD~~1~ ~The self RMD amount applies to traditional IRA investors who are (1) unmarried, (2) married to a spouse who is no more than 10 years younger,~~or (3) married to a spouse who is not the sole beneficiary of the IRA.~~2~ ~The inherited RMD amount applies to beneficiaries who inherited the traditional IRA.~~3~ ~The joint RMD amount applies to traditional IRA investors who are married to spouses who are more than 10 years younger and are the sole~~beneficiaries of the IRA.~~Note: The sample is 0.9 million traditional IRA investors aged 70 or older in 2013 with account balances at year-end 2012 and year-end\n"
+
+(captured at origin https://ici.org)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "The IRA Investor Database™ | Investment Company Institute" ("https://www.ici.org/research-iras/the-ira-investor-database")

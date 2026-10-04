@@ -1,0 +1,12 @@
+source,file,cell,measure,value_billion,note
+ICI IRA Investor Database data file (pre-June-2026 vintage),https://www.ici.org/files/2026/tax-year-2023-rpt-ira-traditional-data.xlxs (as extracted in data/recovered_irs/js_386.txt),"Figure A.26, row 2022, Rollovers",Traditional IRA rollovers 2022,669.8,"Cites ""ICI and IRS SOI""; built from the Feb-2025 SOI TY2022 release (former methodology)"
+"ICI Research Perspective 32(7), June 2026 (released 3 Jun 2026)",https://www.ici.org/system/files/2026-06/per32-07.pdf,"p.4 text + note 21 (""See Internal Revenue Service, Statistics of Income Division 2025"")",Rollovers to traditional IRAs 2022 (rounded),670.0,Cites the SOI 2025 web release
+"IRS SOI Table 1, TY2022 (June 2026, revised methodology)",22in01ira.xlsx,G7,Traditional IRA rollovers 2022,635.9,
+"IRS SOI Table 1, TY2022 (June 2026, revised methodology)",22in01ira.xlsx,G6,All-IRA rollovers 2022,664.3,
+"IRS SOI Table 1CI, TY2022 (June 2026)",22in01iraci.xlsx,G7,"Traditional rollovers 2022, 95% CI",608.2,upper bound 663.1; ICI 669.8 lies above it
+"IRS SOI Table 1CI, TY2022 (June 2026)",22in01iraci.xlsx,G6,"All-IRA rollovers 2022, 95% CI",635.9,upper bound 691.9
+"ICI, The US Retirement Market, Q2 2026 data (posted 17 Sep 2026)",https://www.ici.org/statistical-report/ret_26_q2_data.xls,"Table 11, row 35 (2022), Rollovers",Traditional IRA rollovers 2022 (ICI current),635.9,ICI has adopted the June-2026 SOI figure
+"ICI, The US Retirement Market, Q2 2026 data",ret_26_q2_data.xls,"Table 11, row 36 (2023), Rollovers",Traditional IRA rollovers 2023 (ICI current),652.8,
+"IRS SOI Table 1, TY2023 (June 2026)",23in01ira.xlsx,G7,Traditional IRA rollovers 2023,652.8,
+"IRS SOI Table 1, TY2020 (April 2023)",20in01ira.xlsx,G7,Traditional IRA rollovers 2020,594.8,ICI old and new files both show 594.8
+"IRS SOI Table 1, TY2021 (February 2025)",21in01ira.xlsx,G7,Traditional IRA rollovers 2021,706.0,ICI old and new files both show 706.0

@@ -1,0 +1,31 @@
+### CODE
+window.__rawCodes = async (url, p, re) => {
+  const doc = await window.__pdfDoc(url);
+  const page = await doc.getPage(p);
+  const tc = await page.getTextContent();
+  const items = tc.items.filter(it => it.str && it.str.length).map(it => ({s: it.str, x: Math.round(it.transform[4]), y: Math.round(it.transform[5]), f: it.fontName}));
+  // find y of items matching re, then list all items within +-3 of those y
+  const ys = items.filter(it => re.test(it.s)).map(it => it.y);
+  let out = '';
+  for (const it of items) {
+    if (ys.some(y => Math.abs(y - it.y) <= 3)) {
+      out += 'y' + it.y + ' x' + it.x + ' ' + it.f + ' :: ' + JSON.stringify(it.s) + ' codes=' + Array.from(it.s).map(c => c.charCodeAt(0)).join(',') + '\n';
+    }
+  }
+  return out;
+};
+let o = '';
+o += 'per17-08 p19\n' + await window.__rawCodes('https://www.ici.org/system/files/attachments/pdf/per17-08.pdf', 19, /Mean|Median|Number of respondents/);
+o += 'per18-08 p20\n' + await window.__rawCodes('https://www.ici.org/system/files/attachments/pdf/per18-08.pdf', 20, /Mean|Median|Number of respondents/);
+o
+
+### RESULT
+"per17-08 p19\ny377 x396 g_d15_f42 :: \"Mean\\u0001\\u0001\" codes=77,101,97,110,1,127,1,129,141,143,144,157\ny367 x395 g_d15_f42 :: \"Median\\u0001\\u0001 \" codes=77,101,100,105,97,110,1,127,1,129,32,144\ny377 x152 g_d15_f42 :: \"Number of respondents: \" codes=78,117,109,98,101,114,32,111,102,32,114,101,115,112,111,110,100,101,110,116,115,58,32,141,144,134,135,136\nper18-08 p20\ny216 x399 g_d14_f48 :: \"Mean\\u001f\\u001e\\u001f\\u001d\\u001c\\u001b\\u001a\\u0019\\u0018\\u0018\" codes=77,101,97,110,31,30,31,29,28,27,26,25,24,24\ny206 x398 g_d14_f48 :: \"Median\\u001f\\u001e\\u001f\\u001d\\u0017\\u001a\\u0018\\u0018\\u0018\" codes=77,101,100,105,97,110,31,30,31,29,23,26,24,24,24\ny216 x153 g_d14_f48 :: \"Number of respondents: \\u0016\\u001a\\u0016\\u001b\\u0016\" codes=78,117,109,98,101,114,32,111,102,32,114,101,115,112,111,110,100,101,110,116,115,58,32,22,26,22,27,22\n"
+
+(captured at origin https://ici.org)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "The IRA Investor Database™ | Investment Company Institute" ("https://www.ici.org/research-iras/the-ira-investor-database")

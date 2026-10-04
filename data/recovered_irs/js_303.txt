@@ -1,0 +1,17 @@
+### CODE
+let out = {};
+try { const m = await import('https://cdn.sheetjs.com/xlsx-0.20.3/package/xlsx.mjs'); out.importOk = typeof m.read; window.__XLSX = m; } catch (e) { out.importErr = String(e).slice(0,300); }
+out.href = location.href; out.title = document.title;
+out.hasDS = typeof DecompressionStream;
+JSON.stringify(out)
+
+### RESULT
+"{\"importOk\":\"function\",\"href\":\"https://www.irs.gov/statistics/soi-tax-stats-accumulation-and-distribution-of-individual-retirement-arrangements\",\"title\":\"SOI Tax Stats Accumulation and Distribution of Individual Retirement Arrangements | Internal Revenue Service\",\"hasDS\":\"function\"}"
+
+(captured at origin https://irs.gov)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "SOI Tax Stats Accumulation and Distribution of Individual Retirement Arrangements | Internal Revenue Service" ("https://www.irs.gov/statistics/soi-tax-stats-accumulation-and-distribution-of-individual-retirement-arrangements")

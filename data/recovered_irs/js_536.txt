@@ -1,0 +1,56 @@
+### CODE
+let out = {};
+try {
+  const pdfjs = await import('https://cdn.jsdelivr.net/npm/pdfjs-dist@4.4.168/build/pdf.min.mjs');
+  const w = await import('https://cdn.jsdelivr.net/npm/pdfjs-dist@4.4.168/build/pdf.worker.min.mjs');
+  globalThis.pdfjsWorker = w;
+  pdfjs.GlobalWorkerOptions.workerSrc = 'https://cdn.jsdelivr.net/npm/pdfjs-dist@4.4.168/build/pdf.worker.min.mjs';
+  window.__pdfjs = pdfjs; out.ok = typeof pdfjs.getDocument;
+} catch (e) { out.err = String(e).slice(0,300); }
+window.__pdfCache = {};
+window.__pdfDoc = async (url) => {
+  if (window.__pdfCache[url]) return window.__pdfCache[url];
+  const r = await fetch(url, {redirect:'follow'});
+  const ct = r.headers.get('content-type') || '';
+  if (!r.ok || !/pdf/.test(ct)) throw new Error('not pdf: ' + r.status + ' ' + ct + ' ' + r.url.slice(0,100));
+  const buf = await r.arrayBuffer();
+  const doc = await window.__pdfjs.getDocument({data: new Uint8Array(buf)}).promise;
+  doc.__finalUrl = r.url;
+  window.__pdfCache[url] = doc;
+  return doc;
+};
+window.__pageLines = async (doc, p) => {
+  const page = await doc.getPage(p);
+  const tc = await page.getTextContent();
+  const items = tc.items.filter(it => it.str && it.str.trim().length).map(it => ({s: it.str, x: it.transform[4], y: it.transform[5]}));
+  const lines = [];
+  for (const it of items) { let ln = lines.find(l => Math.abs(l.y - it.y) < 2.5); if (!ln) { ln = {y: it.y, items: []}; lines.push(ln); } ln.items.push(it); }
+  lines.sort((a,b) => b.y - a.y);
+  return lines.map(l => l.items.sort((a,b)=>a.x-b.x).map(i=>i.s).join(' ').replace(/\s+/g,' '));
+};
+const base = 'https://www.ebri.org/publications/research-publications/issue-briefs/content/full/';
+const slugs = [
+ '-ira-withdrawals-in-2013-and-longitudinal-results-2010-2013-and-satisfaction-with-health-coverage-and-care-findings-from-the-2014-ebri-greenwald-associates-consumer-engagement-in-health-care-survey--3245',
+ '-lifetime-accumulations-and-tax-savings-from-hsa-contributions-and-ira-withdrawals-in-2012-and-longitudinal-results-2010-2012--5428',
+ '-ira-withdrawals-2011-and-employer-and-worker-contributions-to-health-reimbursement-arrangements-and-health-savings-accounts-2006-2013--5348',
+ 'individual-retirement-account-balances-contributions-and-rollovers-2013-with-longitudinal-results-2010-2013-the-ebri-ira-database-5521',
+ '2014-update-of-the-ebri-ira-database-ira-balances-contributions-rollovers-withdrawals-and-asset-allocation-3375',
+ 'individual-retirement-account-balances-contributions-withdrawals-and-asset-allocation-longitudinal-results-2010-2014-the-ebri-ira-database-3409',
+ '2015-update-of-the-ebri-ira-database-ira-balances-contributions-rollovers-withdrawals-and-asset-allocation'
+];
+let o = JSON.stringify(out) + '\n';
+for (const s of slugs) {
+  try { const r = await fetch(base + s, {redirect:'follow'}); o += r.status + ' ' + (r.headers.get('content-type')||'') + ' ' + r.url.slice(0,150) + '\n'; } catch (e) { o += 'ERR ' + s.slice(0,40) + '\n'; }
+}
+o
+
+### RESULT
+"{\"ok\":\"function\"}\n200 application/pdf https://www.ebri.org/docs/default-source/ebri-pnotes/ebri_notes_07_july15_iras-cehcs.pdf?sfvrsn=1cd292f_2\n200 text/html; charset=utf8 https://www.ebri.org/forms/cas/login?oauth=1&service=/forms/oauth/authorize%3Fresponse_type%3Dcode%26client_id%3Dd3a0d9cba1eb4bed9434057b584d2b00%26sc\n200 application/pdf https://www.ebri.org/docs/default-source/ebri-pnotes/ebri_notes_02_feb-14_iras-hsas.pdf?sfvrsn=8e25362f_4\n200 text/html; charset=utf8 https://www.ebri.org/forms/cas/login?oauth=1&service=/forms/oauth/authorize%3Fresponse_type%3Dcode%26client_id%3Dd3a0d9cba1eb4bed9434057b584d2b00%26sc\n200 text/html; charset=utf8 https://www.ebri.org/forms/cas/login?oauth=1&service=/forms/oauth/authorize%3Fresponse_type%3Dcode%26client_id%3Dd3a0d9cba1eb4bed9434057b584d2b00%26sc\n200 text/html; charset=utf8 https://www.ebri.org/forms/cas/login?oauth=1&service=/forms/oauth/authorize%3Fresponse_type%3Dcode%26client_id%3Dd3a0d9cba1eb4bed9434057b584d2b00%26sc\n200 text/html; charset=utf8 https://www.ebri.org/forms/cas/login?oauth=1&service=/forms/oauth/authorize%3Fresponse_type%3Dcode%26client_id%3Dd3a0d9cba1eb4bed9434057b584d2b00%26sc\n"
+
+(captured at origin https://ebri.org)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "IRA Database" ("https://www.ebri.org/retirement/individual-retirement-accounts")

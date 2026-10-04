@@ -1,0 +1,28 @@
+### CODE
+window.__tryList = async (urls) => {
+  let o = '';
+  for (const u of urls) {
+    try {
+      const wb = await window.__loadWb(u);
+      o += 'OK ' + u + ' sheets=' + wb.SheetNames.length + '\n';
+      wb.SheetNames.forEach(n => {
+        const rows = window.__XLSX.utils.sheet_to_json(wb.Sheets[n], {header:1, raw:false, defval:''});
+        const first = rows.slice(0,3).map(r => r.filter(c => String(c).trim()).join(' ').replace(/\s+/g,' ').slice(0,110)).filter(x=>x).join(' // ');
+        if (/withdraw/i.test(first)) o += '   ' + n + ' :: ' + first + '\n';
+      });
+    } catch (e) { o += 'FAIL ' + u + ' ' + String(e).slice(0,80) + '\n'; }
+  }
+  return o;
+};
+await window.__tryList(['https://www.ici.org/files/2025/per31-02-data.xls','https://www.ici.org/files/2025/per31-02-data.xlsx','https://www.ici.org/files/per30-01-data.xls','https://www.ici.org/files/2024/per30-01-data.xls','https://www.ici.org/files/2024/per30-01-data.xlsx','https://www.ici.org/files/per29-01-data.xls','https://www.ici.org/files/2023/per29-01-data.xls','https://www.ici.org/files/2023/per29-01-data.xlsx'])
+
+### RESULT
+"OK https://www.ici.org/files/2025/per31-02-data.xls sheets=36\n   A24 :: Figure A24 // Most Traditional IRA–Owning Households That Take Withdrawals Are Headed by Individuals Aged 70 or Older // Percentage of traditional IRA–owning households\n   A25 :: Figure A25 // Traditional IRA Withdrawal Amounts\n   A26 :: Figure A26 // How Traditional IRA Withdrawals Are Determined // Percentage of traditional IRA–owning households in the year indicated with withdrawals in the prior year\n   A27 :: Figure A27 // Older Traditional IRA–Owning Households Use RMD Rules When Taking Withdrawals // Percentage of traditional IRA–owning households with withdrawals in tax year 2023\n   A28 :: Figure A28 // Most Households Consult a Professional Financial Adviser to Determine the Amount of IRA Withdrawals\n   A29 :: Figure A29 // Most Traditional IRA Withdrawals Are Made to Meet Required Minimum Distributions // Characteristics of US households owning traditional IRAs by withdrawal status in tax year 2023\n   A30 :: Figure A30 // Traditional IRA Withdrawals Among Retirees Are Often Used to Pay for Living Expenses // Percentage of withdrawing traditional IRA–owning households by retirement status,1 2024\n   A31 :: Figure A31 // Roth IRA Withdrawals Are Often Used to Pay for Living Expenses // Characteristics of US households owning Roth IRAs by withdrawal status in tax year 2023\nFAIL https://www.ici.org/files/2025/per31-02-data.xlsx Error: HTTP 404 https://www.ici.org/files/2025/per31-02-data.xlsx\nOK https://www.ici.org/files/per30-01-data.xls sheets=35\n   A13 :: Figure A13 // Most Traditional IRA–Owning Households That Take Withdrawals Are Headed by Individuals Aged 70 or Older // Percentage of traditional IRA–owning households\n   A14 :: Figure A14 // How Traditional IRA Withdrawals Are Determined // Percentage of traditional IRA–owning households in the year indicated with withdrawals in the prior year\n   A15 :: Figure A15 // Older Traditional IRA–Owning Households Use RMD Rules When Taking Withdrawals // Percentage of traditional IRA–owning households with withdrawals in tax year 2022\n   A16 :: Figure A16 // Most Households Consult a Professional Financial Adviser to Determine the Amount of Traditional IRA Withdrawal // Percentage of traditional IRA–owning households in 2023 that made withdrawals in tax year 2022\n   A17 :: Figure A17 // Traditional IRA Withdrawals Among Retirees Are Often Used to Pay for Living Expenses // Percentage of withdrawing traditional IRA–owning households by retirement status,1 2023\n   A31 :: Figure A31 // Most Traditional IRA Withdrawals Are Made to Meet Required Minimum Distributions // Characteristics of US households owning traditional IRAs by withdrawal status in tax year 2022\nFAIL https://www.ici.org/files/2024/per30-01-data.xls Error: HTTP 404 https://www.ici.org/files/2024/per30-01-data.xls\nFAIL https://www.ici.org/files/2024/per30-01-data.xlsx Error: HTTP 404 https://www.ici.org/files/2024/per30-01-data.xlsx\nOK https://www.ici.org/files/per29-01-data.xls sheets=33\n   A13 :: Figure A13 // Most Traditional IRA–Owning Households That Take Withdrawals Are Headed by Individuals Aged 70 or Older // Percentage of traditional IRA–owning households\n   A14 :: Figure A14 // How Traditional IRA Withdrawals Are Determined // Percentage of traditional IRA–owning households in the year indicated with withdrawals in the prior year\n   A15 :: Figure A15 // Most Households Consult a Professional Financial Adviser to Determine the Amount of Traditional IRA Withdrawal // Percentage of traditional IRA–owning households in 2022 that made withdrawals in tax year 2021\n   A16 :: Figure A16 // Traditional IRA Withdrawals Among Retirees Are Often Used to Pay for Living Expenses // Percentage of withdrawing traditional IRA–owning households by retirement status,1 2022\n   A29 :: Figure A29 // Most Traditional IRA Withdrawals Are Made to Meet Required Minimum Distributions // Characteristics of US households owning traditional IRAs by withdrawal status in tax year 2021\nFAIL https://www.ici.org/files/2023/per29-01-data.xls Error: HTTP 404 https://www.ici.org/files/2023/per29-01-data.xls\nFAIL https://www.ici.org/files/2023/per29-01-data.xlsx Error: HTTP 404 https://www.ici.org/files/2023/per29-01-data.xlsx\n"
+
+(captured at origin https://ici.org)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "The IRA Investor Database™ | Investment Company Institute" ("https://www.ici.org/research-iras/the-ira-investor-database")

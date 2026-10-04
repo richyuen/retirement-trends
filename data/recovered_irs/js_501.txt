@@ -1,0 +1,16 @@
+### CODE
+let o = '';
+o += await window.__pdfFig('https://www.ici.org/files/2024/per30-01.pdf', /Retired, did not take a withdrawal/i, /(Retired|retired|Mean|Median|respondents|\$|^\d+%?$|Took|tax year)/) + '\n';
+o += await window.__pdfFig('https://www.ici.org/system/files/2023-02/per29-01.pdf', /Retired, did not take a withdrawal/i, /(Retired|retired|Mean|Median|respondents|\$|^\d+%?$|Took|tax year)/) + '\n';
+o.slice(0, 6000)
+
+### RESULT
+"URL per30-01.pdf pages=28\n\nURL per29-01.pdf pages=32\n\n"
+
+(captured at origin https://ici.org)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "The IRA Investor Database™ | Investment Company Institute" ("https://www.ici.org/research-iras/the-ira-investor-database")

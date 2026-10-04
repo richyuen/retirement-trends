@@ -1,0 +1,24 @@
+### CODE
+let o = '';
+const cands = [
+ 'https://www.ebri.org/docs/default-source/ebri-issue-brief/ebri_ib_513_iras-17sept20.pdf?sfvrsn=a8103a2f_8',
+ 'https://www.ebri.org/docs/default-source/ebri-issue-brief/ebri_ib_456_iras-13aug18.pdf?sfvrsn=6a58352f_12',
+ 'https://www.ebri.org/docs/default-source/ebri-issue-brief/ebri_ib_477_iraspenddowns-21mar19.pdf?sfvrsn=1f6c3f2f_12',
+ 'https://www.ebri.org/docs/default-source/ebri-issue-brief/ebri_ib_503_irawd-26mar20.pdf?sfvrsn=58563d2f_8',
+ 'https://www.ebri.org/docs/default-source/infographics/20_ig-ira-long-14feb19.pdf?sfvrsn=b5093f2f_6'
+];
+for (const u of cands) {
+  try { const r = await fetch(u, {redirect:'follow'}); const ct = r.headers.get('content-type') || ''; const buf = await r.arrayBuffer(); const head = new TextDecoder().decode(new Uint8Array(buf).slice(0, 8)); o += r.status + ' ' + ct + ' bytes=' + buf.byteLength + ' head=' + JSON.stringify(head) + ' finalURL=' + r.url.slice(0,120) + '\n'; } catch (e) { o += 'ERR ' + String(e).slice(0,100) + ' ' + u + '\n'; }
+}
+o
+
+### RESULT
+"200 text/html; charset=utf8 bytes=25780 head=\"<!DOCTYP\" finalURL=https://www.ebri.org/forms/cas/login?oauth=1&service=/forms/oauth/authorize%3Fresponse_type%3Dcode%26client_id%3Dd3a0d9c\n200 text/html; charset=utf8 bytes=25780 head=\"<!DOCTYP\" finalURL=https://www.ebri.org/forms/cas/login?oauth=1&service=/forms/oauth/authorize%3Fresponse_type%3Dcode%26client_id%3Dd3a0d9c\n200 text/html; charset=utf8 bytes=25816 head=\"<!DOCTYP\" finalURL=https://www.ebri.org/forms/cas/login?oauth=1&service=/forms/oauth/authorize%3Fresponse_type%3Dcode%26client_id%3Dd3a0d9c\n200 text/html; charset=utf8 bytes=25780 head=\"<!DOCTYP\" finalURL=https://www.ebri.org/forms/cas/login?oauth=1&service=/forms/oauth/authorize%3Fresponse_type%3Dcode%26client_id%3Dd3a0d9c\n200 application/pdf bytes=221692 head=\"%PDF-1.7\" finalURL=https://www.ebri.org/docs/default-source/infographics/20_ig-ira-long-14feb19.pdf?sfvrsn=b5093f2f_6\n"
+
+(captured at origin https://ebri.org)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "IRA Database" ("https://www.ebri.org/retirement/individual-retirement-accounts")

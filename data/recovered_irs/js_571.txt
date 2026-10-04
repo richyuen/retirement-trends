@@ -1,0 +1,18 @@
+### CODE
+const doc = await window.__pdfDoc('https://www.irs.gov/pub/irs-soi/13inirafallbul.pdf');
+const ls = await window.__pageLines(doc, 3);
+const txt = ls.join('\n');
+const i = txt.indexOf('Of the 8.1');
+let o = txt.slice(Math.max(0, i - 900), i + 1800);
+o
+
+### RESULT
+"nsored Simpli fi ed Employee Pension\nwithdrawals from traditional IRAs made before age 59½ IRAs (SEP-IRAs), introduced in the Revenue Act of\nwere subject to a 10-percent additional tax. 1978, allowed employers to contribute to their employ-\nGenerally, distributions were required to begin ees’ retirements. Self-employed individuals could also\nby April 1 of the year following the year in which the use a SEP-IRA to contribute to their own retirement. In\ntaxpayer reached age 70½ and were taxed as ordinary 2009 and 2010, an employer could contribute up to 20\nincome. However, the Worker, Retiree, and Employer percent of the fi rst $245,000 of an employee’s compen-\nRecovery Act of 2008 suspended this rule for 2009 for sation, for a maximum contribution of $49,000. The sta-\nall individuals regardless of marital status or account tistics in this article include the contributions made by\nbalance. Of the 8.1 million taxpayers age 70½ and employers on behalf of the employees and contributions\nover holding a traditional IRA in 2009, some 3.2 mil- made by self-employed individuals.\nlion taxpayers took advantage of the suspension by not In 2010, nearly 1.1 million taxpayers contributed\nwithdrawing money from their accounts. Proportionally, $12.0 billion to SEP-IRAs (Table 3). At year-end, 3.4\nmost taxpayers who took advantage were under age 75; million taxpayers held $265.5 billion in SEP-IRA ac-\nof that group’s 3.0 million taxpayers, 46 percent chose counts. SEP-IRAs had the largest average contribution\nnot to take a withdrawal (Figure C). of any IRA account type, at $11,352 in 2010. This was\ndriven by the sizable average contribution made by tax-\nFigure C\npayers with higher incomes coupled with the higher\nTaxpayers with Individual Retirement Account: dollar limitations placed on SEP-IRA contributions rela-\nPercentage T aking Advantage of Required tive to traditional and Roth IRAs.\nMinimum Distribution Suspension, by Age\nGroup, Tax Year 2010 Savings Incentive Match Plans for Employees IRAs\nPercent The Small Business Job Protection Act of 1996 intro-\n50 duced the Savings Incentive Match Plans for Employees\n46.11 (SIMPLE) IRAs. This Act provided a mechanism for\n45\nemployers (including self-employed individuals) to\n40 37.59\noffer a tax-favored retirement plan for their employees.\n35 33.01 Employees have the option to make a salary reduction\ncontribution, in which they transfer a portion of their\n30\npre-tax compensation to the account. Additionally, em-\n25\nployers must make either matching contributions or\n3\n20 nonelective contributions. For 2010, employee salary\nreduction contributions to SIMPLE IRAs were limited\n15\nto $11,500, with an additional catch-up contribution "
+
+(captured at origin https://irs.gov)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "SOI Tax Stats Accumulation and Distribution of Individual Retirement Arrangements | Internal Revenue Service" ("https://www.irs.gov/statistics/soi-tax-stats-accumulation-and-distribution-of-individual-retirement-arrangements")

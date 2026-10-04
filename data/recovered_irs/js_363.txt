@@ -1,0 +1,40 @@
+### CODE
+window.__grab14b = async (yy) => {
+  const f = yy + 'in14ar.xls';
+  const url = 'https://www.irs.gov/pub/irs-soi/' + f;
+  const r = await fetch(url);
+  if (!r.ok) return '### ' + f + ' HTTP ' + r.status + '\n';
+  const buf = await r.arrayBuffer();
+  const wb = window.__XLSX.read(new Uint8Array(buf), {type:'array'});
+  let out = '### ' + f + '\n';
+  for (const name of wb.SheetNames) {
+    const rows = window.__XLSX.utils.sheet_to_json(wb.Sheets[name], {header:1, raw:false, defval:''});
+    if (!rows.length) continue;
+    const totIdx = rows.findIndex(rw => /^All returns, total/i.test(String(rw[0]).trim()));
+    if (totIdx < 0) { out += 'sheet ' + name + ' no total row; first cells: ' + rows.slice(0,12).map(rw=>String(rw[0]).slice(0,40)).join(' // ') + '\n'; continue; }
+    for (let i = 0; i < totIdx; i++) {
+      rows[i].forEach((c, j) => {
+        const s = String(c).replace(/\s+/g,' ');
+        if (/\bIRA\b|individual retirement/i.test(s)) {
+          const above = (rows[i-1] && rows[i-1][j]) || ''; const below = (rows[i+1] && rows[i+1][j]) || '';
+          out += 'sheet ' + name + ' HDR r' + i + ' c' + j + ': [' + String(above).replace(/\s+/g,' ') + '] ' + s + ' [' + String(below).replace(/\s+/g,' ') + '] => ' + [rows[totIdx][j], rows[totIdx][j+1], rows[totIdx][j+2], rows[totIdx][j+3]].join(' | ') + '\n';
+        }
+      });
+    }
+  }
+  return out;
+};
+let res = '';
+for (const yy of ['03','02','01','00','99','98']) { res += await window.__grab14b(yy); }
+res
+
+### RESULT
+"### 03in14ar.xls\n### 02in14ar.xls\n### 01in14ar.xls\n### 00in14ar.xls\n### 99in14ar.xls\n### 98in14ar.xls\n"
+
+(captured at origin https://irs.gov)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "SOI Tax Stats Accumulation and Distribution of Individual Retirement Arrangements | Internal Revenue Service" ("https://www.irs.gov/statistics/soi-tax-stats-accumulation-and-distribution-of-individual-retirement-arrangements")

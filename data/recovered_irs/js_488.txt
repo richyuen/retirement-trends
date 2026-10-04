@@ -1,0 +1,32 @@
+### CODE
+let o = '';
+for (const [f, pages] of [['fm-v18n1',[12,13]],['fm-v19n1',[11,12]],['fm-v19n8',[15,16]]]) {
+  const u = 'https://www.ici.org/system/files/attachments/pdf/' + f + '.pdf';
+  for (const p of pages) {
+    const doc = await window.__pdfDoc(u);
+    const page = await doc.getPage(p);
+    const tc = await page.getTextContent();
+    const flat = tc.items.map(i=>i.str).join(' ');
+    if (!/Mean|Median/.test(flat) || !/withdraw/i.test(flat)) continue;
+    const items = tc.items.filter(it => it.str && it.str.trim().length).map(it => ({s: it.str, x: it.transform[4], y: it.transform[5]}));
+    const lines = [];
+    for (const it of items) { let ln = lines.find(l => Math.abs(l.y - it.y) < 2.5); if (!ln) { ln = {y: it.y, items: []}; lines.push(ln); } ln.items.push(it); }
+    lines.sort((a,b) => b.y - a.y);
+    let arr = lines.map(l => l.items.sort((a,b)=>a.x-b.x).map(i=>i.s).join(' | '));
+    const start = arr.findIndex(l => /Figure \d+|FIGURE/.test(l));
+    if (start > 0) arr = arr.slice(start);
+    o += '=== ' + f + ' p' + p + ' ===\n' + arr.join('\n').replace(/[\u0000-\u0009\u000b-\u001f\u007f- ]/g, c => '<' + c.charCodeAt(0) + '>') + '\n';
+  }
+}
+o.slice(0, 9000)
+
+### RESULT
+"=== fm-v18n1 p12 ===\nrelated. Twenty-two percent of households still owning | took less than $2,500 from their IRAs (Figure 15).\ntraditional IRAs in 2008 reported taking withdrawals | Although some withdrawals in dollar amounts appear\n22\nfrom these IRAs in tax-year 2007 (Figure 15). | Among | large, a median of 6 percent of the account balance\nhouseholds taking traditional IRA withdrawals, | was typically withdrawn.\n82 percent reported someone in the household was\nA traditional IRA withdrawal, if taken by an\nretired from their lifetime occupation. Nevertheless,\nindividual prior to age 59 | ½ | , is generally subject to\namong retired households owning traditional IRAs in\na 10 percent penalty on the taxable portion of the\n2008, nearly three out of five did not take a withdrawal\nwithdrawal (in addition to the federal, state, and local\nin tax-year 2007.\nFigure 15\nWithdrawals from Traditional IRAs Are Infrequent\nU.S. households with traditional IRAs in 2008 | Amount withdrawn in tax-year 2007\n(percentage) | (percentage of traditional IRA–owning households\nthat made withdrawals)\n1\nRetired, did not take a withdrawal | 26\n22% | $20,000 or more | 29 | 29 | Less than $2,500\n1, 2\nRetired, took a withdrawal | 18\nTook withdrawals\n}\nNot retired, took a withdrawal | 2 | 4 | in tax-year 2007\n$15,000 to $19,999 | 3\nNot retired, did not take a withdrawal | 52 | 9\n$2,500 to $4,999\n17\n13\n$10,000 to $14,999\n$5,000 to $9,999\nNumber of respondents: 682 | Mean = $15,300\nMedian = $9,000\n1The household was considered retired if either the head of household or spouse responded aff irmatively to “are you retired from your lifetime occupation?”\n2 Households that made a withdrawal exclude those that closed and no longer owned traditional IRAs.\nSource: Investment Company Institute IRA Owners Survey\nPage 12 | Fundamentals | January 2009 | Vol. 18, No. 1\n=== fm-v19n1 p12 ===\nFigure 15\nTraditional and Roth IRA Catch-Up Contributions Are Infrequent\nPercentage of U.S. households with individuals aged 50 or older by contribution status in tax year 2008\nMade a traditional or Roth IRA catch-up contribution\nContributed to a traditional or Roth IRA, but\ndid not make a catch-up contribution\n6\n6\nDo not own traditional or Roth IRA | 58\n30 | Own traditional or Roth IRA, but\ndid not contribute\nNote: Catch-up contribution activity is identif ied if an individual’s contribution is greater than the $5,000 limit in tax year 2008 or if the individual indicated\nthat the contribution included catch-up.\nSources: Investment Company Institute Annual Mutual Fund Shareholder Tracking Survey and Investment Company Institute IRA Owners Survey\nTraditional IRA–owning households who made | subject to a 10 percent penalty on the taxable portion\nwithdrawals generally took modest-sized amounts. | of the withdrawal (in addition to the federal, state, and\n26\nThirty-two percent of traditional IRA–owning | local income tax that may be due). | Taxpayers older\nhouseholds making withdrawals in tax year 2008 took | than 59 | ½ | but younger than 70 | ½ | may take withdrawals\nless than $2,500 from their IRAs (Figure 16). Although | without penalty, but are generally not required to do so.\nsome withdrawals in dollar amounts appear large, | Traditional IRA owners aged 70 | ½ | or older are required\na median of 8 percent of the account balance was | to withdraw an annual amount based on life expectancy\ntypically withdrawn. A traditional IRA withdrawal, if | or pay a penalty for failing to do so; these withdrawals\ntaken by an individual prior to age 59 | ½ | , is generally | are called required minimum distributions (RMDs). In\nFigure 16\nWithdrawals from Traditional IRAs Are Infrequent\nU.S. households with traditional IRAs in 2009 | Amount withdrawn in tax year 2008\n(percentage) | (percentage of traditional IRA–owning households\nthat made withdrawals)\nLess than $2,500\n1\nRetired, did not take a withdrawal | 23 | 32\n19% took\nRetired, took a withdrawal | 1, 2 | 16\n} | withdrawals | $20,000 or more | 16\nNot retired, took a withdrawal | 2 | 3 | in tax year 2008\n16 | $2,500 to $4,999\n$15,000 to $19,999 | 5\nNot retired, did not take a withdrawal | 58\n15\n16\n$10,000 to $14,999\n$5,000 to $9,999\nNumber of respondents: 794 | Mean = $10,300\nMedian = $6,000\n1The household was considered retired if either the head of household or spouse responded aff irmatively to “are you retired from your lifetime occupation?”\n2 Households that closed and no longer owned traditional IRAs were not included.\nSource: Investment Company Institute IRA Owners Survey\nPage 12 | Fundamentals | January 2010 | Vol. 19, No. 1\n"
+
+(captured at origin https://ici.org)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "The IRA Investor Database™ | Investment Company Institute" ("https://www.ici.org/research-iras/the-ira-investor-database")

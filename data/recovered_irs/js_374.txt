@@ -1,0 +1,17 @@
+### CODE
+let out = {};
+try { const m = await import('https://cdn.sheetjs.com/xlsx-0.20.3/package/xlsx.mjs'); out.importOk = typeof m.read; window.__XLSX = m; } catch (e) { out.importErr = String(e).slice(0,300); }
+// list links to data files and PDFs on this page
+out.links = Array.from(document.querySelectorAll('a')).map(a => a.href).filter(h => /\.(xlsx|xls|xlxs|pdf)(\?|$)/i.test(h) || /rpt|ira/i.test(h.split('/').pop()||'')).filter((v,i,a)=>a.indexOf(v)===i).slice(0,120);
+JSON.stringify(out, null, 1)
+
+### RESULT
+"{\n \"importOk\": \"function\",\n \"links\": [\n  \"https://www.ici.org/research-iras/the-ira-investor-database#main-content\",\n  \"https://www.ici.org/files/2024/ten-facts-401k.pdf\",\n  \"https://www.ici.org/research-iras/the-ira-investor-database\",\n  \"https://www.ici.org/researchiras/the-role-of-iras-in-us-households%E2%80%99-saving-for-retirement\",\n  \"https://www.ici.org/files/2024/ten-facts-iras.pdf\",\n  \"https://www.ici.org/files/2024/ten-facts-roth-iras.pdf\",\n  \"https://www.ici.org/files/2026/per32-09-data.xlsx\",\n  \"https://www.ici.org/files/2026/26-rpt-dcplan-profile23-403b.pdf\",\n  \"https://www.ici.org/files/2026/tax-year-2023-rpt-ira-traditional-data.xlxs\",\n  \"https://www.ici.org/files/2026/tax-year-2022-rpt-ira-traditional-data.xlxs\",\n  \"https://www.ici.org/files/2024/24-rpt-ira-traditional.pdf\",\n  \"https://www.ici.org/files/2024/24-rpt-ira-traditional-data.xlxs\",\n  \"https://www.ici.org/files/2021/21_rpt_ira_traditional.pdf\",\n  \"https://www.ici.org/pubfile_pdf/rpt_18_ira_traditional.pdf\",\n  \"https://www.ici.org/pubfile_pdf/rpt_17_ira_traditional.pdf\",\n  \"https://www.ici.org/pubfile_pdf/rpt_16_ira_traditional.pdf\",\n  \"https://www.ici.org/files/2024/24-rpt-ira-roth.pdf\",\n  \"https://www.ici.org/files/2024/24-rpt-ira-roth-data.xlsx\",\n  \"https://www.ici.org/files/2021/21-rpt-ira-roth.pdf\",\n  \"https://www.ici.org/pubfile_pdf/rpt_18_ira_roth_investors.pdf\",\n  \"https://www.ici.org/pubfile_pdf/rpt_17_ira_roth_investors.pdf\",\n  \"https://www.ici.org/pubfile_pdf/rpt_16_ira_roth.pdf\",\n  \"https://www.ici.org/pubfile_pdf/rpt_15_ira_roth_investors.pdf\",\n  \"https://www.ici.org/pubfile_pdf/rpt_14_ira_roth_investors.pdf\"\n ]\n}"
+
+(captured at origin https://ici.org)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "The IRA Investor Database™ | Investment Company Institute" ("https://www.ici.org/research-iras/the-ira-investor-database")

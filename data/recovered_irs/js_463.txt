@@ -1,0 +1,39 @@
+### CODE
+window.__pdfFig = async (url, re, lineRe) => {
+  let doc;
+  try { doc = await window.__pdfDoc(url); } catch (e) { return 'ERR ' + url + ' ' + String(e).slice(0,120) + '\n'; }
+  let out = 'URL ' + url.split('/').pop() + ' pages=' + doc.numPages + '\n';
+  for (let p = 1; p <= doc.numPages; p++) {
+    const page = await doc.getPage(p);
+    const tc = await page.getTextContent();
+    const flat = tc.items.map(i => i.str).join(' ');
+    if (re.test(flat)) {
+      const items = tc.items.filter(it => it.str && it.str.trim().length).map(it => ({s: it.str, x: it.transform[4], y: it.transform[5]}));
+      const lines = [];
+      for (const it of items) { let ln = lines.find(l => Math.abs(l.y - it.y) < 2.5); if (!ln) { ln = {y: it.y, items: []}; lines.push(ln); } ln.items.push(it); }
+      lines.sort((a,b) => b.y - a.y);
+      let arr = lines.map(l => l.items.sort((a,b)=>a.x-b.x).map(i=>i.s).join(' | '));
+      const start = arr.findIndex(l => /FIGURE|Figure/.test(l));
+      if (start > 0) arr = arr.slice(start);
+      if (lineRe) arr = arr.filter(l => lineRe.test(l));
+      out += '--- p' + p + ' ---\n' + arr.join('\n').replace(/[\u0000-\u0009\u000b-\u001f]+/g,'#') + '\n';
+    }
+  }
+  return out;
+};
+let o = '';
+for (const f of ['per23-01','per22-01','per21-01','per19-11','per18-08','per17-08']) {
+  o += await window.__pdfFig('https://www.ici.org/system/files/attachments/pdf/' + f + '.pdf', /Amount withdrawn in tax/i) + '\n';
+}
+o.slice(0, 15000)
+
+### RESULT
+"URL per23-01.pdf pages=40\n\nURL per22-01.pdf pages=40\n\nURL per21-01.pdf pages=40\n\nURL per19-11.pdf pages=39\n\nURL per18-08.pdf pages=36\n--- p20 ---\n(Figure 22). | In 2008, the Worker, Retiree, and Employer | in tax year 2011 took less than $2,500 from their IRAs, and\nRecovery Act suspended RMDs from traditional IRAs and | another 16 percent took an amount between $2,500 and\n36\nother retirement accounts for tax year 2009. | Withdrawal | $4,999 (Figure 23). Although some withdrawals in dollar\nactivity among traditional IRA–owning households fell | amounts appear large, a median of 8 percent of the account\nto lower levels in tax year 2009, likely in part due to the | balance was typically withdrawn. In line with the incentives\nsuspension of RMDs from traditional IRAs. Some of the | and disincentives of the tax code, younger households\nincrease in withdrawal activity in tax year 2010 and tax year | were much less likely to have withdrawals than older\n2011 resulted from the return of RMDs. Among households | households. Among traditional IRA–owning households in\ntaking traditional IRA withdrawals in tax year 2011, 76 | 2012 headed by individuals younger than 59, only 7 percent\n37\npercent reported someone in the household was retired | took withdrawals in tax year 2011 (Figure 24). | Seventeen\nfrom their lifetime occupation (Figure 23). Nevertheless, 58 | percent of households owning traditional IRAs and headed\npercent of retired households owning traditional IRAs in | by an individual aged 59 to 69 in 2012 reported withdrawals\n2012 did not take a withdrawal in tax year 2011. | in tax year 2011. Seventy-four percent of households owning\ntraditional IRAs and headed by an individual aged 70 or\n38\nolder took withdrawals in tax year 2011.\nFIGURE 23\nWithdrawals from Traditional IRAs Are Infrequent\nU.S. households with traditional IRAs in 2012 | Amount withdrawn in tax year 2011\nPe | rcent | Percentage of traditional IRA–owning households that made withdrawals\n1 | 21%\nRetired, did not take a withdrawal | 22\n27% | Less than $2,500\n$20,000 or more\n1, 2 | 21%\nRetired, took a withdrawal | 16\ntook withdrawals\n2\nNot retired, took a withdrawal | 5 | in tax year 2011\n3%\n$15,000 to $19,999 | 16%\n$2,500 to $4,999\nNot retired, did not take a withdrawal | 57 | 10%\n$10,000 to $14,999\n23%\n$5,000 to $9,999\nNumber of respondents: # | Mean#\nMedian#\n1\nThe household was considered retired if either the head of household or spouse responded affirmatively to “Are you retired from your lifetime\noccupation?”\n2\nHouseholds that made withdrawals exclude those which closed and no longer own traditional IRAs.\nSource: Investment Company Institute IRA Owners Survey\n20 | ICI RESEARCH PERSPECTIVE, VOL. 18, NO. 8 | | | DECEMBER 2012\n\nURL per17-08.pdf pages=32\n--- p19 ---\ntheir lifetime occupation (Figure 21). Nevertheless, among | $4,999 (Figure 21). Although some withdrawals in dollar\nretired households owning traditional IRAs in 2011, | amounts appear large, a median of 9 percent of the account\n59 percent did not take a withdrawal in tax year 2010. | balance was typically withdrawn.\nFIGURE\nWithdrwls from Trditionl IRAs Are Infrequent\nU.S. households with traditional IRAs in 2011 | Amount withdrawn in tax year 2010\nPercent | Percentage of traditional IRA–owning households that made withdrawals\n1 | 24%\nRetired, did not take a withdrawal | 24\n24% | Less than $2,500\n$20,000 or more\n1, 2 | 22%\nRetired, took a withdrawal | 17\ntook withdrawals\n2\nNot retired, took a withdrawal | 5 | in tax year 2010\n5%\n$15,000 to $19,999\n14%\n$2,500 to $4,999\n13%\nNot retired, did not take a withdr awal | 54\n$10,000 to $14,999\n20%\n$5,000 to $9,999\nNumber of respondents:  | Mean##\nMedian## \n1\nThe household was considered retired if either the head of household or spouse responded affirmatively to “are you retired from your lifetime\noccupation?”\n2\nHouseholds that made a withdrawal exclude those which closed and no longer own traditional IRAs.\nSource: Investment Company Institute IRA Owners Survey\nICI RESEARCH PERSPECTIVE, VOL. 17, NO. 8 | NOVEMBER 2011 | 19\n\n"
+
+(captured at origin https://ici.org)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "The IRA Investor Database™ | Investment Company Institute" ("https://www.ici.org/research-iras/the-ira-investor-database")

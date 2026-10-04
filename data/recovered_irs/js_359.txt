@@ -1,0 +1,15 @@
+### CODE
+let res = '';
+for (const yy of ['05','04','03','02','01','00','99','98','97','96']) { res += await window.__grab14(yy); }
+res
+
+### RESULT
+"### 05in14ar.xls\nTITLE: Table 1.4--All Returns: Sources of Income, Adjustments, and Tax Items, by Size of Adjusted Gross Income, Tax Year 2005\nHDR r3 c69: Total taxable IRA distributions => 9,387,189 | 112,277,199 | 25,352,088 | 685,308,391 ; subhdr:   /  / Number of / Amount\nHDR r3 c121: IRA payments => 3,256,066 | 12,003,037 | 8,072,896 | 5,052,720 ; subhdr:   /  / Number of / Amount\n### 04in14ar.xls\nTITLE: Table 1.4--Individual Income Tax, All Returns: Sources \nHDR r5 c69: Total taxable IRA distributions => 8,913,846 | 101,672,181 | 25,130,018 | 627,664,241 ; subhdr:   /  / Number of / Amount\nHDR r5 c121: IRA payments => 3,330,763 | 10,028,607 | 7,527,249 | 4,398,734 ; subhdr:   /  / Number of / Amount\n### 03in14ar.xls\nTITLE: Table 1.4--2003, Individual Income Tax, All Returns: Sources of Income, Adjustments, and Tax Items, by Size of Adjusted Gross Income\n### 02in14ar.xls\nTITLE: Table 1.4--2002, Individual Income Tax, All Returns: Sources of Income, Adjustments, and Tax Items, by Size of Adjusted Gross Income\n### 01in14ar.xls\nTITLE: Table 1.4--2001 Individual Income Tax, All Returns: Sources of Income, Adjustments, and Tax Items, by Size of Adjusted Gross Income\n### 00in14ar.xls\nTITLE: Individual Income Tax Returns, Tax Year 2000\n### 99in14ar.xls\nTITLE: Table 1.4--1999, Individual Income Tax, All Returns: Sources of Income, Adjustments, and Tax Items, by Size of Adjusted Gross Income\n### 98in14ar.xls\nTITLE: Table 1.4--1998 Individual Income Tax, All Returns: Sources of Income, Adjustments, and Tax Items, by Size of Adjusted Gross Income\n### 97 NOT FOUND\n### 96 NOT FOUND\n"
+
+(captured at origin https://irs.gov)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "SOI Tax Stats Accumulation and Distribution of Individual Retirement Arrangements | Internal Revenue Service" ("https://www.irs.gov/statistics/soi-tax-stats-accumulation-and-distribution-of-individual-retirement-arrangements")

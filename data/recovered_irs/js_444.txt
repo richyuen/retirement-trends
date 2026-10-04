@@ -1,0 +1,23 @@
+### CODE
+const cands = [
+ 'https://www.ici.org/pubfile_pdf/rpt_15_ira_traditional.pdf','https://www.ici.org/pdf/rpt_15_ira_traditional.pdf','https://www.ici.org/system/files/attachments/pdf/rpt_15_ira_traditional.pdf',
+ 'https://www.ici.org/pubfile_pdf/rpt_14_ira_traditional.pdf','https://www.ici.org/pdf/rpt_14_ira_traditional.pdf','https://www.ici.org/system/files/attachments/pdf/rpt_14_ira_traditional.pdf',
+ 'https://www.ici.org/pubfile_pdf/rpt_13_ira_investors.pdf','https://www.ici.org/system/files/attachments/pdf/rpt_13_ira_investors.pdf',
+ 'https://www.ici.org/pubfile_pdf/rpt_12_ira_withdrawals.pdf','https://www.ici.org/pdf/rpt_12_ira_withdrawals.pdf','https://www.ici.org/system/files/attachments/pdf/rpt_12_ira_withdrawals.pdf',
+ 'https://www.ici.org/pubfile_pdf/rpt_11_ira_withdrawals.pdf','https://www.ici.org/system/files/attachments/pdf/rpt_11_ira_withdrawals.pdf','https://www.ici.org/pubfile_pdf/rpt_10_ira_withdrawals.pdf',
+ 'https://www.ici.org/files/2026/26-rpt-ira-traditional.pdf','https://www.ici.org/files/2026/26-rpt-ira-traditional-2022.pdf','https://www.ici.org/files/2026/tax-year-2022-rpt-ira-traditional.pdf','https://www.ici.org/files/2026/26-rpt-ira-roth.pdf','https://www.ici.org/files/2026/tax-year-2023-rpt-ira-roth-data.xlsx','https://www.ici.org/files/2026/tax-year-2023-rpt-ira-roth-data.xlxs'
+];
+let o = '';
+for (const u of cands) { try { const r = await fetch(u, {method:'HEAD'}); o += r.status + ' ' + (r.headers.get('content-type')||'') + ' ' + u + '\n'; } catch (e) { o += 'ERR ' + u + '\n'; } }
+o
+
+### RESULT
+"200 application/pdf https://www.ici.org/pubfile_pdf/rpt_15_ira_traditional.pdf\n200 application/pdf https://www.ici.org/pdf/rpt_15_ira_traditional.pdf\n200 application/pdf https://www.ici.org/system/files/attachments/pdf/rpt_15_ira_traditional.pdf\n200 application/pdf https://www.ici.org/pubfile_pdf/rpt_14_ira_traditional.pdf\n200 application/pdf https://www.ici.org/pdf/rpt_14_ira_traditional.pdf\n200 application/pdf https://www.ici.org/system/files/attachments/pdf/rpt_14_ira_traditional.pdf\n200 application/pdf https://www.ici.org/pubfile_pdf/rpt_13_ira_investors.pdf\n200 application/pdf https://www.ici.org/system/files/attachments/pdf/rpt_13_ira_investors.pdf\n200 application/pdf https://www.ici.org/pubfile_pdf/rpt_12_ira_withdrawals.pdf\n200 application/pdf https://www.ici.org/pdf/rpt_12_ira_withdrawals.pdf\n200 application/pdf https://www.ici.org/system/files/attachments/pdf/rpt_12_ira_withdrawals.pdf\n404 text/html; charset=utf-8 https://www.ici.org/pubfile_pdf/rpt_11_ira_withdrawals.pdf\n404 text/html; charset=utf-8 https://www.ici.org/system/files/attachments/pdf/rpt_11_ira_withdrawals.pdf\n404 text/html; charset=utf-8 https://www.ici.org/pubfile_pdf/rpt_10_ira_withdrawals.pdf\n200 application/pdf https://www.ici.org/files/2026/26-rpt-ira-traditional.pdf\n404 text/html; charset=utf-8 https://www.ici.org/files/2026/26-rpt-ira-traditional-2022.pdf\n404 text/html; charset=utf-8 https://www.ici.org/files/2026/tax-year-2022-rpt-ira-traditional.pdf\n404 text/html; charset=utf-8 https://www.ici.org/files/2026/26-rpt-ira-roth.pdf\n404 text/html; charset=utf-8 https://www.ici.org/files/2026/tax-year-2023-rpt-ira-roth-data.xlsx\n404 text/html; charset=utf-8 https://www.ici.org/files/2026/tax-year-2023-rpt-ira-roth-data.xlxs\n"
+
+(captured at origin https://ici.org)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "The IRA Investor Database™ | Investment Company Institute" ("https://www.ici.org/research-iras/the-ira-investor-database")

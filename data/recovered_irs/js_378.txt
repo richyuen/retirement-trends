@@ -1,0 +1,31 @@
+### CODE
+window.__wbCache = window.__wbCache || {};
+window.__loadWb = async (url) => {
+  if (window.__wbCache[url]) return window.__wbCache[url];
+  const r = await fetch(url);
+  if (!r.ok) throw new Error('HTTP ' + r.status + ' ' + url);
+  const buf = await r.arrayBuffer();
+  const wb = window.__XLSX.read(new Uint8Array(buf), {type:'array'});
+  window.__wbCache[url] = wb;
+  return wb;
+};
+window.__sheetList = async (url) => {
+  const wb = await window.__loadWb(url);
+  return wb.SheetNames.map(n => {
+    const rows = window.__XLSX.utils.sheet_to_json(wb.Sheets[n], {header:1, raw:false, defval:''});
+    const first = rows.slice(0,4).map(r => r.filter(c => String(c).trim()).join(' ').replace(/\s+/g,' ').slice(0,140)).filter(x=>x).join(' // ');
+    return n + ' :: ' + first;
+  }).join('\n');
+};
+await window.__sheetList('https://www.ici.org/files/2026/tax-year-2023-rpt-ira-traditional-data.xlxs')
+
+### RESULT
+"List of figures :: Investment Company Institute // The IRA Investor Profile: Traditional IRA Investors’ Activity, 2023 // October 2025\nFigure A.1 :: Figure A.1 // Role of IRAs in US Household Balance Sheets // Trillions of dollars, year-end 2023\nFigure A.2 :: Figure A.2 // Contribution Activity of Traditional IRA Investors by Investor Age // Number of traditional IRA investors and traditional IRA contributors1 by age, 2023\nFigure A.3 :: Figure A.3 // Traditional IRA Contribution Amounts by Investor Age // Number and amount of contributions1 to traditional IRAs by age, tax year 2023\nFigure A.4 :: Figure A.4 // Nearly Half of Traditional IRA Contributors Contributed at the Limit in 2023 // Percentage of traditional IRA contributors1 contributing the amount indicated by age, tax year 2023\nFigure A.5 :: Figure A.5 // Older Traditional IRA Contributors Were More Likely to Contribute at the Limit in 2023 // Traditional IRA contributors1 at the limit2 as a percentage of traditional IRA contributors by age, tax year 2023\nFigure A.6 :: Figure A.6 // More Than Two-Thirds of Traditional IRA Investors at the Limit in Tax Year 2022 Continued to Contribute at the Limit in Tax Year 2023 // Percentage of traditional IRA investors with account balances at the end of each year\nFigure A.7 :: Figure A.7 // Sources of New Traditional IRAs by Investor Age // Percentage of new traditional IRAs1 by age, 2023\nFigure A.8 :: Figure A.8 // Rollover Activity of Traditional IRA Investors by Investor Age // Number of traditional IRA investors and traditional IRA investors with rollovers1 by age, 2023\nFigure A.9 :: Figure A.9 // Traditional IRA Investors with Rollovers by Investor Age // Number and amount of rollovers1 to traditional IRAs by age, 2023\nFigure A.10 :: Figure A.10 // Recent Rollovers Provide a Significant Boost to Traditional IRA Balances // Median account balances among traditional IRA investors, selected ages, 2023\nFigure A.11 :: Figure A.11 // Traditional IRA Withdrawal Rates // Percentage of traditional IRA investors with withdrawals\nFigure A.12 :: Figure A.12 // Withdrawal Activity of Traditional IRA Investors by Investor Age // Number of traditional IRA investors and traditional IRA investors with withdrawals1 by age, 2023\nFigure A.13 :: Figure A.13 // Traditional IRA Withdrawals by Investor Age // Number and amount of withdrawals1 from traditional IRAs by age, 2023\nFigure A.14 :: Figure A.14 // Required Minimum Distributions Often Were Used to Determine Withdrawal Amounts // Percentage of traditional IRA investors aged 73 or older in 2023 with account balances at // year-end 2023 and year-end 2022 who took withdrawals in 2023\nFigure A.15 :: Figure A.15 // Traditional IRA Investors with Larger Balances Tend to Be More Likely to Take Withdrawals // Percentage of traditional IRA investors with account balances in both 2022 and 2023 who took a withdrawal in 2023 by age and account balance\nFigure A.16 :: Figure A.16 // Traditional IRA Investors with Larger Account Balances and Withdrawals Tended to Withdraw a Smaller Portion of Their Balances // Median percentage of year-end 2022 account balance withdrawn among traditional IRA investors with account balances in both 2022 and 2023 and\nFigure A.17 :: Figure A.17 // Traditional IRA Balances by Investor Age // Percentage of traditional IRA investors by age, year-end 2023\nFigure A.18 :: Figure A.18 // Traditional IRA Balances in 2023 Tended to Increase with Investor Age // 25th percentile, median, and 75th percentile account balances among traditional IRA investors by age; year-end 2023 \nFigure A.19 :: Figure A.19 // Investments in Traditional IRAs in 2023 by Investor Age // Percentage of traditional IRA balance by investor age, year-end 2023\nFigure A.20 :: Figure A.20 // More Detailed Information on Investments in Traditional IRAs by Investor Age // Percentage of traditional IRA balance by investor age, year-end 2023\nFigure A.21 :: Figure A.21 // Number of Target Date Funds Owned by Traditional IRA Investors // Among traditional IRA investors owning target date funds,* percentage of traditional IRA investors by number of target date funds owned, yea\nFigure A.22 :: Figure A.22 // Share of Traditional IRA Balances Allocated to Equity Holdings // Percentage of traditional IRA balance by investor age, year-end 2013 and year-end 2023\nFigure A.23 :: Figure A.23 // Investor Exposure to Equity Holdings Among Traditional IRA Investors // Percentage of traditional IRA investors by age, year-end 2013 and year-end 2023\nFigure A.24 :: Figure A.24 // Equity Holdings in Traditional IRAs with Balances of $5,000 or Less // Percentage of traditional IRA investors by age, year-end 2013 and year-end 2023\nFigure A.25 :: Figure A.25 // Equity Holdings in Traditional IRAs with Balances of More Than $5,000 // Percentage of traditional IRA investors by age, year-end 2013 and year-end 2023\nFigure A.26 :: Figure A.26 // Traditional IRA Assets and Flows // Billions of dollars"
+
+(captured at origin https://ici.org)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "The IRA Investor Database™ | Investment Company Institute" ("https://www.ici.org/research-iras/the-ira-investor-database")

@@ -1,0 +1,47 @@
+### CODE
+window.__grab14 = async (yy) => {
+  const cands = [yy + 'in14ar.xls', yy + 'in14ar.xlsx'];
+  for (const f of cands) {
+    const url = 'https://www.irs.gov/pub/irs-soi/' + f;
+    let r;
+    try { r = await fetch(url); } catch (e) { continue; }
+    if (!r.ok) continue;
+    const ct = r.headers.get('content-type') || '';
+    const buf = await r.arrayBuffer();
+    let wb;
+    try { wb = window.__XLSX.read(new Uint8Array(buf), {type:'array'}); } catch (e) { return f + ' PARSE ERROR ' + String(e).slice(0,100) + ' ct=' + ct + '\n'; }
+    let out = '### ' + f + '\n';
+    for (const name of wb.SheetNames) {
+      const rows = window.__XLSX.utils.sheet_to_json(wb.Sheets[name], {header:1, raw:false, defval:''});
+      if (!rows.length) continue;
+      const title = String(rows[0][0]).replace(/\s+/g,' ').slice(0,160);
+      const totIdx = rows.findIndex(rw => /^All returns, total/i.test(String(rw[0]).trim()));
+      if (totIdx < 0) continue;
+      out += 'TITLE: ' + title + '\n';
+      for (let i = 0; i < totIdx; i++) {
+        rows[i].forEach((c, j) => {
+          const s = String(c).replace(/\s+/g,' ');
+          if (/individual retirement|IRA /i.test(s)) {
+            out += 'HDR r' + i + ' c' + j + ': ' + s + ' => ' + [rows[totIdx][j], rows[totIdx][j+1], rows[totIdx][j+2], rows[totIdx][j+3]].join(' | ') + ' ; subhdr: ' + [rows[i+1] && rows[i+1][j], rows[i+1] && rows[i+1][j+1], rows[i+2] && rows[i+2][j], rows[i+2] && rows[i+2][j+1]].map(x=>String(x||'').replace(/\s+/g,' ')).join(' / ') + '\n';
+          }
+        });
+      }
+    }
+    return out;
+  }
+  return '### ' + yy + ' NOT FOUND\n';
+};
+let res = '';
+for (const yy of ['23','22','21','20','19','18']) { res += await window.__grab14(yy); }
+res
+
+### RESULT
+"### 23in14ar.xls\nTITLE: Table 1.4. All Returns: Sources of Income, Adjustments, and Tax Items, by Size of Adjusted Gross Income, Tax Year 2023 (Filing Year 2024)\nHDR r2 c45: Taxable Individual Retirement Arrangement (IRA) distributions => 16,694,154 | 438,147,938 | 32,538,787 | 1,594,900,577 ; subhdr:  /  /  / \nHDR r3 c123: IRA payments => 2,503,934 | 13,771,289 | 6,844,802 | 5,284,561 ; subhdr:  /  / Number of returns / Amount\n### 22in14ar.xls\nTITLE: Table 1.4. All Returns: Sources of Income, Adjustments, and Tax Items, by Size of Adjusted Gross Income, Tax Year 2022 (Filing Year 2023)\nHDR r2 c45: Taxable Individual Retirement Arrangement (IRA) distributions => 16,282,441 | 437,775,580 | 32,975,793 | 1,528,410,590 ; subhdr:  /  /  / \nHDR r3 c123: IRA payments => 2,430,935 | 13,166,590 | 3,982,019 | 3,860,127 ; subhdr:  /  / Number of returns / Amount\n### 21in14ar.xls\nTITLE: Table 1.4. All Returns: Sources of Income, Adjustments, and Tax Items, by Size of Adjusted Gross Income, Tax Year 2021 (Filing Year 2022)\nHDR r2 c33: Taxable Individual Retirement Arrangement (IRA) distributions => 15,584,165 | 408,382,461 | 32,171,355 | 1,506,948,061 ; subhdr:  /  /  / \nHDR r3 c111: IRA payments => 2,415,869 | 13,682,667 | 4,941,992 | 4,289,185 ; subhdr:  /  / Number of returns / Amount\n### 20in14ar.xls\nTITLE: Table 1.4. All Returns: Sources of Income, Adjustments, and Tax Items, by Size of Adjusted Gross Income, Tax Year 2020 (Filing Year 2021)\nHDR r2 c33: Taxable Individual Retirement Arrangement (IRA) distributions [3] => 13,101,306 | 284,005,168 | 33,021,101 | 1,407,948,180 ; subhdr:  /  /  / \nHDR r3 c109: IRA payments => 2,465,286 | 13,574,992 | 10,103,544 | 7,752,615 ; subhdr:  /  / Number of returns / Amount\n### 19in14ar.xls\nTITLE: Table 1.4. All Returns: Sources of Income, Adjustments, and Tax Items, by Size of Adjusted Gross Income, Tax Year 2019 (Filing Year 2020)\nHDR r2 c33: Taxable Individual Retirement Arrangement (IRA) distributions [3] => 15,641,734 | 324,971,510 | 30,830,618 | 1,290,875,434 ; subhdr:  /  /  / \nHDR r3 c113: IRA payments => 2,436,686 | 12,691,089 | 12,719,148 | 14,144,721 ; subhdr:  /  / Number of returns / Amount\n### 18in14ar.xls\nTITLE: Table 1.4. All Returns: Sources of Income, Adjustments, and Tax Items, by Size of Adjusted Gross Income, Tax Year 2018 (Filing Year 2019)\nHDR r2 c33: Individual Retirement Arrangements (IRA), pensions and annuities => 37,166,371 | 1,625,642,430 | 34,701,850 | 1,087,228,437 ; subhdr:  /  / Total [1] / \nHDR r3 c111: IRA payments => 2,469,291 | 12,503,200 | 12,425,040 | 13,434,708 ; subhdr:  /  / Number of returns / Amount\n"
+
+(captured at origin https://irs.gov)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "SOI Tax Stats Accumulation and Distribution of Individual Retirement Arrangements | Internal Revenue Service" ("https://www.irs.gov/statistics/soi-tax-stats-accumulation-and-distribution-of-individual-retirement-arrangements")

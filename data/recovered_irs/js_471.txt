@@ -1,0 +1,17 @@
+### CODE
+let o = '';
+for (const f of ['per23-01','per22-01','per21-01','per19-11']) {
+  o += await window.__pdfFig('https://www.ici.org/system/files/attachments/pdf/' + f + '.pdf', /Retired, did not take a withdrawal/i) + '\n';
+}
+o.slice(0, 15000)
+
+### RESULT
+"URL per23-01.pdf pages=40\n\nURL per22-01.pdf pages=40\n\nURL per21-01.pdf pages=40\n\nURL per19-11.pdf pages=39\n\n"
+
+(captured at origin https://ici.org)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "The IRA Investor Database™ | Investment Company Institute" ("https://www.ici.org/research-iras/the-ira-investor-database")

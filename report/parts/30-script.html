@@ -1,0 +1,448 @@
+<script>
+(function(){
+'use strict';
+var NS='http://www.w3.org/2000/svg';
+var RM=!!(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches);
+function S(tag,a,p,t){var e=document.createElementNS(NS,tag);if(a)for(var k in a)if(a[k]!=null)e.setAttribute(k,a[k]);if(t!=null)e.textContent=t;if(p)p.appendChild(e);return e}
+function H(tag,a,p,t){var e=document.createElement(tag);if(a)for(var k in a)if(a[k]!=null){if(k==='class')e.className=a[k];else e.setAttribute(k,a[k])}if(t!=null)e.textContent=t;if(p)p.appendChild(e);return e}
+function pct(d){return function(v){return (+v).toFixed(d||0)+'%'}}
+function usd0(v){return '$'+Math.round(v)+'B'}
+function usd1(v){return '$'+(+v).toFixed(1)+'B'}
+function Y(a,b){var r=[];for(var i=a;i<=b;i++)r.push(String(i));return r}
+function ticks(max,n){var raw=max/n,p=Math.pow(10,Math.floor(Math.log(raw)/Math.LN10)),c=[1,2,2.5,5,10],s=10*p;for(var i=0;i<c.length;i++){if(c[i]*p>=raw-1e-9){s=c[i]*p;break}}var o=[];for(var v=0;v<=max+1e-9;v+=s)o.push(+v.toFixed(6));return o}
+function tween(ms,fn,done){if(RM){fn(1);if(done)done();return}var t0=null;function f(now){if(t0==null)t0=now;var t=Math.min(1,(now-t0)/ms),e=1-Math.pow(1-t,3);fn(e);if(t<1)requestAnimationFrame(f);else if(done)done()}requestAnimationFrame(f)}
+
+/* ---------- sources ---------- */
+var REFS={
+'ici-survey':['Investment Company Institute','“The Role of IRAs in US Households’ Saving for Retirement, 2025,” ICI Research Perspective 32, no. 7, June 2026, and appendix data file (Figures A24–A31).','https://www.ici.org/system/files/2026-06/per32-07.pdf'],
+'ici-survey-2024':['Investment Company Institute','“The Role of IRAs in US Households’ Saving for Retirement, 2024,” ICI Research Perspective 31, no. 2, 2025.','https://www.ici.org/files/2025/per31-02.pdf'],
+'ici-survey-2023':['Investment Company Institute','“The Role of IRAs in US Households’ Saving for Retirement, 2023,” ICI Research Perspective 30, no. 1, February 2024.','https://www.ici.org/files/2024/per30-01.pdf'],
+'ici-db-2023':['Investment Company Institute','“The IRA Investor Profile: Traditional IRA Investors’ Activity, 2023,” and data file (Figures A.11–A.16, A.26).','https://www.ici.org/system/files/2026-03/26-rpt-ira-traditional.pdf'],
+'ici-db-2020':['Investment Company Institute','“The IRA Investor Profile: Traditional IRA Investors’ Activity, 2010–2020,” 2024.','https://www.ici.org/files/2024/24-rpt-ira-traditional.pdf'],
+'ici-db-2018':['Investment Company Institute','“The IRA Investor Profile: Traditional IRA Investors’ Activity, 2010–2018,” August 2021.','https://www.ici.org/files/2021/21_rpt_ira_traditional.pdf'],
+'ici-db-2016':['Investment Company Institute','“The IRA Investor Profile: Traditional IRA Investors’ Activity, 2007–2016,” and earlier annual editions (2007–2011 through 2007–2015).','https://www.ici.org/pubfile_pdf/rpt_18_ira_traditional.pdf'],
+'ici-roth-2020':['Investment Company Institute','“The IRA Investor Profile: Roth IRA Investors’ Activity, 2010–2020,” 2024.','https://www.ici.org/files/2024/24-rpt-ira-roth.pdf'],
+'ici-rec':['Investment Company Institute','“Defined Contribution Plan Participants’ Activities, 2022” (recordkeeper survey).','https://ici-dev.ici.org/files/2023/22-rpt-recsurveyq4.pdf'],
+'ici-2009':['Sabelhaus, J., and D. Schrass','“The Evolving Role of IRAs in U.S. Retirement Planning,” ICI Research Perspective 15, no. 3, November 2009.','https://ici-dev.ici.org/pdf/per15-03.pdf'],
+'ebri-2013':['Copeland, C.','“IRA Withdrawals in 2013 and Longitudinal Results 2010–2013,” EBRI Notes 36, no. 7, July 2015.','https://www.ebri.org/docs/default-source/ebri-pnotes/ebri_notes_07_july15_iras-cehcs.pdf?sfvrsn=1cd292f_2'],
+'ebri-2011':['Copeland, C.','“IRA Withdrawals, 2011,” EBRI Notes 35, no. 2, February 2014.','https://www.ebri.org/docs/default-source/ebri-pnotes/ebri_notes_02_feb-14_iras-hsas.pdf?sfvrsn=8e25362f_4'],
+'ebri-db':['Employee Benefit Research Institute','EBRI IRA Database: annual updates for 2014–2017 and longitudinal studies 2010–2016 (public summaries).','https://www.ebri.org/retirement/ira-database'],
+'ebri-long':['Employee Benefit Research Institute','“Consistent IRA Ownership” (infographic from Issue Brief no. 462), February 2019.','https://www.ebri.org/docs/default-source/infographics/20_ig-ira-long-14feb19.pdf?sfvrsn=b5093f2f_6'],
+'ebri-jpm':['Employee Benefit Research Institute and J.P. Morgan Asset Management','“New Combined Dataset Reveals Unique Insights Into Income and Spending in Retirement” (summary of “Mystery No More”).','https://www.ebri.org/content/new-combined-dataset-reveals-unique-insights-into-income-and-spending-in-retirement'],
+'ebri-hrs':['Employee Benefit Research Institute','“IRA Withdrawal Patterns in Times of Crisis” (Health and Retirement Study tabulations).','https://www.ebri.org/retirement/content/ira-withdrawal-patterns-in-times-of-crisis-ig'],
+'ebri-age':['American Society of Pension Professionals and Actuaries','“RMDs a Default Withdrawal Strategy Regardless of SECURE 2.0, Study Says” (report on an EBRI study), March 2025.','https://www.asppa-net.org/news/2025/3/rmds-a-default-withdrawal-strategy-regardless-of-secure-2.0-study-says'],
+'ebri-447':['Banerjee, S.','“Asset Decumulation or Asset Preservation? What Guides Retirement Spending?” EBRI Issue Brief no. 447, 2018 (public summary).','https://www.ebri.org/content/asset-decumulation-or-asset-preservation-what-guides-retirement-spending'],
+'ebri-lsd':['Copeland, C.','“Lump-Sum Distributions at Job Change, Distributions Through 2012,” EBRI Notes 34, no. 11, November 2013.','https://www.shrm.org/content/dam/en/shrm/topics-tools/news/benefits-compensation/EBRI_Notes_11_Nov-13_LSDs-WBS.pdf'],
+'ebri-hrs-age':['PLANADVISER','“Accumulation’s Done; Now What?” (report on EBRI analysis of HRS withdrawal data).','https://www.planadviser.com/accumulations-done-now-what/'],
+'banerjee-dol':['Banerjee, S.','Statement to the ERISA Advisory Council on facilitating lifetime plan participation, June 2014 (HRS 2008 and 2010).','https://www.dol.gov/sites/dolgov/files/EBSA/about-ebsa/about-us/erisa-advisory-council/2014-facilitating-lifetime-plan-participation-banerjee-06-17.pdf'],
+'irs-soi':['Internal Revenue Service, Statistics of Income','“Accumulation and Distribution of Individual Retirement Arrangements,” Tables 1 and 4, tax years 2004–2023.','https://www.irs.gov/statistics/soi-tax-stats-accumulation-and-distribution-of-individual-retirement-arrangements'],
+'irs-2010':['Bryant, V., and J. Gober','“Accumulation and Distribution of Individual Retirement Arrangements, 2010,” SOI Bulletin, Fall 2013.','https://www.irs.gov/pub/irs-soi/13inirafallbul.pdf'],
+'irs-2002':['Internal Revenue Service, Statistics of Income','“Accumulation and Distribution of Individual Retirement Arrangements, 2001–2002,” SOI Bulletin.','https://www.irs.gov/pub/irs-soi/02iraart.pdf'],
+'irs-1040':['Internal Revenue Service, Statistics of Income','Publication 4801, Individual Income Tax Returns Line Item Estimates, and Publication 1304 (tax years 2017–2023); taxable IRA distributions for 1999–2016 via FRED series TIRADTSA.','https://www.irs.gov/pub/irs-pdf/p4801.pdf'],
+'irs-ult':['Internal Revenue Service','26 CFR 1.401(a)(9)-9, Uniform Lifetime Table (current), and Publication 590-B (2019), Appendix B (prior table).','https://www.law.cornell.edu/cfr/text/26/1.401(a)(9)-9'],
+'irs-590b-2020':['Internal Revenue Service','Publication 590-B (2020), Distributions from Individual Retirement Arrangements.','https://www.irs.gov/pub/irs-prior/p590b--2020.pdf'],
+'crs-rmd':['Congressional Research Service','“Required Minimum Distributions from Retirement Accounts,” In Focus IF12750, August 2024.','https://www.everycrsreport.com/reports/IF12750.html'],
+'crs-early':['Congressional Research Service','“Individual Retirement Accounts and 401(k) Plans: Early Withdrawals and Required Distributions,” RL31770.','https://www.everycrsreport.com/reports/RL31770.html'],
+'fr-rmd':['Internal Revenue Service','“Required Minimum Distributions,” T.D. 10001, Federal Register, July 19, 2024.','https://www.federalregister.gov/documents/2024/07/19/2024-14542/required-minimum-distributions'],
+'crs-scf':['Myers, E.','“Distribution of Retirement Account Balances: Analysis of the 2022 Survey of Consumer Finances,” CRS In Focus IF12928, February 2025.','https://www.everycrsreport.com/reports/IF12928.html'],
+'crs-hrs':['Congressional Research Service','“Income for the Population Ages 65 and Older: Evidence from the Health and Retirement Study,” R47341, updated August 2025.','https://www.everycrsreport.com/reports/R47341.html'],
+'mortenson':['Mortenson, J., H. Schramm, and A. Whitten','“The Effects of Required Minimum Distribution Rules on Withdrawals from Traditional IRAs,” National Tax Journal 72, no. 3, 2019 (working paper version).','https://conference.nber.org/conf_papers/f85635/f85635.pdf'],
+'bpr-2009':['Brown, J., J. Poterba, and D. Richardson','“Do Required Minimum Distribution Rules Matter? The Effect of the 2009 Holiday on Retirement Plan Distributions,” NBER Working Paper 20464.','https://www.nber.org/system/files/working_papers/w20464/w20464.pdf'],
+'tiaa':['Brown, J., J. Poterba, and D. Richardson','“Trends in Retirement and Retirement Income Choices by TIAA Participants: 2000–2018,” NBER Working Paper 29946.','https://www.nber.org/papers/w29946'],
+'pvw':['Poterba, J., S. Venti, and D. Wise','“The Drawdown of Personal Retirement Assets,” NBER Working Paper 16675.','https://www.nber.org/papers/w16675'],
+'stuart':['Stuart, E., and V. Bryant','“The Impact of Withdrawal Penalties on Retirement Savings.”','https://www.aeaweb.org/conference/2022/preliminary/paper/7e3b6nQN'],
+'coile':['Coile, C., and K. Milligan','“How Household Portfolios Evolve After Retirement: The Effect of Aging and Health Shocks,” NBER Working Paper 12391.','https://www.nber.org/papers/w12391.pdf'],
+'hrs-cohort':['Armour, P., M. Hurd, and S. Rohwedder','“Trends in Pension Cash-out at Job Separation and the Effects on Long-term Outcomes,” NBER chapter (Tables 1.4A and 1.4B).','https://www.nber.org/chapters/c13635.pdf'],
+'bee':['Bee, A., and J. Mitchell','“Do Older Americans Have More Income Than We Think?” Census Bureau SEHSD Working Paper 2017-39.','https://www.census.gov/content/dam/Census/library/working-papers/2017/demo/SEHSD-WP2017-39.pdf'],
+'crr':['Chen, A., A. Munnell, and G. Sanzenbacher','“How Much Income Do Retirees Actually Have? Evaluating the Evidence from Five National Datasets,” Center for Retirement Research Issue in Brief 18-20, November 2018.','https://crr.bc.edu/wp-content/uploads/2018/11/IB_18-20.pdf'],
+'dushi':['Dushi, I., and B. Trenkamp','“Improving the Measurement of Retirement Income of the Aged Population,” Social Security Administration ORES Working Paper 116, 2021.','https://www.ssa.gov/policy/docs/workingpapers/wp116.html'],
+'semega':['Semega, J., and E. Welniak','“The Effects of the Changes to the Current Population Survey Annual Social and Economic Supplement on Estimates of Income,” Census Bureau, 2015.','https://www.census.gov/content/dam/Census/library/working-papers/2015/DEMO/ASSA-Income-CPSASEC-Red.pdf'],
+'rothbaum':['Rothbaum, J.','“Processing Changes to Income in the CPS ASEC,” Census Bureau SEHSD Working Paper 2019-18.','https://census.gov/content/dam/Census/library/working-papers/2019/demo/sehsd-wp2019-18.pdf'],
+'ssa-shift':['Anguelov, C., H. Iams, and P. Purcell','“Shifting Income Sources of the Aged,” Social Security Bulletin 72, no. 3, 2012.','https://www.ssa.gov/policy/docs/ssb/v72n3/v72n3p59.html'],
+'sipp-2022':['Scherer, Z.','“Retirement Income: 2022,” Census Bureau fact sheet P70FS-207, January 2025.','https://www.census.gov/content/dam/Census/library/factsheets/2025/demo/p70fs-207.pdf'],
+'blackrock':['BlackRock Retirement Institute and EBRI','“Spending Retirement Assets… or Not?” research summary (“Decumulation Challenges and Potential Solutions”), 2018.','https://www.irionline.org/wp-content/uploads/legacy/research/blackrock_061318.pdf?sfvrsn=0'],
+'vg-2013':['Tilson, J., S. Utkus, and J. Young (Vanguard)','“Retirement Distribution Decisions Among DC Participants,” December 2013.','https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/documents/2013%20Vanguard%20RetirementDistribution%20Report.pdf'],
+'vg-2023':['Vanguard','“Retirement Distribution Decisions Among DC Participants,” 2023 update.','https://workplace.vanguard.com/content/dam/inst/iig-transformation/insights/pdf/2023/Retirement-distribution-decisions-among-dc-participants.pdf'],
+'vg-har':['Vanguard','How America Retires 2025, November 2025.','https://www.nrmlaonline.org/wp-content/uploads/2025/11/2025_How_America_Retires_Report.pdf'],
+'vg-has':['Vanguard','How America Saves 2026, and earlier editions.','https://workplace.vanguard.com/content/dam/inst/iig-transformation/has/2026/pdf/HowAmericaSaves2026.pdf'],
+'vg-rmd':['Reed, A., and L. Goodman (Vanguard)','“How Costly Are Missed RMDs?” December 2025.','https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/how-costly-are-missed-rmds.html'],
+'trp':['T. Rowe Price','Reference Point, Midyear 2024.','https://www.troweprice.com/content/dam/retirement-plan-services/pdfs/insights/ReferencePoint_Midyear_2024.pdf'],
+'trp-income':['T. Rowe Price','“It’s Time to Get Serious About Retirement Income Solutions.”','https://www.troweprice.com/content/dam/retirement-plan-services/pdfs/insights/investment-insights/Retirement%20Income%20-%20It%E2%80%99s%20Time%20to%20Get%20Serious%20About%20Retirement%20Income%20Solutions.pdf'],
+'alight':['Alight Solutions','“Distributions from Defined Contribution Plans,” 2019 (participants who left in 2008–2017).','https://alight.com/getmedia/a1bec28c-e250-48ee-aece-793efa393fda/distributions-from-dc-plans.pdf'],
+'aon-2011':['Aon Hewitt','“Leakage of Participants’ DC Assets: How Loans, Withdrawals, and Cashouts Are Eroding Retirement Income,” 2011.','https://www.aon.com/attachments/thought-leadership/survey_asset_leakage.pdf'],
+'jct':['American Society of Pension Professionals and Actuaries','“RMDs Driven by Income Level, JCT Study Finds” (report on a Joint Committee on Taxation staff study), February 2019.','https://www.asppa-net.org/news/2019/2/rmds-driven-income-level-jct-study-finds'],
+'psca':['Plan Sponsor Council of America','“Vanguard Annual Report Highlights Importance of Decumulation,” November 2025.','https://www.psca.org/news/psca-news/2025/11/vanguard-annual-report-highlights-importance-of-decumulation/'],
+'planadviser-2019':['PLANADVISER','“Retirement Plans Start to Think About How to Produce Retirement Income.”','https://www.planadviser.com/retirement-plans-start-think-produce-retirement-income/'],
+'aon':['Aon Hewitt','Statement to the ERISA Advisory Council on facilitating lifetime plan participation, June 2014.','https://www.dol.gov/sites/default/files/ebsa/about-ebsa/about-us/erisa-advisory-council/2014-facilitating-lifetime-plan-participation-austin-06-17.pdf'],
+'fidelity':['Fidelity Investments','Q4 2023 Retirement Analysis.','https://about.fidelity.com/data-and-insights/q4-2023-retirement-analysis'],
+'tsp-2012':['Federal Retirement Thrift Investment Board','Board memorandum on post-separation withdrawal activity, July 2015 (participants who separated in 2012).','https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/documents/FRTIB%20MM-2015Jul-Att7.pdf'],
+'tsp-metrics':['Federal Retirement Thrift Investment Board','Quarterly metrics reports, fiscal 2022 to fiscal 2026.','https://www.frtib.gov/pdf/minutes/2026/May/att4-FRTIB%20FY26%20Q2%20Metrics%20Report%20May%202026.pdf'],
+'gao':['Government Accountability Office','“401(k) Plans: DOL Could Take Steps to Improve Retirement Income Options for Plan Participants,” GAO-16-433, 2016.','https://www.gao.gov/products/gao-16-433'],
+'dol-5500':['Department of Labor, Employee Benefits Security Administration','Private Pension Plan Bulletin: Abstract of Form 5500 Annual Reports, plan years 2000–2023 (Table A1).','https://www.dol.gov/sites/dolgov/files/ebsa/researchers/statistics/retirement-bulletins/private-pension-plan-bulletins-abstract-2023.pdf'],
+'bea':['Bureau of Economic Analysis','Defined contribution pension plans: benefit payments and withdrawals (FRED series Y353RC1A027NBEA).','https://fred.stlouisfed.org/series/Y353RC1A027NBEA'],
+'limra':['PLANSPONSOR','“US Rollover Market Expected to Jump 34% by 2030” (LIMRA estimates and projections).','https://www.plansponsor.com/us-rollover-market-expected-to-jump-34-by-2030/'],
+'cerulli':['Cerulli Associates','“Regulation May Impact Advisor-Intermediated Rollovers from Defined Contribution Plans” (press release).','https://www.cerulli.com/press-releases/regulation-may-impact-advisor-intermediated-rollovers-from-defined-contribution-plans'],
+'scf-micro':['Board of Governors of the Federal Reserve System','Survey of Consumer Finances, public data: summary extract files, full public datasets and replicate weights, 2004–2022 waves, with the Federal Reserve’s Bulletin variable macro. Tabulated for this report, October 2026.','https://www.federalreserve.gov/econres/scfindex.htm'],
+'cps-micro':['US Census Bureau','Current Population Survey Annual Social and Economic Supplement, public-use files 2010–2026, including the 2014 split-sample files, the 2017 research file and the 2018 bridge file. Tabulated for this report, October 2026.','https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html'],
+'fed-scf-2023':['Aladangady, A., et al.','“Changes in U.S. Family Finances from 2019 to 2022: Evidence from the Survey of Consumer Finances,” Federal Reserve Board, October 2023.','https://www.federalreserve.gov/publications/files/scf23.pdf'],
+'census-pinc09':['US Census Bureau','PINC-09, Source of Income: Number with Income and Mean Income of Specified Type, by age (CPS ASEC detailed income tables).','https://www.census.gov/data/tables/time-series/demo/income-poverty/cps-pinc/pinc-09.html'],
+'sipp-micro':['US Census Bureau','Survey of Income and Program Participation, public-use files: 1996, 2001, 2004 and 2008 panels, 2014 panel and 2018–2025 files, with replicate weights. Tabulated for this report, October 2026.','https://www.census.gov/programs-surveys/sipp/data/datasets.html'],
+'nber-sipp96':['National Bureau of Economic Research','SIPP 1996 panel data dictionaries for the Census longitudinally edited core files (sip96l1.dct; the same layout for waves 1–12).','https://data.nber.org/sipp/1996/'],
+'irs-whatsnew':['Internal Revenue Service, Statistics of Income','“SOI Tax Stats – What’s New” (June 2026 entry on IRA data for tax years 2022 and 2023 under a revised methodology), and IRA landing page.','https://www.irs.gov/statistics/soi-tax-stats-whats-new'],
+'ici-retmkt':['Investment Company Institute','“The US Retirement Market, Second Quarter 2026,” data file, Tables 1 and 11, September 2026.','https://www.ici.org/statistical-report/ret_26_q2_data.xls'],
+'cea':['Council of Economic Advisers','“The Retirement Security Rule” (Cerulli estimate of 2022 rollovers), October 2023.','https://bidenwhitehouse.archives.gov/cea/written-materials/2023/10/31/retirement-rule']
+};
+
+/* ---------- chart data ---------- */
+var SEG4=[{name:'Still in the plan',c:'--s1'},{name:'Rolled over to an IRA',c:'--s2'},{name:'Part rolled over, part cash',c:'--s3'},{name:'Cashed out',c:'--s4'}];
+var CH={
+overall:{type:'line',x:Y(2006,2024),xTitle:'Tax year',yMax:45,yFmt:pct(0),tipFmt:pct(1),labelW:156,bands:['2009','2020'],bandLabel:'RMDs waived (2009, 2020)',
+ series:[
+  {name:'IRS: taxpayers with a withdrawal per 100 year-end traditional IRA holders',short:'IRS taxpayers',c:'--s1',values:[null,null,null,null,null,null,35.3,36.5,36.9,37.4,37.5,38.8,39.5,40.1,32.4,38.4,39.2,39.7,null]},
+  {name:'ICI survey: traditional IRA households',short:'ICI survey',c:'--s2',values:[18,20,19,15,22,21,21,20,22,25,26,26,25,27,23,29,31,31,33]},
+  {name:'ICI database: traditional IRA investors',short:'ICI database',c:'--s3',values:[null,17.6,17.9,13.9,20.0,19.9,20.7,21.7,22.3,22.7,23.2,23.6,24.9,25.1,20.3,24.1,22.9,23.1,null]},
+  {name:'EBRI database: traditional IRA owners',short:'EBRI database',c:'--other',near:'first',points:true,values:[null,null,null,null,null,null,null,25.4,27.2,27.5,27.1,25.6,null,null,null,null,null,null,null]}
+ ]},
+agegrp:{type:'line',x:Y(2007,2023),xTitle:'Year',yMax:100,yFmt:pct(0),tipFmt:pct(1),labelW:150,bands:['2009','2020'],bandLabel:'RMDs waived (2009, 2020)',
+ series:[
+  {name:'RMD age or older',short:'RMD age or older',c:'--o5',values:[78.0,78.3,46.9,78.5,79.5,79.5,80.0,80.2,80.8,79.1,82.0,82.1,80.8,59.6,84.5,81.1,81.7]},
+  {name:'Aged 60 to RMD age',short:'60 to RMD age',c:'--o3',values:[18.2,17.9,17.3,20.2,19.6,20.2,20.8,21.5,21.6,21.6,19.9,21.0,20.9,18.7,21.0,19.5,20.9]},
+  {name:'Aged 18 to 59',short:'18 to 59',c:'--o1',values:[7.0,7.0,6.6,8.5,7.6,7.7,8.1,8.3,8.2,8.2,6.5,7.0,6.8,6.0,6.0,5.0,5.3]}
+ ]},
+irsage:{type:'vbar',cats:['Under 60','60–64','65–69','70–74','75–79','80+'],catsShort:['<60','60–64','65–69','70–74','75–79','80+'],yMax:110,years:Y(2012,2023),ref:'2019',
+ frames:{'2012':[12.3,23.9,32.6,86.9,99.1,101.7],'2013':[12.7,24.1,32.1,85.9,97.9,102.3],'2014':[12.6,23.9,31.9,87.2,97.5,101.7],'2015':[12.7,24.0,32.5,87.9,97.5,101.6],'2016':[12.2,24.0,33.0,84.8,97.5,101.0],'2017':[12.6,24.5,33.9,85.7,97.5,100.9],'2018':[12.7,24.5,34.2,85.6,96.5,101.1],'2019':[12.9,25.1,35.0,86.0,96.4,101.4],'2020':[11.7,21.2,31.6,58.8,73.9,78.8],'2021':[12.1,23.7,34.5,69.0,93.7,99.6],'2022':[12.3,26.0,35.4,69.1,95.3,99.9],'2023':[13.0,27.5,37.8,61.7,95.9,100.7]},
+ regime:{'2012':'RMD age 70½','2013':'RMD age 70½','2014':'RMD age 70½','2015':'RMD age 70½','2016':'RMD age 70½','2017':'RMD age 70½','2018':'RMD age 70½','2019':'RMD age 70½','2020':'RMDs waived for the year','2021':'RMD age 72','2022':'RMD age 72','2023':'RMD age 73'}},
+balrate:{type:'line',x:['Under $5K','$5–10K','$10–20K','$20–30K','$30–40K','$40–70K','$70–100K','$100–200K','$200K+'],xTitle:'Balance',yMax:100,yFmt:pct(0),tipFmt:pct(1),endLabels:false,points:true,
+ notes:[{i:1.25,v:68,text:'Below RMD age, small accounts are mostly emptied',short:'Small accounts mostly emptied'},{i:8,v:25,anchor:'end',text:'At RMD age: 5–6% at every balance',short:'RMD age: 5–6% at every balance'}],
+ series:[
+  {name:'Aged 60–64',c:'--o1',values:[89.8,39.6,18.8,15.0,13.8,12.9,10.7,8.7,4.9]},
+  {name:'Aged 65–69',c:'--o2',values:[80.5,28.8,18.8,16.5,14.9,12.6,10.9,8.7,5.3]},
+  {name:'Aged 70–72',c:'--o3',values:[67.9,26.0,18.5,16.3,14.2,12.0,10.0,7.9,5.1]},
+  {name:'Aged 73 or older (RMD age)',c:'--o5',values:[6.0,5.5,5.6,5.6,5.6,5.4,5.4,5.2,5.0]}
+ ]},
+dwrate:{type:'line',x:Y(2005,2023),xTitle:'Tax year',yMax:10,yFmt:pct(0),tipFmt:pct(1),labelW:124,bands:['2009','2020'],bandLabel:'RMDs waived (2009, 2020)',
+ series:[
+  {name:'Aged 70 or older',short:'70 or older',c:'--o5',values:[7.03,8.35,7.91,8.42,6.12,8.64,7.17,7.98,7.90,6.97,7.05,6.84,7.08,6.71,6.83,4.56,6.07,5.86,5.93]},
+  {name:'All ages',short:'All ages',c:'--other',values:[3.77,4.20,3.97,4.79,4.73,5.74,3.99,4.95,4.50,4.03,4.04,3.90,4.05,3.87,4.12,3.15,3.71,3.52,3.99]},
+  {name:'Aged 60 to 69',short:'60 to 69',c:'--o2',values:[3.66,3.87,3.75,4.67,4.97,5.33,3.36,4.29,3.48,3.16,3.05,3.01,3.03,2.84,3.10,2.68,2.85,2.58,3.21]}
+ ]},
+rmdsplit:{type:'hstack',labelW:112,fmt:pct(1),rowTitle:'Year',
+ rows:[{label:'2011'},{label:'2012'},{label:'2013'},{label:'2014'},{label:'2015'},{label:'2016'},{label:'2018'},{label:'2020',sub:'RMDs waived'},{label:'2022'},{label:'2023'}],
+ segs:[{name:'Exactly the RMD',c:'--s1'},{name:'More than the RMD',c:'--s2'},{name:'Less than the RMD',c:'--s3'},{name:'RMD on another basis (joint or inherited table)',c:'--other'}],
+ data:[[54.2,38.0,6.4,1.4],[55.4,38.7,4.5,1.4],[56.2,37.7,4.7,1.5],[56.6,36.9,5.1,1.4],[57.8,35.5,5.2,1.5],[57.8,35.4,5.2,1.5],[57.2,36.8,4.1,1.9],[43.6,35.7,17.9,2.8],[55.4,33.1,9.1,2.4],[52.5,35.6,9.4,2.5]]},
+vgsplit:{type:'hstack',labelW:214,fmt:pct(0),focus:true,rowTitle:'Cohort',toggle:[['people','Share of people'],['dollars','Share of dollars']],
+ rows:[{label:'Five years after leaving',sub:'Left in 2007, measured 2012'},{label:'Five years after leaving',sub:'Left in 2016, measured 2021'},{label:'One year after leaving',sub:'Left in 2011, measured 2012'},{label:'One year after leaving',sub:'Left in 2020, measured 2021'}],
+ segs:SEG4,
+ modes:{people:[[13,57,4,26],[17,52,5,26],[29,46,4,21],[32,38,4,26]],dollars:[[18,72,6,4],[32,56,7,5],[35,56,6,3],[46,45,5,4]]}},
+har:{type:'hstack',labelW:150,fmt:pct(0),focus:true,rowTitle:'Measured at',
+ rows:[{label:'End of 2021',sub:'Retirement year'},{label:'End of 2022'},{label:'End of 2023'},{label:'End of 2024'}],
+ segs:SEG4,data:[[53,27,6,14],[36,36,8,20],[30,39,8,23],[26,41,9,24]]},
+plandesign:{type:'line',x:Y(2012,2025),xTitle:'Year',yMax:80,yFmt:pct(0),connect:true,points:true,labelW:150,
+ series:[
+  {name:'Installment payments allowed',short:'Installments',c:'--s1',values:[null,null,58,59,null,null,null,62,63,64,65,67,68,68]},
+  {name:'Ad hoc partial withdrawals allowed',short:'Partial withdrawals',c:'--s2',values:[10,null,13,16,19,null,27,32,35,37,39,40,43,43]}
+ ]},
+dcflows:{type:'line',x:Y(2000,2023),xTitle:'Plan year',yMax:800,yFmt:usd0,tipFmt:usd1,labelW:162,
+ series:[
+  {name:'Benefits disbursed (cash payments and direct rollovers)',short:'Benefits paid',c:'--s1',values:[213.5,182.2,178.7,167.0,192.9,218.0,260.3,294.1,265.1,241.4,287.3,299.3,333.8,385.9,428.4,450.6,454.9,494.0,550.7,599.1,703.6,776.9,716.0,783.7]},
+  {name:'Contributions',short:'Contributions',c:'--s3',values:[198.5,204.0,209.7,212.1,228.6,248.8,276.8,299.8,311.8,298.7,314.3,330.2,352.8,376.9,403.5,434.6,459.0,492.7,531.9,570.2,586.0,656.9,710.9,767.6]}
+ ]},
+iraflows:{type:'line',x:Y(2004,2023),xTitle:'Tax year',yMax:800,yFmt:usd0,tipFmt:usd1,labelW:150,
+ series:[
+  {name:'Rollovers in',short:'Rollovers',c:'--s2',values:[214.9,228.5,282.0,316.6,272.1,264.3,299.7,305.3,344.0,404.1,434.8,472.6,444.7,478.0,533.8,554.4,618.4,740.3,664.3,682.4]},
+  {name:'Withdrawals out',short:'Withdrawals',c:'--s1',values:[139.6,124.5,143.8,167.1,227.5,174.1,257.6,200.8,255.2,260.2,275.1,294.6,291.8,324.8,365.7,375.9,345.3,470.2,512.6,515.2]},
+  {name:'Contributions in',short:'Contributions',c:'--s3',values:[48.7,54.3,56.9,58.8,55.6,50.7,51.2,50.3,55.2,60.0,62.7,63.7,65.4,69.4,70.0,75.5,83.2,91.0,86.6,89.1]}
+ ]},
+rollage:{type:'hstack',labelW:76,fmt:pct(1),focus:true,rowTitle:'Tax year',
+ rows:[{label:'2001'},{label:'2010'},{label:'2023'}],
+ segs:[{name:'Under 55',c:'--o1'},{name:'55–59',c:'--o2'},{name:'60–64',c:'--o3'},{name:'65–69',c:'--o4'},{name:'70 or older',c:'--o5'}],
+ data:[[40.0,19.4,20.2,12.1,8.3],[28.1,18.4,25.6,15.6,12.2],[19.7,14.2,28.9,22.2,15.0]]},
+micro70:{type:'line',x:Y(2003,2025),xTitle:'Year',yMax:100,yFmt:function(v){return String(v)},tipFmt:function(v){return (+v).toFixed(1)},connect:true,labelW:158,bands:['2009','2020'],bandLabel:'RMDs waived (2009, 2020)',
+ series:[
+  {name:'IRS: withdrawers per 100 IRA holders',short:'IRS per 100 holders',c:'--s1',values:[null,null,null,null,null,null,null,null,null,86.9,85.9,87.2,87.9,84.8,85.7,85.6,86.0,58.8,69.0,69.1,61.7,null,null]},
+  {name:'SCF: withdrawing households per 100 IRA households',short:'SCF per 100 holders',c:'--s2',points:true,values:[73.9,null,null,76.6,null,null,43.7,null,null,69.7,null,null,76.1,null,null,70.5,null,null,62.5,null,null,null,null]},
+  {name:'CPS: % of all people aged 70–74 with a withdrawal',short:'CPS % of people',c:'--s3',values:[null,null,null,null,null,null,null,null,null,null,null,null,null,19.2,19.8,21.9,23.1,16.1,18.6,18.2,17.2,17.5,17.2]}
+ ]},
+microage:{type:'line',x:['60–64','65–69','70–74','75–79','80+'],xTitle:'Age',yMax:110,yFmt:function(v){return String(v)},tipFmt:function(v){return (+v).toFixed(1)},points:true,labelW:158,
+ series:[
+  {name:'IRS: withdrawers per 100 IRA holders',short:'IRS per 100 holders',c:'--s1',values:[24.5,34.2,85.6,96.5,101.1]},
+  {name:'SCF: withdrawing households per 100 IRA households',short:'SCF per 100 holders',c:'--s2',values:[19.3,26.7,70.5,89.8,95.3]},
+  {name:'CPS: % of all people with a withdrawal',short:'CPS % of people',c:'--s3',values:[5.3,11.3,21.9,22.6,17.5]}
+ ]},
+microrate:{type:'line',x:Y(2003,2021),xTitle:'Year',yMax:10,yFmt:pct(0),tipFmt:pct(1),connect:true,points:true,labelW:172,bands:['2009'],bandLabel:'RMDs waived (2009)',
+ series:[
+  {name:'Withdrawers only: median household',short:'Median withdrawer',c:'--s2',values:[7.53,null,null,6.17,null,null,7.21,null,null,5.66,null,null,6.23,null,null,5.78,null,null,6.26]},
+  {name:'Withdrawers only: dollar-weighted',short:'All withdrawers',c:'--s3',values:[6.6,null,null,6.86,null,null,6.78,null,null,5.44,null,null,6.06,null,null,5.2,null,null,5.57]},
+  {name:'All owners: dollar-weighted',short:'All owners',c:'--s1',values:[2.94,null,null,3.0,null,null,2.19,null,null,2.61,null,null,3.06,null,null,2.82,null,null,2.92]}
+ ]},
+wdmedian:{type:'line',x:Y(2003,2024),xTitle:'Year',yMax:10,yFmt:pct(0),tipFmt:pct(1),connect:true,labelW:150,bands:['2009','2020'],bandLabel:'RMDs waived (2009, 2020)',
+ series:[
+  {name:'ICI survey: traditional IRA households',short:'ICI survey',c:'--s2',values:[null,null,null,null,6,8,8,9,8,7,8,7,6,6,6,6,5,6,5,6,6,5]},
+  {name:'EBRI database: traditional IRA owners, consistent sample',short:'EBRI database',c:'--other',near:'first',points:true,values:[null,null,null,null,null,null,null,8.3,6.3,5.7,5.4,null,null,null,null,null,null,null,null,null,null,null]},
+  {name:'SIPP: IRA owners 60 or older',short:'SIPP 60+',c:'--s3',points:true,values:[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5.6,5.6,5.1,5.4]},
+  {name:'SCF: IRA households 60 or older',short:'SCF 60+',c:'--s1',points:true,values:[7.02,null,null,6.17,null,null,7.53,null,null,5.57,null,null,5.99,null,null,5.43,null,null,6.26,null,null,null]}
+ ]},
+microagerate:{type:'line',x:Y(2003,2021),xTitle:'Year',yMax:14,yFmt:pct(0),tipFmt:pct(1),connect:true,points:true,labelW:120,bands:['2009'],bandLabel:'RMDs waived (2009)',
+ series:[
+  {name:'Aged 80 or older',short:'80 or older',c:'--o5',values:[6.42,null,null,12.07,null,null,4.68,null,null,7.19,null,null,6.79,null,null,6.47,null,null,7.28]},
+  {name:'Aged 75–79',short:'75–79',c:'--o4',values:[6.19,null,null,5.82,null,null,4.91,null,null,4.63,null,null,5.37,null,null,5.73,null,null,5.7]},
+  {name:'Aged 70–74',short:'70–74',c:'--o3',values:[3.83,null,null,4.53,null,null,2.83,null,null,3.64,null,null,3.99,null,null,3.73,null,null,3.53]},
+  {name:'Aged 65–69',short:'65–69',c:'--o2',values:[2.15,null,null,1.77,null,null,2.09,null,null,1.71,null,null,1.82,null,null,1.58,null,null,2.27]},
+  {name:'Aged 60–64',short:'60–64',c:'--o1',values:[1.59,null,null,1.56,null,null,0.93,null,null,1.34,null,null,1.15,null,null,0.85,null,null,0.58]}
+ ]},
+sipplong:{type:'line',x:Y(1996,2024),xTitle:'Year',yMax:100,yFmt:function(v){return String(v)},tipFmt:function(v){return (+v).toFixed(1)},points:true,labelW:120,breaks:['2016'],bands:['2009','2020'],bandLabel:'RMDs waived (2009, 2020)',
+ zones:[{from:'2014',to:'2019',label:'Pooled question',short:'Pooled'}],
+ series:[
+  {name:'Aged 80 or older',short:'80 or older',c:'--o5',values:[70.6,79.5,68.7,72.5,76.8,72.8,75.9,67.1,69.6,null,null,null,58.0,55.3,66.8,null,null,null,66.2,70.5,70.0,78.2,79.4,77.6,null,77.8,83.9,81.7,86.1]},
+  {name:'Aged 75–79',short:'75–79',c:'--o4',values:[78.1,73.9,72.3,78.5,77.7,74.1,73.7,72.8,73.7,null,null,null,61.7,58.5,65.1,null,null,null,65.6,65.3,67.6,78.0,75.5,76.7,null,73.9,81.4,81.6,79.8]},
+  {name:'Aged 70–74',short:'70–74',c:'--o3',values:[65.9,65.6,71.0,67.5,62.5,55.1,62.9,61.3,63.8,null,null,null,49.3,47.8,55.0,null,null,null,56.3,58.7,56.8,67.0,66.8,67.3,null,54.3,59.0,53.4,50.7]},
+  {name:'Aged 65–69',short:'65–69',c:'--o2',values:[19.9,17.8,20.0,21.4,19.0,17.7,19.9,21.5,18.7,null,null,null,19.4,20.0,19.9,null,null,null,21.6,22.7,23.9,35.6,29.8,29.7,null,26.0,25.1,27.4,28.0]},
+  {name:'Aged 60–64',short:'60–64',c:'--o1',values:[12.5,13.5,12.9,14.2,15.4,11.8,13.5,11.0,10.1,null,null,null,11.2,11.8,11.2,null,null,null,13.1,12.9,15.2,23.0,18.1,17.2,null,13.4,16.4,17.0,17.3]}
+ ]},
+sipprate:{type:'line',x:Y(1996,2024),xTitle:'Year',yMax:16,yFmt:pct(0),tipFmt:pct(1),points:true,labelW:120,bands:['2009'],bandLabel:'RMDs waived (2009)',
+ series:[
+  {name:'Aged 80 or older',short:'80 or older',c:'--o5',values:[15.3,12.4,9.6,8.7,9.5,9.5,7.3,6.8,9.4,null,null,null,6.8,5.3,8.6,null,null,null,null,null,null,null,null,null,null,8.9,9.1,7.7,8.9]},
+  {name:'Aged 75–79',short:'75–79',c:'--o4',values:[15.8,10.0,9.7,9.4,11.3,8.9,8.6,7.5,9.3,null,null,null,6.6,5.0,7.8,null,null,null,null,null,null,null,null,null,null,6.9,7.1,7.0,8.7]},
+  {name:'Aged 70–74',short:'70–74',c:'--o3',values:[8.8,7.8,8.1,7.8,9.1,5.5,6.8,6.6,7.6,null,null,null,5.1,4.7,6.1,null,null,null,null,null,null,null,null,null,null,5.1,5.6,4.6,6.3]},
+  {name:'Aged 65–69',short:'65–69',c:'--o2',values:[3.8,3.1,3.5,3.3,2.4,2.6,2.8,3.2,2.8,null,null,null,2.7,2.6,2.8,null,null,null,null,null,null,null,null,null,null,3.1,2.9,2.8,4.3]},
+  {name:'Aged 60–64',short:'60–64',c:'--o1',values:[2.2,2.6,2.7,2.7,3.3,1.4,2.2,1.8,1.3,null,null,null,1.6,2.1,1.5,null,null,null,null,null,null,null,null,null,null,1.7,2.3,2.6,3.7]}
+ ]},
+sippage:{type:'line',x:['68','69','70','71','72','73','74','75','76'],xTitle:'Age',yMax:100,yFmt:function(v){return String(v)},tipFmt:function(v){return (+v).toFixed(1)},points:true,labelW:150,
+ series:[
+  {name:'2022 (first RMD at 72)',short:'2022, RMD at 72',c:'--s1',values:[21.9,16.6,27.9,28.7,66.7,76.0,79.5,78.5,76.7]},
+  {name:'2023 (first RMD at 73)',short:'2023, RMD at 73',c:'--s2',values:[26.2,34.7,31.0,28.0,36.9,73.1,78.0,73.7,75.5]},
+  {name:'2024 (first RMD at 73)',short:'2024, RMD at 73',c:'--s3',values:[29.9,23.3,36.3,35.1,29.6,67.2,74.8,72.4,75.9]}
+ ]},
+capture:{type:'hstack',simple:true,max:100,labelW:150,fmt:pct(0),focus:true,rowTitle:'Survey',
+ rows:[{label:'SCF',sub:'2016'},{label:'SIPP',sub:'2014'},{label:'HRS',sub:'2016'},{label:'PSID',sub:'2014'},{label:'CPS ASEC',sub:'2017'}],
+ segs:[{name:'Share of tax-record retirement plan income captured',c:'--s1'}],data:[[99],[97],[94],[85],[47]]}
+};
+
+/* ---------- tooltip ---------- */
+var tip=H('div',{class:'tip',role:'status'},document.body);tip.hidden=true;
+function showTip(title,rows,cx,cy){
+  tip.textContent='';
+  if(title)H('div',{class:'tt'},tip,title);
+  rows.forEach(function(r){var d=H('div',{class:'tr'},tip),k=H('i',{class:'k '+(r.tick?'tick':(r.line?'line':'sw'))},d);k.style.background=r.c?'var('+r.c+')':'currentColor';H('b',null,d,r.val);H('span',null,d,r.name)});
+  tip.hidden=false;
+  var r=tip.getBoundingClientRect(),x=cx+14,y=cy+14;
+  if(x+r.width>window.innerWidth-8)x=cx-r.width-14;if(x<8)x=8;
+  if(y+r.height>window.innerHeight-8)y=cy-r.height-14;if(y<8)y=8;
+  tip.style.left=x+'px';tip.style.top=y+'px';
+}
+function hideTip(){tip.hidden=true}
+function hover(el,title,rows){
+  el.addEventListener('pointermove',function(ev){showTip(title,rows(),ev.clientX,ev.clientY)});
+  el.addEventListener('pointerleave',hideTip);
+  el.addEventListener('focus',function(){var b=el.getBoundingClientRect();showTip(title,rows(),b.left+b.width/2,b.top)});
+  el.addEventListener('blur',hideTip);
+}
+
+/* ---------- line chart ---------- */
+function renderLine(plot,cfg,W){
+  plot.textContent='';
+  var n=cfg.x.length,wide=W>=600,Hh=wide?320:268,endL=cfg.endLabels!==false&&wide;
+  var m={t:14,r:endL?(cfg.labelW||130):16,b:30,l:cfg.yMax>=100&&cfg.yFmt===usd0?46:40};
+  var pw=W-m.l-m.r,ph=Hh-m.t-m.b,step=pw/(n-1);
+  var svg=S('svg',{width:W,height:Hh,viewBox:'0 0 '+W+' '+Hh,role:'img','aria-label':cfg.aria||'Chart'},plot);
+  var X=function(i){return m.l+i*step},Yv=function(v){return m.t+ph-(v/cfg.yMax)*ph};
+  (cfg.zones||[]).forEach(function(z){var a=cfg.x.indexOf(z.from),b=cfg.x.indexOf(z.to);if(a<0||b<0)return;S('rect',{x:X(a)-step/2,y:m.t,width:(b-a+1)*step,height:ph,'class':'zone'},svg);S('text',{x:X(a)-step/2+5,y:m.t+13,'class':'ann'},svg,wide?z.label:(z.short||z.label))});
+  (cfg.bands||[]).forEach(function(b){var i=cfg.x.indexOf(b);if(i<0)return;S('rect',{x:X(i)-step/2,y:m.t,width:step,height:ph,'class':'band'},svg)});
+  ticks(cfg.yMax,5).forEach(function(v){S('line',{x1:m.l,x2:m.l+pw,y1:Yv(v),y2:Yv(v),'class':v===0?'axis':'grid'},svg);S('text',{x:m.l-8,y:Yv(v)+4,'text-anchor':'end','class':'tick'},svg,cfg.yFmt(v))});
+  var lw=0;cfg.x.forEach(function(s){lw=Math.max(lw,String(s).length*6.7+16)});
+  var every=Math.max(1,Math.ceil(lw/step));if(/^\d{4}$/.test(cfg.x[0])){var nice=[1,2,3,4,5,10];for(var q=0;q<nice.length;q++){if(nice[q]>=every){every=nice[q];break}}}
+  cfg.x.forEach(function(lab,i){if((n-1-i)%every!==0)return;var a='middle',hw=String(lab).length*3.5+2;if(i===n-1&&m.r<hw)a='end';if(i===0&&m.l<hw)a='start';S('text',{x:X(i),y:m.t+ph+19,'text-anchor':a,'class':'tick'},svg,lab)});
+  var ends=[];
+  cfg.series.forEach(function(s){
+    var d='',pen=false,last=null,first=null;
+    s.values.forEach(function(v,i){if(v==null){if(!cfg.connect)pen=false;return}d+=(pen?'L':'M')+X(i).toFixed(1)+' '+Yv(v).toFixed(1);pen=!(cfg.breaks&&cfg.breaks.indexOf(cfg.x[i])>=0);last=i;if(first==null)first=i});
+    var p=S('path',{d:d,'class':'ln',pathLength:1},svg);p.style.stroke='var('+s.c+')';
+    if(cfg.points||s.points)s.values.forEach(function(v,i){if(v==null||i===last)return;var c=S('circle',{cx:X(i),cy:Yv(v),r:3.5,'class':'pt'},svg);c.style.fill='var('+s.c+')'});
+    if(last!=null){var c=S('circle',{cx:X(last),cy:Yv(s.values[last]),r:4.5,'class':'dot'},svg);c.style.fill='var('+s.c+')';ends.push({s:s,i:last,y:Yv(s.values[last]),v:s.values[last],fi:first,fy:Yv(s.values[first])})}
+  });
+  if(endL){
+    var col=ends.filter(function(e){return !e.s.near});
+    col.sort(function(a,b){return a.y-b.y});col.forEach(function(e){e.ly=e.y});
+    for(var k=1;k<col.length;k++)col[k].ly=Math.max(col[k].ly,col[k-1].ly+15);
+    for(k=col.length-1;k>=0;k--){var lim=k===col.length-1?m.t+ph:col[k+1].ly-15;if(col[k].ly>lim)col[k].ly=lim}
+    col.forEach(function(e){
+      var lx=m.l+pw+12;
+      if(Math.abs(e.ly-e.y)>3||e.i<n-1)S('path',{d:'M'+(X(e.i)+6)+' '+e.y+'L'+(lx-3)+' '+e.ly,'class':'lead'},svg);
+      var t=S('text',{x:lx,y:e.ly+4,'class':'lab'},svg);S('tspan',{'class':'v'},t,(cfg.tipFmt||cfg.yFmt)(e.v));S('tspan',{dx:5},t,e.s.short||e.s.name);
+    });
+    ends.filter(function(e){return e.s.near}).forEach(function(e){S('text',{x:X(e.fi)-9,y:e.fy+4,'text-anchor':'end','class':'lab'},svg,e.s.short||e.s.name)});
+  }
+  (cfg.notes||[]).forEach(function(a){S('text',{x:X(a.i),y:Yv(a.v),'text-anchor':a.anchor||'start','class':'ann'},svg,wide?a.text:(a.short||a.text))});
+  var hl=S('line',{y1:m.t,y2:m.t+ph,'class':'xh'},svg);hl.style.display='none';
+  var hd=cfg.series.map(function(s){var c=S('circle',{r:4.5,'class':'dot'},svg);c.style.fill='var('+s.c+')';c.style.display='none';return c});
+  var ov=S('rect',{x:m.l-step/2,y:m.t,width:pw+step,height:ph,fill:'transparent'},svg);
+  function at(ev){
+    var r=svg.getBoundingClientRect(),i=Math.round((ev.clientX-r.left-m.l)/step);i=Math.max(0,Math.min(n-1,i));
+    hl.setAttribute('x1',X(i));hl.setAttribute('x2',X(i));hl.style.display='';
+    var rows=[];
+    cfg.series.forEach(function(s,si){var v=s.values[i];if(v==null){hd[si].style.display='none';return}hd[si].setAttribute('cx',X(i));hd[si].setAttribute('cy',Yv(v));hd[si].style.display='';rows.push({c:s.c,name:s.short||s.name,val:(cfg.tipFmt||cfg.yFmt)(v),line:true})});
+    showTip(cfg.xTitle+' '+cfg.x[i]+(cfg.bands&&cfg.bands.indexOf(cfg.x[i])>=0?' · RMDs waived':''),rows,ev.clientX,ev.clientY);
+  }
+  ov.addEventListener('pointermove',at);ov.addEventListener('pointerdown',at);
+  ov.addEventListener('pointerleave',function(){hl.style.display='none';hd.forEach(function(c){c.style.display='none'});hideTip()});
+}
+
+/* ---------- horizontal stacked / simple bars ---------- */
+function renderH(plot,cfg,W,st,M,scale){
+  plot.textContent='';
+  var data=M||(cfg.modes?cfg.modes[st.mode]:cfg.data),sc=scale==null?1:scale;
+  var wide=W>=560,hasSub=cfg.rows.some(function(r){return r.sub}),LW=wide?(cfg.labelW||160):0,bh=22;
+  var rowH=wide?(hasSub?46:34):52,top=4,axisH=cfg.simple?4:24,Hh=top+cfg.rows.length*rowH+axisH;
+  var x0=LW,bw=W-LW-(cfg.simple?48:8);
+  var svg=S('svg',{width:W,height:Hh,viewBox:'0 0 '+W+' '+Hh,role:'img','aria-label':cfg.aria||'Chart'},plot);
+  if(!cfg.simple)[0,25,50,75,100].forEach(function(v){var x=x0+bw*v/100;S('line',{x1:x,x2:x,y1:top,y2:Hh-axisH+3,'class':v===0?'axis':'grid'},svg);S('text',{x:x,y:Hh-6,'text-anchor':v===0?'start':(v===100?'end':'middle'),'class':'tick'},svg,v+'%')});
+  else S('line',{x1:x0,x2:x0,y1:top,y2:Hh-axisH,'class':'axis'},svg);
+  cfg.rows.forEach(function(r,ri){
+    var y=top+ri*rowH+(wide?(rowH-bh)/2:rowH-bh-6);
+    if(wide){S('text',{x:0,y:y+(r.sub?8:15),'class':'rowl'},svg,r.label);if(r.sub)S('text',{x:0,y:y+23,'class':'rows'},svg,r.sub)}
+    else{var t=S('text',{x:0,y:y-7,'class':'rowl'},svg,r.label);if(r.sub)S('tspan',{'class':'rows',dx:8},t,r.sub)}
+    var vals=data[ri],tot=cfg.max||vals.reduce(function(a,b){return a+b},0),x=x0;
+    vals.forEach(function(v,si){
+      var seg=cfg.segs[si],w=bw*v/tot*sc,last=si===vals.length-1,gw=Math.max(0,w-(last?0:2)),g;
+      if(last){var rr=Math.min(4,gw/2);g=S('path',{d:'M'+x+' '+y+'H'+(x+gw-rr)+'Q'+(x+gw)+' '+y+' '+(x+gw)+' '+(y+rr)+'V'+(y+bh-rr)+'Q'+(x+gw)+' '+(y+bh)+' '+(x+gw-rr)+' '+(y+bh)+'H'+x+'Z'},svg)}
+      else g=S('rect',{x:x,y:y,width:gw,height:bh},svg);
+      g.setAttribute('class','hit');g.style.fill='var('+seg.c+')';
+      if(cfg.focus){g.setAttribute('tabindex','0');g.setAttribute('role','img');g.setAttribute('aria-label',r.label+(r.sub?', '+r.sub:'')+': '+seg.name+' '+cfg.fmt(v))}
+      var txt=pct(0)(v);
+      if(!cfg.simple&&gw>=txt.length*6.8+10){var it=S('text',{x:x+gw/2,y:y+bh/2+4,'text-anchor':'middle','class':'in'},svg,txt);it.style.fill='var('+seg.c+'-ink)'}
+      if(cfg.simple)S('text',{x:x+gw+7,y:y+bh/2+4,'class':'val'},svg,cfg.fmt(v));
+      hover(g,r.label+(r.sub?' · '+r.sub:''),function(){return [{c:seg.c,name:seg.name,val:cfg.fmt(v)}]});
+      x+=w;
+    });
+  });
+}
+
+/* ---------- vertical bars with year scrubber ---------- */
+function renderV(plot,cfg,W,st,vals,scale){
+  plot.textContent='';
+  var v=vals||cfg.frames[st.year],sc=scale==null?1:scale,ref=cfg.frames[cfg.ref];
+  var wide=W>=600,Hh=wide?330:290,m={t:24,r:8,b:30,l:36},pw=W-m.l-m.r,ph=Hh-m.t-m.b,n=cfg.cats.length,band=pw/n,bwid=Math.min(24,band*0.5);
+  var svg=S('svg',{width:W,height:Hh,viewBox:'0 0 '+W+' '+Hh,role:'img','aria-label':cfg.aria||'Chart'},plot);
+  var Yv=function(x){return m.t+ph-(x/cfg.yMax)*ph},y0=Yv(0);
+  [0,20,40,60,80,100].forEach(function(t){S('line',{x1:m.l,x2:m.l+pw,y1:Yv(t),y2:Yv(t),'class':t===0?'axis':'grid'},svg);S('text',{x:m.l-8,y:Yv(t)+4,'text-anchor':'end','class':'tick'},svg,t)});
+  cfg.cats.forEach(function(c,i){
+    var cx=m.l+band*(i+.5),x=cx-bwid/2,val=v[i]*sc,y=Yv(val),r=Math.max(0,Math.min(4,(y0-y)/2)),yr=Yv(ref[i]);
+    var p=S('path',{d:'M'+x+' '+y0+'V'+(y+r)+'Q'+x+' '+y+' '+(x+r)+' '+y+'H'+(x+bwid-r)+'Q'+(x+bwid)+' '+y+' '+(x+bwid)+' '+(y+r)+'V'+y0+'Z','class':'hit',tabindex:0,role:'img','aria-label':'Aged '+c+', '+st.year+': '+v[i].toFixed(1)+' per 100 holders; 2019: '+ref[i].toFixed(1)},svg);
+    p.style.fill='var(--s1)';
+    S('line',{x1:cx-bwid/2-7,x2:cx+bwid/2+7,y1:yr,y2:yr,'class':'ref'},svg);
+    var ly=(yr<=y+2&&y-yr<17)?yr-7:y-7;
+    S('text',{x:cx,y:ly,'text-anchor':'middle','class':'val'},svg,String(Math.round(val)));
+    S('text',{x:cx,y:Hh-9,'text-anchor':'middle','class':'tick'},svg,wide?c:cfg.catsShort[i]);
+    hover(p,'Aged '+c+' · '+st.year,function(){return [{c:'--s1',name:'withdrawers per 100 holders',val:cfg.frames[st.year][i].toFixed(1)},{tick:true,name:'in '+cfg.ref,val:ref[i].toFixed(1)}]});
+  });
+}
+
+/* ---------- tables ---------- */
+function buildTable(tw,cfg,st){
+  tw.textContent='';
+  var t=H('table',null,tw),hd=H('tr',null,H('thead',null,t)),tb=H('tbody',null,t),f=cfg.tipFmt||cfg.fmt||cfg.yFmt;
+  if(cfg.type==='line'){
+    H('th',{scope:'col'},hd,cfg.xTitle);cfg.series.forEach(function(s){H('th',{scope:'col'},hd,s.name)});
+    cfg.x.forEach(function(x,i){var tr=H('tr',null,tb);H('th',{scope:'row'},tr,x);cfg.series.forEach(function(s){H('td',null,tr,s.values[i]==null?'–':f(s.values[i]))})});
+  }else if(cfg.type==='hstack'){
+    var data=cfg.modes?cfg.modes[st.mode]:cfg.data;
+    H('th',{scope:'col'},hd,cfg.rowTitle||'');cfg.segs.forEach(function(s){H('th',{scope:'col'},hd,s.name)});
+    cfg.rows.forEach(function(r,i){var tr=H('tr',null,tb);H('th',{scope:'row'},tr,r.label+(r.sub?' ('+r.sub+')':''));data[i].forEach(function(v){H('td',null,tr,cfg.fmt(v))})});
+  }else{
+    H('th',{scope:'col'},hd,'Age');cfg.years.forEach(function(y){H('th',{scope:'col'},hd,y)});
+    cfg.cats.forEach(function(c,i){var tr=H('tr',null,tb);H('th',{scope:'row'},tr,c);cfg.years.forEach(function(y){H('td',null,tr,cfg.frames[y][i].toFixed(1))})});
+  }
+}
+
+/* ---------- mount ---------- */
+var entered=[];
+function mount(node){
+  var cfg=CH[node.getAttribute('data-chart')];if(!cfg){node.textContent='Chart data missing';return}
+  var fig=node.closest('.fig'),h=fig&&fig.querySelector('h3');cfg.aria=h?h.textContent:'Chart';
+  var st={mode:cfg.toggle?cfg.toggle[0][0]:null,year:cfg.years?cfg.years[cfg.years.length-1]:null,timer:null,busy:false};
+  var bar=H('div',{'class':'bar'},node),leg=H('div',{'class':'legend'},bar);
+  function lg(cls,c,txt){var s=H('span',{'class':'lg'},leg),k=H('i',{'class':'k '+cls},s);if(c)k.style.background='var('+c+')';s.appendChild(document.createTextNode(txt))}
+  if(cfg.type==='line'){cfg.series.forEach(function(s){lg('line',s.c,s.name)});if(cfg.bands)lg('bandk',null,cfg.bandLabel)}
+  else if(cfg.type==='hstack'){if(!cfg.simple)cfg.segs.forEach(function(s){lg('sw',s.c,s.name)})}
+  else{lg('sw','--s1','Selected year');lg('tick',null,cfg.ref+' level')}
+  var tbtn=H('button',{'class':'btn',type:'button','aria-pressed':'false'},bar,'Show table');
+  var ctl=null,yrEl,rg,regEl,playBtn,modeBtns=[];
+  if(cfg.toggle){
+    ctl=H('div',{'class':'ctl'},node);var sg=H('div',{'class':'seg',role:'group','aria-label':'Measure'},ctl);
+    cfg.toggle.forEach(function(tg,i){var b=H('button',{'class':'btn',type:'button','aria-pressed':i===0?'true':'false'},sg,tg[1]);modeBtns.push(b);b.addEventListener('click',function(){setMode(tg[0])})});
+  }
+  if(cfg.type==='vbar'){
+    ctl=H('div',{'class':'ctl'},node);
+    playBtn=H('button',{'class':'btn',type:'button'},ctl,'Play 2012–2023');
+    yrEl=H('span',{'class':'yr','aria-live':'polite'},ctl,st.year);
+    rg=H('input',{type:'range',min:0,max:cfg.years.length-1,step:1,value:cfg.years.length-1,'aria-label':'Tax year',id:'yr-'+node.getAttribute('data-chart')},ctl);
+    regEl=H('span',{'class':'regime'},ctl,cfg.regime[st.year]);
+    rg.addEventListener('input',function(){stop();setYear(+rg.value,true)});
+    playBtn.addEventListener('click',function(){if(st.timer)stop();else play()});
+  }
+  var plot=H('div',{'class':'plot'},node),tw=H('div',{'class':'tbl-wrap'},node);tw.hidden=true;
+  function width(){return Math.max(260,Math.floor(plot.clientWidth))}
+  function draw(M,scale){if(plot.hidden)return;var W=width();if(cfg.type==='line')renderLine(plot,cfg,W);else if(cfg.type==='hstack')renderH(plot,cfg,W,st,M,scale);else renderV(plot,cfg,W,st,M,scale)}
+  function setMode(mo){
+    if(mo===st.mode||st.busy)return;var A=cfg.modes[st.mode],B=cfg.modes[mo];st.mode=mo;
+    modeBtns.forEach(function(b,i){b.setAttribute('aria-pressed',cfg.toggle[i][0]===mo?'true':'false')});
+    if(!tw.hidden){buildTable(tw,cfg,st);return}
+    st.busy=true;tween(520,function(e){draw(A.map(function(row,ri){return row.map(function(a,si){return a+(B[ri][si]-a)*e})}))},function(){st.busy=false;draw()});
+  }
+  function setYear(idx,anim){
+    var y=cfg.years[idx],from=st.cur||cfg.frames[st.year],to=cfg.frames[y];st.year=y;yrEl.textContent=y;rg.value=idx;regEl.textContent=cfg.regime[y];
+    if(anim&&!RM&&!plot.hidden)tween(360,function(e){st.cur=from.map(function(f,i){return f+(to[i]-f)*e});draw(st.cur)},function(){st.cur=null;draw()});
+    else{st.cur=null;draw()}
+  }
+  function stop(){if(st.timer){clearInterval(st.timer);st.timer=null}if(playBtn)playBtn.textContent='Play 2012–2023'}
+  function play(){
+    var i=0;setYear(0,false);playBtn.textContent='Pause';
+    st.timer=setInterval(function(){i++;if(i>=cfg.years.length){stop();return}setYear(i,true);if(i===cfg.years.length-1)stop()},RM?1100:820);
+  }
+  tbtn.addEventListener('click',function(){
+    var show=tw.hidden;if(show){stop();buildTable(tw,cfg,st)}
+    tw.hidden=!show;plot.hidden=show;tbtn.setAttribute('aria-pressed',show?'true':'false');tbtn.textContent=show?'Show chart':'Show table';
+    if(!show)draw();
+  });
+  draw();
+  var lastW=width(),rt=null;
+  if('ResizeObserver' in window)new ResizeObserver(function(){if(plot.hidden)return;var w=width();if(w===lastW)return;lastW=w;clearTimeout(rt);rt=setTimeout(function(){draw(st.cur)},90)}).observe(plot);
+  entered.push({fig:fig,enter:function(){
+    if(RM||plot.hidden)return;
+    if(cfg.type==='hstack')tween(750,function(e){draw(null,e)},function(){draw()});
+    else if(cfg.type==='vbar')play();
+  }});
+}
+Array.prototype.forEach.call(document.querySelectorAll('.chart[data-chart]'),mount);
+
+/* ---------- entrance: once per figure, from a complete resting state ---------- */
+if('IntersectionObserver' in window){
+  var io=new IntersectionObserver(function(es){es.forEach(function(e){
+    if(!e.isIntersecting)return;io.unobserve(e.target);var fig=e.target;fig.classList.add('in');
+    entered.forEach(function(c){if(c.fig===fig)c.enter()});
+    setTimeout(function(){fig.classList.remove('in')},1800);
+  })},{threshold:.35});
+  Array.prototype.forEach.call(document.querySelectorAll('figure.fig'),function(f){if(f.querySelector('.chart'))io.observe(f)});
+}
+
+/* ---------- references ---------- */
+var order=[],num={},ol=document.getElementById('reflist');
+Array.prototype.forEach.call(document.querySelectorAll('sup.r'),function(sup){
+  var keys=sup.getAttribute('data-r').split(/\s+/),first=true;
+  keys.forEach(function(k){
+    if(!REFS[k]){sup.appendChild(document.createTextNode('[?'+k+']'));sup.className+=' bad';return}
+    if(!num[k]){order.push(k);num[k]=order.length}
+    if(!first)sup.appendChild(document.createTextNode(','));first=false;
+    H('a',{href:'#ref-'+num[k],title:REFS[k][0]+'. '+REFS[k][1]},sup,String(num[k]));
+  });
+});
+if(ol)order.forEach(function(k){var r=REFS[k],li=H('li',{id:'ref-'+num[k]},ol);li.appendChild(document.createTextNode(r[0]+'. '+r[1]+' '));H('a',{href:r[2],target:'_blank',rel:'noopener'},li,r[2].replace(/^https?:\/\/(www\.)?/,'').split('/')[0])});
+
+/* ---------- contents rail ---------- */
+var links={};Array.prototype.forEach.call(document.querySelectorAll('.toc a'),function(a){links[a.getAttribute('href').slice(1)]=a});
+if('IntersectionObserver' in window){
+  var so=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){for(var k in links)links[k].classList.remove('on');if(links[e.target.id])links[e.target.id].classList.add('on')}})},{rootMargin:'-12% 0px -78% 0px'});
+  Array.prototype.forEach.call(document.querySelectorAll('.prose section[id]'),function(s){so.observe(s)});
+}
+})();
+</script>

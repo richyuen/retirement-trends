@@ -1,0 +1,6 @@
+tax_year,f1040_line4a_returns,f1040_line4a_amount_K,f1040_source,f1040_url,f1040_pdf_page_returns,f1040_pdf_page_amounts,soi_ira_withdrawers,soi_ira_withdrawals_K,soi_file,soi_cell,soi_vintage,soi_roth_conversions_K,soi_conv_cell,gap_withdrawals_vs_4a_pct,gap_withdrawals_plus_conversions_vs_4a_pct
+2019,16495748,379260994,"p4801--2021.pdf (Pub 4801 Rev. 12-2021, TY2019)",https://www.irs.gov/pub/irs-prior/p4801--2021.pdf,15,16,21438586,375946058,19in01ira.xlsx,K5,February 2022,16964110,I5,-0.87,3.6
+2020,14205309,353034392,"p4801--2022.pdf (Pub 4801 Rev. 11-2022, TY2020)",https://www.irs.gov/pub/irs-prior/p4801--2022.pdf,15,16,17896644,345315493,20in01ira.xlsx,K6,April 2023,34478768,I6,-2.19,7.58
+2021,16635357,473451893,"p4801--2024.pdf (Pub 4801 Rev. 2-2024, TY2021)",https://www.irs.gov/pub/irs-prior/p4801--2024.pdf,15,16,21526358,470171905,21in01ira.xlsx,K6,February 2025,41202975,I6,-0.69,8.01
+2022,17355700,497467733,"p4801--122024.pdf (Pub 4801 Rev. 12-2024, TY2022)",https://www.irs.gov/pub/irs-prior/p4801--122024.pdf,15,16,22960732,512641060,22in01ira.xlsx,K6,June 2026,36487510,I6,3.05,10.38
+2023,17839121,505480278,"p4801.pdf (Pub 4801 Rev. 6-2026, TY2023)",https://www.irs.gov/pub/irs-pdf/p4801.pdf,15,16,23623721,515221523,23in01ira.xlsx,K6,June 2026,36652896,I6,1.93,9.18

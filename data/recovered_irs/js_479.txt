@@ -1,0 +1,29 @@
+### CODE
+window.__ctrlItems = async (url, p) => {
+  const doc = await window.__pdfDoc(url);
+  const page = await doc.getPage(p);
+  const tc = await page.getTextContent();
+  const items = tc.items.filter(it => it.str && it.str.length).map(it => ({s: it.str, x: Math.round(it.transform[4]), y: Math.round(it.transform[5]), f: it.fontName}));
+  let out = '';
+  for (const it of items) {
+    if (/[\u0000-\u001f\u007f- ]/.test(it.s)) {
+      out += 'y' + it.y + ' x' + it.x + ' ' + it.f.slice(-4) + ' ' + Array.from(it.s).map(c => { const k = c.charCodeAt(0); return (k < 32 || (k > 126 && k < 161)) ? '<' + k + '>' : c; }).join('') + '\n';
+    }
+  }
+  return out;
+};
+let o = '';
+const u = 'https://www.ici.org/system/files/attachments/pdf/per21-01.pdf';
+for (const p of [23,24,25]) { const t = await window.__ctrlItems(u, p); if (t.length) o += '=== p' + p + ' ===\n' + t; }
+o.slice(0, 9000)
+
+### RESULT
+"=== p23 ===\ny274 x455 _f45 <31><30><29><28>\ny391 x460 _f45 <31><29>\ny274 x393 _f45 <31><30><29><31>\ny391 x397 _f45 <31><29>\ny274 x330 _f45 <31><30><29><29>\ny396 x334 _f45 <31><31>\ny274 x267 _f45 <31><30><29><30>\ny362 x271 _f45 <29><27>\ny274 x204 _f45 <31><30><30><26>\ny382 x209 _f45 <29><26>\ny274 x141 _f45 <31><30><30><25>\ny387 x146 _f45 <31><30>\ny274 x79 _f45 <31><30><30><24>\ny378 x83 _f45 <29><25>\ny274 x518 _f45 <31><30><29><23>\ny387 x522 _f45 <31><30>\n=== p24 ===\ny596 x73 _f46 Retired<25><24>did<24>not<24>take<24>a<24>withdrawal\ny599 x191 _f46 <16>\ny596 x202 _f47 <31><31>\ny576 x202 _f47 <30><29>\ny576 x507 _f47 <30><30><28>\ny567 x484 _f46 <15><14><25>\ny567 x508 _f46 <24>to<24><15> <25>\ny592 x339 _f47 <27><26><28>\ny583 x317 _f46 <15><14> <25>\ny583 x345 _f46 <24>or<24>more\ny633 x64 _f47 U<24>S<24><22>households<22>with<22>traditional<22>IRAs<22>in<22><31><5><30><26>\ny633 x299 _f47 Amount<22>withdrawn<22>in<22>tax<22>year<22><31><5><30><27>\ny624 x299 _f48 Percentage<31>of<31>traditional<31>IRA–owning<31>households<31>that<31>made<31>withdrawals\ny531 x72 _f46 t<24>retired<25><24>did<24>not<24>take<24>a<24>withdrawal\ny611 x487 _f47 <30><29><28>\ny602 x464 _f46 Less<24>than<24><15><14><25>\ny523 x496 _f47 <31><5><28>\ny514 x473 _f46 <15> <25>\ny514 x497 _f46 <24>to<24><15> <25>\ny469 x397 _f47 Mean<22><127><22><129><27><5><141><143><5><5>\ny459 x393 _f47 Median<22><127><22><129><30><5><141><5><5><5>\ny469 x152 _f47 Number<22>of<22>respondents<128><22><31><141><26><29><130>\ny565 x204 _f47 <29>\ny533 x202 _f47 <29><130>\ny574 x94 _f46 Retired<25><24>took<24>a<24>withdrawal\ny577 x186 _f46 <16><25><24><14>\ny562 x86 _f46 Not<24>retired<25><24>took<24>a<24>withdrawal\ny565 x191 _f46 <14>\ny517 x346 _f47 <143><28>\ny508 x316 _f46 <15><16> <25>\ny508 x344 _f46 <24>to<24><15><16> <25>\ny579 x221 _f47 <31><5><28>\ny579 x233 _f46 <24>\ny571 x221 _f46 took<24>withdrawals\ny563 x221 _f46 in<24>tax<24>year<24><14> <16><3>\ny492 x413 _f47 <30><30><28>\ny483 x385 _f46 <15><16> <25>\ny483 x413 _f46 <24>to<24><15><16> <25>\n"
+
+(captured at origin https://ici.org)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "The IRA Investor Database™ | Investment Company Institute" ("https://www.ici.org/research-iras/the-ira-investor-database")

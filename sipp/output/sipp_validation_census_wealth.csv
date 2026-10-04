@@ -1,0 +1,73 @@
+ref_year,sipp_year,age_of_householder,account,measure,sipp,census_published,diff
+2022,2023,Total,any,pct_households_owning,60.1,60.3,-0.19999999999999574
+2022,2023,Total,any,median_value_owners_usd,75000.0,75000.0,0.0
+2022,2023,Total,ira,pct_households_owning,31.9,31.9,0.0
+2022,2023,Total,ira,median_value_owners_usd,52970.0,53000.0,-30.0
+2022,2023,Total,dc,pct_households_owning,49.6,49.9,-0.29999999999999716
+2022,2023,Total,dc,median_value_owners_usd,54000.0,54000.0,0.0
+2022,2023,55 to 64 years,any,pct_households_owning,63.4,63.5,-0.10000000000000142
+2022,2023,55 to 64 years,any,median_value_owners_usd,150000.0,150000.0,0.0
+2022,2023,55 to 64 years,ira,pct_households_owning,35.2,35.2,0.0
+2022,2023,55 to 64 years,ira,median_value_owners_usd,90000.0,89600.0,400.0
+2022,2023,55 to 64 years,dc,pct_households_owning,54.1,54.2,-0.10000000000000142
+2022,2023,55 to 64 years,dc,median_value_owners_usd,100000.0,100000.0,0.0
+2022,2023,65 years and over,any,pct_households_owning,51.5,51.6,-0.10000000000000142
+2022,2023,65 years and over,any,median_value_owners_usd,157700.0,156800.0,900.0
+2022,2023,65 years and over,ira,pct_households_owning,37.4,37.4,0.0
+2022,2023,65 years and over,ira,median_value_owners_usd,115000.0,114100.0,900.0
+2022,2023,65 years and over,dc,pct_households_owning,30.3,30.5,-0.1999999999999993
+2022,2023,65 years and over,dc,median_value_owners_usd,104000.0,104000.0,0.0
+2022,2023,65 to 69 years,any,pct_households_owning,57.6,57.7,-0.10000000000000142
+2022,2023,65 to 69 years,any,median_value_owners_usd,180000.0,180000.0,0.0
+2022,2023,65 to 69 years,ira,pct_households_owning,37.4,37.4,0.0
+2022,2023,65 to 69 years,ira,median_value_owners_usd,117000.0,117000.0,0.0
+2022,2023,65 to 69 years,dc,pct_households_owning,41.9,42.1,-0.20000000000000284
+2022,2023,65 to 69 years,dc,median_value_owners_usd,100000.0,100000.0,0.0
+2022,2023,70 to 74 years,any,pct_households_owning,56.9,56.8,0.10000000000000142
+2022,2023,70 to 74 years,any,median_value_owners_usd,187400.0,190000.0,-2600.0
+2022,2023,70 to 74 years,ira,pct_households_owning,42.1,42.1,0.0
+2022,2023,70 to 74 years,ira,median_value_owners_usd,140000.0,141000.0,-1000.0
+2022,2023,70 to 74 years,dc,pct_households_owning,32.7,32.7,0.0
+2022,2023,70 to 74 years,dc,median_value_owners_usd,125900.0,125900.0,0.0
+2022,2023,75 and over,any,pct_households_owning,43.6,43.8,-0.19999999999999574
+2022,2023,75 and over,any,median_value_owners_usd,128000.0,128000.0,0.0
+2022,2023,75 and over,ira,pct_households_owning,34.4,34.5,-0.10000000000000142
+2022,2023,75 and over,ira,median_value_owners_usd,100000.0,100000.0,0.0
+2022,2023,75 and over,dc,pct_households_owning,20.3,20.4,-0.09999999999999787
+2022,2023,75 and over,dc,median_value_owners_usd,100000.0,100000.0,0.0
+2023,2024,Total,any,pct_households_owning,61.2,61.5,-0.29999999999999716
+2023,2024,Total,any,median_value_owners_usd,82900.0,82000.0,900.0
+2023,2024,Total,ira,pct_households_owning,32.4,32.5,-0.10000000000000142
+2023,2024,Total,ira,median_value_owners_usd,57900.0,57400.0,500.0
+2023,2024,Total,dc,pct_households_owning,50.5,50.8,-0.29999999999999716
+2023,2024,Total,dc,median_value_owners_usd,55000.0,54900.0,100.0
+2023,2024,55 to 64 years,any,pct_households_owning,64.2,64.2,0.0
+2023,2024,55 to 64 years,any,median_value_owners_usd,158200.0,158200.0,0.0
+2023,2024,55 to 64 years,ira,pct_households_owning,35.8,35.8,0.0
+2023,2024,55 to 64 years,ira,median_value_owners_usd,80000.0,80000.0,0.0
+2023,2024,55 to 64 years,dc,pct_households_owning,54.9,54.9,0.0
+2023,2024,55 to 64 years,dc,median_value_owners_usd,100000.0,100000.0,0.0
+2023,2024,65 years and over,any,pct_households_owning,51.2,51.4,-0.19999999999999574
+2023,2024,65 years and over,any,median_value_owners_usd,177550.0,177500.0,50.0
+2023,2024,65 years and over,ira,pct_households_owning,37.3,37.4,-0.10000000000000142
+2023,2024,65 years and over,ira,median_value_owners_usd,126880.0,130000.0,-3120.0
+2023,2024,65 years and over,dc,pct_households_owning,30.0,30.1,-0.10000000000000142
+2023,2024,65 years and over,dc,median_value_owners_usd,100000.0,100000.0,0.0
+2023,2024,65 to 69 years,any,pct_households_owning,58.3,58.5,-0.20000000000000284
+2023,2024,65 to 69 years,any,median_value_owners_usd,202120.0,202100.0,20.0
+2023,2024,65 to 69 years,ira,pct_households_owning,40.7,40.8,-0.09999999999999432
+2023,2024,65 to 69 years,ira,median_value_owners_usd,122000.0,122000.0,0.0
+2023,2024,65 to 69 years,dc,pct_households_owning,40.1,40.2,-0.10000000000000142
+2023,2024,65 to 69 years,dc,median_value_owners_usd,110200.0,110200.0,0.0
+2023,2024,70 to 74 years,any,pct_households_owning,53.1,53.2,-0.10000000000000142
+2023,2024,70 to 74 years,any,median_value_owners_usd,209500.0,209500.0,0.0
+2023,2024,70 to 74 years,ira,pct_households_owning,38.1,38.1,0.0
+2023,2024,70 to 74 years,ira,median_value_owners_usd,180000.0,180000.0,0.0
+2023,2024,70 to 74 years,dc,pct_households_owning,30.9,30.9,0.0
+2023,2024,70 to 74 years,dc,median_value_owners_usd,97000.0,97000.0,0.0
+2023,2024,75 and over,any,pct_households_owning,45.2,45.3,-0.09999999999999432
+2023,2024,75 and over,any,median_value_owners_usd,135000.0,135000.0,0.0
+2023,2024,75 and over,ira,pct_households_owning,34.4,34.5,-0.10000000000000142
+2023,2024,75 and over,ira,median_value_owners_usd,111900.0,112000.0,-100.0
+2023,2024,75 and over,dc,pct_households_owning,22.2,22.3,-0.10000000000000142
+2023,2024,75 and over,dc,median_value_owners_usd,96500.0,95000.0,1500.0

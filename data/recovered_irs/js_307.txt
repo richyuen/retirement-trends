@@ -1,0 +1,26 @@
+### CODE
+window.__grab = async (url) => {
+  const r = await fetch(url);
+  if (!r.ok) return 'HTTP ' + r.status + ' ' + url;
+  const buf = await r.arrayBuffer();
+  const wb = window.__XLSX.read(new Uint8Array(buf), {type:'array'});
+  let out = '';
+  for (const name of wb.SheetNames) {
+    const csv = window.__XLSX.utils.sheet_to_csv(wb.Sheets[name], {FS:'|', blankrows:false});
+    const lines = csv.split('\n').map(l => l.replace(/\|+$/,'')).filter(l => l.replace(/\|/g,'').trim().length>0);
+    out += '### SHEET ' + name + '\n' + lines.join('\n') + '\n';
+  }
+  return out;
+};
+await window.__grab('https://www.irs.gov/pub/irs-soi/23in01ira.xlsx')
+
+### RESULT
+"### SHEET Estimates\nTable 1. Taxpayers with Individual Retirement Arrangement (IRA) Plans, by Type of Plan, Tax Year 2023| \n(All figures are estimates based on samples - money amounts are in thousands of dollars)| \nType of plan|Total contributions [1]||Contributions deducted on Form 1040||Rollovers||Roth conversions [2]||Withdrawals [3]||End-of-year fair market value of IRAs\n|Number of taxpayers|Amount|Number of taxpayers|Amount|Number of taxpayers|Amount|Number of taxpayers|Amount|Number of taxpayers|Amount|Number of taxpayers|Amount\n|(1)|(2)|(3)|(4)|(5)|(6)|(7)|(8)|(9)|(10)|(11)|(12)\nTotal [4]|17,702,756|89,109,080|2,492,101|21,170,744|5,857,558|682,415,851|1,597,798|36,652,896|23,623,721|515,221,523|71,058,598|14,583,955,520\nTraditional IRA plans|5,873,053|26,901,749|1,980,006|10,012,155|5,518,339|652,772,663|N/A|N/A|21,295,754|475,033,945|53,679,821|12,100,134,806\nRoth IRA plans|9,488,414|32,809,393|N/A|N/A|865,005|24,333,006|1,597,798|36,652,896|2,491,521|30,753,311|29,301,806|1,683,383,257\nSEP plans|1,008,686|16,595,875|443,096|10,043,749|40,304|4,703,670|N/A|N/A|359,602|7,047,099|3,216,883|609,835,421\nSIMPLE plans|2,191,821|12,802,062|80,831|1,114,841|20,261|606,512|N/A|N/A|279,593|2,387,168|3,519,806|190,602,037\nN/A - Not Applicable| \n[1]: For SEP and SIMPLE plans, total contributions include contributions made by the taxpayer directly as well as those made by an employer.| \n[2]: Owners of traditional IRAs are able to convert them to Roth IRAs.  Under certain circumstances, SEP or SIMPLE IRAs could also be converted to Roth IRAs; however, these amounts could not be identified separately for the purpose of these statistics.| \n[3]: Withdrawals are reported on Form 1099-R. Totals do not include withdrawals made for the purpose of rollovers to other IRA accounts if the transfer was made by the trustee. Roth IRA conversions are shown separately. SEP/SIMPLE distributions allocate any distributions from Form 1040, schedule 1, line 16, which may include other account types.| \n[4]: The total represents the number of taxpayers who have at least one IRA account.  Taxpayers may have multiple types of IRA plans. Consequently, the sum of the number of taxpayers with the various types of IRA plans will exceed the total shown in the table.| \nNote: Details may not add to total due to rounding.| \n\"Source: Matched file of Forms 1040, U.S. Individual Income Tax Returns, Forms 1099-R, Distributions from Pensions, Annuities, Retirement \n              or Profit-Sharing Plans, IRAs, Insurance Contracts, etc., and Forms 5498, IRA Contribution Information for Tax Year 2023.\n               IRS, Statistics of Income Division, Individual Retirement Arrangements Study, June 2026.\"| \n"
+
+(captured at origin https://irs.gov)
+
+
+Tab Context:
+- Executed on tabId: seed
+- Available tabs:
+  • tabId seed: "SOI Tax Stats Accumulation and Distribution of Individual Retirement Arrangements | Internal Revenue Service" ("https://www.irs.gov/statistics/soi-tax-stats-accumulation-and-distribution-of-individual-retirement-arrangements")

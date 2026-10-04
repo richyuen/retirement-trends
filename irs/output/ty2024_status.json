@@ -1,0 +1,13 @@
+{
+ "checked_utc": "2026-10-04",
+ "landing_page": "https://www.irs.gov/statistics/soi-tax-stats-accumulation-and-distribution-of-individual-retirement-arrangements",
+ "landing_reviewed": "12-Jun-2026",
+ "latest_tax_year_listed": 2023,
+ "probes": {
+  "https://www.irs.gov/pub/irs-soi/24in01ira.xlsx": 404,
+  "https://www.irs.gov/pub/irs-soi/24in04ira.xlsx": 404,
+  "https://www.irs.gov/pub/irs-soi/24in01ira.xls": 404
+ },
+ "whats_new": "https://www.irs.gov/statistics/soi-tax-stats-whats-new (reviewed 29-Sep-2026): no TY2024 IRA release announced; upcoming releases listed to 27 Oct 2026 do not include IRAs",
+ "ty2024_released": false
+}
