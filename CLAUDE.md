@@ -5,11 +5,11 @@ Research report (self-contained HTML, charts + animation) on trends in withdrawa
 
 ## Layout
 - `output/` final standalone report (built; do not hand-edit)
-- `report/parts/` source: `10-head.html` (CSS tokens, fonts), `20-body.html` (13 sections, 22 figures, 9 tables), `30-script.html` (REFS map of 77 sources, `CH` chart data, SVG renderers). Build: `python report/build.py` (writes `output/` standalone and `report/index.html`, the body to publish to the live artifact URL)
+- `report/parts/` source: `10-head.html` (CSS tokens, fonts), `20-body.html` (14 sections, 25 figures, 9 tables), `30-script.html` (REFS map of 80 sources, `CH` chart data, SVG renderers). Build: `python report/build.py` (writes `output/` standalone and `report/index.html`, the body to publish to the live artifact URL)
 - `data/` `irs_derived.json`, `irs_2023_table4.json`, `recovered_irs/` raw IRS SOI + ICI spreadsheet extractions (`js_559`=IRS Table 4 by age 2004-23; `js_563`=Table 1 by IRA type; `js_331`=TY2023 Table 4 incl. rollovers; `js_355/359/367`=Form 1040 taxable IRA distributions). Rebuild derived series: `python scripts/build_data.py`
 - `notes/` 5 research notes (IRA, DC plans, rollovers, household surveys, RMD/policy/tax), `verification.md` (fact-check: 38 findings, all fixed), `PROGRESS.md`
 - `scripts/shoot*.js` Playwright render checks (needs `npm i playwright`)
-- `scf/` SCF microdata results (README = method + findings), `cps/` CPS ASEC results from Census files (README); `sipp/` SIPP 2021-2025 public-use IRA rates (README), `irs/` IRS SOI refresh incl. 2022 method break and rollover reconciliation (README), `sipp_hist/` SIPP 1996-2024 long series by age, IRA+401(k) combined (README; Figs 17-18), `scf_6064/` decomposition of the SCF 60-64 rate decline (README); `microdata/` original starter (superseded)
+- `scf/` SCF microdata results (README = method + findings), `cps/` CPS ASEC results from Census files (README); `sipp/` SIPP 2021-2025 public-use IRA rates (README), `irs/` IRS SOI refresh incl. 2022 method break and rollover reconciliation (README), `sipp_hist/` SIPP 1996-2024 long series by age, IRA+401(k) combined (README; Figs 17-18), `scf_6064/` decomposition of the SCF 60-64 rate decline (README), `dc_stay/` non-recordkeeper DC stay-in-plan evidence: TSP, Form 5500, SCF past-job plans (README; owned by the DC thread; report Section 11, Figs 23-25); `microdata/` original starter (superseded)
 
 ## Definitions (keep consistent)
 - **Incidence** = withdrawers per 100 year-end account holders.
@@ -25,6 +25,7 @@ Research report (self-contained HTML, charts + animation) on trends in withdrawa
 - IRS method break in TY2022: Roth distributions jump ($5.7B -> $23.8B) and SEP falls ($26.4B -> $6.7B). Treat 2012-2021 and 2022-2023 as separate consistent eras; TY2024 not released yet.
 - CPS ASEC: 2020-2021 use Census pandemic entropy-balance weights; 2026 file uses Vintage 2025 population controls (~1.65M jump), not a real change. SEs from replicate weights (cps/README).
 - SIPP long series (sipp_hist/): incidence comparable-ish across eras from age 60 up; 2014-2019 is a pooled item incl. DB pensions with a 2017 wording break; dollar rates NOT comparable across eras (old panels capture ~half of ICI IRA balances). 1996 core files need NBER's layout, not Census's posted dictionaries.
+- Section 11 "Staying in the plan" (dc_stay/): Form 5500 separated share has breaks, so show segments 1999-2004, 2005-08, 2014-23 with 2009-13 marked (small plans counted everyone active). TSP retention FY15-16 uses the corrected values (57-61%). 2012 TSP separators closing accounts by end-2013 = 49% (41% full withdrawal + 8% cash-out), not 45%. Percentages, not counts (Richard's preference). Vanguard evidence stays in Section 7; Section 11 cross-references it.
 - Key computed facts: TY2023 IRA rollovers $682.4B, 5.86M taxpayers; 60+ hold 66.1% of rollover dollars (2001: 40.6%).
 
 ## Conventions

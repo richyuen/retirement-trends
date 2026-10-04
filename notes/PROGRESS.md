@@ -46,3 +46,6 @@ Folded in SIPP (sipp/), IRS refresh (irs/), SCF 60-64 (scf_6064/), CPS finish. F
 
 ## 2026-10-04 v7
 SIPP long series 1996-2024 (sipp_hist/): Figs 17-18 inserted after Fig 16; later figs renumbered 19-22. Chart renderer gained zones and breaks options. 77 refs (nber-sipp96 added).
+
+## 2026-10-04 v8
+New Section 11 "Staying in the plan: evidence beyond recordkeepers" from dc_stay/: Figs 23 (TSP one-year retention), 24 (Form 5500 + TSP separated share), 25 (SCF former-employer plan share). Watch/notes/sources renumbered 12-14. 80 refs (tsp-minutes, tsp-stats, dol-5500-abs, ebri-hrs). Published v8.

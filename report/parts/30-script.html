@@ -82,6 +82,10 @@ var REFS={
 'bea':['Bureau of Economic Analysis','Defined contribution pension plans: benefit payments and withdrawals (FRED series Y353RC1A027NBEA).','https://fred.stlouisfed.org/series/Y353RC1A027NBEA'],
 'limra':['PLANSPONSOR','“US Rollover Market Expected to Jump 34% by 2030” (LIMRA estimates and projections).','https://www.plansponsor.com/us-rollover-market-expected-to-jump-34-by-2030/'],
 'cerulli':['Cerulli Associates','“Regulation May Impact Advisor-Intermediated Rollovers from Defined Contribution Plans” (press release).','https://www.cerulli.com/press-releases/regulation-may-impact-advisor-intermediated-rollovers-from-defined-contribution-plans'],
+'tsp-minutes':['Federal Retirement Thrift Investment Board','Board meeting minutes and quarterly performance and metrics reports, fiscal 2015–2021, including the corrected retention values of November 2016.','https://minutes.frtib.gov/'],
+'tsp-stats':['Federal Retirement Thrift Investment Board','Thrift Savings Fund statistics and Participant Activity Reports (historical plan participation), 2013–2026, and TSP annual reports for 2011 and 2012.','https://www.frtib.gov/pdf/minutes/2026/Jan/Att1-FRTIB-Participant-Activity-Report-January-2026.pdf'],
+'dol-5500-abs':['Department of Labor, Employee Benefits Security Administration','Private Pension Plan Bulletin: Abstract of Form 5500 Annual Reports, plan years 1999–2023 (number of participants by type of plan and type of participant).','https://www.dol.gov/agencies/ebsa/researchers/statistics/retirement-bulletins/private-pension-plan-bulletins-abstract-of-form-5500-annual-reports'],
+'ebri-hrs':['Banerjee, S. (EBRI)','“Disposition of DC Accounts: Who Rolls Over into an IRA? Who Leaves Money in the Plan and Who Withdraws Cash?” Statement to the ERISA Advisory Council, June 2014 (HRS 2008 and 2010).','https://www.dol.gov/sites/dolgov/files/EBSA/about-ebsa/about-us/erisa-advisory-council/2014-facilitating-lifetime-plan-participation-banerjee-06-17.pdf'],
 'scf-micro':['Board of Governors of the Federal Reserve System','Survey of Consumer Finances, public data: summary extract files, full public datasets and replicate weights, 2004–2022 waves, with the Federal Reserve’s Bulletin variable macro. Tabulated for this report, October 2026.','https://www.federalreserve.gov/econres/scfindex.htm'],
 'cps-micro':['US Census Bureau','Current Population Survey Annual Social and Economic Supplement, public-use files 2010–2026, including the 2014 split-sample files, the 2017 research file and the 2018 bridge file. Tabulated for this report, October 2026.','https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html'],
 'fed-scf-2023':['Aladangady, A., et al.','“Changes in U.S. Family Finances from 2019 to 2022: Evidence from the Survey of Consumer Finances,” Federal Reserve Board, October 2023.','https://www.federalreserve.gov/publications/files/scf23.pdf'],
@@ -189,6 +193,20 @@ microagerate:{type:'line',x:Y(2003,2021),xTitle:'Year',yMax:14,yFmt:pct(0),tipFm
   {name:'Aged 70–74',short:'70–74',c:'--o3',values:[3.83,null,null,4.53,null,null,2.83,null,null,3.64,null,null,3.99,null,null,3.73,null,null,3.53]},
   {name:'Aged 65–69',short:'65–69',c:'--o2',values:[2.15,null,null,1.77,null,null,2.09,null,null,1.71,null,null,1.82,null,null,1.58,null,null,2.27]},
   {name:'Aged 60–64',short:'60–64',c:'--o1',values:[1.59,null,null,1.56,null,null,0.93,null,null,1.34,null,null,1.15,null,null,0.85,null,null,0.58]}
+ ]},
+tspret:{type:'line',x:['FY15 Q1', 'FY15 Q2', 'FY15 Q3', 'FY15 Q4', 'FY16 Q1', 'FY16 Q2', 'FY16 Q3', 'FY16 Q4', 'FY17 Q1', 'FY17 Q2', 'FY17 Q3', 'FY17 Q4', 'FY18 Q1', 'FY18 Q2', 'FY18 Q3', 'FY18 Q4', 'FY19 Q1', 'FY19 Q2', 'FY19 Q3', 'FY19 Q4', 'FY20 Q1', 'FY20 Q2', 'FY20 Q3', 'FY20 Q4', 'FY21 Q1', 'FY21 Q2', 'FY21 Q3', 'FY21 Q4', 'FY22 Q1', 'FY22 Q2', 'FY22 Q3', 'FY22 Q4', 'FY23 Q1', 'FY23 Q2', 'FY23 Q3', 'FY23 Q4', 'FY24 Q1', 'FY24 Q2', 'FY24 Q3', 'FY24 Q4', 'FY25 Q1', 'FY25 Q2', 'FY25 Q3', 'FY25 Q4', 'FY26 Q1', 'FY26 Q2'],xTitle:'Fiscal quarter',yMax:80,yFmt:pct(0),tipFmt:pct(1),labelW:150,
+ notes:[{i:20,v:76,text:'New withdrawal options (Sep 2019)',short:'New options, 2019',anchor:'middle'}],
+ series:[{name:'Still holding a balance a year after separating',short:'Still in the TSP',c:'--s1',points:true,values:[57.16,57.5,58.15,58.97,59.57,60.39,61.08,61.49,61.9,62.53,62.82,62.99,63.3,64.07,64.39,64.56,64.64,64.29,64.82,64.59,64.84,65.32,64.89,67.14,68.64,68.14,69.75,70.49,71.86,72.7,null,null,null,null,null,69.47,70.64,68.91,67.11,67.12,null,null,null,67.51,69.14,69.09]}]},
+sepshare:{type:'line',x:Y(1999,2025),xTitle:'Year',yMax:40,yFmt:pct(0),tipFmt:pct(1),points:true,labelW:150,breaks:['2004','2008','2013'],
+ zones:[{from:'2009',to:'2013',label:'Small plans: all counted active',short:'Break'}],
+ series:[
+  {name:'Federal Thrift Savings Plan: separated accounts',short:'TSP',c:'--s1',values:[null,null,null,null,null,null,null,null,null,null,null,null,21.2,22.4,24.3,25.7,26.8,27.7,28.9,29.1,29.4,30.1,30.9,32.8,33.4,33.9,35.1]},
+  {name:'Private DC plans (Form 5500): separated participants',short:'Private DC plans',c:'--s2',values:[15.2,16.3,17.3,17.9,18.1,18.4,16.5,16.6,17.1,17.5,16.5,15.7,15.8,15.7,16.0,19.1,18.7,19.1,19.7,20.1,20.4,21.6,22.3,22.4,22.2,null,null]}
+ ]},
+pastplan:{type:'line',x:['2004','2007','2010','2013','2016','2019','2022'],xTitle:'Survey year',yMax:40,yFmt:pct(0),tipFmt:pct(1),points:true,labelW:180,
+ series:[
+  {name:'Households aged 60 to 74, not working',short:'60–74, not working',c:'--s1',values:[16.1,19.1,23.0,18.8,23.3,29.3,26.0]},
+  {name:'All households',short:'All households',c:'--s2',values:[15.2,17.3,17.7,19.9,17.7,25.8,21.8]}
  ]},
 sipplong:{type:'line',x:Y(1996,2024),xTitle:'Year',yMax:100,yFmt:function(v){return String(v)},tipFmt:function(v){return (+v).toFixed(1)},points:true,labelW:120,breaks:['2016'],bands:['2009','2020'],bandLabel:'RMDs waived (2009, 2020)',
  zones:[{from:'2014',to:'2019',label:'Pooled question',short:'Pooled'}],

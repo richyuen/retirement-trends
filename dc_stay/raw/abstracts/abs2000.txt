@@ -1,0 +1,894 @@
+PRELIMINARY
+Private Pension Plan Bulletin
+Abstract of 2000 Form 5500 Annual Reports
+
+
+
+
+                                            U. S. Department of Labor
+                                            Employee Benefits Security
+                                            Administration
+                                            July 2005
+                                                                                                        SECTION B: PLANS AND PARTICIPANTS
+               TABLE OF CONTENTS
+                                                                                                        Tables
+
+Highlights……………………………………………………………..1                                                                    B1.      Distribution of Pension Plans
+                                                                                                                 by number of participants, 2000..……………………………..8
+
+SECTION A: SUMMARY                                                                                      B2.      Distribution of Pension Plans
+                                                                                                                 by number of assets, 2000………..……………………………9
+Tables
+                                                                                                        B3.      Distribution of Pension Plans
+A1.      Number of Pension Plans, Total Participants, Active                                                     by industry, 2000………………….………………………….10
+         Participants’ Assets, Contributions, and Benefits
+         by type of plan, 2000..................................................................2       SECTION C: FINANCIAL
+
+A2.      Number of Participants in Pension Plans                                                        Tables
+         by type of plan entity, type of plan, and type of participant.......3
+                                                                                                        C1.      Distribution of Assets
+A3.      Balance Sheet of Pension Plans                                                                          by number of participants, 2000……………………………..11
+         by type of plan, 2000…………………………………………..4
+                                                                                                        C2.      Distribution of Assets
+A4.      Income Statement of Pension Plans                                                                       by asset size, 2000……………………………………………12
+         by type of plan, 2000……………………………………….....5
+                                                                                                        C3.      Distribution of Assets
+A5.      Amount of Assets in Pension Plans                                                                       by industry, 2000......................................................................13
+         by type of plan and method of funding, 2000………………....6
+                                                                                                        C4.      Balance Sheet of Pension Plans with 100 or More Participants
+A6.      Collective Bargaining Status of Pension Plans, Participants,                                            By type of plan, 2000..........................................................14-15
+         And Assets
+         by type of plan, 2000………………………………………….7
+
+
+
+
+                                                                                                    i
+C7.      Percentage Distribution of Assets in Defined Benefit Plans
+         with 100 or More Participants
+         by type of asset and size of plan, 2000………………………16
+
+C8.      Percentage Distribution of Assets in Defined Contribution
+         Plans with 100 or More Participants
+         by type of asset and size of plan, 2000……………………….17
+
+C9.      Income Statement of Pension Plans with 100 or More
+         Participants
+         by type of plan, 2000……………………………………...18-19
+
+
+
+SECTION D: DEFINED CONTRIBUTION PLANS
+
+Tables
+
+D1.      Balance Sheet of Defined Contribution Plans with 100 or More
+         Participants
+         by type of plan, 2000…………………………………………20
+
+D2.      Income Statement of Defined Contribution Plans with 100 or
+         More Participants
+         by type of plan, 2000……………………………………...21-22
+
+D3.      Number of 401(k) Type Plans, Participants, Active
+         Participants, Assets, Contributions, and Benefits
+         by type of plan, 2000…………………………………………23
+
+
+
+
+                                                                        ii
+                                                                               •   Pension plan assets decreased nearly 5% from $4.4 trillion in
+HIGHLIGHTS FROM THE 2000                                                           1999 to $4.2 trillion in 2000. DB plan assets decreased by 3%
+FORM 5500 REPORTS                                                                  to $2.0 trillion, while DC plan assets shrank by 6% to almost
+                                                                                   $2.2 trillion.
+Over the past 25 years, as the private pension system has shifted from
+defined benefit (DB) plans towards 401(k) type defined contribution
+(DC) plans, the financing of benefits has shifted from employers to
+participants. In 1978, when legislation was enacted authorizing 401(k)
+type plans that allow employees to contribute on a pre-tax basis, 29
+percent of contributions to DC plans, and only 11 percent of total
+contributions to all DB and DC pension plans were contributed by
+participants. In 2000, 60 percent of contributions to DC plans and 51
+percent of contributions to all plans were made by participants. This is
+virtually unchanged from 1999.
+
+Other findings from Form 5500 series reports for the 2000 plan year
+are summarized below.
+
+   •   The decades long shift from DB to DC plans continued in
+       2000, with the number of DB plans declining from 50,000 in
+       1999 to 48,000 in 2000, and the number of DC plans increasing
+       from 683,000 to 687,000.
+
+   •   There was little change in the number of active participants
+       from 1999 to 2000, with the total active participant count
+       increasing marginally from 73.0 million to 73.1 million. The
+       number of active participants in DB plans decreased by about 2
+       percent to 22.2 million and the number of active participants in
+       DC plans increased about 1 percent to 50.9 million.
+
+
+
+
+                                                                           1
+                           Table A1. Number of Pension Plans, Total Participants, Active Participants,
+                                             Assets, Contributions, and Benefits
+                                                    by type of plan, 2000
+
+                                                                         Total                Active                                         Total
+                                                   Number of                                                     Total Assets
+                Type of Plan                                          Participants          Participants                                 Contributions    Total Benefits
+                                                    Plans 1/                                                     (millions) 4/
+                                                                    (thousands) 2/        (thousands) 3/                                  (millions) 5/    (millions) 6/
+Total                                                735,651              103,329                73,092             $4,202,672              $231,907          $341,041
+Defined Benefit                                       48,773               41,613                22,218              1,986,177                  33,369          127,510
+Cash balance                                           1,290                 7,016                 3,902               425,777                   3,493           29,118
+Other defined benefit                                 47,483               34,597                18,316              1,560,400                  29,876           98,391
+Defined Contribution                                 686,878               61,716                50,874              2,216,495                198,538           213,531
+Profit sharing and thrift-savings plans              566,196               53,894                44,532              1,955,517                181,447           191,919
+Stock bonus plans                                      2,900                 2,094                 1,671                71,865                   4,055            6,554
+Target benefit plans                                   3,932                    99                    81                 5,630                     254              430
+Money purchase plans                                  93,108                 4,623                 3,768               153,842                  11,198           12,734
+Annuity-403(b)(1)                                     14,473                   109                    99                 1,914                     152              124
+Custodial account-403(b)(7)                            1,486                    13                    11                   224                      18               14
+IRAs or annuities (Code 408)                             530                     5                     5                   161                       8               11
+Other defined contribution plans                       4,253                   879                   707                27,342                   1,405            1,744
+
+1/ Excludes plans covering only one participant.
+2/ Includes active, retired, and separated vested participants not yet in pay status. The number of participants also includes double
+counting of workers in more than one plan.
+3/ Active participants include any workers currently in employment covered by a plan and who are earning or retaining credited service
+under a plan. Active participants also include nonvested former employees who have not yet incurred a break in service.
+4/ Total asset amounts shown exclude funds held by life insurance companies under allocated group insurance contracts for payment of
+retirement benefits. These excluded funds make up roughly 10 to 15 percent of total pension fund assets.
+5/ Includes both employer and employee contributions.
+6/ Amounts shown include both benefits paid directly from trust funds and premium payments made by plans to insurance carriers.
+Amounts exclude benefits paid directly by insurance carriers.
+SOURCE: Form 5500 filings for plan years beginning in 2000.
+
+
+
+
+                                                                                                     2
+                                                            Table A2. Number of Participants in Pension Plans
+                                                      by type of plan entity, type of plan, and type of participant, 2000
+                                                                                              (numbers in thousands)
+
+                                                               Total Plans                                       Single Employer Plans 1/                               Multiemployer Plans 2/
+      Type of Participant                                                           Defined                                            Defined                                Defined       Defined
+                                            Total         Defined Benefit                                  Total     Defined Benefit                              Total
+                                                                                  Contribution                                       Contribution                              Benefit   Contribution
+Active participants 3/                      73,092                22,218              50,874               66,203          17,311         48,892                   6,888        4,907          1,982
+Retired or separated
+participants receiving benefits
+                                            10,318                  9,591                    727            7,751                  7,085                 667       2,567       2,506            61
+Separated participants with
+vested right to benefits                   19,887                  9,797                 10,090            17,542                 7,724               9,819        2,344       2,073           271
+Total Participants                        103,329                 41,613                 61,716            91,529                32,127              59,403       11,800       9,486         2,314
+Beneficiaries 4/                            1,613                  1,503                    110             1,222                 1,121                 101          390         382             8
+Total participants and
+beneficiaries                             104,938                 43,114                 61,824            92,748                33,246              59,502       12,190       9,868         2,322
+
+1/ Includes single employer plans, plans of controlled groups of corporations and multiple-employer noncollectively bargained plans.
+2/ Includes multiemployer plans and multiple-employer collectively bargained plans.
+3/ Plans with less than 100 participants are required to provide only the total participant count. For these plans, which cover approximately 10 percent of all
+participants, the distribution of active, retired, and separated vested participants was assumed to be the same as for larger plans in each column.
+4/ Deceased participants whose beneficiaries are receiving or are entitled to receive benefits.
+NOTE: Excludes plans covering only one participant.
+SOURCE: Form 5500 filings for plan years beginning in 2000.
+
+
+
+
+                                                                                                             3
+                                    TABLE A3. Balance Sheet of Pension Plans
+                                             by type of plan, 2000
+                                                         (amounts in millions)
+
+                                                                                                   Defined                    Defined
+           Type of Asset or Liability                                 Total
+                                                                                                   Benefit                  Contribution
+Partnership/joint venture interests                                   22,834                         20,152                        2,682
+Employer real property                                                   440                             73                          367
+Real estate (exc employer real prop.)                                 11,590                          9,802                        1,788
+Employer securities                                                  309,848                          8,790                      301,059
+Participant loans                                                     32,560                            442                       32,118
+Loans (other than to participants)                                     8,122                          5,314                        2,808
+Other investments 1/                                               3,817,278                      1,941,605                    1,875,674
+TOTAL ASSETS                                                       4,202,672                      1,986,177                    2,216,495
+
+TOTAL LIABILITIES                                                     84,565                         48,286                       36,280
+NET ASSETS                                                         4,118,107                      1,937,891                    2,180,216
+
+1/ This table summarizes assets that appear on both the Schedule H (for plans with 100 or more participants) and Schedule I (for
+plans with fewer than 100 participants). All asset items that appear on the more detailed Schedule H but not the Schedule I
+are grouped under "Other investments".
+NOTE: Total asset amounts shown exclude funds held by life insurance companies under group insurance contracts for
+payment of retirement benefits. These excluded funds make up roughly 10 to 15 percent of total pension fund assets.
+SOURCE: Form 5500 filings for plan years beginning in 2000.
+
+
+
+
+                                                                        4
+                                 TABLE A4. Income Statement of Pension Plans
+                                             by type of plan, 2000
+                                                        (amounts in millions)
+
+                                                                                                  Defined                   Defined
+             Income and Expenses                                      Total
+                                                                                                  Benefit                 Contribution
+INCOME
+Employer contributions                                               106,214                        32,446                       73,768
+Participant contributions                                            111,024                           641                      110,383
+Contributions from others (including rollovers)                       14,101                           278                       13,824
+Noncash contributions                                                    760                             4                          756
+All other income 1/                                                 -100,725                        -9,838                      -90,886
+TOTAL INCOME                                                         131,376                        23,531                      107,845
+
+EXPENSES
+Total benefit payments                                               341,041                       127,510                      213,531
+Corrective distributions                                                 363                             7                          356
+Deemed distrib. of partic. loans                                         484                             4                          481
+Other expenses                                                        14,616                         7,624                        6,992
+TOTAL EXPENSES                                                       356,504                       135,144                      221,360
+
+NET INCOME                                                          -225,129                      -111,613                     -113,515
+
+1/ This table summarizes income and expenses that appear on both the Schedule H (for plans with 100 or more participants) and
+Schedule I (for plans with fewer than 100 participants). All income and expense items that appear on the more detailed Schedule H
+but not the Schedule I are grouped under "All other income" or "Other expenses".
+SOURCE: Form 5500 filings for plan years beginning in 2000.
+
+
+
+
+                                                                       5
+                                                               Table A5. Amount of Assets in Pension Plans
+                                                                by type of plan and method of funding, 2000
+                                                                                           (amounts in millions)
+
+                                                    Total Plans                                     Single Employer Plans 1/                                Multiemployer Plans 2/
+
+ Method of Funding                                   Defined           Defined                                 Defined           Defined                           Defined        Defined
+                                     Total                                                     Total                                                Total
+                                                     Benefit         Contribution                              Benefit         Contribution                        Benefit      Contribution
+
+
+Funding arrangement for investment of assets
+
+Total                             $4,202,672 $1,986,177                   $2,216,495 $3,791,754 $1,620,811                             $2,170,942   $410,918         $365,365        $45,553
+Insurance                             71,501     28,773                       42,728     67,835     25,652                                 42,183      3,667            3,122            545
+Section 412(i) ins.                    1,504      1,085                          419      1,365        953                                    412        139              132              7
+Trust                              2,779,683 1,260,065                     1,519,617 2,557,725 1,064,760                                1,492,964    221,958          195,305         26,653
+Trust and insurance                1,347,260    696,215                      651,044 1,162,105     529,409                                632,697    185,154          166,807         18,348
+Not determinable                       2,724         37                        2,687      2,724         37                                  2,687          0                0              0
+
+
+
+Funding arrangement for payment of benefits
+
+Total                             $4,202,672 $1,986,177                   $2,216,495 $3,791,754 $1,620,811                             $2,170,942   $410,918         $365,365        $45,553
+Insurance                             81,865     36,500                       45,365     78,761     33,859                                 44,901      3,104            2,640            464
+Section 412(i) ins.                    1,926      1,450                          476      1,742      1,300                                    442        184              150             34
+Trust                              3,282,131 1,507,271                     1,774,860 2,970,559 1,233,837                                1,736,722    311,572          273,434         38,138
+Trust and insurance                  834,026    440,919                      393,107    737,967    351,777                                386,190     96,058           89,141          6,917
+Not determinable                       2,724         37                        2,687      2,724         37                                  2,687          0                0              0
+
+1/ Includes single employer plans, plans of controlled groups of corporations and multiple-employer noncollectively bargained plans.
+2/ Includes multiemployer plans and multiple-employer collectively bargained plans.
+- Missing data.
+SOURCE: Form 5500 series reports filed for plan years beginning in 2000.
+
+
+
+
+                                                                                                        6
+            Table A6. Collective Bargaining Status of Pension Plans, Participants, and Assets
+                                          by type of plan, 2000
+
+                                                  Total Plans                                         Defined Benefit                                   Defined Contribution
+     Collective                              Total                               Total                               Total
+  Bargaining Status            Number of              Total Assets Number                 Total Assets Number of              Total Assets
+                                         Participants                        Participants                        Participants
+                                 Plans                (millions) 1/ of Plans              (millions) 1/  Plans                (millions) 1/
+                                         (thousands)                         (thousands)                         (thousands)
+TOTAL                               735,651            103,329         $4,202,672         48,773             41,613        $1,986,177           686,878          61,716   $2,216,495
+Collective bargaining
+plans                                 13,817             25,241         1,207,138           6,003            17,236             878,658               7,814       8,005        328,480
+Noncollectively
+bargained plans                     721,834              78,088         2,995,534         42,770             24,377         1,107,519           679,064          53,711    1,888,015
+
+1/ Asset amounts shown exclude funds held by life insurance companies under allocated insurance contracts for payment of retirement benefits. These
+excluded funds make up roughly 10 to 15 percent of total pension fund assets.
+NOTE: Some collectively bargained plans cover nonbargaining unit employees under a separate non-negotiated benefit structure.
+SOURCE: Form 5500 series reports filed for plan years beginning in 2000.
+
+
+
+
+                                                                                                  7
+                                                                 Table B1. Distribution of Pension Plans
+                                                                    by number of participants, 2000
+
+                                                        Total Plans                                   Single Employer Plans 1/                         Multiemployer Plans 2/
+ Number of Participants                 Total           Defined      Defined                      Total      Defined      Defined                 Total      Defined     Defined
+                                                         Benefit    Contribution                              Benefit    Contribution                        Benefit    Contribution
+Total                                    735,651            48,773       686,878                  732,654       47,015        685,639               2,997        1,758         1,239
+None or not reported                       49,333              3,617               45,717              49,257            3,564           45,693        76         53             23
+2-9                                      301,170               20,101              281,069         301,124             20,098           281,026        46           3            43
+10-24                                    166,928                5,097              161,831         166,925               5,096          161,829         3           1             2
+25-49                                      91,723               3,162               88,561             91,633            3,162           88,471        90           -            90
+50-99                                      55,304               3,237               52,067             55,228            3,229           52,000        76           8            67
+100-249                                    36,969               4,039               32,930             36,640            3,846           32,794       329        192            136
+250-499                                    14,334               2,773               11,561             13,871            2,503           11,368       463        270            192
+500-999                                      8,369              2,234                6,135              7,820            1,901            5,918       550        333            217
+1,000-2,499                                  6,063              2,147                3,916              5,416            1,749            3,667       647        398            248
+2,500-4,999                                  2,541              1,002                1,539              2,207              791            1,416       334        211            123
+5,000-9,999                                  1,441                615                   826             1,255              493             762        187        123             64
+10,000-19,999                                  798                378                   420              693               291             402        105         86             18
+20,000-49,999                                  480                252                   227              420               203             217         60         50             10
+50,000 or more                                 198                117                    81              165                89              77         33         29              4
+
+1/ Includes single employer plans, plans of controlled groups of corporations, and multiple-employer noncollectively bargained plans.
+2/ Includes multiemployer plans and multiple-employer collectively bargained plans.
+NOTE: Excludes plans covering only one participant.
+SOURCE: Form 5500 filings for plan years beginning in 2000.
+
+
+
+
+                                                                                                   8
+                                                                Table B2. Distribution of Pension Plans
+                                                                      by amount of assets, 2000
+
+                                                       Total Plans                                   Single Employer Plans 1/                         Multiemployer Plans 2/
+                                                       Defined      Defined                                 Defined      Defined                            Defined     Defined
+     Amount of Assets                   Total           Benefit    Contribution                  Total       Benefit    Contribution             Total      Benefit    Contribution
+
+Total                                    735,651            48,773              686,878           732,654             47,015           685,639     2,997       1,758          1,239
+None or not reported                      55,414             4,421               50,993            55,346              4,370            50,976        68          51             17
+$1-24K                                    36,435               495               35,939            36,430                494            35,935         5           1              4
+25-49K                                    39,147               835               38,312            39,118                831            38,288        29           4             25
+50-99K                                    64,627             2,356               62,271            64,591              2,352            62,239        36           4             32
+100-249K                                 127,744             6,781              120,963           127,708              6,775           120,934        36           6             30
+250-499k                                 120,641             6,730              113,910           120,568              6,726           113,842        73           4             68
+500-999K                                 110,181             6,931              103,250           110,109              6,916           103,193        73          16             57
+1-2.49M                                  101,012             7,133               93,879           100,797              7,071            93,726       215          62            153
+2.5-4.9M                                  36,959             3,416               33,543            36,732              3,318            33,414       227          98            129
+5-9.9M                                    19,320             2,439               16,881            18,974              2,278            16,696       346         161            185
+10-24.9M                                  12,180             2,564                9,616            11,666              2,254             9,412       515         310            205
+25-49.9M                                   4,743             1,567                3,176             4,329              1,295             3,034       414         271            143
+50-74.9M                                   1,968               714                1,254             1,745                553             1,193       222         161             61
+75-99.9M                                   1,074               441                  633               921                321               600       153         120             34
+100-149.9M                                 1,109               461                  648               954                340               613       155         121             35
+150-<199.9M                                  622               266                  356               535                201               335        87          66             21
+200-249.9M                                   394               171                  224               332                121               212        62          50             12
+250-499.9M                                   924               442                  482               782                317               465       142         125             17
+500-999.9M                                   539               264                  275               479                211               267        60          53              7
+1-2.49B                                      402               221                  181               341                165               176        61          56              5
+2.5B or more                                 216               125                   91               198                107                91        18          18              -
+
+1/ Includes single employer plans, plans of controlled groups of corporations and multiple-employer noncollectively bargained plans.
+2/ Includes multiemployer plans and multiple-employer collectively bargained plans.
+NOTE: Excludes plans covering only one participant. The letters K, M, and B denote thousands, millions, and billions, respectively.
+Source: Form 5500 series reports filed with the U.S. Department of Labor for plan years beginning in 2000.
+
+
+
+
+                                                                                                    9
+                                                                Table B3. Distribution of Pension Plans
+                                                                          by industry, 2000
+
+                                                        Total Plans                                   Single Employer Plans 1/                                  Multiemployer plans 2/
+                                                        Defined      Defined                                 Defined      Defined                                     Defined      Defined
+           Industry                        Total         Benefit    Contribution                  Total       Benefit    Contribution                      Total      Benefit    Contribution
+Total                                      735,651         48,773        686,878                  732,654       47,015        685,639                        2,997        1,758         1,239
+Agriculture                                   9,782            665         9,117                     9,771         654          9,116                            11          10               1
+Mining                                        3,101            355         2,745                     3,089         346          2,743                            11           9               2
+Construction                                57,668           3,177        54,490                   56,231        2,466         53,765                        1,437          711            726
+Manufacturing                               92,663         10,480         82,184                   92,381       10,270         82,112                          282          210             72
+Transportation                              13,403             868        12,536                   13,252          756         12,496                          152          112             40
+Communications and
+information                                 13,264             1,022              12,242            13,216                987               12,229                48               35          12
+Utilities                                    2,495               402               2,093             2,471                401                2,070                25                1          23
+Wholesale trade                             48,743             2,677              46,067            48,684              2,633               46,051                59               44          15
+Retail trade                                53,300             2,395              50,905            53,188              2,316               50,873               112               79          33
+Finance, insurance &
+real estate                                 65,541            6,804               58,736            65,064              6,505              58,559                477              299         177
+Services                                   360,163           18,371              341,792           359,902             18,181             341,721                262              190          71
+Misc. organizations 3/                      12,890            1,479               11,411            12,773              1,425              11,348                116               54          62
+Industry not reported                        2,638               78                2,560             2,632                 76               2,556                  6                2           4
+
+1/ Includes single employer plans, plans of controlled groups of corporations and multiple-employer noncollectively bargained plans.
+2/ Includes multiemployer plans and multiple-employer collectively bargained plans.
+3/ Religious, grantmaking, civic, professional, labor, and similar organizations.
+Note: Industry classifications are now based on principal business activity code used in the North American Industry Classification System. Therefore, the results in this table may not be
+directly comparable with previous years.
+NOTE: Excludes plans covering only one participant.
+Source: Form 5500 series reports filed with the U.S. Department of Labor for plan years beginning in 2000.
+
+
+
+
+                                                                                                    10
+                                                                       Table C1. Distribution of Assets
+                                                                       by number of participants, 2000
+                                                                                       (amounts in millions)
+                                                       Total Plans                                    Single Employer Plans 1/                             Multiemployer Plans 2/
+ Number of Participants                 Total          Defined      Defined                       Total      Defined      Defined                     Total      Defined     Defined
+                                                        Benefit    Contribution                               Benefit    Contribution                            Benefit    Contribution
+
+Total                                $4,202,672 $1,986,177                  $2,216,495 $3,791,754 $1,620,811                            $2,170,942   $410,918   $365,365         $45,553
+None or not reported                     11,862      4,381                       7,482     11,446      4,219                                 7,226        416        161             255
+2-9                                     129,665     10,494                     119,172    129,650     10,489                               119,161         16          5              11
+10-24                                   115,747      3,820                     111,927    115,712      3,793                               111,919         34         26               8
+25-49                                    95,223      3,904                      91,319     95,064      3,904                                91,160        159          -             159
+50-99                                   101,585      6,457                      95,128    101,480      6,442                                95,038        105         16              90
+100-249                                 149,517     18,954                     130,563    147,753     17,725                               130,028      1,764      1,229             535
+250-499                                 132,562     28,481                     104,081    126,813     24,229                               102,584      5,748      4,252           1,497
+500-999                                 161,923     49,259                     112,663    147,494     38,034                               109,460     14,428     11,225           3,203
+1,000-2,499                             303,743    121,086                     182,656    264,434     90,717                               173,717     39,309     30,369           8,939
+2,500-4,999                             297,889    128,456                     169,433    254,004     94,950                               159,054     43,885     33,506          10,379
+5,000-9,999                             390,613    183,279                     207,335    344,595    144,725                               199,870     46,018     38,553           7,465
+10,000-19,999                           494,667    245,482                     249,185    438,855    193,355                               245,500     55,811     52,126           3,685
+20,000-49,999                           642,803    337,351                     305,452    578,295    279,474                               298,821     64,508     57,877           6,631
+50,000 or more                        1,174,874    844,774                     330,100 1,036,158     708,755                               327,403    138,716    136,019           2,697
+
+1/ Includes single employer plans, plans of controlled groups of corporations, and multiple-employer noncollectively bargained plans.
+2/ Includes multiemployer plans and multiple-employer collectively bargained plans.
+- Missing data.
+SOURCE: Form 5500 series reports filed with the U.S. Department of Labor for plan years beginning in 2000.
+
+
+
+
+                                                                                                    11
+                                                                       Table C2. Distribution of Assets
+                                                                             by asset size, 2000
+                                                                                       (amounts in millions)
+                                               Total Plans                   Single Employer Plans 1/                Multiemployer plans 2/
+                                               Defined      Defined                 Defined      Defined                   Defined      Defined
+    Amount of Assets                  Total     Benefit    Contribution  Total       Benefit    Contribution    Total      Benefit    Contribution
+         Total                     $4,202,672 $1,986,177 $2,216,495 $3,791,754 $1,620,811 $2,170,942          $410,918 $365,365        $45,553
+$1-24K                                     474           6           468      474             6           468          3/          3/             3/
+25-49K                                   1,454          31        1,424     1,453            30        1,423            1          3/              1
+50-99K                                   4,771        180         4,591     4,769         180          4,589            2          3/              2
+100-249K                                21,319      1,160        20,159    21,313       1,159         20,154            6           1              5
+250-499K                                43,725      2,408        41,317    43,698       2,406         41,292          27            2            25
+500-999K                                78,547      5,056        73,491    78,493       5,045         73,448          54          11             43
+1-2.49M                                156,979     11,173       145,807   156,602      11,063        145,538        378          109            268
+2.5-4.9M                               129,216     12,348       116,868   128,377      11,990        116,386        840          358            481
+5-9.9M                                 134,377     17,503       116,874   131,921      16,343        115,578      2,456        1,160         1,296
+10-24.9M                               188,378     41,178       147,200   179,847      35,947        143,900      8,531        5,230         3,301
+25-49.9M                               166,572     55,841       110,731   151,842      46,180        105,662     14,731        9,661         5,069
+50-74.9M                               120,107     43,795        76,312   106,486      33,859         72,628     13,621        9,936         3,685
+75-99.9M                                92,573     38,158        54,415    79,256      27,678         51,578     13,317      10,480          2,837
+100-149.9M                             136,109     56,796        79,314   116,856      41,823         75,033     19,253      14,973          4,280
+150-199.9M                             108,095     46,285        61,810    92,827      34,755         58,072     15,268      11,530          3,738
+200-249.9M                              88,391     38,477        49,914    74,465      27,324         47,142     13,926      11,153          2,773
+250-499.9M                             317,917    152,949       164,967   268,464     109,364        159,100     49,453      43,585          5,867
+500-999.9M                             376,298    185,145       191,154   335,466     149,266        186,201     40,832      35,879          4,953
+1-2.49B                                618,597    333,851       284,747   531,499     253,681        277,818     87,098      80,169          6,929
+2.5B or more                         1,418,771    943,838       474,933 1,287,645     812,711        474,933    131,126     131,126                -
+
+1/ Includes single employer plans, plans of controlled groups of corporations and multiple-employer noncollectively bargained plans.
+2/ Includes multiemployer plans and multiple-employer collectively bargained plans.
+3/ Less than $500,000.
+NOTE: Excludes plans covering only one participant. The letters K, M, and B denote thousands, millions, and billions, respectively.
+Source: Form 5500 series reports filed with the U.S. Department of Labor for plan years beginning in 2000.
+
+
+
+
+                                                                                                   12
+                                                                       Table C3. Distribution of Assets
+                                                                              by industry, 2000
+                                                                                       (amounts in millions)
+                                                       Total Plans                   Single Employer Plans 1/                                                  Multiemployer plans 2/
+                                                        Defined     Defined                 Defined      Defined                                                     Defined      Defined
+          Industry                     Total            Benefit    Contribution  Total       Benefit    Contribution                                      Total      Benefit    Contribution
+Total                                $4,202,672        $1,986,177   $2,216,495 $3,791,754 $1,620,811     $2,170,942                                      $410,918 $365,365            $45,553
+Agriculture                              13,373             4,257         9,116    12,146       3,269          8,876                                        1,228         988             240
+Mining                                   37,398            13,845        23,552    36,969      13,427         23,543                                          428         419                9
+Construction                            220,747           127,799        92,949    66,596       4,702         61,894                                      154,151     123,097          31,054
+Manufacturing                         1,682,689           895,931       786,759 1,650,734     864,477        786,257                                       31,955      31,453             501
+Transportation                          216,056           138,631        77,425   135,686      61,199         74,487                                       80,371      77,432           2,939
+Communications and
+Information                                323,855         198,465               125,390           316,700           191,396              125,305             7,154           7,069             85
+Utilities                                  173,631         110,326                63,305           173,540           110,267               63,272                91              58             33
+Wholesale trade                            119,134          24,397                94,738           114,517            20,032               94,485             4,618           4,364            253
+Retail trade                               174,761          54,611               120,150           147,312            27,774              119,538            27,449          26,837            612
+Finance, insurance &
+real estate                                444,516         195,209               249,307           378,352           136,666              241,687            66,164          58,543           7,621
+Services                                   757,416         199,062               558,355           725,005           168,489              556,516            32,411          30,572           1,839
+Tax-exempt
+organizations                               37,074           23,446               13,628            32,205             18,929               13,276            4,870            4,517           352
+Industry not reported                        2,022              199                1,823             1,992                185                1,807               29               14            15
+
+1/ Includes single employer plans, plans of controlled groups of corporations and multiple-employer noncollectively bargained plans.
+2/ Includes multiemployer plans and multiple-employer collectively bargained plans.
+Note: Industry classifications are now based on principal business activity code used in the North American Industry Classification System. Therefore, the results in this table may not be
+directly comparable with previous years.
+Source: Form 5500 series reports filed with the U.S. Department of Labor for plan years beginning in 2000.
+
+
+
+
+                                                                                                    13
+       TABLE C4. Balance Sheet of Pension Plans with 100 or More Participants
+                              by type of plan, 2000
+                                           (amounts in millions)
+
+                                                                   Defined       Defined
+           Type of Asset or Liability                Total
+                                                                   Benefit     Contribution
+ASSETS
+Total noninterest-bearing cash                            $4,083     $2,005        $2,079
+Employer contrib. receivable                              27,733      11,898        15,835
+Participant contrib. receivable                            2,099          38         2,061
+Other receivables                                         32,722      25,230         7,493
+Interest-bearing cash                                     64,360      26,382        37,978
+U. S. Government securities                              142,903     121,921        20,982
+Corporate debt instruments: Preferred                     39,429      33,573         5,855
+Corporate debt instruments: All other                     84,093      73,070        11,023
+Preferred stock                                            2,839       1,940           898
+Common stock                                             388,497     314,369        74,128
+Partnership/joint venture interests                       21,024      20,045           978
+Real estate (except employer real prop.)                  10,126       9,675           451
+Loans (other than to participants)                         6,334       5,105         1,228
+Participant loans                                         29,302         385        28,917
+Assets in common/collective trusts                       295,608     183,439       112,169
+Assets in pooled separate accounts                       100,846      34,421        66,425
+                                                                                  (continued...)
+
+
+
+
+                                                    14
+       TABLE C4. Balance Sheet of Pension Plans with 100 or More Participants
+                              by type of plan, 2000
+                                                      (amounts in millions)
+
+                                                                              Defined       Defined
+           Type of Asset or Liability                           Total
+                                                                              Benefit     Contribution
+Assets in master trusts                                         1,326,955       919,159       407,796
+Assets in 103-12 investment entities                               12,912         6,704         6,208
+Assets in registered investment companies                         684,436       103,717       580,719
+Assets in insurance co. general accounts                           84,835        24,265        60,569
+Other general investments                                          64,464        28,888        35,576
+Employer securities                                               300,873         8,687       292,185
+Employer real property                                                425            72           353
+Buildings and other prop. used by plan                                303           277            26
+Other or unspecified assets                                        21,393         1,857        19,535
+TOTAL ASSETS                                                   3,748,590      1,957,122     1,791,468
+LIABILITIES
+Benefit claims payable                                              3,495           967         2,527
+Operating payables                                                 15,031        13,455         1,576
+Acquisition indebtedness                                           14,339         3,521        10,818
+Other liabilities                                                  44,255        27,372        16,883
+TOTAL LIABILITIES                                                 77,120         45,316        31,804
+NET ASSETS                                                     3,671,470      1,911,806     1,759,664
+
+SOURCE: Form 5500 filings for plan years beginning in 2000.
+
+
+
+
+                                                                 15
+                           Table C7. Percentage Distribution of Assets in Defined Benefit Plans
+                                               with 100 or More Participants
+                                          by type of asset and size of plan, 2000
+                                                                                                                    $10.0M-           $250.0M-        $1.0B or
+                   Type of Asset                              Total           $1-0.99M         $1.0M-9.9M
+                                                                                                                     249.9M            999.9M           More
+
+TOTAL ASSETS                                                  100%               100%              100%               100%               100%          100%
+
+Cash                                                               1                  7                 4                 3                   2            1
+Receivables                                                        2                  9                 3                 2                   2            2
+U. S. Government securities                                        6                  2                 6                 8                   7            6
+Corporate debt instruments: Preferred                              2                  1/                1                 2                   2            2
+Corporate debt instruments: All other                              4                  1                 3                 5                   4            3
+Corporate stocks                                                  16                  5                13                21                  19           14
+Real estate (except employer real prop.)                           1/                 1/                1/                 1/                 1/           1
+Loans                                                              1/                 1/                1/                 1/                 1/           1/
+Assets in common/collective trusts                                 9                   5                8                 8                   7           10
+Assets in pooled separate accounts                                 2                   6                9                 3                   1            1
+Assets in master trusts                                           47                  16               17                30                  44           53
+Assets in 103-12 investment entities                               1/                 1/                1/                 1/                 1            1/
+Assets in registered investment companies                           5                 22               21                13                   6            3
+Assets in ins. co. general account                                  1                  8                7                 2                   1            1
+Employer securities                                                1/                 1/                1/                 1/                 1/           1
+Other or unspecified investments                                    3                 17                 7                 2                  3            3
+
+1/ Less than 1 percent.
+NOTES: The letters M and B in the column headings denote millions and billions respectively. Percentage distributions may not add up to 100 percent
+because of rounding.
+SOURCE: Form 5500 filings for plan years beginning in 2000.
+
+
+
+
+                                                                                 16
+                       Table C8. Percentage Distribution of Assets in Defined Contribution Plans
+                                             with 100 or More Participants
+                                        by type of asset and size of plan, 2000
+
+                                                                                                                    $10.0M-           $250.0M-        $1.0B or
+                   Type of Asset                              Total           $1-0.99M         $1.0M-9.9M
+                                                                                                                     249.9M            999.9M           More
+
+TOTAL ASSETS                                                  100%               100%              100%              100%               100%           100%
+
+Cash                                                                2                   4               4                  3                  2            1
+Receivables                                                         1                   3               2                  2                  2            1
+U. S. Government securities                                         1                   1/              1                  2                  1            1
+Corporate debt instruments: Preferred                              1/                   1/              1/                1/                 1/            1/
+Corporate debt instruments: All other                               1                   1/              1                  1                  1            1/
+Corporate stocks                                                    4                   2               4                  5                  4            4
+Real estate (except employer real prop.)                           1/                   1/              1/                1/                 1/            1/
+Loans                                                              2                 2                  2                  2                 2             1
+Assets in common/collective trusts                                 6                 3                  5                  8                 7             5
+Assets in pooled separate accounts                                 4                23                 17                  6                 1             1
+Assets in master trusts                                           23                 1                  1                  9                24            36
+Assets in 103-12 investment entities                               1/                1                  1/                1/                 1/            1
+Assets in registered investment companies                         32                30                 44                48                 36            17
+Assets in ins. co. general account                                 3                 4                  5                 3                  4             3
+Employer securities                                               16                 3                  4                 8                 14            26
+Other or unspecified investments                                   3                24                 10                 2                  2             3
+
+1/ Less than 1 percent.
+NOTES: The letters M and B in the column headings denote millions and billions respectively. Percentage distributions may not add up to 100 percent
+because of rounding.
+SOURCE: Form 5500 filings for plan years beginning in 2000.
+
+
+
+
+                                                                                   17
+      Table C9. Income Statement of Pension Plans With 100 or More Participants
+                               by type of plan, 2000
+                                                   (amounts in millions)
+
+                                                                           Defined        Defined
+             Income and Expenses                               Total
+                                                                           Benefit      Contribution
+INCOME
+Contributions received or receivable from:
+  Employers                                                     $84,590      $30,189        $54,401
+  Participants                                                   92,249          635         91,614
+  Others (including rollovers)                                   10,112          205          9,907
+  Noncash contributions                                             828           10            817
+Total contributions                                             187,779       31,039        156,739
+Interest earnings:
+  Interest-bearing cash                                           7,173        2,877          4,296
+  U. S. Government securities                                     7,607        6,434          1,173
+  Corporate debt instruments                                      7,611        6,617            994
+  Non-participant loans                                             333          220            113
+  Participant loans                                               1,934           27          1,907
+  Other or unspecified interest                                  10,351        3,833          6,518
+Total interest earnings                                          35,010       20,009         15,001
+Dividends:
+  Peferred stock                                                  1,349          329          1,020
+  Common stock                                                   17,616        5,475         12,141
+Total dividend income                                            18,965        5,804         13,161
+Rents                                                               432          387             45
+Net gain (loss) on sale of assets                                22,270       11,014         11,256
+Unrealized appreciation:
+  Unrealized appreciation of real estate                          -5,388         -539         -4,849
+  Other unrealized appreciation                                  -49,726      -28,117        -21,609
+Total unrealized appreciation                                    -55,114      -28,656        -26,458
+Net invest. gain from common/col. trusts                         -13,727       -9,940         -3,787
+Net invest. gain from pooled sep. accounts                        -6,674          234         -6,908
+Net invest. gain from master trusts                              -23,813       -3,898        -19,916
+Net invest. gain from 103-12 investment entities                  -1,807         -787         -1,020
+Net invest. gain from reg. investment companies                  -39,878       -1,975        -37,903
+Other or unspecified income                                       -1,910         -113         -1,797
+TOTAL INCOME                                                   121,533        23,118         98,413
+                                                                                           (continued...)
+
+                                                          18
+      Table C9. Income Statement of Pension Plans With 100 or More Participants
+                               by type of plan, 2000
+                                                      (amounts in millions)
+
+                                                                              Defined       Defined
+             Income and Expenses                                Total
+                                                                              Benefit     Contribution
+EXPENSES
+
+Benefit payments and payments to provide
+  benefits:
+  Direct benefit payments                                       $279,728       $116,498      $163,230
+  Payments to insurance carriers for benefits                      2,544          2,248           295
+  Other or unspecified benefits                                    3,778          1,810         1,968
+Total benefit payments                                           286,049        120,556       165,493
+Interest expense                                                   1,772             15         1,756
+Corrective distributions                                             196              3           193
+Deemed distrib. of partic. loans                                     395              3           393
+Administrative expenses:
+  Professional fees                                                1,357          1,097           260
+  Contract administrator fees                                        895            634           261
+  Investment advisory and management fees                          4,128          3,469           659
+  Other or unspecifed admin. expenses                              2,774          2,055           719
+Total administrative expenses                                      9,154          7,254         1,900
+Unspecified expenses                                                  84              4            80
+TOTAL EXPENSES                                                   297,651        127,835       169,815
+
+NET INCOME                                                      -176,118       -104,717       -71,402
+
+1/ Less than $500,000.
+SOURCE: Form 5500 filings for plan years beginning in 2000.
+
+
+
+
+                                                               19
+           Table D1. Balance Sheet of Defined Contribution Plans with 100 or More Participants
+                                          by type of plan, 2000
+                                                              (amounts in millions)
+
+                                                  Total           Profit                                               Other
+                                                                                               Target     Money
+                                                 Defined       Sharing and      Stock Bonus                           Defined
+       Type of Asset or Liability                                                              Benefit   Purchase
+                                               Contribution   Thrift Savings       Plans                            Contribution
+                                                                                                Plans     Plans
+                                                  Plans           Plans                                                Plans
+
+Total noninterest-bearing cash                       $2,079         $1,722              $141       $7        $155         $54
+Employer contrib. receivable                         15,835         13,228               663       44       1,703         198
+Participant contrib. receivable                       2,061          2,024                12        1          18           7
+Other receivables                                     7,493          5,830               171        4       1,143         344
+Interest-bearing cash                                37,978         31,836             1,217       58       4,130         738
+U. S. Government securities                          20,982         12,072                65      127       7,758         961
+Corporate debt instruments: Preferred                 5,855          3,779                 7       20       1,898         150
+Corporate debt instruments: All other                11,023          7,678               120       55       2,891         280
+Preferred stock                                         898            719                24        1          75          79
+Common stock                                         74,128         55,231             2,563      360      13,399       2,575
+Partnership/joint venture interests                     978            804                 1       31         132          10
+Real estate (except employer real prop.)                451            313                 5        1/        116          16
+Loans (other than to participants)                    1,228          1,103                 4        1/        110          11
+Participant loans                                    28,917         28,041               456        7         383          30
+Assets in common/collective trusts                  112,169        104,935               481       39       6,022         693
+Assets in pooled separate accounts                   66,425         62,082               182       32       3,674         453
+Assets in master trusts                             407,796        393,511               985    1,183       8,505       3,611
+Assets in 103-12 investment entities                  6,208          5,738                 1        1/        457          13
+Assets in registered investment comp.               580,719        541,384             8,560      512      27,366       2,897
+Assets in ins. co. general account                   60,569         53,645               452       43       6,262         168
+Other general investments                            35,576         31,645               700       30       2,796         404
+Employer securities                                 292,185        228,547            49,682       95       3,794      10,067
+Employer real property                                  353            348                 0         0          3           3
+Buildings and other prop. used by plan                   26              2                1/        1/         22           1
+Other or unspecified assets                          19,535         17,661               101       38       1,671          64
+TOTAL ASSETS                                      1,791,468      1,603,878            66,591    2,686      94,486      23,826
+Benefit claims payable                                2,527          1,941               254       87         159          85
+Operating payables                                    1,576          1,081               285        1         169          41
+Acquisition indebtedness                             10,818          5,976             3,479        0          64       1,299
+Other liabilities                                    16,883         10,574             4,303        2       1,146         857
+TOTAL LIABILITIES                                    31,804         19,572             8,321       90       1,539       2,283
+NET ASSETS                                        1,759,664      1,584,307            58,270    2,597      92,947      21,543
+
+1/ Less than $500,000.
+SOURCE: Form 5500 filings for plan years beginning in 2000.        20
+             Table D2. Income Statement of Defined Contribution Plans with 100 or More Participants
+                                             by type of plan, 2000
+                                                               (amounts in millions)
+
+                                                   Total             Profit                                                      Other
+                                                                                                                    Money
+                                                  Defined         Sharing and          Stock Bonus    Target                    Defined
+            Income and Expenses                                                                                    Purchase
+                                                Contribution     Thrift Savings           Plans    Benefit Plans              Contribution
+                                                                                                                    Plans
+                                                   Plans             Plans                                                       Plans
+INCOME
+Contributions received or receivable from:
+  Employers                                       $54,401             $44,021             $2,304         $102       $6,931       $1,043
+  Participants                                     91,614              89,877              1,213            5          335          183
+  Others (including rollovers)                      9,907               9,704                 97            1           88           17
+  Noncash contributions                               817                 648                156            0            2           11
+Total contributions                               156,739             144,250              3,770          108        7,356        1,254
+Interest earnings:
+  Interest-bearing cash                             4,296               3,901                51            3           295           46
+  U. S. Government securities                       1,173                 603                 2            6           505           56
+  Corporate debt instruments                          994                 670                 2            5           291           25
+  Non-participant loans                               113                 103                 3            0             6            2
+  Participant loans                                 1,907               1,824                55            1/           26            2
+  Other or unspecified interest                     6,518               5,939                93            6           446           33
+Total interest earnings                            15,001              13,041               207           21         1,569          165
+Dividends:
+  Peferred stock                                    1,020                 733                243           1/          11            33
+  Common stock                                     12,141              10,411              1,045          11          499           175
+Total dividend income                              13,161              11,144              1,288          11          510           208
+Rents                                                  45                  40                 1/           0            3             1
+Net gain (loss) on sale of assets                  11,256              10,408                87           18          257           486
+Unrealized appreciation:
+  Unrealized appreciation of real estate            -4,849             -4,153               -400           -1         -483          189
+  Other unrealized appreciation                    -21,609            -19,983             -2,511          -44          361          569
+Total unrealized appreciation                      -26,458            -24,136             -2,911          -45         -122          757
+Net invest. gain from common/col. trusts            -3,787             -3,811                 29           -2          -20           17
+Net invest. gain from pooled sep. accounts          -6,908             -6,566                -23           -2         -302          -15
+Net invest. gain from master trusts                -19,916            -19,742                 13          -73         -263          148
+Net invest. gain from 103-12 invest. entities       -1,020               -935                  1           1/          -82           -4
+Net invest. gain from reg. invest. companies       -37,903            -35,897               -468          -20        -1430          -88
+Other or unspecified income                         -1,797             -1,979                202            1          -65           43
+TOTAL INCOME                                        98,413             85,817              2,195           17        7,411        2,972
+                                                                                                                              (continued...)
+
+                                                                      21
+              Table D2. Income Statement of Defined Contribution Plans with 100 or More Participants
+                                              by type of plan, 2000
+                                                                           (amounts in millions)
+
+                                                                 Total              Profit                                                   Other
+                                                                                                                                Money
+                                                                Defined          Sharing and       Stock Bonus    Target                    Defined
+               Income and Expenses                                                                                             Purchase
+                                                              Contribution      Thrift Savings        Plans    Benefit Plans              Contribution
+                                                                                                                                Plans
+                                                                 Plans              Plans                                                    Plans
+EXPENSES
+Benefit payments and payments to provide
+benefits:
+  Direct benefit payments                                      $163,230             $150,528          $5,154         $184       $6,036       $1,329
+  Payments to insurance carriers for benefits                       295                  167               1           1/          112           15
+  Other or unspecified benefits                                   1,968                1,657              99            2          151           60
+Total benefit payments                                          165,493              152,352           5,253          186        6,298        1,404
+Corrective distributions                                            193                  191              1/            0            2            1/
+Deemed distrib. of partic. loans                                    393                  382              1/            0           10            1/
+Interest expense                                                  1,756                  932            672             0            7          144
+Administrative expenses:
+  Professional fees                                                 260                  205               5           1/           38           11
+  Contract administrator fees                                       261                  225               4           1/           28            4
+  Investment advisory and management fees                           659                  490               8           4           140           17
+  Other or unspecifed admin. expenses                               719                  551              53           1            97           17
+Total administrative expenses                                     1,900                1,471              71           6           303           50
+Unpecified expenses                                                  80                   51               4           1/           10           15
+TOTAL EXPENSES                                                  169,815              155,379           6,000          193        6,631        1,613
+
+NET INCOME                                                       -71,402              -69,562         -3,805         -176         780         1,359
+
+1/ Less than $500,000.
+SOURCE: Form 5500 filings for plan years beginning in 2000.
+
+
+
+
+                                                                                      22
+                              Table D3. Number of 401(k) Type Plans, Participants, Active Participants,
+                                               Assets, Contributions, and Benefits
+                                                                                     by type of plan, 2000
+
+                                                                        Total            Active                                 Total Assets            Total
+                                                   Number of Plans   Participants      Participants                              (millions)         Contributions      Total Benefits
+               Type of Plan                             1/         (thousands) 2/    (thousands) 3/                                                  (millions) 4/      (millions) 5/
+TOTAL                                                     348,053            48,348            39,847                                  $1,724,549          $169,238           $172,211
+Profit sharing and thrift-savings                         346,041            47,520            39,169                                   1,680,814           166,394            168,494
+Stock bonus                                                    227              483               391                                      31,231              2,077              2,810
+Target benefit                                                   2                3                 3                                          25                  4                  3
+Money purchase                                               1,751              340               283                                      12,455                759                900
+Annuity-403(b)(1)                                               25                1                 1                                           9                  2                  3
+Custodial account-403(b)(7)                                      3                */                */                                         14                  1                  1
+IRAs or annuities (Code 408)                                     3                */                */                                          1                 */                 */
+
+1/ Excludes plans covering only one participant.
+2/ Includes active, retired and separated vested participants not yet in pay status. The number of participants also includes double
+counting of workers in more than one plan.
+3/ Active participants include any workers currently in employment covered by a plan and who are earning or retaining credited service
+under a plan. Active participants also include nonvested former employees who have not yet incurred a break in service.
+4/ Includes both employer and employee contributions.
+5/ Amounts shown include both benefits paid directly from trust funds and premium payments made by plans to insurance carriers.
+Amounts exclude benefits made directly by insurance carriers.
+*/ Less than $500,000, or 500, in the case of participants.
+SOURCE: Form 5500 series reports filed with the U.S. Department of Labor for plan years beginning in 2000.
+
+
+
+
+                                                                                          23
+
