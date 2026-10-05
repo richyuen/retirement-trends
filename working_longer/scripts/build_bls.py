@@ -21,7 +21,8 @@ RAW = os.path.join(ROOT, "raw")
 OUT = os.path.join(ROOT, "output")
 SUBSET = os.path.join(RAW, "ln_subset.tsv")
 ALLDATA_URL = "https://download.bls.gov/pub/time.series/ln/ln.data.1.AllData"
-UA = "Mozilla/5.0 (research; richyuen@gmail.com)"
+CONTACT = os.environ.get("BLS_CONTACT_EMAIL", "")  # BLS asks for a contact email; set it locally
+UA = f"Mozilla/5.0 (research; {CONTACT})"
 
 # Levels (thousands): population (00), labor force (10), employed (20); unadjusted, annual average = period M13.
 # key: (measure, band, sex) -> series_id
@@ -72,7 +73,7 @@ SEXNAME = {"0": "both", "1": "men", "2": "women"}
 def refresh_subset():
     tmp = "/tmp/ln.data.1.AllData"
     if not os.path.exists(tmp):
-        subprocess.run(["curl", "-sS", "-A", UA, "-H", "From: richyuen@gmail.com", "-o", tmp, ALLDATA_URL], check=True)
+        subprocess.run(["curl", "-sS", "-A", UA, "-o", tmp, ALLDATA_URL], check=True)
     n = 0
     with open(tmp) as f, open(SUBSET, "w") as g:
         g.write(f.readline())

@@ -1,0 +1,492 @@
+                                                                                             RETIREMENT
+                                                                                             RESEARCH
+February 2024 Number 24-5
+
+
+
+
+THE NATIONAL RETIREMENT RISK INDEX:
+AN UPDATE FROM THE 2022 SCF
+By Yimeng Yin, Anqi Chen, and Alicia H. Munnell*
+
+
+
+Introduction
+The release of the Federal Reserve’s 2022 Survey of                The discussion proceeds as follows. The first sec-
+Consumer Finances offers an opportunity to reassess            tion describes the nuts and bolts of the NRRI. The
+Americans’ retirement preparedness as measured                 second section updates the NRRI using 2022 SCF
+by the National Retirement Risk Index (NRRI). The              data and shows that the share of households at risk
+NRRI estimates the share of American households                dropped from 47 percent to 39 percent, the lowest
+that are at risk of being unable to maintain their pre-        level since we started the Index in 2004, largely due
+retirement standard of living in retirement.                   to rising home values. The third section relates the
+    The NRRI was originally constructed using the              various reasons for the decline to relevant subgroups.
+Federal Reserve’s 2004 Survey of Consumer Finances             The fourth assesses the implications of the big drop
+(SCF) and has been updated every three years with              in the NRRI for the future. The final section con-
+the release of this triennial survey. Since the last           cludes that, even with the immediate impact of the
+SCF was conducted in 2019, the nation experienced a            strong housing market, retirement readiness remains
+global pandemic and economic disruption, and 2022              a major challenge for many of today’s workers.
+was a very bad year for stock and bond returns. These
+factors would have reduced households’ retirement
+preparedness. At the same time, the government                 Nuts and Bolts of the NRRI
+provided unprecedented fiscal support, employment
+remained strong, home values rose substantially, and           Constructing the NRRI involves three steps: 1) pro-
+the stock market – even with the drop in 2022 – ended          jecting a replacement rate – retirement income as a
+up significantly higher than in 2019. The 2022 survey          share of pre-retirement income – for a nationally rep-
+allows us to see how these disparate factors have af-          resentative sample of U.S. households; 2) constructing
+fected Americans’ readiness for retirement.                    a target replacement rate consistent with maintaining
+
+
+
+* Yimeng Yin is a research economist at the Center for Retirement Research at Boston College (CRR). Anqi Chen is a
+senior research economist and the assistant director of savings research at the CRR. Alicia H. Munnell is director of the
+CRR and the Peter F. Drucker Professor of Management Sciences at Boston College’s Carroll School of Management. The
+CRR gratefully acknowledges First Eagle Investments for its sponsorship of the National Retirement Risk Index and the
+Anna-Maria & Stephen Kellen Foundation for support of this brief.
+2                                                                                       Center for Retirement Research
+
+
+a pre-retirement standard of living in retirement; and               wealth-to-income ratios in 2007, suggesting strong
+3) comparing the projected and target replacement                    improvements in the percentage of households at risk
+rates to find the percentage of households “at risk.”1               between 2019 and 2022.
+                                                                         The NRRI calculations assume that households
+Projecting Household Replacement Rates                               convert all their assets, including financial assets,
+                                                                     401(k)/ IRA balances, and proceeds from a reverse
+The exercise starts with projecting retirement income                mortgage, into a stream of income by purchasing an
+for households at three retirement ages – 62 for                     inflation-indexed annuity.3
+low income, 66 for middle income, and 67 for high                        Sources of retirement income that are not de-
+income.2 Retirement income is defined broadly to                     rived from reported wealth in the SCF are estimated
+include income from Social Security and defined ben-                 directly. Specifically, Social Security benefits are
+efit (DB) plans; income from financial assets in both                calculated based on estimated earnings histories for
+defined contribution (DC) plans and saved directly;                  each member of the household, indexed to national
+and income from housing.                                             average wage growth. DB pension income is based
+    The values for financial and housing assets at                   on the amount reported by survey respondents.
+retirement are calculated from the ratio of wealth to                    The remaining step is to calculate pre-retirement
+income by age from the 1983-2022 SCFs. As shown                      income at the three retirement ages. For homeown-
+in Figure 1, the aggregate wealth-to-income by age                   ers, this measure includes earnings (again, indexed to
+has been stable over time, in the sense that the lines               average wage growth) and imputed rent from hous-
+rested roughly on top of each other. Similar stabil-                 ing. Average pre-retirement income then serves as
+ity holds with regard to the various components of                   the denominator for each household’s replacement
+wealth. Using the stable relationship between each                   rate. This measure excludes income from assets.
+component and income, the analysis estimates DC
+assets, non-DC financial assets, and housing equity                  Estimating Target Replacement Rates
+separately, at various retirement ages.
+    The aggregate wealth-to-income ratios also provide               Determining the estimated share of the population
+some hint of the NRRI for 2022. Historically, wealth-                that is at risk requires comparing projected replace-
+to-income lines from each survey have been bracketed                 ment rates with a benchmark rate. A commonly used
+by 2007 values on the high side and 2013 values on                   benchmark is the replacement rate needed to allow
+the low side. The 2022 line (red) looks similar to                   households to maintain their pre-retirement standard
+                                                                     of living in retirement. People typically need less than
+                                                                     their full pre-retirement income to maintain this stan-
+Figure 1. Ratio of Wealth-to-Income by Age from                      dard once they stop working since they generally pay
+the Survey of Consumer Finances, 1983-2022                           less in taxes, no longer need to save for retirement,
+                                                                     and often have paid off their mortgage. Thus, a great-
+6
+            1983                                                     er share of their income is available for spending.4
+            1986
+            1989                                                     The Index estimates the target replacement rates for
+            1992                                                     different types of households using a consumption-
+            1995
+            1998                                                     smoothing model, which is based on the assumption
+4
+            2001                                                     that households want the same level of consumption
+            2004                                                     in retirement as they had before they retired.
+            2007
+            2010
+            2013
+2           2016                                                     Calculating the Index
+            2019
+            2022
+                                                                     The final step in creating the NRRI is to compare each
+                                                                     household’s projected replacement rate with the ap-
+0                                                                    propriate target. Households whose projected replace-
+    20-22    26-28   32-34   38-40   44-46   50-52   56-58   62-64   ment rates fall more than 10 percent below their targets
+Source: Authors’ calculations based on U.S. Board of Gov-            are deemed to be at risk of having insufficient income
+ernors of the Federal Reserve System, Survey of Consumer             to maintain their pre-retirement standard of living.
+Finances (1983-2022).                                                The NRRI is simply the percentage of all households
+                                                                     that fall more than 10 percent short of their target.
+Issue in Brief                                                                                                          3
+
+
+The NRRI in 2022                                             Figure 3. Decrease in Percentage “At Risk” from
+                                                             2019 to 2022, by Contributing Component
+The strong ratio of wealth to income shown in Figure 1
+                                                              2%
+suggested that the NRRI would improve in 2022 – that
+is, fewer households would be at risk. And indeed, the
+                                                              0%                     0.5%    Lower reverse mortgage limits
+share of households at risk dropped from 47 percent to
+39 percent – the lowest level since the Index started in
+2004 (see Figure 2).                                          -2%
+                                                                                     -5.1% Housing market increase
+                                                              -4%
+Figure 2. The National Retirement Risk Index,
+2004-2022                                                     -6%                    -1.6% New savings
+60%                                                                                  -1.0% Stock market increase
+                                                              -8%                    -0.2% Annuity rates increase
+                       51%       51%
+                                        48%    47%
+       42%     41%                                           -10%
+                                                      39%
+40%                                                          Note: A residual component (not shown) represents 0.5 per-
+                                                             centage points of the 8-percentage-point drop in the NRRI.
+                                                             Source: Authors’ calculations.
+
+20%
+                                                             Figure 4. Index of Average U.S. Home Prices
+                                                             (Real), January 1990 to August 2023
+ 0%                                                          400
+       2004    2007    2010      2013   2016   2019   2022
+
+Source: Authors’ calculations.
+                                                             300
+
+
+    Figure 3 breaks down the reasons for the big
+reduction in the NRRI. The increase in home prices           200
+leads the list, followed by new savings during the
+pandemic, and stock market gains. Rising interest
+rates had small offsetting effects. The following takes      100
+a closer look at each component.
+    Housing. Between 2019 and 2022, U.S. home
+                                                               0
+prices increased by about 22 percent in real terms,
+                                                                1990 1994 1998 2002 2006 2010 2015 2019 2023
+(see Figure 4). For context, home prices grew by 27
+percent between 2001 and 2004. In the NRRI, home             Sources: S&P Global (2023); and U.S. Bureau of Labor Statis-
+prices have a significant impact because households          tics (2023).
+are assumed to access their home equity at retirement
+by taking out a reverse mortgage. The higher the
+home value, the more equity households can extract           pandemic (see Figure 5 on the next page). While the
+through a reverse mortgage.                                  saving rate returned to pre-pandemic levels by 2022,
+    Increased Savings. A unique factor that improved         the build-up in savings in 2020 and 2021 temporar-
+projected retirement finances for many households            ily made many households’ balance sheets much
+was a dramatic spike in personal saving during the           stronger.
+pandemic, fueled by the federal stimulus spending.               Stock Market. Despite the initial dip early in the
+Personal saving rates jumped from roughly 7 percent          pandemic and a pullback in 2022, equity prices
+of disposable income to over 30 percent during the           increased by more than 20 percent after adjusting for
+4                                                                                Center for Retirement Research
+
+
+Figure 5. Personal Saving Rate, January 1990-                Figure 7). Higher interest rates have two opposing
+September 2023                                               effects on households’ financial security in retirement.
+                                                             On one hand, higher rates mean that households get
+40%
+                                                             more income from annuitizing their assets. On the
+                                                             other hand, the high rates reduce the amount house-
+                                                             holds can get from a reverse mortgage. On net, higher
+30%
+                                                             rates increased the percentage of households at risk,
+                                                             but the effect is small.6
+20%
+
+                                                             Figure 7. Real 10-Year Interest Rate, 1990-2023
+10%                                                          6%
+
+
+
+ 0%                                                          4%
+   1990 1994 1998 2002 2006 2010 2015 2019 2023
+Source: U.S. Bureau of Economic Analysis (2023).
+                                                             2%
+
+
+inflation since the end of 2019 (see Figure 6). These
+                                                             0%
+gains, however, have been concentrated in the top
+third of the income distribution, which holds about
+87 percent of all equities.5 This pattern means that
+                                                             -2%
+much of the gains went to households that were                  1990 1994 1998 2002 2006 2010 2015 2019 2023
+already not at risk.
+                                                             Note: Real rates equal the 10-year Treasury bond rate minus
+                                                             anticipated 10-year inflation.
+                                                             Sources: Authors’ calculations based on U.S. Board of
+Figure 6. Dow Jones Wilshire 5000 (Real),                    Governors of the Federal Reserve System (2023) and Federal
+January 1990-October 2023                                    Reserve Bank of Cleveland calculations (2023) based on
+                                                             Haubrich, Pennacchi, and Ritchken (2012).
+60,000
+
+
+
+                                                             Impact of 2022 Changes for
+40,000
+                                                             NRRI Subgroups
+                                                             Given the importance of the various factors reducing
+20,000                                                       the percentage at risk, it is interesting to examine the
+                                                             patterns in the NRRI by homeownership status, re-
+                                                             tirement plan coverage, income level, and age group.
+                                                                 It is not surprising that fewer homeowners are at
+      0                                                      risk relative to renters, but the gap between the two
+       1990 1994 1998 2002 2006 2010 2015 2019 2023          groups increased. The strong growth in the housing
+Sources: Wilshire Associates (2023); and U.S. Bureau of      market reduced the share of homeowners at risk by
+Labor Statistics (2023).                                     10 percentage points, while the share of renters at risk
+                                                             stayed fairly steady (see Table 1 on the next page).
+                                                                 At the same time, the gains in the stock market
+                                                             between 2019 and 2022 reduced the percentage at risk
+    Interest Rates. While real interest rates had been de-
+                                                             of households with a DC plan, while the percentage at
+clining for the last 30 years, during the pandemic they
+                                                             risk with no retirement plan dropped only slightly (see
+spiked to the highest level since the early-2000s (see
+Issue in Brief                                                                                                    5
+
+
+Table 1. Percentage of Households “At Risk” at             reflect some homeownership and perhaps some of
+Retirement Age by Homeownership Status, 2019               the new savings. In terms of age, the oldest group,
+and 2022                                                   who hold most of the assets, saw the largest reduction
+                                                           in the NRRI (see Table 4).
+Homeownership                    2019            2022
+Renter                            74%             72%
+Homeowner                         34              24       Table 4. Percentage of Households “At Risk” at
+                                                           Retirement Age by Age Group, 2019 and 2022
+Note: Renters include a small share of households who
+neither rent nor own (e.g., live with family for free).    Age group                        2019         2022
+Source: Authors’ calculations.                             30-39                            48%           40%
+                                                           40-49                            46            41
+Table 2). The declining NRRI for households with a         50-59                            48            36
+DB plan reflects the fact that an increasing share of      All                              47            39
+these plans are in the public sector, where pensions
+are a major component of total compensation.               Source: Authors’ calculations.
+
+
+
+Table 2. Percentage of Households “At Risk” at             Implications of 2022 NRRI
+Retirement Age by Plan Coverage, 2019 and 2022
+                                                           for the Future
+Retirement plan coverage         2019            2022
+All                               47%             39%      The 2022 NRRI represents the biggest drop in the
+                                                           Index since its creation, largely driven by growth in the
+Defined benefit                   21              13
+                                                           asset markets, and in particular the housing market.
+Defined contribution only         42              35       Current housing prices are about 14 percent above
+None                              68              65       their long-run trend for the last 30 years.7 It would
+                                                           seem reasonable that, over time, housing prices may
+Note: The DB group also includes those a DB and DC plan.   revert to trend. Moreover, it is important to remem-
+Source: Authors’ calculations.                             ber that the NRRI has retirees purchasing a reverse
+                                                           mortgage – something that few actually do. Therefore,
+                                                           the share of households deemed at risk by the NRRI
+    When viewed by income and age, the largest
+                                                           can be viewed as a lower-bound estimate. In fact, a
+gains in relative terms were enjoyed by high-income
+                                                           recent study by researchers at Vanguard found that at
+households (see Table 3), who are mostly likely to own
+                                                           least 70 percent of households would fall short of their
+homes and who hold most of the equities. The gains
+                                                           pre-retirement standard of living in retirement when
+for the low- and middle-income groups most likely
+                                                           housing equity is excluded.8
+                                                               The other major factor contributing to the decline
+                                                           in the NRRI from 2019 to 2022 that may not persist in
+Table 3. Percentage of Households “At Risk” at             the future is “new saving.” Personal saving rates have
+Retirement Age by Income Group, 2019 and 2022              returned to pre-pandemic levels and so has credit
+                                                           card borrowing. Thus, it appears that households are
+Income group                     2019            2022      spending some of the additional savings they built up
+Low                               71%             64%      since 2019.9 Thus, one would not expect new savings
+Middle                            38              29       to be a major contributor to improved retirement
+                                                           readiness over the next three years.
+High                              32              23
+                                                               In contrast to these transitory effects, the positive
+All                               47              39       impact of the stock market may be more permanent.
+                                                           As noted, most households saw a rise in net finan-
+Note: Income groups are for NRRI households ages 30-59.    cial wealth and 401(k)/IRA balances due to higher
+Source: Authors’ calculations.
+6                                                                            Center for Retirement Research
+
+
+stock prices and the one-time accumulation in new         Endnotes
+savings.10 That means, even ignoring growth in the
+housing market, households across the income and          1 Target rates are calculated using a lifecycle model
+age distribution are more prepared for retirement         rather than a household’s actual, but unobserved,
+than they were in 2019. Although always uncertain,        consumption history. For details, see Yin, Chen, and
+stock market gains may well contribute to improving       Munnell (2023a,b).
+the financial security of middle- and high-income
+households in the future.                                 2 The original NRRI assumed that all households
+                                                          stopped working and claimed Social Security benefits
+                                                          at the same age – namely, 65. SCF data on the claim-
+Conclusion                                                ing age for the household head, however, suggest that
+                                                          more reasonable claiming ages for the three income
+Between 2019 and 2022, the NRRI dropped sub-              groups would be 62, 66, and 67 for low, middle, and
+stantially – from 47 to 39 percent. Despite a global      high income respectively. Varying claiming ages by
+pandemic and economic disruption, household               income group incorporates about two-thirds of the
+finances were buoyed by unprecedented fiscal sup-         total earnings of workers 62-75. While allowing for
+port, a strong labor market, and considerable growth      differential claiming across income groups increases
+in the housing and stock markets. The biggest factor      the share of low-income households at risk and de-
+driving the improvement in retirement finances is         creases the share of high-income households at risk,
+growth in the housing market. But most households         it does not change the overall percentage of house-
+do not tap their home equity in retirement and home       holds at risk. For an overview of other methodologi-
+prices may not remain at historically high levels. The    cal improvements to the NRRI, see the Appendix.
+bottom line is that even a conservative estimate shows
+a substantial portion – about two-fifths – of today’s     3 While inflation-indexed annuities are not widely
+households will not have enough retirement income         used by – or even available to – consumers, they pro-
+to maintain their pre-retirement standard of living.      vide a convenient metric for calculating the lifetime
+This analysis continues to confirm that we need to fix    income that can be obtained from a lump sum. And
+our retirement system so that Social Security is finan-   while inflation-indexed annuities provide a smaller
+cially sound and employer plan coverage is universal.     initial benefit than nominal annuities, they protect a
+                                                          household’s purchasing power over time against the
+                                                          erosive effects of inflation.
+
+                                                          4 The level of replacement required for smoothing
+                                                          consumption before and after retirement will vary by
+                                                          type of household. For example, low-income house-
+                                                          holds get most of their retirement income from Social
+                                                          Security and therefore need little saving before retire-
+                                                          ment. The result is that they get little break from no
+                                                          longer having to save in retirement. Similarly, low-
+                                                          income households pay little in taxes, so they receive
+                                                          little in the way of tax saving in retirement. Thus,
+                                                          low-income households need a higher replacement
+                                                          rate in retirement.
+
+                                                          5 This metric includes equities in retirement ac-
+                                                          counts. If only equities in brokerage and individual
+                                                          investment accounts were considered, the number
+                                                          would be much higher.
+Issue in Brief                                                                                                    7
+
+
+6 The NRRI tapers the effect of interest rate fluctua-    13 The growing share of workers covered by DC plans
+tions because it assumes that rates return to their       since the 1980s means that the level and pattern of DC
+long-run average over time. In other words, house-        asset accumulation differs across birth cohorts. To
+holds approaching retirement will experience all or       account for differences in access to DC plans and ac-
+part of the change in interest rates while households     cumulation, the improved method projects DC assets
+under age 50 remain at long-run levels.                   separately for three broad cohorts: 1) workers born be-
+                                                          fore 1945, who were at least halfway into their careers
+7 At the end of 2022, the inflation-adjusted S&P Core-    when coverage under DC plans began to expand in
+Logic Case-Shiller U.S. National Home Price Index         1980; 2) workers born from 1945-1955, who were early
+was at 307.7, 14 percent higher than the predicted in-    in their careers during the transition to DC plans; and
+dex of 270.2 based on a linear trend starting in 1990.    3) workers born after 1955, whose careers mostly fall
+                                                          in the years when DC plans were already prevalent.
+8 Tan et al. (2023).
+                                                          14 Analyses of previous NRRI results suggest that
+9 Although households have spent down some of             the dynamics of financial debt can be of interest on
+the new savings accumulated during the pandemic,          their own. For example, middle-age and middle-
+researchers have found that households across the         income households saw very limited improvements
+income distribution have more savings now than they       in retirement preparedness in 2016 partly due to
+did in 2019 (Wheat and Deadman 2023; Barbiero and         increased non-mortgage borrowing. The new method
+Patki 2023). The extent to which households have          now projects financial assets and non-mortgage debt
+spent down new savings, however, is not clear (Bar-       separately, allowing for more in-depth analysis as well
+biero and Patki 2023).                                    as counterfactual analysis focusing on borrowing.
+
+10 The exception is households ages 40-49, who saw        15 Under the new method, much richer household
+a decrease in their net financial assets and retirement   characteristics are used for calculating target rates, al-
+assets between 2019 and 2022. One explanation could       lowing the projected replacement rates to be matched
+be that these households shifted assets from their fi-    to hundreds of targets, which yields more accurate es-
+nancial and retirement accounts to help buy a house.      timates. Specifically, matching is now based on much
+                                                          more fine-grained income groups and households’
+11 See Yin, Chen, and Munnell (2023a,b) for details       actual DB coverage and homeownership status.
+about all the updates.
+
+12 The previous projection method was based on
+the mean wealth growth paths estimated by a linear
+regression approach. The previous methodology
+imposes restrictions on the resulting projected distri-
+butions, which can partially reduce the bias. How-
+ever, the rise in wealth inequality over time makes it
+increasingly difficult to rely on this approach.
+8                                                                          Center for Retirement Research
+
+
+References
+Barbiero, Omar and Dhiren Patki. 2023. “Have US         U.S. Bureau of Labor Statistics. 2023. Consumer Price
+   Households Depleted All the Excess Savings They         Index. Washington, DC.
+   Accumulated during the Pandemic?” Current
+   Policy Perspectives Paper 97263. Boston, MA:         Wheat, Chris and Erica Deadman. 2023. “Household
+   Federal Reserve Bank of Boston.                        Pulse: Balances through March 2023.” Washing-
+                                                          ton, DC: JPMorgan Chase Institute.
+Federal Reserve Bank of Cleveland. 2023. “Ten-Year
+   Expected Inflation and Real and Inflation Risk       Wilshire Associates. 2023. “Dow Jones Wilshire 5000
+   Premia.” Cleveland, OH.                                 (Full Cap) Price Levels Since Inception.” Santa
+                                                           Monica, CA. Data for Nominal Dollar Levels Avail-
+Haubrich, Joseph, George Pennacchi, and Peter Ritch-       able at: https://wilshire.com/indexes
+  ken. 2012. “Inflation Expectations, Real Rates, and
+  Risk Premia: Evidence from Inflation Swaps.” The      Yin, Yimeng, Anqi Chen, and Alicia H. Munnell.
+  Review of Financial Studies 25(5): 1588-1629.            2023a. “The National Retirement Risk Index with
+                                                           Varying Claiming Ages.” Issue in Brief 23-23.
+S&P Global. 2023. “S&P CoreLogic Case-Shiller U.S.         Chestnut Hill, MA: Center for Retirement Re-
+  National Home Price NSA Index.” New York, NY:            search at Boston College.
+  S&P Dow Jones Indices.
+                                                        Yin, Yimeng, Anqi Chen, and Alicia H. Munnell.
+Tan, Fu, Fiona Greig, Andrew S. Clarke, Kevin Khang,       2023b. “The National Retirement Risk Index: Ver-
+   Kate McKinnon, and Victoria Zhang. 2023. “The           sion 2.0.” Issue in Brief 23-10. Chestnut Hill, MA:
+   Vanguard Retirement Outlook: A National Per-            Center for Retirement Research at Boston College.
+   spective on Retirement Readiness.” Valley Forge,
+   PA: Vanguard.
+
+U.S. Board of Governors of the Federal Reserve
+   System. 2023. “Selected Interest Rates: Historical
+   Data.” Washington, DC.
+
+U.S. Board of Governors of the Federal Reserve
+   System. Survey of Consumer Finances, 1983-2022.
+   Washington, DC.
+
+U.S. Bureau of Economic Analysis. 2023. Personal
+   Saving Rate Data (accessed from FRED database).
+   Washington, DC.
+APPENDIX
+10                                                                             Center for Retirement Research
+
+
+Appendix: Methodological Improvements in NRRI since 2019
+Since its inception, the Center has periodically made modest changes to the NRRI. Recently, however, we
+undertook a major overhaul to incorporate new research findings and methodological advances.11 Although
+the overall modeling framework described above remains unchanged, the updated NRRI includes the following
+major improvements:
+
+     •   Accounts for differential claiming. One of the biggest and most recent updates in the NRRI is allowing
+         households in different income groups to claim Social Security (and stop working) at different ages.
+         Differential claiming better reflects the real-world choices households make around retirement.
+
+     •   Captures growing wealth inequality. Another major update in the NRRI is shifting from average wealth-
+         to-income ratios to median ratios when projecting wealth. Using medians for our projections allows the
+         model to better capture real-world wealth distributions, particularly given growing wealth inequality.12
+
+     •   Better reflects the shift from DB to DC plans. The new method projects DC assets for different cohorts to
+         account for the growing share of younger workers covered by DC plans.13
+
+     •   Models financial debt separately. Financial assets and non-mortgage debt are now projected separately
+         instead of in a single net financial asset variable.14
+
+     •   Refines the target replacement rate model. Projected replacement rates are matched to a wide range of
+         characteristics, allowing for hundreds of targets, instead of just 12 household types in the previous
+         model.15
+RETIREMENT
+RESEARCH
+
+
+About the Center                                                Affiliated Institutions
+The mission of the Center for Retirement Research               The Brookings Institution
+at Boston College is to produce first-class research            Mathematica – Center for Studying Disability Policy
+and educational tools and forge a strong link between           Syracuse University
+the academic community and decision-makers in                   Urban Institute
+the public and private sectors around an issue of
+critical importance to the nation’s future. To achieve
+this mission, the Center conducts a wide variety
+                                                                Contact Information
+                                                                Center for Retirement Research
+of research projects, transmits new findings to a
+                                                                Boston College
+broad audience, trains new scholars, and broadens
+                                                                Haley House
+access to valuable data sources. Since its inception
+                                                                140 Commonwealth Avenue
+in 1998, the Center has established a reputation as
+                                                                Chestnut Hill, MA 02467-3808
+an authoritative source of information on all major
+                                                                Phone: (617) 552-1762
+aspects of the retirement income debate.
+                                                                Fax: (617) 552-0191
+                                                                E-mail: crr@bc.edu
+                                                                Website: https://crr.bc.edu
+
+
+
+
+© 2024, by Trustees of Boston College, Center for Retirement Research. All rights reserved. Short sections of text, not to
+exceed two paragraphs, may be quoted without explicit permission provided that the authors are identified and full credit,
+including copyright notice, is given to Trustees of Boston College, Center for Retirement Research.
+
+The research reported herein was supported by the Anna-Maria & Stephen Kellen Foundation. The findings and conclusions
+expressed are solely those of the authors and do not represent the opinions or policy of the Anna-Maria & Stephen Kellen
+Foundation or the Center for Retirement Research at Boston College.
+

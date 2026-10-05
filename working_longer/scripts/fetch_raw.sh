@@ -3,9 +3,9 @@
 # build_bls.py --refresh downloads it to /tmp and keeps only the 89 series used (raw/ln_subset.tsv).
 set -e
 cd "$(dirname "$0")/../raw"
-UA="Mozilla/5.0 (research; richyuen@gmail.com)"
+UA="Mozilla/5.0 (research; ${BLS_CONTACT_EMAIL:-})"  # BLS asks for a contact email; set it locally
 for f in ln.series ln.ages ln.sexs ln.lfst ln.periodicity ln.footnote ln.wkst ln.txt ln.pcts; do
-  curl -sS -A "$UA" -H "From: richyuen@gmail.com" -o "$f" "https://download.bls.gov/pub/time.series/ln/$f"
+  curl -sS -A "$UA" -o "$f" "https://download.bls.gov/pub/time.series/ln/$f"
 done
 mkdir -p bls_projections crr
 curl -sS -A "$UA" -o bls_projections/table_3-3_lfpr_2005_2015_2025_2035.htm \

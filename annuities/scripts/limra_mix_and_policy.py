@@ -1,0 +1,45 @@
+"""(1) 2025 individual annuity sales mix, from LIMRA's U.S. Individual Annuity Sales Survey as relayed by
+PlanAdviser (E. Rueda, 2026-02-12, https://www.planadviser.com/us-annuities-reach-record-461b-in-sales-in-2025/).
+INDUSTRY figures, read via WebFetch (site blocks direct download); not checked against LIMRA itself.
+(2) Policy timeline for lifetime income, each row with its primary source.
+Run: python3 annuities/scripts/limra_mix_and_policy.py
+"""
+from pathlib import Path
+import pandas as pd
+
+OUT = Path(__file__).resolve().parents[1] / "output"
+total = 461.3
+mix = pd.DataFrame([
+    ("Fixed-rate deferred", "accumulation", 160.6), ("Fixed indexed", "accumulation", 128.2),
+    ("Registered index-linked (RILA)", "accumulation", 79.6), ("Traditional variable", "accumulation", 65.2),
+    ("Single premium immediate (SPIA)", "income", 14.0), ("Deferred income (DIA)", "income", 4.8)],
+    columns=["product", "phase", "sales_2025_bn"])
+mix.loc[len(mix)] = ["Not itemised in article (residual)", "unknown", round(total - mix.sales_2025_bn.sum(), 1)]
+mix["pct_of_total"] = (100 * mix.sales_2025_bn / total).round(1)
+mix.to_csv(OUT / "limra_2025_sales_mix_INDUSTRY.csv", index=False)
+print(mix.to_string(index=False))
+print(f"Income annuities (SPIA+DIA): {100*(14.0+4.8)/total:.1f}% of {total}bn")
+
+pol = pd.DataFrame([
+    ("2014-07-02", "Treasury/IRS final QLAC regulations (79 FR 37633)", "QLAC premium limit lesser of $125,000 or 25% of account balance; RMDs on QLAC deferred to as late as 85",
+     "https://www.govinfo.gov/content/pkg/FR-2014-07-02/html/2014-15524.htm"),
+    ("2019-12-20", "SECURE Act Sec. 109 (IRC 401(a)(38))", "Portability of lifetime income investments when a plan drops the option",
+     "https://www.govinfo.gov/content/pkg/PLAW-116publ94/html/PLAW-116publ94.htm"),
+    ("2019-12-20", "SECURE Act Sec. 203 (ERISA 105(a)(2)(D))", "DC benefit statements must show a lifetime income stream equivalent at least once every 12 months",
+     "https://www.govinfo.gov/content/pkg/PLAW-116publ94/html/PLAW-116publ94.htm"),
+    ("2019-12-20", "SECURE Act Sec. 204 (ERISA 404(e))", "Fiduciary safe harbor for selecting an insurer for a guaranteed retirement income contract",
+     "https://www.govinfo.gov/content/pkg/PLAW-116publ94/html/PLAW-116publ94.htm"),
+    ("2020-09-18", "DOL interim final rule, Lifetime Income Illustrations (85 FR 59132), applicable 2021-09-18",
+     "Balance shown as single-life and joint-and-survivor annuity; interest = 10-year CMT yield",
+     "https://www.govinfo.gov/content/pkg/FR-2020-09-18/html/2020-17476.htm"),
+    ("2022-12-29", "SECURE 2.0 Sec. 202", "QLAC limit $200,000 (indexed), 25% limit repealed (2022 limit had been $145,000, IRS Notice 2021-61)",
+     "https://www.govinfo.gov/content/pkg/PLAW-117publ328/html/PLAW-117publ328.htm"),
+    ("2024", "IRS Notice 2023-75", "QLAC limit $200,000 for 2024", "https://www.irs.gov/pub/irs-drop/n-23-75.pdf"),
+    ("2025", "IRS Notice 2024-80", "QLAC limit $210,000 for 2025", "https://www.irs.gov/pub/irs-drop/n-24-80.pdf"),
+    ("2026", "IRS Notice 2025-67", "QLAC limit remains $210,000 for 2026", "https://www.irs.gov/pub/irs-drop/n-25-67.pdf"),
+    ("2025-07-01", "DOL direct final rule removing 2008 regulatory annuity-selection safe harbor (29 CFR 2550.404a-4)",
+     "Statutory 404(e) safe harbor now the only one (from ../dc_policy/notes/stay_in_plan_leakage.md)",
+     "https://www.federalregister.gov/documents/2025/07/01/2025-11615/selection-of-annuity-providers-safe-harbor-for-individual-account-plans"),
+], columns=["date", "measure", "what_it_does", "source_url"])
+pol.to_csv(OUT / "policy_lifetime_income_timeline.csv", index=False)
+print(f"\npolicy timeline rows: {len(pol)}")

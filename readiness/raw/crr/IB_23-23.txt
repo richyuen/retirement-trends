@@ -1,0 +1,323 @@
+                                                                                             RETIREMENT
+                                                                                             RESEARCH
+November 2023 Number 23-23
+
+
+
+
+THE NATIONAL RETIREMENT RISK INDEX
+WITH VARYING CLAIMING AGES
+By Yimeng Yin, Anqi Chen, and Alicia H. Munnell*
+
+
+
+Introduction
+The National Retirement Risk Index (NRRI) measures             half of aggregate earnings of those ages 62-75 occur
+the share of working-age households that will be un-           before the assumed retirement age of 65 and therefore
+able to maintain their pre-retirement standard of liv-         are already incorporated in the model as part of wealth
+ing once they retire. The Index is based on data from          accumulation. However, given the importance of the
+the Federal Reserve’s Survey of Consumer Finances and          relationship between Social Security claiming ages
+compares household projected replacement rates –               and the inclusion of earnings, this brief explores the
+retirement income as a percentage of pre-retirement            extent to which assuming more realistic claiming ages
+income – with target rates. Those households whose             reduces the “excluded-earnings” problem.
+projected replacement rate falls more than 10 percent              The discussion proceeds as follows. The first sec-
+below the target are characterized as being “at risk.”         tion describes the nuts and bolts of the NRRI, as cur-
+     The NRRI, which has been estimated repeatedly             rently constructed. The second section explores the
+since 2006 and most recently totally revamped, con-            importance of earnings and the relationship between
+sistently shows that – even if households work to age          earnings and Social Security claiming age among
+65 and annuitize all their financial assets, including         older households for low-, middle-, and high-income
+the receipts from reverse mortgages on their homes –           groups. The third section shows that an NRRI that
+almost half of households are at risk of being unable          varies claiming ages by income group incorporates
+to maintain their standard of living.                          about two-thirds of earnings in the model and produc-
+     Despite the consistency of the NRRI, we are always        es very similar overall results to the original NRRI.
+looking for ways to improve the measure. In a review           The final section concludes that while the existing
+of the revamped NRRI, our favorite colleague and crit-         NRRI produces a good representation of risk for the
+ic – Andrew Biggs of the American Enterprise Institute         whole population, an index that varies Social Security
+– argued that a serious flaw with the Index is that it         claiming ages includes the bulk of earnings by older
+omits a major source of income in retirement – name-           workers and provides a better picture of outcomes by
+ly, earnings.1 Indeed, the Index does not include the          income group. So those parameters will be used to
+earnings of older people once they retire, but roughly         construct the NRRI going forward.
+
+
+
+* Yimeng Yin is a research economist at the Center for Retirement Research at Boston College (CRR). Anqi Chen is a
+senior research economist and the assistant director of savings research at the CRR. Alicia H. Munnell is director of the
+CRR and the Peter F. Drucker Professor of Management Sciences at Boston College’s Carroll School of Management. The
+CRR gratefully acknowledges First Eagle Investments for its sponsorship of the National Retirement Risk Index and the
+Anna-Maria & Stephen Kellen Foundation for support of this brief.
+2                                                                               Center for Retirement Research
+
+
+Nuts and Bolts of the NRRI                                   their assets, including financial assets, 401(k)/IRA
+                                                             balances, and proceeds from a reverse mortgage,
+The NRRI is constructed with data from the Fed-              into a stream of income by purchasing an inflation-
+eral Reserve’s Survey of Consumer Finances (SCF), a          indexed annuity.2
+triennial nationally representative household survey.            Sources of retirement income that are not de-
+Calculating the NRRI involves three steps: 1) project-       rived from reported wealth in the SCF are estimated
+ing a replacement rate – retirement income as a share        directly. Specifically, Social Security benefits are
+of pre-retirement income – for each SCF household            calculated based on estimated earnings histories for
+ages 30-59; 2) constructing a target replacement rate        each member of the household, indexed to national
+that would allow each household to maintain its pre-         average wage growth. DB pension income is based
+retirement standard of living in retirement; and 3)          on the amount reported by survey respondents.
+comparing the projected and target rates to find the             The remaining step is to calculate average lifetime
+percentage of households “at risk.”                          income prior to retirement. Pre-retirement income
+                                                             for homeowners includes earnings and imputed
+                                                             rent from housing. Average lifetime income (with
+Figure 1. Overview of the National Retirement                earnings, again, indexed to average wage growth)
+Risk Index                                                   then serves as the denominator for each household’s
+                                                             replacement rate. This measure excludes income
+                                                             from assets.
+      Nationally                                                 To determine the share of the population that
+    representative           Projected                       will be at risk requires comparing projected replace-
+      sample of            replacement          NRRI         ment rates with a benchmark rate. A commonly
+     households            rate at age 65        % of        used benchmark is the replacement rate needed for
+      from SCF
+
+
+                                       =
+                                             households      households to maintain their pre-retirement stan-
+                                                 with        dard of living in retirement. People typically need
+                                            projected rate   less than their full pre-retirement income since they
+                                              more than      generally pay less in taxes, no longer need to save for
+                               Target         10 percent     retirement, and often have paid off their mortgage.
+      Life-cycle
+                            replacement      below target    Thus, a greater share of their income is available for
+    savings model
+                                rate                         spending. The Index estimates the target replace-
+                                                             ment rates for different types of households using a
+                                                             consumption-smoothing model, which assumes that
+                                                             households want the same level of consumption in
+Source: Authors’ illustration.                               retirement as they had before they retired.
+                                                                 The final step is to compare each household’s
+                                                             projected replacement rate with the target from
+    The replacement rate calculation starts with a pro-      the consumption-smoothing model. Those whose
+jection of retirement income, currently at age 65. This      projected replacement rates fall more than 10 percent
+measure is defined broadly to include income from            below the target are deemed to be at risk of having
+Social Security, defined benefit (DB) plans; financial       insufficient income to maintain their pre-retirement
+assets both in defined contribution (DC) plans and           standard of living. The Index is simply the percent-
+saved directly; and housing, which includes imputed          age of all working-age households that fall more than
+rent as well as home equity. As noted in the introduc-       10 percent short of their targets.
+tion, the NRRI does not include earnings from work,
+because the focus is retired households and labor
+force participation declines noticeably after 65.            Earnings and Retirement for
+    The values for DC assets, non-DC financial assets,
+and housing equity are derived from reported wealth
+                                                             Households Ages 62-75
+in the SCF. They are each projected separately to age
+                                                             The first question at hand is the importance of earn-
+65 based on their respective wealth-to-income ratios
+                                                             ings among households with a head ages 62-75 – a
+by age, which have been remarkably stable over time.
+                                                             group eligible for Social Security, many of whom
+The NRRI then assumes that households convert all
+Issue in Brief                                                                                                               3
+
+
+could be presumed retired. As shown in Table 1,                   Table 2. Earnings as a Share of Total Income for
+earnings represent an amazingly high share of total               Households Ages 62-75, by Retirement Status, 2019
+income for these older households – 19 percent for
+low-income households, 37 percent for the middle-in-              Household type                     Low     Middle   High
+come group, and 55 percent for high-income house-                 All households                      19 %     37%     55%
+holds. Moreover, a comparison with 1995 reveals
+                                                                  Head has claimed Social Security    10       20      37
+that earnings have been a significant component of
+the income of older households for some time, and                 Both head and spouse have
+                                                                                                       7       14      35
+                                                                  claimed Social Security
+have become more important recently. The share
+increased by 10 percentage points for middle-income               Head reports being retired           7       12      18
+households and by 13 percentage points for high-in-               Both head and spouse report
+                                                                                                       1        2       5
+come households. It appears that word has gotten out              being retired
+that working longer is the key to a secure retirement,
+and those with the most education and resources have              Note: Percentages are calculated based on aggregate income
+                                                                  for all households in the age group, by retirement status.
+changed their behavior.
+                                                                  Source: SCF (2019).
+
+
+Table 1. Share of Income from Various Sources for                     Using differential claiming ages has a meaning-
+Households Ages 62-75, 1995 and 2019, by Income                   ful effect on households’ retirement readiness across
+                                                                  income groups. The impact works through three
+Source of               Low           Middle         High         channels:
+income            1995    2019      1995   2019    1995   2019
+Earnings           18 %       19%    27%    37%     42%     55%      • Social Security benefits. Claiming at 62 instead
+                                                                       of 65 for the low-income group involves a large
+Social Security    56         52     36     31      13      10
+                                                                       actuarial reduction in benefits; claiming at 66
+DB pensions        15         10     24     19      13      13         for middle-income households and at 67 for
+DC withdrawals      1         10      1        8     -       4         high-income households – instead of 65 – sub-
+Other              10         9      12        5    32      19         stantially increases benefits.
+
+Note: Percentages are calculated based on aggregate income           • Wealth accumulation. Claiming at 66 or 67
+for all households in the age group.                                   rather than 65 provides households with more
+Source: U.S. Board of Governors of the Federal Reserve Sys-            time to accumulate DC assets, other finan-
+tem, Survey of Consumer Finances (SCF) (1995, 2019).                   cial assets, and housing wealth. In contrast,
+                                                                       retiring at 62 rather than 65 leaves less time to
+                                                                       accumulate wealth.
+    The current Index assumes that all households
+stop working and claim Social Security benefits at the
+                                                                     • Annuity factors. As noted, the NRRI assumes
+same age – namely, 65. SCF data on the claiming age
+                                                                       that households convert all their assets and
+for the household head, however, suggest that more
+                                                                       proceeds from a reverse mortgage into a stream
+reasonable claiming ages for the three groups would
+                                                                       of income by purchasing an inflation-indexed
+be 62, 66, and 67. Varying claiming ages by income
+                                                                       annuity. The payments from that annuity
+group incorporates about two-thirds of the total earn-
+                                                                       increase with the age at which the annuity
+ings of workers 62-75.
+                                                                       begins.3
+    One third of earnings remains outside of the
+NRRI calculations because the traditional link
+                                                                      Using differential claiming ages also changes
+between claiming and retirement has broken down
+                                                                  the target replacement rates in the same direction as
+– particularly for high-income households. Receipt
+                                                                  projected replacement rates, but the changes in the
+of Social Security benefits used to be a surefire way
+                                                                  targets are much smaller. As a result, changes in the
+to classify a household as retired, but high-income
+                                                                  projected rates dominate.
+households – even when both spouses have claimed
+– still receive more than a third of their income from
+earnings (see Table 2). Earnings continue until both
+the head and the spouse self-report being retired.
+4                                                                                   Center for Retirement Research
+
+
+Re-estimating the NRRI                                         Table 3. Percentage of Households at Risk, by
+                                                               Income, 2019: Historical NRRI and NRRI with
+The task is then to re-estimate the NRRI using Social          Different Social Security Claiming Ages
+Security claiming ages that vary by income group.
+Mechanically, the process involves running the model           Income                            NRRI with earnings and
+                                                                              Historical NRRI
+three times – once assuming the claiming age is 62             group                              varied retirement ages
+for all income groups, once assuming 66 for all, and           All                  47.1 %                 47.4 %
+once assuming 67 for all. The percentage of low-
+                                                               Low                  55.6                   71.0
+income households at risk is derived from the age-62
+run; for middle-income households from the age-66              Middle               44.5                   38.0
+run, and for high-income households from the age-67            High                 40.8                   32.0
+run. These results are then combined to produce
+the revised overall Index, which is shown in Figure 2          Source: Authors’ estimates.
+with the traditional NRRI. The key finding is that the
+pattern is identical and the numbers are extremely
+                                                                    The remaining question is whether continuing to
+close – roughly half of households are not prepared
+                                                               exclude one-third of earnings for workers ages 62-75
+for retirement under each measure.
+                                                               is likely to distort the NRRI. One would think not.
+                                                               SCF data show that roughly 80 percent of the excluded
+                                                               earnings accrue to high-income households, so the
+Figure 2. The National Retirement Risk Index:
+                                                               exclusion likely has no effect on the percentage of
+Historical and with Different Social Security
+                                                               households at risk in the low- and middle-income ter-
+Claiming Ages, 2004-2019
+                                                               ciles.5 Hence, the question narrows to whether some
+75%                                                            high-income households are mistakenly classified as
+         Traditional NRRI                                      at risk – that is, less than 32 percent would be at risk if
+         NRRI with different claiming ages                     all earnings were included. Answering that question,
+                                                               requires distributing the excluded earnings among
+                        50% 51% 50% 51%
+50%                                          48% 48% 47% 47%   high-income households still working at age 68 and
+      41% 42% 41%41%                                           annuitizing those amounts over their remaining life-
+                                                               times.6 This exercise only reduces the percentage of
+                                                               high-income households at risk from 32 percent to 30
+25%                                                            percent., which suggests that the remaining excluded
+                                                               earnings are not distorting the NRRI.
+
+
+0%                                                             Conclusion
+        2004     2007       2010   2013       2016    2019
+                                                               The NRRI is an attempt to combine all aspects of the
+Source: Authors’ estimates.                                    retirement landscape into a single number to gauge
+                                                               the adequacy of our system for households at different
+                                                               points in the income distribution and at different mo-
+     What argues for using the NRRI version with               ments in time. It requires an enormous amount of
+varied claiming ages is that it includes more earn-            data, many assumptions, and numerous decisions –
+ings in the calculation, allows for a more appropriate         all of which are open for debate. The thing that gives
+Social Security actuarial adjustment, and produces a           us heart is the stability of the results despite extensive
+more sensible pattern by income group. As shown                stress testing. Varying the Social Security claiming
+in Table 3, varying claiming ages reduces the percent-         ages is a case in point. The NRRI headline number
+age at risk for high-income households and increases           still hovers around 50 percent. But the fact that the re-
+it for those in the low-income tercile. The higher             sults produce a better pattern by income group argues
+percentage of low-income households at risk confirms           for using the new approach as we update the NRRI
+findings from other studies.4                                  to incorporate data from the 2022 Survey of Consumer
+                                                               Finances.
+Issue in Brief                                                                                               5
+
+
+Endnotes                                                  References
+1 Biggs (2023).                                           Biggs, Andrew. 2023. “Will Retirees’ Incomes Be
+                                                             Enough? It Depends on What You Count as In-
+2 While inflation-indexed annuities are not widely           come.” (June 19). New York, NY: Forbes.
+used by consumers, they provide a convenient
+metric for calculating the lifetime income that can       Tan, Fu, Fiona Greig, Andrew S. Clarke, Kevin Khang,
+be obtained from a lump sum. And while inflation-            Kate McKinnon, and Victoria Zhang. 2023. “The
+indexed annuities provide a smaller initial benefit          Vanguard Retirement Outlook: A National Per-
+than nominal annuities, they protect a household’s           spective on Retirement Readiness.” Retirement
+purchasing power over time against the erosive effects       Outlook Report. Valley Forge, PA: Vanguard.
+of inflation.
+
+3 The principal limit factor of a reverse mortgage –
+the proceeds available as a percentage of the home
+value at a given interest rate, also increases with the
+age at which the reverse mortgage begins.
+
+4 The severity of the shortfall for low-income house-
+holds is consistent with the findings of a recent study
+from Vanguard (see Tan et al. 2023).
+
+5 Excluded earnings for low-income households are
+earnings from ages 63-75; middle-income – ages 67-
+75; and high-income – ages 68-75.
+
+6 Earnings are distributed proportional to household
+projected earnings at age 62. The “annuitization” is
+very inelegant; the amounts were simply distributed
+over an assumed remaining 20 years of life for these
+high-income households.
+RETIREMENT
+RESEARCH
+
+
+About the Center                                                Affiliated Institutions
+The mission of the Center for Retirement Research               The Brookings Institution
+at Boston College is to produce first-class research            Mathematica – Center for Studying Disability Policy
+and educational tools and forge a strong link between           Syracuse University
+the academic community and decision-makers in                   Urban Institute
+the public and private sectors around an issue of
+critical importance to the nation’s future. To achieve
+this mission, the Center conducts a wide variety
+                                                                Contact Information
+                                                                Center for Retirement Research
+of research projects, transmits new findings to a
+                                                                Boston College
+broad audience, trains new scholars, and broadens
+                                                                Haley House
+access to valuable data sources. Since its inception
+                                                                140 Commonwealth Avenue
+in 1998, the Center has established a reputation as
+                                                                Chestnut Hill, MA 02467-3808
+an authoritative source of information on all major
+                                                                Phone: (617) 552-1762
+aspects of the retirement income debate.
+                                                                Fax: (617) 552-0191
+                                                                E-mail: crr@bc.edu
+                                                                Website: https://crr.bc.edu
+
+
+
+
+© 2023, by Trustees of Boston College, Center for Retirement Research. All rights reserved. Short sections of text, not to
+exceed two paragraphs, may be quoted without explicit permission provided that the authors are identified and full credit,
+including copyright notice, is given to Trustees of Boston College, Center for Retirement Research.
+
+The research reported herein was supported by the Anna-Maria & Stephen Kellen Foundation. The findings and conclusions
+expressed are solely those of the authors and do not represent the opinions or policy of the Anna-Maria & Stephen Kellen
+Foundation or the Center for Retirement Research at Boston College.
+

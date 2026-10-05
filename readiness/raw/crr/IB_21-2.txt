@@ -1,0 +1,452 @@
+                                                                                          RETIREMENT
+                                                                                          RESEARCH
+January 2021, Number 21-2
+
+
+
+
+THE NATIONAL RETIREMENT RISK INDEX:
+AN UPDATE FROM THE 2019 SCF
+By Alicia H. Munnell, Anqi Chen, and Robert L. Siliciano*
+
+
+
+Introduction
+The National Retirement Risk Index (NRRI) mea-               pandemic, the crisis created an enormous spike in
+sures the share of American households that are at           unemployment – particularly among lower-paid work-
+risk of being unable to maintain their pre-retirement        ers – during last spring, from which the labor market
+standard of living in retirement. The NRRI compares          is still recovering. Therefore, a full assessment of
+households’ projected replacement rates – retirement         the NRRI in 2020 requires accounting for all of these
+income as a percentage of pre-retirement income –            factors.
+with target rates that would allow them to maintain              As a prelude to the updates, the first section
+their living standard and then calculates the percent-       reviews the nuts and bolts of constructing the NRRI.
+age falling short. Since the Great Recession, the            The second section provides a standard update of
+NRRI has shown that even if households work to age           the NRRI, replacing the 2016 SCF households with
+65 and annuitize all their financial assets, including       those from the 2019 SCF and updating the economic
+the receipts from reverse mortgages on their homes,          assumptions. The results show that the NRRI did im-
+roughly half of households are at risk.                      prove, but only slightly, declining from 50 percent of
+    The NRRI was originally constructed using the            households at risk in 2016 to 49 percent in 2019. The
+Federal Reserve’s 2004 Survey of Consumer Finances           reason for this modest change was that the positive
+(SCF) and has been updated every three years with            impacts of rising stock and house prices were partially
+the release of this triennial survey. The 2019 SCF           offset by a decline in interest rates and in expected re-
+offers, once again, an opportunity to take stock of re-      placement rates from Social Security for lower-income
+tirement security. The three years from 2016 to 2019         workers who experienced income gains. The third
+were a period of solid economic growth accompanied           section then estimates what the NRRI would have
+by strong stock and housing markets, suggesting that         looked like had the SCF been conducted in the third
+the NRRI may have improved in this span.                     quarter of 2020, suggesting that the share of house-
+    Of course, since 2019, the world has changed             holds at risk has increased modestly to 51 percent in
+dramatically, so the question is what the NRRI would         the wake of the pandemic. The final section con-
+look like today had the SCF been conducted in 2020.          cludes that the NRRI confirms what we already know
+While financial and housing markets have actually            – namely that today’s workers face a major retirement
+seen continued growth in the wake of the COVID-19            income challenge.
+
+
+
+* Alicia H. Munnell is director of the Center for Retirement Research at Boston College (CRR) and the Peter F. Drucker
+Professor of Management Sciences at Boston College’s Carroll School of Management. Anqi Chen is the assistant director
+of savings research at the CRR. Robert L. Siliciano is a research economist at the CRR.
+2                                                                               Center for Retirement Research
+
+
+Nuts and Bolts of the NRRI                                       Determining the share of the population at risk
+                                                             requires comparing projected replacement rates with
+Constructing the NRRI involves three steps: 1) pro-          the appropriate target rates. Target replacement rates
+jecting a replacement rate – retirement income as a          are estimated for different types of households as-
+share of pre-retirement income – for each member of          suming that households spread their income so as to
+a nationally representative sample of U.S. households;       have the same level of consumption in retirement as
+2) constructing a target replacement rate consistent         they had before they retired. The NRRI is simply the
+with maintaining a pre-retirement standard of living         percentage of all households that fall more than
+in retirement; and 3) comparing the projected and            10 percent short of their target.
+target replacement rates to find the percentage of               This update of the NRRI also incorporated several
+households at risk (see Figure 1).1                          methodological improvements to enhance the estima-
+                                                             tions and projections used for assessing retirement
+                                                             preparedness (see Box).
+Figure 1. Overview of the National Retirement
+Risk Index
+                                                             Box. Under-the-Hood Improvements to
+      Nationally                                             the NRRI
+    representative
+                             Projected
+      sample of                                              The largest change to the NRRI is shifting the
+                           replacement
+     households                                              wealth-to-income projections for each household
+                           rate at age 65       NRRI
+        from                                                 from mean to median values for 2019 and all
+
+
+                                       =
+      2019 SCF                                  % of
+                                                             prior years. Specifically, determining the retire-
+                                             households
+                                                             ment income replacement rates requires using a
+                                                 with
+                                                             household’s current wealth to project its wealth
+                                            projected rate
+                                                             at retirement. Given high wealth inequality, the
+      Life-cycle               Target          < target
+                                                             previous method that relied on average wealth was
+    savings model           replacement                      biased toward the wealth accumulation patterns of
+                                rate                         the richest households. Thus, this method tended
+                                                             to overestimate the wealth of middle- and lower-
+                                                             income households. In contrast, the new method
+                                                             uses median values (for several different percentile
+Source: Authors’ illustration.
+                                                             breakdowns) to project current growth rates, result-
+                                                             ing in a more accurate pattern for each household.
+                                                                 A second change is that the NRRI numbers
+    Retirement income at age 65 is defined broadly to
+                                                             from prior years are now reported using the most
+include all of the usual suspects plus housing. Assets
+                                                             current economic data, allowing an apples-to-ap-
+at retirement are projected based on the stable relation-
+                                                             ples comparison over time. For example, in 2016,
+ship between age and wealth-to-income ratios from the
+                                                             the NRRI projected wage growth to 2019 but the
+1983-2019 SCF. The NRRI assumes that, at retire-
+                                                             actual data for wage growth for 2016-2019 are now
+ment, households annuitize all their assets – including
+                                                             available. So, updating past NRRI calculations us-
+financial assets, 401(k)/IRA balances, and money from
+                                                             ing the most recent data from the latest SCF allows
+a reverse mortgage on their homes.
+                                                             for a more consistent comparison.
+    Sources of retirement income that are not de-
+                                                                 Finally, as part of long-term code maintenance
+rived from reported wealth in the SCF are estimated
+                                                             efforts, parts of the NRRI codebase were moved
+directly. Specifically, Social Security benefits are
+                                                             out of Microsoft Excel spreadsheets into Python.
+calculated based on estimated earnings histories for
+                                                             This upgrade to an advanced, flexible, and powerful
+each member of the household.
+                                                             programming language allows for improved com-
+    A calculation of projected replacement rates also
+                                                             putation in the target rates (e.g. a richer matching
+requires income prior to retirement. The items that
+                                                             to observed households) and for the correction of
+comprise pre-retirement income include earnings,
+                                                             bugs in the code.
+the return on financial assets, and imputed rent from
+housing. Average lifetime income then serves as the
+denominator for each household’s replacement rate.
+Issue in Brief                                                                                                          3
+
+
+The NRRI in 2019                                             A Closer Look at the 2019 NRRI
+Updating the NRRI to 2019 involves several steps.            As noted, in 2019 two factors improved the NRRI –
+First, households from the 2019 SCF replace house-           higher equity prices and higher house prices coupled
+holds from the 2016 SCF. Next, 2019 data are incor-          with slightly broader homeownership – while two
+porated in the equation used to predict financial and        other factors partially offset the improvement – inter-
+housing wealth at age 65. Finally, annuity income is         est rates and Social Security.
+re-estimated based on any changes in reverse mort-
+gage and interest rates.                                         Equity Prices. Between the third quarter of 2016,
+    Our expectation pre-COVID was that the NRRI              which marks the previous NRRI baseline, and the
+would decline in 2019 – that is, fewer households            third quarter of 2019, equity prices increased by about
+would be at risk. After all, the stock market and            25 percent after adjusting for inflation (see Figure 3).
+house prices were up. On the other hand, interest
+rates have continued to decline, which means that
+people will get less income from their accumulated           Figure 3. Dow Jones Wilshire 5000 (Real),
+wealth. And the rise in wage growth for lower-income         January 1990-September 2020
+groups, which is good news generally, is accompanied
+by lower projected Social Security replacement rates.        40,000
+The net effect is that the NRRI did decline, but only
+slightly – from 50 percent in 2016 to 49 percent in
+2019 (see Figure 2).                                         30,000
+
+
+
+                                                             20,000
+Figure 2. The National Retirement Risk Index,
+2004-2019
+60%                                                          10,000
+                          51%     51%      50%      49%
+
+        41%                                                      0
+                 40%
+40%                                                               1990    1995     2000    2005    2010    2015       2020
+
+                                                             Sources: Wilshire Associates (2020) and U.S. Bureau of
+                                                             Labor Statistics (2020).
+
+20%
+                                                             While the rise in equity prices had a positive effect on
+                                                             the NRRI, its impact was small because equities are
+                                                             largely concentrated among wealthy households who
+ 0%
+                                                             are already well prepared for retirement. As a result,
+        2004     2007    2010     2013     2016     2019
+                                                             even with the growth in the stock market, the median
+Note: Historical data for the NRRI may not precisely match   wealth-to-income ratio, which underlies the NRRI
+earlier published numbers due to recent methodological       calculations, did not increase significantly (see Figure
+changes, as described in the Box.                            4 on the next page).
+Source: Authors’ calculations.
+4                                                                                         Center for Retirement Research
+
+
+Figure 4. Ratio of Wealth to Income by Age from                       impact, because households are assumed to ac-
+the Survey of Consumer Finances, 1983-2019                            cess their home equity at retirement by taking out a
+                                                                      reverse mortgage. The higher the home value, the
+6                                                                     more a household can extract in cash and turn into a
+            1983
+            1986                                                      stream of income through annuitization.
+            1989
+            1992
+            1995                                                          Interest Rates. Between the 2016 and 2019 SCF,
+4           1998                                                      the real interest rate declined slightly from 0.6 percent
+            2001
+            2004                                                      to 0.2 percent (see Figure 6). Lower interest rates
+            2007                                                      mean that older households get less income from
+            2010                                                      annuitizing their assets, which include 401(k)/IRA
+            2013
+2           2016                                                      balances, other financial assets, and money received
+            2019                                                      from a reverse mortgage; this reduction in income
+                                                                      increases the NRRI. The NRRI tapers the effect of an
+                                                                      interest rate decline, which limits the principal impact
+0                                                                     to just those nearing retirement.
+    20-22    26-28   32-34   38-40   44-46    50-52   56-58   62-64
+
+Source: Authors’ calculations based on U.S. Board of Gov-
+ernors of the Federal Reserve System, Survey of Consumer              Figure 6. Real 10-Year Interest Rate,
+Finances (1983-2019).                                                 January 1990-December 2020
+                                                                      6%
+    House Prices. In contrast to equities, housing is
+important for a majority of households. During the
+three-year period between SCF surveys, house prices                   4%
+continued to rebound from the collapse that began
+in 2006 (see Figure 5). Moreover, the percentage of
+households owning a primary residence either held                     2%
+steady or ticked up across age groups. In the NRRI,
+homeownership and house prices have a significant
+                                                                      0%
+
+
+Figure 5. Index of Average U.S. House Prices
+                                                                      -2%
+(Real), January 1990-October 2020
+                                                                         1990    1995     2000    2005    2010     2015    2020
+150
+                                                                      Note: Real interest rates equal the 10-year Treasury bond
+                                                                      interest rate minus anticipated 10-year inflation.
+                                                                      Sources: Authors’ calculations based on U.S. Board of
+                                                                      Governors of the Federal Reserve System (2020) and Federal
+100                                                                   Reserve Bank of Cleveland calculations based on Haubrich,
+                                                                      Pennacchi, and Ritchken (2012).
+
+
+ 50                                                                       Social Security. Higher wage growth among lower-
+                                                                      income groups reduced Social Security replacement
+                                                                      rates by 1 percentage point due to the program’s pro-
+                                                                      gressive benefit formula. Specifically, the strong wage
+    0                                                                 growth for lower-income workers moved a larger por-
+     1990     1995      2000     2005        2010     2015    2020
+                                                                      tion of their total earnings from the bottom bracket,
+Sources: S&P Global (2020) and U.S. Bureau of Labor Statis-           which replaces 90 percent of earnings, to the middle
+tics (2020).                                                          bracket, which replaces 32 percent.2
+Issue in Brief                                                                                                 5
+
+
+    The gradual increase in Social Security’s Full       Table 2. Percentage of Households “At Risk” at
+Retirement Age from 65 to 67, which lowers benefits      Age 65 by Wealth Group, 2016 and 2019
+and has been important in earlier updates, is now
+virtually complete and therefore does not materially     Wealth group                2016            2019
+affect the NRRI’s overall outcome.
+                                                         All                          50%             49%
+
+Patterns of the 2019 NRRI                                Low                          73              73
+
+                                                         Middle                       49              45
+Identifying the primary levers affecting the NRRI
+makes it possible to understand the pattern of change    High                         28              29
+by age group and wealth level.
+   When viewed by age, the improvement in the            Source: Authors’ calculations.
+NRRI occurred among households in their 40s (see
+Table 1). They saw large gains in retirement pre-
+paredness from the housing market. Young people
+entered the 2016-2019 period with little wealth and
+                                                         The NRRI in 2020
+were mostly left out of the increases in stock and       While the update for 2019 is useful and provides
+house prices. On the other side, households in their     a benchmark for future surveys, it does not tell us
+50s had less asset accumulation than those in their      about retirement security in 2020. COVID-19 and the
+40s and were also affected by the low interest rate,     ensuing recession have inevitably made the situation
+which limited their income from annuitized assets.3      worse. To date, the problems have not involved the
+                                                         stock market – except for a sharp, but brief, decline
+                                                         in last February and March – or the housing market.
+Table 1. Percentage of Households “At Risk” at           Rather, the pandemic has led to substantial job loss.
+Age 65 by Age Group, 2016 and 2019                       Thus, the main question is how to incorporate unem-
+                                                         ployment into the NRRI.
+Age group                   2016           2019              The analysis proceeds in three steps. The first is
+All                          50%            49%          to estimate how many workers could be affected by
+                                                         COVID-19-induced unemployment. The second step
+30-39                        57             58           is to randomly assign employment shocks to workers
+40-49                        54             48           in the NRRI, based on the unemployment rate change
+                                                         from February to October 2020 experienced by people
+50-59                        40             42           with their demographic characteristics – such as age,
+                                                         gender, race, education, and marital status.4 The final
+Source: Authors’ calculations.                           step is to project how a job loss reduces the future
+                                                         earnings of each impacted worker based on a prior
+                                                         study.5 We assume that households that were only
+    From the perspective of wealth groups, the middle    briefly unemployed, due to the temporary pandemic-
+third saw an improvement in retirement security.         related shutdowns in the spring, experienced no
+This group, which largely saves through housing, saw     long-lasting negative effects on their wages, but the
+the largest increase in housing wealth. The richest      remaining unemployed are long-term unemployed.
+third, which has a similar ratio of housing wealth to    Overall, this unemployment estimation, by itself,
+income as the middle third, is subject to a cap on the   increased the NRRI by 3 percentage points.
+wealth they can take out through reverse mortgages.          In addition, the analysis also incorporated changes
+The poorest third generally does not own homes and       in the other factors discussed above that might have
+was shut out of the appreciation of house prices (see    influenced the NRRI during this period (see Table 3 on
+Table 2).                                                the next page). On balance, these factors – particularly
+                                                         the robust growth in house prices, which affected a
+                                                         large share of NRRI households – partially offset the
+                                                         impact of the rise in unemployment.
+6                                                                                   Center for Retirement Research
+
+
+Table 3. Impact of Various Factors on the NRRI in                    A 2-percentage point increase in the NRRI may
+2020                                                             seem modest for the most calamitous economic event
+                                                                 since the Great Depression. Indeed, two factors are
+                           Development        Impact on NRRI     at play here. First, the rise in house and stock prices,
+Factor                                                           an unusual occurrence during a recession, partially
+                            (2019-2020)       (%-point change)
+                                                                 blunted the impact of unemployment. Second,
+Unemployment                                       +3.0%         the NRRI only measures whether a household is at
+                        Stock market rose                        risk, not the increase in the “savings gap” – the gap
+Equity prices                                      -0.2%
+                        by 10.7%                                 between actual and adequate savings. For example,
+                        Housing market                           an already at-risk renter who faces an unemploy-
+House prices                                       -0.8          ment shock will be less prepared for retirement, but
+                        rose by 4.8%
+                        Rates fell from 0.2
+                                                                 this impact will not show up in the NRRI. So, many
+Interest rates (real)                              +0.0          households who were already at risk have become
+                        to -0.5%
+                                                                 increasingly worse off.
+Social Security         Wages fell by 4.2%            a
+
+
+
+Net impact                                         +2.1%
+                                                                 Conclusion
+a
+ The impact of Social Security on the NRRI is incorporated       Between 2016 and 2019, the NRRI dropped slightly
+in the impact of unemployment.
+                                                                 – from 50 to 49 percent. This improvement reflected
+Source: Authors’ calculations.
+                                                                 solid gains in the stock market and, particularly, con-
+                                                                 tinuing growth in the housing market. The modest
+    Overall, including unemployment and all other                nature of the improvement, though, was due to the
+factors, the results suggest that if the SCF had been            partially offsetting impact of lower interest rates and
+conducted in 2020 instead of 2019, the NRRI would                lower Social Security replacement rates.
+have been 2 percentage points higher (see Figure 7).                 Since 2019, the economy has been hit by the
+                                                                 fallout of the pandemic, which has primarily been
+                                                                 reflected in higher unemployment. At the same time,
+Figure 7. The National Retirement Risk Index,                    this negative impact was partially offset by other
+2016, 2019, and 2020 Projected                                   factors. On balance, the NRRI rose modestly to 51
+                                                                 percent in 2020. While this effect is small, it does not
+60%                                                              capture the increasing savings gap among households
+              50%                                   51%          already at risk.
+                                   49%
+                                                                     The bottom line is that half of today’s households
+                                                                 will not have enough retirement income to maintain
+40%                                                              their pre-retirement standard of living, even if they
+                                                                 work to age 65 and annuitize all their financial assets,
+                                                                 including the receipts from a reverse mortgage on
+                                                                 their homes. This analysis clearly confirms that we
+20%                                                              need to fix our retirement system so that employer
+                                                                 plan coverage is universal. Only with continuous
+                                                                 coverage will workers be able to accumulate adequate
+                                                                 resources to maintain their standard of living in
+    0%                                                           retirement.
+              2016                 2019             2020
+
+Source: Authors’ calculations.
+Issue in Brief                                                                                                   7
+
+
+Endnotes                                                 References
+1 Target rates are calculated using a lifecycle model    Center for Retirement Research at Boston College.
+rather than a household’s actual, but unobserved, con-      2006. “Retirements at Risk: A New National Re-
+sumption history. For details, see Center for Retire-       tirement Risk Index.” Chestnut Hill, MA.
+ment Research (2006).
+                                                         Cooper, Daniel. 2013. “The Effect of Unemployment
+2 The bottom bracket covers monthly earnings of             Duration on Future Earnings and Other Out-
+up to $996 in 2021, while the middle bracket covers         comes.” Working Paper 13-8. Boston, MA: Federal
+monthly earnings between $996 and $6,002. Monthly           Reserve Bank of Boston.
+earnings over $6,002 are replaced at a 15-percent rate
+(up to the program’s annual earnings cap).               Federal Reserve Bank of Cleveland. 2020. “Ten-Year
+                                                            Expected Inflation and Real and Inflation Risk
+3 In addition, the increase in Social Security’s Full       Premia.” Cleveland, OH.
+Retirement Age does affect the NRRI slightly for this
+oldest group.                                            Haubrich, Joseph, George Pennacchi, and Peter Ritch-
+                                                           ken. 2012. “Inflation Expectations, Real Rates, and
+4 Some people have left the labor force as well,           Risk Premia: Evidence from Inflation Swaps.” The
+making the measured decline in the unemployment            Review of Financial Studies 25(5): 1588-1629.
+rate an overstatement. Our analysis includes both
+outcomes as unemployment. The data source is the         Munnell, Alicia H., Anqi Chen, and Wenliang Hou.
+Census Bureau’s Current Population Survey, accessed        2020. “How Widespread Unemployment Might
+through the University of Minnesota’s IPUMS-CPS            Affect Retirement Security.” Issue in Brief 20-11.
+database.                                                  Chestnut Hill, MA: Center for Retirement Re-
+                                                           search at Boston College.
+5 See Cooper (2013), which showed that unemploy-
+ment initially reduces wages by 25 percent for short-    S&P Global. 2020. “CoreLogic Case-Shiller U.S.
+term spells (up to six months) and by 69 percent for       National Home Price NSA Index.” New York, NY:
+long-term spells. After the initial drop, wages return     S&P Dow Jones Indices.
+slowly to their former trajectory. For the sample as
+a whole, the pace of recovery was about 2 percent a      University of Minnesota. Current Population Survey
+year, with a somewhat faster pace for the long-term        (IPUMS-CPS), 2020. Minneapolis, MN. Available
+vs. short-term unemployed. This approach was used          at: www.ipums.org
+in a previous NRRI study conducted last spring (Mun-
+nell, Chen, and Hou 2020).                               U.S. Board of Governors of the Federal Reserve
+                                                            System. 2020. “Selected Interest Rates: Historical
+                                                            Data.” Washington, DC.
+
+                                                         U.S. Board of Governors of the Federal Reserve
+                                                            System. Survey of Consumer Finances, 1983-2016.
+                                                            Washington, DC.
+
+                                                         U.S. Bureau of Labor Statistics. 2020. Consumer Price
+                                                            Index. Washington, DC.
+
+                                                         Wilshire Associates. 2020. “Dow Jones Wilshire 5000
+                                                            (Full Cap) Price Levels Since Inception.” Santa
+                                                            Monica, CA. Data for Nominal Dollar Levels Avail-
+                                                            able at: https://wilshire.com/indexes
+RETIREMENT
+RESEARCH
+
+
+About the Center                                                Affiliated Institutions
+The mission of the Center for Retirement Research               The Brookings Institution
+at Boston College is to produce first-class research            Mathematica – Center for Studying Disability Policy
+and educational tools and forge a strong link between           Syracuse University
+the academic community and decision-makers in                   Urban Institute
+the public and private sectors around an issue of
+critical importance to the nation’s future. To achieve
+this mission, the Center conducts a wide variety
+                                                                Contact Information
+                                                                Center for Retirement Research
+of research projects, transmits new findings to a
+                                                                Boston College
+broad audience, trains new scholars, and broadens
+                                                                Hovey House
+access to valuable data sources. Since its inception
+                                                                140 Commonwealth Avenue
+in 1998, the Center has established a reputation as
+                                                                Chestnut Hill, MA 02467-3808
+an authoritative source of information on all major
+                                                                Phone: (617) 552-1762
+aspects of the retirement income debate.
+                                                                Fax: (617) 552-0191
+                                                                E-mail: crr@bc.edu
+                                                                Website: https://crr.bc.edu
+
+
+
+
+© 2021, by Trustees of Boston College, Center for Retirement Research. All rights reserved. Short sections of text, not to
+exceed two paragraphs, may be quoted without explicit permission provided that the authors are identified and full credit,
+including copyright notice, is given to Trustees of Boston College, Center for Retirement Research.
+
+The research reported herein was supported by Prudential Financial. The findings and conclusions expressed are solely those
+of the authors and do not represent the opinions or policy of Prudential Financial or the Center for Retirement Research at
+Boston College.
+

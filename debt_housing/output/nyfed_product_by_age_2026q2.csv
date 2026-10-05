@@ -1,0 +1,19 @@
+measure,product,18-29,30-39,40-49,50-59,60-69,70+
+trillions,Auto Loans,0.205,0.381,0.409,0.351,0.228,0.136
+trillions,Credit Card,0.081,0.222,0.295,0.28,0.217,0.167
+trillions,Mortgage,0.476,2.729,3.6,2.979,1.995,1.324
+trillions,HELOC,0.002,0.034,0.108,0.132,0.107,0.076
+trillions,Student Loans,0.306,0.523,0.383,0.26,0.129,0.043
+trillions,Sum of products,1.07,3.889,4.796,4.003,2.676,1.746
+pct_of_product_across_ages,Auto Loans,11.98,22.259,23.92,20.546,13.354,7.94
+pct_of_product_across_ages,Credit Card,6.403,17.616,23.401,22.181,17.165,13.234
+pct_of_product_across_ages,Mortgage,3.633,20.827,27.474,22.735,15.225,10.104
+pct_of_product_across_ages,HELOC,0.482,7.381,23.529,28.779,23.246,16.583
+pct_of_product_across_ages,Student Loans,18.624,31.781,23.3,15.821,7.862,2.613
+pct_of_product_across_ages,Sum of products,5.888,21.391,26.38,22.018,14.72,9.604
+pct_of_age_group_debt,Auto Loans,19.144,9.79,8.531,8.779,8.535,7.778
+pct_of_age_group_debt,Credit Card,7.549,5.717,6.158,6.993,8.094,9.565
+pct_of_age_group_debt,Mortgage,44.482,70.18,75.069,74.427,74.552,75.835
+pct_of_age_group_debt,HELOC,0.207,0.871,2.252,3.3,3.987,4.36
+pct_of_age_group_debt,Student Loans,28.618,13.442,7.991,6.501,4.832,2.461
+pct_of_age_group_debt,Sum of products,100.0,100.0,100.0,100.0,100.0,100.0

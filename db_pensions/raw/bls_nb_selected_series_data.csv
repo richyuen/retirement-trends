@@ -1,0 +1,664 @@
+series_id,year,period,value,footnote_codes,ownership_code,provision_code,series_title
+NBU11900000000000020298,2010,A01,84,,1,298,Percent of civilian workers participating in open defined benefit plans
+NBU11900000000000020298,2011,A01,81,,1,298,Percent of civilian workers participating in open defined benefit plans
+NBU11900000000000020298,2014,A01,56,,1,298,Percent of civilian workers participating in open defined benefit plans
+NBU11900000000000020298,2015,A01,53,,1,298,Percent of civilian workers participating in open defined benefit plans
+NBU11900000000000020298,2016,A01,52,,1,298,Percent of civilian workers participating in open defined benefit plans
+NBU11900000000000020298,2017,A01,54,,1,298,Percent of civilian workers participating in open defined benefit plans
+NBU11900000000000020298,2018,A01,52,,1,298,Percent of civilian workers participating in open defined benefit plans
+NBU11900000000000020298,2019,A01,53,,1,298,Percent of civilian workers participating in open defined benefit plans
+NBU11900000000000020298,2020,A01,51,,1,298,Percent of civilian workers participating in open defined benefit plans
+NBU11900000000000020298,2021,A01,51,,1,298,Percent of civilian workers participating in open defined benefit plans
+NBU11900000000000020298,2022,A01,53,,1,298,Percent of civilian workers participating in open defined benefit plans
+NBU11900000000000020298,2023,A01,53,,1,298,Percent of civilian workers participating in open defined benefit plans
+NBU11900000000000020298,2024,A01,53,,1,298,Percent of civilian workers participating in open defined benefit plans
+NBU11900000000000020298,2025,A01,52,,1,298,Percent of civilian workers participating in open defined benefit plans
+NBU11900000000000020298,2026,A01,55,,1,298,Percent of civilian workers participating in open defined benefit plans
+NBU11900000000000020299,2010,A01,16,,1,299,Percent of civilian workers participating in retirement benefits: defined benefit plans with frozen plans
+NBU11900000000000020299,2011,A01,19,,1,299,Percent of civilian workers participating in retirement benefits: defined benefit plans with frozen plans
+NBU11900000000000020300,2010,A01,79,,1,300,Percent of civilian workers participating in retirement benefits: defined benefit plans with frozen plans: all existing participants continue to accrue benefits
+NBU11900000000000020300,2011,A01,74,,1,300,Percent of civilian workers participating in retirement benefits: defined benefit plans with frozen plans: all existing participants continue to accrue benefits
+NBU11900000000000020301,2010,A01,5,,1,301,Percent of civilian workers participating in retirement benefits: defined benefit plans with frozen plans: some existing participants continue to accrue benefits
+NBU11900000000000020301,2011,A01,5,,1,301,Percent of civilian workers participating in retirement benefits: defined benefit plans with frozen plans: some existing participants continue to accrue benefits
+NBU11900000000000020302,2010,A01,16,,1,302,Percent of civilian workers participating in retirement benefits: defined benefit plans with frozen plans: no existing participants continue to accrue benefits
+NBU11900000000000020302,2011,A01,21,,1,302,Percent of civilian workers participating in retirement benefits: defined benefit plans with frozen plans: no existing participants continue to accrue benefits
+NBU11900000000000020387,2014,A01,38,,1,387,Percent of civilian workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU11900000000000020387,2015,A01,40,,1,387,Percent of civilian workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU11900000000000020387,2016,A01,40,,1,387,Percent of civilian workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU11900000000000020387,2017,A01,38,,1,387,Percent of civilian workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU11900000000000020387,2018,A01,39,,1,387,Percent of civilian workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU11900000000000020387,2019,A01,38,,1,387,Percent of civilian workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU11900000000000020387,2020,A01,40,,1,387,Percent of civilian workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU11900000000000020387,2021,A01,39,,1,387,Percent of civilian workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU11900000000000020387,2022,A01,38,,1,387,Percent of civilian workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU11900000000000020387,2023,A01,38,,1,387,Percent of civilian workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU11900000000000020387,2024,A01,39,,1,387,Percent of civilian workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU11900000000000020387,2025,A01,38,,1,387,Percent of civilian workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU11900000000000020387,2026,A01,37,,1,387,Percent of civilian workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU11900000000000020388,2014,A01,1,,1,388,Percent of civilian workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU11900000000000020388,2015,A01,1,,1,388,Percent of civilian workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU11900000000000020388,2016,A01,1,,1,388,Percent of civilian workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU11900000000000020388,2017,A01,1,,1,388,Percent of civilian workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU11900000000000020388,2018,A01,2,,1,388,Percent of civilian workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU11900000000000020388,2019,A01,2,,1,388,Percent of civilian workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU11900000000000020388,2020,A01,2,,1,388,Percent of civilian workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU11900000000000020388,2021,A01,2,,1,388,Percent of civilian workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU11900000000000020388,2022,A01,2,,1,388,Percent of civilian workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU11900000000000020388,2023,A01,2,,1,388,Percent of civilian workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU11900000000000020388,2024,A01,1,,1,388,Percent of civilian workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU11900000000000020388,2025,A01,1,,1,388,Percent of civilian workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU11900000000000020388,2026,A01,1,,1,388,Percent of civilian workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU11900000000000020389,2014,A01,5,,1,389,Percent of civilian workers participating in hard frozen defined benefit plans
+NBU11900000000000020389,2015,A01,6,,1,389,Percent of civilian workers participating in hard frozen defined benefit plans
+NBU11900000000000020389,2016,A01,7,,1,389,Percent of civilian workers participating in hard frozen defined benefit plans
+NBU11900000000000020389,2017,A01,7,,1,389,Percent of civilian workers participating in hard frozen defined benefit plans
+NBU11900000000000020389,2018,A01,7,,1,389,Percent of civilian workers participating in hard frozen defined benefit plans
+NBU11900000000000020389,2019,A01,7,,1,389,Percent of civilian workers participating in hard frozen defined benefit plans
+NBU11900000000000020389,2020,A01,8,,1,389,Percent of civilian workers participating in hard frozen defined benefit plans
+NBU11900000000000020389,2021,A01,8,,1,389,Percent of civilian workers participating in hard frozen defined benefit plans
+NBU11900000000000020389,2022,A01,7,,1,389,Percent of civilian workers participating in hard frozen defined benefit plans
+NBU11900000000000020389,2023,A01,7,,1,389,Percent of civilian workers participating in hard frozen defined benefit plans
+NBU11900000000000020389,2024,A01,8,,1,389,Percent of civilian workers participating in hard frozen defined benefit plans
+NBU11900000000000020389,2025,A01,8,,1,389,Percent of civilian workers participating in hard frozen defined benefit plans
+NBU11900000000000020389,2026,A01,7,,1,389,Percent of civilian workers participating in hard frozen defined benefit plans
+NBU11900000000000028290,2010,A01,31,,1,290,Percent of civilian workers with access to defined benefit plans
+NBU11900000000000028290,2011,A01,30,,1,290,Percent of civilian workers with access to defined benefit plans
+NBU11900000000000028290,2012,A01,29,,1,290,Percent of civilian workers with access to defined benefit plans
+NBU11900000000000028290,2013,A01,28,,1,290,Percent of civilian workers with access to defined benefit plans
+NBU11900000000000028290,2014,A01,28,,1,290,Percent of civilian workers with access to defined benefit plans
+NBU11900000000000028290,2015,A01,28,,1,290,Percent of civilian workers with access to defined benefit plans
+NBU11900000000000028290,2016,A01,27,,1,290,Percent of civilian workers with access to defined benefit plans
+NBU11900000000000028290,2017,A01,28,,1,290,Percent of civilian workers with access to defined benefit plans
+NBU11900000000000028290,2018,A01,26,,1,290,Percent of civilian workers with access to defined benefit plans
+NBU11900000000000028290,2019,A01,26,,1,290,Percent of civilian workers with access to defined benefit plans
+NBU11900000000000028290,2020,A01,25,,1,290,Percent of civilian workers with access to defined benefit plans
+NBU11900000000000028290,2021,A01,25,,1,290,Percent of civilian workers with access to defined benefit plans
+NBU11900000000000028290,2022,A01,25,,1,290,Percent of civilian workers with access to defined benefit plans
+NBU11900000000000028290,2023,A01,24,,1,290,Percent of civilian workers with access to defined benefit plans
+NBU11900000000000028290,2024,A01,24,,1,290,Percent of civilian workers with access to defined benefit plans
+NBU11900000000000028290,2025,A01,24,,1,290,Percent of civilian workers with access to defined benefit plans
+NBU11900000000000028290,2026,A01,24,,1,290,Percent of civilian workers with access to defined benefit plans
+NBU12000000000000028312,2010,A01,54,,1,312,Percent of civilian workers with access to defined contribution plans
+NBU12000000000000028312,2011,A01,54,,1,312,Percent of civilian workers with access to defined contribution plans
+NBU12000000000000028312,2012,A01,55,,1,312,Percent of civilian workers with access to defined contribution plans
+NBU12000000000000028312,2013,A01,55,,1,312,Percent of civilian workers with access to defined contribution plans
+NBU12000000000000028312,2014,A01,56,,1,312,Percent of civilian workers with access to defined contribution plans
+NBU12000000000000028312,2015,A01,57,,1,312,Percent of civilian workers with access to defined contribution plans
+NBU12000000000000028312,2016,A01,58,,1,312,Percent of civilian workers with access to defined contribution plans
+NBU12000000000000028312,2017,A01,59,,1,312,Percent of civilian workers with access to defined contribution plans
+NBU12000000000000028312,2018,A01,60,,1,312,Percent of civilian workers with access to defined contribution plans
+NBU12000000000000028312,2019,A01,60,,1,312,Percent of civilian workers with access to defined contribution plans
+NBU12000000000000028312,2020,A01,60,,1,312,Percent of civilian workers with access to defined contribution plans
+NBU12000000000000028312,2021,A01,61,,1,312,Percent of civilian workers with access to defined contribution plans
+NBU12000000000000028312,2022,A01,62,,1,312,Percent of civilian workers with access to defined contribution plans
+NBU12000000000000028312,2023,A01,63,,1,312,Percent of civilian workers with access to defined contribution plans
+NBU12000000000000028312,2024,A01,66,,1,312,Percent of civilian workers with access to defined contribution plans
+NBU12000000000000028312,2025,A01,65,,1,312,Percent of civilian workers with access to defined contribution plans
+NBU12000000000000028312,2026,A01,65,,1,312,Percent of civilian workers with access to defined contribution plans
+NBU19000000000000026291,2010,A01,28,,1,291,Percent of civilian workers participating in defined benefit plans
+NBU19000000000000026291,2011,A01,28,,1,291,Percent of civilian workers participating in defined benefit plans
+NBU19000000000000026291,2012,A01,26,,1,291,Percent of civilian workers participating in defined benefit plans
+NBU19000000000000026291,2013,A01,26,,1,291,Percent of civilian workers participating in defined benefit plans
+NBU19000000000000026291,2014,A01,25,,1,291,Percent of civilian workers participating in defined benefit plans
+NBU19000000000000026291,2015,A01,24,,1,291,Percent of civilian workers participating in defined benefit plans
+NBU19000000000000026291,2016,A01,23,,1,291,Percent of civilian workers participating in defined benefit plans
+NBU19000000000000026291,2017,A01,23,,1,291,Percent of civilian workers participating in defined benefit plans
+NBU19000000000000026291,2018,A01,22,,1,291,Percent of civilian workers participating in defined benefit plans
+NBU19000000000000026291,2019,A01,21,,1,291,Percent of civilian workers participating in defined benefit plans
+NBU19000000000000026291,2020,A01,20,,1,291,Percent of civilian workers participating in defined benefit plans
+NBU19000000000000026291,2021,A01,20,,1,291,Percent of civilian workers participating in defined benefit plans
+NBU19000000000000026291,2022,A01,20,,1,291,Percent of civilian workers participating in defined benefit plans
+NBU19000000000000026291,2023,A01,19,,1,291,Percent of civilian workers participating in defined benefit plans
+NBU19000000000000026291,2024,A01,19,,1,291,Percent of civilian workers participating in defined benefit plans
+NBU19000000000000026291,2025,A01,18,,1,291,Percent of civilian workers participating in defined benefit plans
+NBU19000000000000026291,2026,A01,18,,1,291,Percent of civilian workers participating in defined benefit plans
+NBU19000000000000026313,2010,A01,37,,1,313,Percent of civilian workers participating in defined contribution plans
+NBU19000000000000026313,2011,A01,37,,1,313,Percent of civilian workers participating in defined contribution plans
+NBU19000000000000026313,2012,A01,37,,1,313,Percent of civilian workers participating in defined contribution plans
+NBU19000000000000026313,2013,A01,38,,1,313,Percent of civilian workers participating in defined contribution plans
+NBU19000000000000026313,2014,A01,39,,1,313,Percent of civilian workers participating in defined contribution plans
+NBU19000000000000026313,2015,A01,40,,1,313,Percent of civilian workers participating in defined contribution plans
+NBU19000000000000026313,2016,A01,41,,1,313,Percent of civilian workers participating in defined contribution plans
+NBU19000000000000026313,2017,A01,41,,1,313,Percent of civilian workers participating in defined contribution plans
+NBU19000000000000026313,2018,A01,42,,1,313,Percent of civilian workers participating in defined contribution plans
+NBU19000000000000026313,2019,A01,43,,1,313,Percent of civilian workers participating in defined contribution plans
+NBU19000000000000026313,2020,A01,43,,1,313,Percent of civilian workers participating in defined contribution plans
+NBU19000000000000026313,2021,A01,43,,1,313,Percent of civilian workers participating in defined contribution plans
+NBU19000000000000026313,2022,A01,44,,1,313,Percent of civilian workers participating in defined contribution plans
+NBU19000000000000026313,2023,A01,45,,1,313,Percent of civilian workers participating in defined contribution plans
+NBU19000000000000026313,2024,A01,46,,1,313,Percent of civilian workers participating in defined contribution plans
+NBU19000000000000026313,2025,A01,45,,1,313,Percent of civilian workers participating in defined contribution plans
+NBU19000000000000026313,2026,A01,45,,1,313,Percent of civilian workers participating in defined contribution plans
+NBU19000000000000026320,2010,A01,55,,1,320,Percent of civilian workers participating in all retirement benefits
+NBU19000000000000026320,2011,A01,55,,1,320,Percent of civilian workers participating in all retirement benefits
+NBU19000000000000026320,2012,A01,54,,1,320,Percent of civilian workers participating in all retirement benefits
+NBU19000000000000026320,2013,A01,54,,1,320,Percent of civilian workers participating in all retirement benefits
+NBU19000000000000026320,2014,A01,54,,1,320,Percent of civilian workers participating in all retirement benefits
+NBU19000000000000026320,2015,A01,54,,1,320,Percent of civilian workers participating in all retirement benefits
+NBU19000000000000026320,2016,A01,55,,1,320,Percent of civilian workers participating in all retirement benefits
+NBU19000000000000026320,2017,A01,55,,1,320,Percent of civilian workers participating in all retirement benefits
+NBU19000000000000026320,2018,A01,55,,1,320,Percent of civilian workers participating in all retirement benefits
+NBU19000000000000026320,2019,A01,56,,1,320,Percent of civilian workers participating in all retirement benefits
+NBU19000000000000026320,2020,A01,55,,1,320,Percent of civilian workers participating in all retirement benefits
+NBU19000000000000026320,2021,A01,56,,1,320,Percent of civilian workers participating in all retirement benefits
+NBU19000000000000026320,2022,A01,56,,1,320,Percent of civilian workers participating in all retirement benefits
+NBU19000000000000026320,2023,A01,56,,1,320,Percent of civilian workers participating in all retirement benefits
+NBU19000000000000026320,2024,A01,57,,1,320,Percent of civilian workers participating in all retirement benefits
+NBU19000000000000026320,2025,A01,56,,1,320,Percent of civilian workers participating in all retirement benefits
+NBU19000000000000026320,2026,A01,56,,1,320,Percent of civilian workers participating in all retirement benefits
+NBU19000000000000028319,2010,A01,69,,1,319,Percent of civilian workers with access to all retirement benefits
+NBU19000000000000028319,2011,A01,68,,1,319,Percent of civilian workers with access to all retirement benefits
+NBU19000000000000028319,2012,A01,68,,1,319,Percent of civilian workers with access to all retirement benefits
+NBU19000000000000028319,2013,A01,68,,1,319,Percent of civilian workers with access to all retirement benefits
+NBU19000000000000028319,2014,A01,68,,1,319,Percent of civilian workers with access to all retirement benefits
+NBU19000000000000028319,2015,A01,69,,1,319,Percent of civilian workers with access to all retirement benefits
+NBU19000000000000028319,2016,A01,69,,1,319,Percent of civilian workers with access to all retirement benefits
+NBU19000000000000028319,2017,A01,70,,1,319,Percent of civilian workers with access to all retirement benefits
+NBU19000000000000028319,2018,A01,71,,1,319,Percent of civilian workers with access to all retirement benefits
+NBU19000000000000028319,2019,A01,71,,1,319,Percent of civilian workers with access to all retirement benefits
+NBU19000000000000028319,2020,A01,71,,1,319,Percent of civilian workers with access to all retirement benefits
+NBU19000000000000028319,2021,A01,72,,1,319,Percent of civilian workers with access to all retirement benefits
+NBU19000000000000028319,2022,A01,72,,1,319,Percent of civilian workers with access to all retirement benefits
+NBU19000000000000028319,2023,A01,73,,1,319,Percent of civilian workers with access to all retirement benefits
+NBU19000000000000028319,2024,A01,75,,1,319,Percent of civilian workers with access to all retirement benefits
+NBU19000000000000028319,2025,A01,75,,1,319,Percent of civilian workers with access to all retirement benefits
+NBU19000000000000028319,2026,A01,75,,1,319,Percent of civilian workers with access to all retirement benefits
+NBU19000000000000032292,2010,A01,92,,1,292,Take-up rate for defined benefit plans for civilian workers
+NBU19000000000000032292,2011,A01,92,,1,292,Take-up rate for defined benefit plans for civilian workers
+NBU19000000000000032292,2012,A01,91,,1,292,Take-up rate for defined benefit plans for civilian workers
+NBU19000000000000032292,2013,A01,91,,1,292,Take-up rate for defined benefit plans for civilian workers
+NBU19000000000000032292,2014,A01,88,,1,292,Take-up rate for defined benefit plans for civilian workers
+NBU19000000000000032292,2015,A01,86,,1,292,Take-up rate for defined benefit plans for civilian workers
+NBU19000000000000032292,2016,A01,85,,1,292,Take-up rate for defined benefit plans for civilian workers
+NBU19000000000000032292,2017,A01,84,,1,292,Take-up rate for defined benefit plans for civilian workers
+NBU19000000000000032292,2018,A01,83,,1,292,Take-up rate for defined benefit plans for civilian workers
+NBU19000000000000032292,2019,A01,82,,1,292,Take-up rate for defined benefit plans for civilian workers
+NBU19000000000000032292,2020,A01,81,,1,292,Take-up rate for defined benefit plans for civilian workers
+NBU19000000000000032292,2021,A01,80,,1,292,Take-up rate for defined benefit plans for civilian workers
+NBU19000000000000032292,2022,A01,80,,1,292,Take-up rate for defined benefit plans for civilian workers
+NBU19000000000000032292,2023,A01,80,,1,292,Take-up rate for defined benefit plans for civilian workers
+NBU19000000000000032292,2024,A01,78,,1,292,Take-up rate for defined benefit plans for civilian workers
+NBU19000000000000032292,2025,A01,77,,1,292,Take-up rate for defined benefit plans for civilian workers
+NBU19000000000000032292,2026,A01,77,,1,292,Take-up rate for defined benefit plans for civilian workers
+NBU19000000000000032314,2010,A01,69,,1,314,Take-up rate for defined contribution plans for civilian workers
+NBU19000000000000032314,2011,A01,69,,1,314,Take-up rate for defined contribution plans for civilian workers
+NBU19000000000000032314,2012,A01,68,,1,314,Take-up rate for defined contribution plans for civilian workers
+NBU19000000000000032314,2013,A01,70,,1,314,Take-up rate for defined contribution plans for civilian workers
+NBU19000000000000032314,2014,A01,69,,1,314,Take-up rate for defined contribution plans for civilian workers
+NBU19000000000000032314,2015,A01,70,,1,314,Take-up rate for defined contribution plans for civilian workers
+NBU19000000000000032314,2016,A01,71,,1,314,Take-up rate for defined contribution plans for civilian workers
+NBU19000000000000032314,2017,A01,70,,1,314,Take-up rate for defined contribution plans for civilian workers
+NBU19000000000000032314,2018,A01,71,,1,314,Take-up rate for defined contribution plans for civilian workers
+NBU19000000000000032314,2019,A01,72,,1,314,Take-up rate for defined contribution plans for civilian workers
+NBU19000000000000032314,2020,A01,71,,1,314,Take-up rate for defined contribution plans for civilian workers
+NBU19000000000000032314,2021,A01,71,,1,314,Take-up rate for defined contribution plans for civilian workers
+NBU19000000000000032314,2022,A01,71,,1,314,Take-up rate for defined contribution plans for civilian workers
+NBU19000000000000032314,2023,A01,71,,1,314,Take-up rate for defined contribution plans for civilian workers
+NBU19000000000000032314,2024,A01,70,,1,314,Take-up rate for defined contribution plans for civilian workers
+NBU19000000000000032314,2025,A01,69,,1,314,Take-up rate for defined contribution plans for civilian workers
+NBU19000000000000032314,2026,A01,69,,1,314,Take-up rate for defined contribution plans for civilian workers
+NBU19000000000000032321,2010,A01,80,,1,321,Take-up rate for all retirement benefits for civilian workers
+NBU19000000000000032321,2011,A01,80,,1,321,Take-up rate for all retirement benefits for civilian workers
+NBU19000000000000032321,2012,A01,79,,1,321,Take-up rate for all retirement benefits for civilian workers
+NBU19000000000000032321,2013,A01,80,,1,321,Take-up rate for all retirement benefits for civilian workers
+NBU19000000000000032321,2014,A01,79,,1,321,Take-up rate for all retirement benefits for civilian workers
+NBU19000000000000032321,2015,A01,78,,1,321,Take-up rate for all retirement benefits for civilian workers
+NBU19000000000000032321,2016,A01,79,,1,321,Take-up rate for all retirement benefits for civilian workers
+NBU19000000000000032321,2017,A01,79,,1,321,Take-up rate for all retirement benefits for civilian workers
+NBU19000000000000032321,2018,A01,78,,1,321,Take-up rate for all retirement benefits for civilian workers
+NBU19000000000000032321,2019,A01,79,,1,321,Take-up rate for all retirement benefits for civilian workers
+NBU19000000000000032321,2020,A01,78,,1,321,Take-up rate for all retirement benefits for civilian workers
+NBU19000000000000032321,2021,A01,78,,1,321,Take-up rate for all retirement benefits for civilian workers
+NBU19000000000000032321,2022,A01,77,,1,321,Take-up rate for all retirement benefits for civilian workers
+NBU19000000000000032321,2023,A01,77,,1,321,Take-up rate for all retirement benefits for civilian workers
+NBU19000000000000032321,2024,A01,76,,1,321,Take-up rate for all retirement benefits for civilian workers
+NBU19000000000000032321,2025,A01,75,,1,321,Take-up rate for all retirement benefits for civilian workers
+NBU19000000000000032321,2026,A01,75,,1,321,Take-up rate for all retirement benefits for civilian workers
+NBU21900000000000020298,2010,A01,78,,2,298,Percent of private industry workers participating in open defined benefit plans
+NBU21900000000000020298,2011,A01,75,,2,298,Percent of private industry workers participating in open defined benefit plans
+NBU21900000000000020298,2012,A01,75,,2,298,Percent of private industry workers participating in open defined benefit plans
+NBU21900000000000020298,2013,A01,74,,2,298,Percent of private industry workers participating in open defined benefit plans
+NBU21900000000000020298,2014,A01,68,,2,298,Percent of private industry workers participating in open defined benefit plans
+NBU21900000000000020298,2015,A01,63,,2,298,Percent of private industry workers participating in open defined benefit plans
+NBU21900000000000020298,2016,A01,62,,2,298,Percent of private industry workers participating in open defined benefit plans
+NBU21900000000000020298,2017,A01,63,,2,298,Percent of private industry workers participating in open defined benefit plans
+NBU21900000000000020298,2018,A01,61,,2,298,Percent of private industry workers participating in open defined benefit plans
+NBU21900000000000020298,2019,A01,62,,2,298,Percent of private industry workers participating in open defined benefit plans
+NBU21900000000000020298,2020,A01,57,,2,298,Percent of private industry workers participating in open defined benefit plans
+NBU21900000000000020298,2021,A01,57,,2,298,Percent of private industry workers participating in open defined benefit plans
+NBU21900000000000020298,2022,A01,59,,2,298,Percent of private industry workers participating in open defined benefit plans
+NBU21900000000000020298,2023,A01,60,,2,298,Percent of private industry workers participating in open defined benefit plans
+NBU21900000000000020298,2024,A01,59,,2,298,Percent of private industry workers participating in open defined benefit plans
+NBU21900000000000020298,2025,A01,57,,2,298,Percent of private industry workers participating in open defined benefit plans
+NBU21900000000000020298,2026,A01,63,,2,298,Percent of private industry workers participating in open defined benefit plans
+NBU21900000000000020299,2010,A01,22,,2,299,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans
+NBU21900000000000020299,2011,A01,25,,2,299,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans
+NBU21900000000000020299,2012,A01,25,,2,299,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans
+NBU21900000000000020299,2013,A01,26,,2,299,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans
+NBU21900000000000020300,2010,A01,71,,2,300,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans: all existing participants continue to accrue benefits
+NBU21900000000000020300,2011,A01,64,,2,300,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans: all existing participants continue to accrue benefits
+NBU21900000000000020300,2012,A01,62,,2,300,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans: all existing participants continue to accrue benefits
+NBU21900000000000020300,2013,A01,67,,2,300,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans: all existing participants continue to accrue benefits
+NBU21900000000000020301,2010,A01,7,,2,301,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans: some existing participants continue to accrue benefits
+NBU21900000000000020301,2011,A01,7,,2,301,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans: some existing participants continue to accrue benefits
+NBU21900000000000020301,2012,A01,7,,2,301,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans: some existing participants continue to accrue benefits
+NBU21900000000000020301,2013,A01,6,,2,301,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans: some existing participants continue to accrue benefits
+NBU21900000000000020302,2010,A01,22,,2,302,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans: no existing participants continue to accrue benefits
+NBU21900000000000020302,2011,A01,28,,2,302,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans: no existing participants continue to accrue benefits
+NBU21900000000000020302,2012,A01,31,,2,302,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans: no existing participants continue to accrue benefits
+NBU21900000000000020302,2013,A01,27,,2,302,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans: no existing participants continue to accrue benefits
+NBU21900000000000020387,2014,A01,21,,2,387,Percent of private industry workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU21900000000000020387,2015,A01,24,,2,387,Percent of private industry workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU21900000000000020387,2016,A01,23,,2,387,Percent of private industry workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU21900000000000020387,2017,A01,22,,2,387,Percent of private industry workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU21900000000000020387,2018,A01,22,,2,387,Percent of private industry workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU21900000000000020387,2019,A01,21,,2,387,Percent of private industry workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU21900000000000020387,2020,A01,23,,2,387,Percent of private industry workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU21900000000000020387,2021,A01,23,,2,387,Percent of private industry workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU21900000000000020387,2022,A01,23,,2,387,Percent of private industry workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU21900000000000020387,2023,A01,22,,2,387,Percent of private industry workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU21900000000000020387,2024,A01,23,,2,387,Percent of private industry workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU21900000000000020387,2025,A01,23,,2,387,Percent of private industry workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU21900000000000020387,2026,A01,21,,2,387,Percent of private industry workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU21900000000000020388,2014,A01,2,,2,388,Percent of private industry workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU21900000000000020388,2015,A01,2,,2,388,Percent of private industry workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU21900000000000020388,2016,A01,3,,2,388,Percent of private industry workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU21900000000000020388,2017,A01,3,,2,388,Percent of private industry workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU21900000000000020388,2018,A01,3,,2,388,Percent of private industry workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU21900000000000020388,2019,A01,3,,2,388,Percent of private industry workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU21900000000000020388,2020,A01,4,,2,388,Percent of private industry workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU21900000000000020388,2021,A01,4,,2,388,Percent of private industry workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU21900000000000020388,2022,A01,4,,2,388,Percent of private industry workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU21900000000000020388,2023,A01,3,,2,388,Percent of private industry workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU21900000000000020388,2024,A01,2,,2,388,Percent of private industry workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU21900000000000020388,2025,A01,1,,2,388,Percent of private industry workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU21900000000000020388,2026,A01,1,,2,388,Percent of private industry workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU21900000000000020389,2014,A01,9,,2,389,Percent of private industry workers participating in hard frozen defined benefit plans
+NBU21900000000000020389,2015,A01,11,,2,389,Percent of private industry workers participating in hard frozen defined benefit plans
+NBU21900000000000020389,2016,A01,12,,2,389,Percent of private industry workers participating in hard frozen defined benefit plans
+NBU21900000000000020389,2017,A01,12,,2,389,Percent of private industry workers participating in hard frozen defined benefit plans
+NBU21900000000000020389,2018,A01,14,,2,389,Percent of private industry workers participating in hard frozen defined benefit plans
+NBU21900000000000020389,2019,A01,14,,2,389,Percent of private industry workers participating in hard frozen defined benefit plans
+NBU21900000000000020389,2020,A01,16,,2,389,Percent of private industry workers participating in hard frozen defined benefit plans
+NBU21900000000000020389,2021,A01,15,,2,389,Percent of private industry workers participating in hard frozen defined benefit plans
+NBU21900000000000020389,2022,A01,15,,2,389,Percent of private industry workers participating in hard frozen defined benefit plans
+NBU21900000000000020389,2023,A01,14,,2,389,Percent of private industry workers participating in hard frozen defined benefit plans
+NBU21900000000000020389,2024,A01,17,,2,389,Percent of private industry workers participating in hard frozen defined benefit plans
+NBU21900000000000020389,2025,A01,19,,2,389,Percent of private industry workers participating in hard frozen defined benefit plans
+NBU21900000000000020389,2026,A01,15,,2,389,Percent of private industry workers participating in hard frozen defined benefit plans
+NBU21900000000000020804,2014,A01,57.00,,2,804,Percent of private industry workers participating in defined benefit plans open to new employees
+NBU21900000000000020804,2015,A01,59.00,,2,804,Percent of private industry workers participating in defined benefit plans open to new employees
+NBU21900000000000020804,2017,A01,53.00,,2,804,Percent of private industry workers participating in defined benefit plans open to new employees
+NBU21900000000000020804,2019,A01,54.00,,2,804,Percent of private industry workers participating in defined benefit plans open to new employees
+NBU21900000000000020804,2022,A01,37,,2,804,Percent of private industry workers participating in defined benefit plans open to new employees
+NBU21900000000000020805,2014,A01,43.00,,2,805,Percent of private industry workers participating in defined benefit plans not open to new employees
+NBU21900000000000020805,2015,A01,40.00,,2,805,Percent of private industry workers participating in defined benefit plans not open to new employees
+NBU21900000000000020805,2017,A01,47.00,,2,805,Percent of private industry workers participating in defined benefit plans not open to new employees
+NBU21900000000000020805,2019,A01,46.00,,2,805,Percent of private industry workers participating in defined benefit plans not open to new employees
+NBU21900000000000020805,2022,A01,63,,2,805,Percent of private industry workers participating in defined benefit plans not open to new employees
+NBU21900000000000028290,2010,A01,20,,2,290,Percent of private industry workers with access to defined benefit plans
+NBU21900000000000028290,2011,A01,20,,2,290,Percent of private industry workers with access to defined benefit plans
+NBU21900000000000028290,2012,A01,19,,2,290,Percent of private industry workers with access to defined benefit plans
+NBU21900000000000028290,2013,A01,19,,2,290,Percent of private industry workers with access to defined benefit plans
+NBU21900000000000028290,2014,A01,19,,2,290,Percent of private industry workers with access to defined benefit plans
+NBU21900000000000028290,2015,A01,18,,2,290,Percent of private industry workers with access to defined benefit plans
+NBU21900000000000028290,2016,A01,18,,2,290,Percent of private industry workers with access to defined benefit plans
+NBU21900000000000028290,2017,A01,18,,2,290,Percent of private industry workers with access to defined benefit plans
+NBU21900000000000028290,2018,A01,17,,2,290,Percent of private industry workers with access to defined benefit plans
+NBU21900000000000028290,2019,A01,16,,2,290,Percent of private industry workers with access to defined benefit plans
+NBU21900000000000028290,2020,A01,15,,2,290,Percent of private industry workers with access to defined benefit plans
+NBU21900000000000028290,2021,A01,15,,2,290,Percent of private industry workers with access to defined benefit plans
+NBU21900000000000028290,2022,A01,15,,2,290,Percent of private industry workers with access to defined benefit plans
+NBU21900000000000028290,2023,A01,15,,2,290,Percent of private industry workers with access to defined benefit plans
+NBU21900000000000028290,2024,A01,15,,2,290,Percent of private industry workers with access to defined benefit plans
+NBU21900000000000028290,2025,A01,14,,2,290,Percent of private industry workers with access to defined benefit plans
+NBU21900000000000028290,2026,A01,14,,2,290,Percent of private industry workers with access to defined benefit plans
+NBU22000000000000028312,2010,A01,59,,2,312,Percent of private industry workers with access to defined contribution plans
+NBU22000000000000028312,2011,A01,58,,2,312,Percent of private industry workers with access to defined contribution plans
+NBU22000000000000028312,2012,A01,59,,2,312,Percent of private industry workers with access to defined contribution plans
+NBU22000000000000028312,2013,A01,59,,2,312,Percent of private industry workers with access to defined contribution plans
+NBU22000000000000028312,2014,A01,60,,2,312,Percent of private industry workers with access to defined contribution plans
+NBU22000000000000028312,2015,A01,61,,2,312,Percent of private industry workers with access to defined contribution plans
+NBU22000000000000028312,2016,A01,62,,2,312,Percent of private industry workers with access to defined contribution plans
+NBU22000000000000028312,2017,A01,62,,2,312,Percent of private industry workers with access to defined contribution plans
+NBU22000000000000028312,2018,A01,64,,2,312,Percent of private industry workers with access to defined contribution plans
+NBU22000000000000028312,2019,A01,64,,2,312,Percent of private industry workers with access to defined contribution plans
+NBU22000000000000028312,2020,A01,64,,2,312,Percent of private industry workers with access to defined contribution plans
+NBU22000000000000028312,2021,A01,65,,2,312,Percent of private industry workers with access to defined contribution plans
+NBU22000000000000028312,2022,A01,66,,2,312,Percent of private industry workers with access to defined contribution plans
+NBU22000000000000028312,2023,A01,67,,2,312,Percent of private industry workers with access to defined contribution plans
+NBU22000000000000028312,2024,A01,70,,2,312,Percent of private industry workers with access to defined contribution plans
+NBU22000000000000028312,2025,A01,70,,2,312,Percent of private industry workers with access to defined contribution plans
+NBU22000000000000028312,2026,A01,70,,2,312,Percent of private industry workers with access to defined contribution plans
+NBU29000000000000026291,2010,A01,19,,2,291,Percent of private industry workers participating in defined benefit plans
+NBU29000000000000026291,2011,A01,18,,2,291,Percent of private industry workers participating in defined benefit plans
+NBU29000000000000026291,2012,A01,17,,2,291,Percent of private industry workers participating in defined benefit plans
+NBU29000000000000026291,2013,A01,16,,2,291,Percent of private industry workers participating in defined benefit plans
+NBU29000000000000026291,2014,A01,16,,2,291,Percent of private industry workers participating in defined benefit plans
+NBU29000000000000026291,2015,A01,16,,2,291,Percent of private industry workers participating in defined benefit plans
+NBU29000000000000026291,2016,A01,15,,2,291,Percent of private industry workers participating in defined benefit plans
+NBU29000000000000026291,2017,A01,15,,2,291,Percent of private industry workers participating in defined benefit plans
+NBU29000000000000026291,2018,A01,13,,2,291,Percent of private industry workers participating in defined benefit plans
+NBU29000000000000026291,2019,A01,12,,2,291,Percent of private industry workers participating in defined benefit plans
+NBU29000000000000026291,2020,A01,11,,2,291,Percent of private industry workers participating in defined benefit plans
+NBU29000000000000026291,2021,A01,11,,2,291,Percent of private industry workers participating in defined benefit plans
+NBU29000000000000026291,2022,A01,11,,2,291,Percent of private industry workers participating in defined benefit plans
+NBU29000000000000026291,2023,A01,11,,2,291,Percent of private industry workers participating in defined benefit plans
+NBU29000000000000026291,2024,A01,10,,2,291,Percent of private industry workers participating in defined benefit plans
+NBU29000000000000026291,2025,A01,9,,2,291,Percent of private industry workers participating in defined benefit plans
+NBU29000000000000026291,2026,A01,9,,2,291,Percent of private industry workers participating in defined benefit plans
+NBU29000000000000026313,2010,A01,41,,2,313,Percent of private industry workers participating in defined contribution plans
+NBU29000000000000026313,2011,A01,41,,2,313,Percent of private industry workers participating in defined contribution plans
+NBU29000000000000026313,2012,A01,41,,2,313,Percent of private industry workers participating in defined contribution plans
+NBU29000000000000026313,2013,A01,42,,2,313,Percent of private industry workers participating in defined contribution plans
+NBU29000000000000026313,2014,A01,43,,2,313,Percent of private industry workers participating in defined contribution plans
+NBU29000000000000026313,2015,A01,44,,2,313,Percent of private industry workers participating in defined contribution plans
+NBU29000000000000026313,2016,A01,45,,2,313,Percent of private industry workers participating in defined contribution plans
+NBU29000000000000026313,2017,A01,45,,2,313,Percent of private industry workers participating in defined contribution plans
+NBU29000000000000026313,2018,A01,47,,2,313,Percent of private industry workers participating in defined contribution plans
+NBU29000000000000026313,2019,A01,47,,2,313,Percent of private industry workers participating in defined contribution plans
+NBU29000000000000026313,2020,A01,47,,2,313,Percent of private industry workers participating in defined contribution plans
+NBU29000000000000026313,2021,A01,47,,2,313,Percent of private industry workers participating in defined contribution plans
+NBU29000000000000026313,2022,A01,48,,2,313,Percent of private industry workers participating in defined contribution plans
+NBU29000000000000026313,2023,A01,49,,2,313,Percent of private industry workers participating in defined contribution plans
+NBU29000000000000026313,2024,A01,50,,2,313,Percent of private industry workers participating in defined contribution plans
+NBU29000000000000026313,2025,A01,50,,2,313,Percent of private industry workers participating in defined contribution plans
+NBU29000000000000026313,2026,A01,49,,2,313,Percent of private industry workers participating in defined contribution plans
+NBU29000000000000026320,2010,A01,50,,2,320,Percent of private industry workers participating in all retirement benefits
+NBU29000000000000026320,2011,A01,49,,2,320,Percent of private industry workers participating in all retirement benefits
+NBU29000000000000026320,2012,A01,48,,2,320,Percent of private industry workers participating in all retirement benefits
+NBU29000000000000026320,2013,A01,49,,2,320,Percent of private industry workers participating in all retirement benefits
+NBU29000000000000026320,2014,A01,49,,2,320,Percent of private industry workers participating in all retirement benefits
+NBU29000000000000026320,2015,A01,50,,2,320,Percent of private industry workers participating in all retirement benefits
+NBU29000000000000026320,2016,A01,50,,2,320,Percent of private industry workers participating in all retirement benefits
+NBU29000000000000026320,2017,A01,51,,2,320,Percent of private industry workers participating in all retirement benefits
+NBU29000000000000026320,2018,A01,51,,2,320,Percent of private industry workers participating in all retirement benefits
+NBU29000000000000026320,2019,A01,52,,2,320,Percent of private industry workers participating in all retirement benefits
+NBU29000000000000026320,2020,A01,51,,2,320,Percent of private industry workers participating in all retirement benefits
+NBU29000000000000026320,2021,A01,51,,2,320,Percent of private industry workers participating in all retirement benefits
+NBU29000000000000026320,2022,A01,52,,2,320,Percent of private industry workers participating in all retirement benefits
+NBU29000000000000026320,2023,A01,53,,2,320,Percent of private industry workers participating in all retirement benefits
+NBU29000000000000026320,2024,A01,53,,2,320,Percent of private industry workers participating in all retirement benefits
+NBU29000000000000026320,2025,A01,53,,2,320,Percent of private industry workers participating in all retirement benefits
+NBU29000000000000026320,2026,A01,52,,2,320,Percent of private industry workers participating in all retirement benefits
+NBU29000000000000028319,2010,A01,65,,2,319,Percent of private industry workers with access to all retirement benefits
+NBU29000000000000028319,2011,A01,64,,2,319,Percent of private industry workers with access to all retirement benefits
+NBU29000000000000028319,2012,A01,65,,2,319,Percent of private industry workers with access to all retirement benefits
+NBU29000000000000028319,2013,A01,64,,2,319,Percent of private industry workers with access to all retirement benefits
+NBU29000000000000028319,2014,A01,65,,2,319,Percent of private industry workers with access to all retirement benefits
+NBU29000000000000028319,2015,A01,66,,2,319,Percent of private industry workers with access to all retirement benefits
+NBU29000000000000028319,2016,A01,66,,2,319,Percent of private industry workers with access to all retirement benefits
+NBU29000000000000028319,2017,A01,66,,2,319,Percent of private industry workers with access to all retirement benefits
+NBU29000000000000028319,2018,A01,68,,2,319,Percent of private industry workers with access to all retirement benefits
+NBU29000000000000028319,2019,A01,67,,2,319,Percent of private industry workers with access to all retirement benefits
+NBU29000000000000028319,2020,A01,67,,2,319,Percent of private industry workers with access to all retirement benefits
+NBU29000000000000028319,2021,A01,68,,2,319,Percent of private industry workers with access to all retirement benefits
+NBU29000000000000028319,2022,A01,69,,2,319,Percent of private industry workers with access to all retirement benefits
+NBU29000000000000028319,2023,A01,70,,2,319,Percent of private industry workers with access to all retirement benefits
+NBU29000000000000028319,2024,A01,72,,2,319,Percent of private industry workers with access to all retirement benefits
+NBU29000000000000028319,2025,A01,72,,2,319,Percent of private industry workers with access to all retirement benefits
+NBU29000000000000028319,2026,A01,72,,2,319,Percent of private industry workers with access to all retirement benefits
+NBU29000000000000032292,2010,A01,91,,2,292,Take-up rate for defined benefit plans for private industry workers
+NBU29000000000000032292,2011,A01,91,,2,292,Take-up rate for defined benefit plans for private industry workers
+NBU29000000000000032292,2012,A01,89,,2,292,Take-up rate for defined benefit plans for private industry workers
+NBU29000000000000032292,2013,A01,88,,2,292,Take-up rate for defined benefit plans for private industry workers
+NBU29000000000000032292,2014,A01,87,,2,292,Take-up rate for defined benefit plans for private industry workers
+NBU29000000000000032292,2015,A01,84,,2,292,Take-up rate for defined benefit plans for private industry workers
+NBU29000000000000032292,2016,A01,83,,2,292,Take-up rate for defined benefit plans for private industry workers
+NBU29000000000000032292,2017,A01,81,,2,292,Take-up rate for defined benefit plans for private industry workers
+NBU29000000000000032292,2018,A01,78,,2,292,Take-up rate for defined benefit plans for private industry workers
+NBU29000000000000032292,2019,A01,76,,2,292,Take-up rate for defined benefit plans for private industry workers
+NBU29000000000000032292,2020,A01,74,,2,292,Take-up rate for defined benefit plans for private industry workers
+NBU29000000000000032292,2021,A01,74,,2,292,Take-up rate for defined benefit plans for private industry workers
+NBU29000000000000032292,2022,A01,74,,2,292,Take-up rate for defined benefit plans for private industry workers
+NBU29000000000000032292,2023,A01,74,,2,292,Take-up rate for defined benefit plans for private industry workers
+NBU29000000000000032292,2024,A01,70,,2,292,Take-up rate for defined benefit plans for private industry workers
+NBU29000000000000032292,2025,A01,67,,2,292,Take-up rate for defined benefit plans for private industry workers
+NBU29000000000000032292,2026,A01,68,,2,292,Take-up rate for defined benefit plans for private industry workers
+NBU29000000000000032314,2010,A01,70,,2,314,Take-up rate for defined contribution plans for private industry workers
+NBU29000000000000032314,2011,A01,70,,2,314,Take-up rate for defined contribution plans for private industry workers
+NBU29000000000000032314,2012,A01,70,,2,314,Take-up rate for defined contribution plans for private industry workers
+NBU29000000000000032314,2013,A01,72,,2,314,Take-up rate for defined contribution plans for private industry workers
+NBU29000000000000032314,2014,A01,71,,2,314,Take-up rate for defined contribution plans for private industry workers
+NBU29000000000000032314,2015,A01,72,,2,314,Take-up rate for defined contribution plans for private industry workers
+NBU29000000000000032314,2016,A01,73,,2,314,Take-up rate for defined contribution plans for private industry workers
+NBU29000000000000032314,2017,A01,73,,2,314,Take-up rate for defined contribution plans for private industry workers
+NBU29000000000000032314,2018,A01,73,,2,314,Take-up rate for defined contribution plans for private industry workers
+NBU29000000000000032314,2019,A01,74,,2,314,Take-up rate for defined contribution plans for private industry workers
+NBU29000000000000032314,2020,A01,74,,2,314,Take-up rate for defined contribution plans for private industry workers
+NBU29000000000000032314,2021,A01,73,,2,314,Take-up rate for defined contribution plans for private industry workers
+NBU29000000000000032314,2022,A01,73,,2,314,Take-up rate for defined contribution plans for private industry workers
+NBU29000000000000032314,2023,A01,73,,2,314,Take-up rate for defined contribution plans for private industry workers
+NBU29000000000000032314,2024,A01,71,,2,314,Take-up rate for defined contribution plans for private industry workers
+NBU29000000000000032314,2025,A01,71,,2,314,Take-up rate for defined contribution plans for private industry workers
+NBU29000000000000032314,2026,A01,70,,2,314,Take-up rate for defined contribution plans for private industry workers
+NBU29000000000000032321,2010,A01,76,,2,321,Take-up rate for all retirement benefits for private industry workers
+NBU29000000000000032321,2011,A01,76,,2,321,Take-up rate for all retirement benefits for private industry workers
+NBU29000000000000032321,2012,A01,75,,2,321,Take-up rate for all retirement benefits for private industry workers
+NBU29000000000000032321,2013,A01,76,,2,321,Take-up rate for all retirement benefits for private industry workers
+NBU29000000000000032321,2014,A01,76,,2,321,Take-up rate for all retirement benefits for private industry workers
+NBU29000000000000032321,2015,A01,75,,2,321,Take-up rate for all retirement benefits for private industry workers
+NBU29000000000000032321,2016,A01,76,,2,321,Take-up rate for all retirement benefits for private industry workers
+NBU29000000000000032321,2017,A01,76,,2,321,Take-up rate for all retirement benefits for private industry workers
+NBU29000000000000032321,2018,A01,76,,2,321,Take-up rate for all retirement benefits for private industry workers
+NBU29000000000000032321,2019,A01,77,,2,321,Take-up rate for all retirement benefits for private industry workers
+NBU29000000000000032321,2020,A01,76,,2,321,Take-up rate for all retirement benefits for private industry workers
+NBU29000000000000032321,2021,A01,75,,2,321,Take-up rate for all retirement benefits for private industry workers
+NBU29000000000000032321,2022,A01,75,,2,321,Take-up rate for all retirement benefits for private industry workers
+NBU29000000000000032321,2023,A01,75,,2,321,Take-up rate for all retirement benefits for private industry workers
+NBU29000000000000032321,2024,A01,73,,2,321,Take-up rate for all retirement benefits for private industry workers
+NBU29000000000000032321,2025,A01,73,,2,321,Take-up rate for all retirement benefits for private industry workers
+NBU29000000000000032321,2026,A01,72,,2,321,Take-up rate for all retirement benefits for private industry workers
+NBU31900000000000020298,2010,A01,91,,3,298,Percent of state and local government workers participating in open defined benefit plans
+NBU31900000000000020298,2011,A01,89,,3,298,Percent of state and local government workers participating in open defined benefit plans
+NBU31900000000000020298,2014,A01,40,,3,298,Percent of state and local government workers participating in open defined benefit plans
+NBU31900000000000020298,2015,A01,40,,3,298,Percent of state and local government workers participating in open defined benefit plans
+NBU31900000000000020298,2016,A01,41,,3,298,Percent of state and local government workers participating in open defined benefit plans
+NBU31900000000000020298,2017,A01,44,,3,298,Percent of state and local government workers participating in open defined benefit plans
+NBU31900000000000020298,2018,A01,43,,3,298,Percent of state and local government workers participating in open defined benefit plans
+NBU31900000000000020298,2019,A01,44,,3,298,Percent of state and local government workers participating in open defined benefit plans
+NBU31900000000000020298,2020,A01,45,,3,298,Percent of state and local government workers participating in open defined benefit plans
+NBU31900000000000020298,2021,A01,45,,3,298,Percent of state and local government workers participating in open defined benefit plans
+NBU31900000000000020298,2022,A01,47,,3,298,Percent of state and local government workers participating in open defined benefit plans
+NBU31900000000000020298,2023,A01,46,,3,298,Percent of state and local government workers participating in open defined benefit plans
+NBU31900000000000020298,2024,A01,48,,3,298,Percent of state and local government workers participating in open defined benefit plans
+NBU31900000000000020298,2025,A01,49,,3,298,Percent of state and local government workers participating in open defined benefit plans
+NBU31900000000000020298,2026,A01,49,,3,298,Percent of state and local government workers participating in open defined benefit plans
+NBU31900000000000020299,2010,A01,9,,3,299,Percent of state and local government workers participating in retirement benefits: defined benefit plans with frozen plans
+NBU31900000000000020299,2011,A01,11,,3,299,Percent of state and local government workers participating in retirement benefits: defined benefit plans with frozen plans
+NBU31900000000000020300,2010,A01,99,,3,300,Percent of state and local government workers participating in retirement benefits: defined benefit plans with frozen plans: all existing participants continue to accrue benefits
+NBU31900000000000020300,2011,A01,99,,3,300,Percent of state and local government workers participating in retirement benefits: defined benefit plans with frozen plans: all existing participants continue to accrue benefits
+NBU31900000000000020387,2014,A01,60,,3,387,Percent of state and local government workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU31900000000000020387,2015,A01,60,,3,387,Percent of state and local government workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU31900000000000020387,2016,A01,59,,3,387,Percent of state and local government workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU31900000000000020387,2017,A01,56,,3,387,Percent of state and local government workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU31900000000000020387,2018,A01,56,,3,387,Percent of state and local government workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU31900000000000020387,2019,A01,56,,3,387,Percent of state and local government workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU31900000000000020387,2020,A01,55,,3,387,Percent of state and local government workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU31900000000000020387,2021,A01,54,,3,387,Percent of state and local government workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU31900000000000020387,2022,A01,53,,3,387,Percent of state and local government workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU31900000000000020387,2023,A01,54,,3,387,Percent of state and local government workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU31900000000000020387,2024,A01,52,,3,387,Percent of state and local government workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU31900000000000020387,2025,A01,51,,3,387,Percent of state and local government workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU31900000000000020387,2026,A01,50,,3,387,Percent of state and local government workers participating in soft frozen defined benefit plans with all participants still accruing benefits
+NBU31900000000000020388,2014,A01,-,1,3,388,Percent of state and local government workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU31900000000000020388,2015,A01,-,1,3,388,Percent of state and local government workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU31900000000000020388,2016,A01,-,1,3,388,Percent of state and local government workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU31900000000000020388,2017,A01,-,1,3,388,Percent of state and local government workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU31900000000000020388,2018,A01,-,1,3,388,Percent of state and local government workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU31900000000000020388,2019,A01,-,1,3,388,Percent of state and local government workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU31900000000000020388,2020,A01,-,1,3,388,Percent of state and local government workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU31900000000000020388,2021,A01,0,1,3,388,Percent of state and local government workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU31900000000000020388,2022,A01,-,1,3,388,Percent of state and local government workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU31900000000000020388,2023,A01,-,1,3,388,Percent of state and local government workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU31900000000000020388,2024,A01,-,1,3,388,Percent of state and local government workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU31900000000000020388,2025,A01,-,1,3,388,Percent of state and local government workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU31900000000000020388,2026,A01,-,1,3,388,Percent of state and local government workers participating in soft frozen defined benefit plans with some participants still accruing benefits
+NBU31900000000000020389,2014,A01,-,1,3,389,Percent of state and local government workers participating in hard frozen defined benefit plans
+NBU31900000000000020389,2015,A01,-,1,3,389,Percent of state and local government workers participating in hard frozen defined benefit plans
+NBU31900000000000020389,2016,A01,-,1,3,389,Percent of state and local government workers participating in hard frozen defined benefit plans
+NBU31900000000000020389,2017,A01,-,1,3,389,Percent of state and local government workers participating in hard frozen defined benefit plans
+NBU31900000000000020389,2018,A01,-,1,3,389,Percent of state and local government workers participating in hard frozen defined benefit plans
+NBU31900000000000020389,2019,A01,-,1,3,389,Percent of state and local government workers participating in hard frozen defined benefit plans
+NBU31900000000000020389,2020,A01,-,1,3,389,Percent of state and local government workers participating in hard frozen defined benefit plans
+NBU31900000000000020389,2021,A01,0,1,3,389,Percent of state and local government workers participating in hard frozen defined benefit plans
+NBU31900000000000020389,2022,A01,-,1,3,389,Percent of state and local government workers participating in hard frozen defined benefit plans
+NBU31900000000000020389,2023,A01,-,1,3,389,Percent of state and local government workers participating in hard frozen defined benefit plans
+NBU31900000000000020389,2024,A01,-,1,3,389,Percent of state and local government workers participating in hard frozen defined benefit plans
+NBU31900000000000020389,2025,A01,-,1,3,389,Percent of state and local government workers participating in hard frozen defined benefit plans
+NBU31900000000000020389,2026,A01,-,1,3,389,Percent of state and local government workers participating in hard frozen defined benefit plans
+NBU31900000000000020804,2016,A01,43.00,,3,804,Percent of workers participating in retirement benefits: defined benefit plans with plans open to new employees
+NBU31900000000000020805,2016,A01,57.00,,3,805,Percent of workers participating in retirement benefits: defined benefit plans with plans not open to new employees
+NBU31900000000000028290,2010,A01,84,,3,290,Percent of state and local government workers with access to defined benefit plans
+NBU31900000000000028290,2011,A01,84,,3,290,Percent of state and local government workers with access to defined benefit plans
+NBU31900000000000028290,2012,A01,83,,3,290,Percent of state and local government workers with access to defined benefit plans
+NBU31900000000000028290,2013,A01,83,,3,290,Percent of state and local government workers with access to defined benefit plans
+NBU31900000000000028290,2014,A01,83,,3,290,Percent of state and local government workers with access to defined benefit plans
+NBU31900000000000028290,2015,A01,84,,3,290,Percent of state and local government workers with access to defined benefit plans
+NBU31900000000000028290,2016,A01,85,,3,290,Percent of state and local government workers with access to defined benefit plans
+NBU31900000000000028290,2017,A01,86,,3,290,Percent of state and local government workers with access to defined benefit plans
+NBU31900000000000028290,2018,A01,86,,3,290,Percent of state and local government workers with access to defined benefit plans
+NBU31900000000000028290,2019,A01,86,,3,290,Percent of state and local government workers with access to defined benefit plans
+NBU31900000000000028290,2020,A01,86,,3,290,Percent of state and local government workers with access to defined benefit plans
+NBU31900000000000028290,2021,A01,86,,3,290,Percent of state and local government workers with access to defined benefit plans
+NBU31900000000000028290,2022,A01,86,,3,290,Percent of state and local government workers with access to defined benefit plans
+NBU31900000000000028290,2023,A01,86,,3,290,Percent of state and local government workers with access to defined benefit plans
+NBU31900000000000028290,2024,A01,86,,3,290,Percent of state and local government workers with access to defined benefit plans
+NBU31900000000000028290,2025,A01,86,,3,290,Percent of state and local government workers with access to defined benefit plans
+NBU31900000000000028290,2026,A01,86,,3,290,Percent of state and local government workers with access to defined benefit plans
+NBU32000000000000028312,2010,A01,29,,3,312,Percent of state and local government workers with access to defined contribution plans
+NBU32000000000000028312,2011,A01,30,,3,312,Percent of state and local government workers with access to defined contribution plans
+NBU32000000000000028312,2012,A01,31,,3,312,Percent of state and local government workers with access to defined contribution plans
+NBU32000000000000028312,2013,A01,32,,3,312,Percent of state and local government workers with access to defined contribution plans
+NBU32000000000000028312,2014,A01,33,,3,312,Percent of state and local government workers with access to defined contribution plans
+NBU32000000000000028312,2015,A01,33,,3,312,Percent of state and local government workers with access to defined contribution plans
+NBU32000000000000028312,2016,A01,33,,3,312,Percent of state and local government workers with access to defined contribution plans
+NBU32000000000000028312,2017,A01,37,,3,312,Percent of state and local government workers with access to defined contribution plans
+NBU32000000000000028312,2018,A01,37,,3,312,Percent of state and local government workers with access to defined contribution plans
+NBU32000000000000028312,2019,A01,37,,3,312,Percent of state and local government workers with access to defined contribution plans
+NBU32000000000000028312,2020,A01,37,,3,312,Percent of state and local government workers with access to defined contribution plans
+NBU32000000000000028312,2021,A01,38,,3,312,Percent of state and local government workers with access to defined contribution plans
+NBU32000000000000028312,2022,A01,39,,3,312,Percent of state and local government workers with access to defined contribution plans
+NBU32000000000000028312,2023,A01,39,,3,312,Percent of state and local government workers with access to defined contribution plans
+NBU32000000000000028312,2024,A01,39,,3,312,Percent of state and local government workers with access to defined contribution plans
+NBU32000000000000028312,2025,A01,38,,3,312,Percent of state and local government workers with access to defined contribution plans
+NBU32000000000000028312,2026,A01,39,,3,312,Percent of state and local government workers with access to defined contribution plans
+NBU39000000000000026291,2010,A01,79,,3,291,Percent of state and local government workers participating in defined benefit plans
+NBU39000000000000026291,2011,A01,78,,3,291,Percent of state and local government workers participating in defined benefit plans
+NBU39000000000000026291,2012,A01,78,,3,291,Percent of state and local government workers participating in defined benefit plans
+NBU39000000000000026291,2013,A01,78,,3,291,Percent of state and local government workers participating in defined benefit plans
+NBU39000000000000026291,2014,A01,75,,3,291,Percent of state and local government workers participating in defined benefit plans
+NBU39000000000000026291,2015,A01,75,,3,291,Percent of state and local government workers participating in defined benefit plans
+NBU39000000000000026291,2016,A01,75,,3,291,Percent of state and local government workers participating in defined benefit plans
+NBU39000000000000026291,2017,A01,76,,3,291,Percent of state and local government workers participating in defined benefit plans
+NBU39000000000000026291,2018,A01,77,,3,291,Percent of state and local government workers participating in defined benefit plans
+NBU39000000000000026291,2019,A01,76,,3,291,Percent of state and local government workers participating in defined benefit plans
+NBU39000000000000026291,2020,A01,76,,3,291,Percent of state and local government workers participating in defined benefit plans
+NBU39000000000000026291,2021,A01,75,,3,291,Percent of state and local government workers participating in defined benefit plans
+NBU39000000000000026291,2022,A01,75,,3,291,Percent of state and local government workers participating in defined benefit plans
+NBU39000000000000026291,2023,A01,75,,3,291,Percent of state and local government workers participating in defined benefit plans
+NBU39000000000000026291,2024,A01,75,,3,291,Percent of state and local government workers participating in defined benefit plans
+NBU39000000000000026291,2025,A01,74,,3,291,Percent of state and local government workers participating in defined benefit plans
+NBU39000000000000026291,2026,A01,75,,3,291,Percent of state and local government workers participating in defined benefit plans
+NBU39000000000000026313,2010,A01,17,,3,313,Percent of state and local government workers participating in defined contribution plans
+NBU39000000000000026313,2011,A01,17,,3,313,Percent of state and local government workers participating in defined contribution plans
+NBU39000000000000026313,2012,A01,15,,3,313,Percent of state and local government workers participating in defined contribution plans
+NBU39000000000000026313,2013,A01,15,,3,313,Percent of state and local government workers participating in defined contribution plans
+NBU39000000000000026313,2014,A01,16,,3,313,Percent of state and local government workers participating in defined contribution plans
+NBU39000000000000026313,2015,A01,15,,3,313,Percent of state and local government workers participating in defined contribution plans
+NBU39000000000000026313,2016,A01,15,,3,313,Percent of state and local government workers participating in defined contribution plans
+NBU39000000000000026313,2017,A01,16,,3,313,Percent of state and local government workers participating in defined contribution plans
+NBU39000000000000026313,2018,A01,17,,3,313,Percent of state and local government workers participating in defined contribution plans
+NBU39000000000000026313,2019,A01,17,,3,313,Percent of state and local government workers participating in defined contribution plans
+NBU39000000000000026313,2020,A01,18,,3,313,Percent of state and local government workers participating in defined contribution plans
+NBU39000000000000026313,2021,A01,18,,3,313,Percent of state and local government workers participating in defined contribution plans
+NBU39000000000000026313,2022,A01,19,,3,313,Percent of state and local government workers participating in defined contribution plans
+NBU39000000000000026313,2023,A01,18,,3,313,Percent of state and local government workers participating in defined contribution plans
+NBU39000000000000026313,2024,A01,20,,3,313,Percent of state and local government workers participating in defined contribution plans
+NBU39000000000000026313,2025,A01,19,,3,313,Percent of state and local government workers participating in defined contribution plans
+NBU39000000000000026313,2026,A01,20,,3,313,Percent of state and local government workers participating in defined contribution plans
+NBU39000000000000026320,2010,A01,85,,3,320,Percent of state and local government workers participating in all retirement benefits
+NBU39000000000000026320,2011,A01,85,,3,320,Percent of state and local government workers participating in all retirement benefits
+NBU39000000000000026320,2012,A01,84,,3,320,Percent of state and local government workers participating in all retirement benefits
+NBU39000000000000026320,2013,A01,85,,3,320,Percent of state and local government workers participating in all retirement benefits
+NBU39000000000000026320,2014,A01,81,,3,320,Percent of state and local government workers participating in all retirement benefits
+NBU39000000000000026320,2015,A01,81,,3,320,Percent of state and local government workers participating in all retirement benefits
+NBU39000000000000026320,2016,A01,81,,3,320,Percent of state and local government workers participating in all retirement benefits
+NBU39000000000000026320,2017,A01,82,,3,320,Percent of state and local government workers participating in all retirement benefits
+NBU39000000000000026320,2018,A01,83,,3,320,Percent of state and local government workers participating in all retirement benefits
+NBU39000000000000026320,2019,A01,83,,3,320,Percent of state and local government workers participating in all retirement benefits
+NBU39000000000000026320,2020,A01,83,,3,320,Percent of state and local government workers participating in all retirement benefits
+NBU39000000000000026320,2021,A01,82,,3,320,Percent of state and local government workers participating in all retirement benefits
+NBU39000000000000026320,2022,A01,82,,3,320,Percent of state and local government workers participating in all retirement benefits
+NBU39000000000000026320,2023,A01,81,,3,320,Percent of state and local government workers participating in all retirement benefits
+NBU39000000000000026320,2024,A01,82,,3,320,Percent of state and local government workers participating in all retirement benefits
+NBU39000000000000026320,2025,A01,81,,3,320,Percent of state and local government workers participating in all retirement benefits
+NBU39000000000000026320,2026,A01,81,,3,320,Percent of state and local government workers participating in all retirement benefits
+NBU39000000000000028319,2010,A01,90,,3,319,Percent of state and local government workers with access to all retirement benefits
+NBU39000000000000028319,2011,A01,90,,3,319,Percent of state and local government workers with access to all retirement benefits
+NBU39000000000000028319,2012,A01,89,,3,319,Percent of state and local government workers with access to all retirement benefits
+NBU39000000000000028319,2013,A01,89,,3,319,Percent of state and local government workers with access to all retirement benefits
+NBU39000000000000028319,2014,A01,89,,3,319,Percent of state and local government workers with access to all retirement benefits
+NBU39000000000000028319,2015,A01,90,,3,319,Percent of state and local government workers with access to all retirement benefits
+NBU39000000000000028319,2016,A01,90,,3,319,Percent of state and local government workers with access to all retirement benefits
+NBU39000000000000028319,2017,A01,91,,3,319,Percent of state and local government workers with access to all retirement benefits
+NBU39000000000000028319,2018,A01,91,,3,319,Percent of state and local government workers with access to all retirement benefits
+NBU39000000000000028319,2019,A01,91,,3,319,Percent of state and local government workers with access to all retirement benefits
+NBU39000000000000028319,2020,A01,91,,3,319,Percent of state and local government workers with access to all retirement benefits
+NBU39000000000000028319,2021,A01,92,,3,319,Percent of state and local government workers with access to all retirement benefits
+NBU39000000000000028319,2022,A01,92,,3,319,Percent of state and local government workers with access to all retirement benefits
+NBU39000000000000028319,2023,A01,91,,3,319,Percent of state and local government workers with access to all retirement benefits
+NBU39000000000000028319,2024,A01,92,,3,319,Percent of state and local government workers with access to all retirement benefits
+NBU39000000000000028319,2025,A01,92,,3,319,Percent of state and local government workers with access to all retirement benefits
+NBU39000000000000028319,2026,A01,92,,3,319,Percent of state and local government workers with access to all retirement benefits
+NBU39000000000000032292,2010,A01,94,,3,292,Take-up rate for defined benefit plans for state and local government workers
+NBU39000000000000032292,2011,A01,94,,3,292,Take-up rate for defined benefit plans for state and local government workers
+NBU39000000000000032292,2012,A01,94,,3,292,Take-up rate for defined benefit plans for state and local government workers
+NBU39000000000000032292,2013,A01,94,,3,292,Take-up rate for defined benefit plans for state and local government workers
+NBU39000000000000032292,2014,A01,89,,3,292,Take-up rate for defined benefit plans for state and local government workers
+NBU39000000000000032292,2015,A01,89,,3,292,Take-up rate for defined benefit plans for state and local government workers
+NBU39000000000000032292,2016,A01,88,,3,292,Take-up rate for defined benefit plans for state and local government workers
+NBU39000000000000032292,2017,A01,89,,3,292,Take-up rate for defined benefit plans for state and local government workers
+NBU39000000000000032292,2018,A01,89,,3,292,Take-up rate for defined benefit plans for state and local government workers
+NBU39000000000000032292,2019,A01,89,,3,292,Take-up rate for defined benefit plans for state and local government workers
+NBU39000000000000032292,2020,A01,88,,3,292,Take-up rate for defined benefit plans for state and local government workers
+NBU39000000000000032292,2021,A01,87,,3,292,Take-up rate for defined benefit plans for state and local government workers
+NBU39000000000000032292,2022,A01,87,,3,292,Take-up rate for defined benefit plans for state and local government workers
+NBU39000000000000032292,2023,A01,87,,3,292,Take-up rate for defined benefit plans for state and local government workers
+NBU39000000000000032292,2024,A01,87,,3,292,Take-up rate for defined benefit plans for state and local government workers
+NBU39000000000000032292,2025,A01,86,,3,292,Take-up rate for defined benefit plans for state and local government workers
+NBU39000000000000032292,2026,A01,87,,3,292,Take-up rate for defined benefit plans for state and local government workers
+NBU39000000000000032314,2010,A01,57,,3,314,Take-up rate for defined contribution plans for state and local government workers
+NBU39000000000000032314,2011,A01,56,,3,314,Take-up rate for defined contribution plans for state and local government workers
+NBU39000000000000032314,2012,A01,48,,3,314,Take-up rate for defined contribution plans for state and local government workers
+NBU39000000000000032314,2013,A01,48,,3,314,Take-up rate for defined contribution plans for state and local government workers
+NBU39000000000000032314,2014,A01,48,,3,314,Take-up rate for defined contribution plans for state and local government workers
+NBU39000000000000032314,2015,A01,45,,3,314,Take-up rate for defined contribution plans for state and local government workers
+NBU39000000000000032314,2016,A01,46,,3,314,Take-up rate for defined contribution plans for state and local government workers
+NBU39000000000000032314,2017,A01,44,,3,314,Take-up rate for defined contribution plans for state and local government workers
+NBU39000000000000032314,2018,A01,45,,3,314,Take-up rate for defined contribution plans for state and local government workers
+NBU39000000000000032314,2019,A01,47,,3,314,Take-up rate for defined contribution plans for state and local government workers
+NBU39000000000000032314,2020,A01,48,,3,314,Take-up rate for defined contribution plans for state and local government workers
+NBU39000000000000032314,2021,A01,47,,3,314,Take-up rate for defined contribution plans for state and local government workers
+NBU39000000000000032314,2022,A01,49,,3,314,Take-up rate for defined contribution plans for state and local government workers
+NBU39000000000000032314,2023,A01,48,,3,314,Take-up rate for defined contribution plans for state and local government workers
+NBU39000000000000032314,2024,A01,50,,3,314,Take-up rate for defined contribution plans for state and local government workers
+NBU39000000000000032314,2025,A01,50,,3,314,Take-up rate for defined contribution plans for state and local government workers
+NBU39000000000000032314,2026,A01,50,,3,314,Take-up rate for defined contribution plans for state and local government workers
+NBU39000000000000032321,2010,A01,95,,3,321,Take-up rate for all retirement benefits for state and local government workers
+NBU39000000000000032321,2011,A01,95,,3,321,Take-up rate for all retirement benefits for state and local government workers
+NBU39000000000000032321,2012,A01,95,,3,321,Take-up rate for all retirement benefits for state and local government workers
+NBU39000000000000032321,2013,A01,95,,3,321,Take-up rate for all retirement benefits for state and local government workers
+NBU39000000000000032321,2014,A01,91,,3,321,Take-up rate for all retirement benefits for state and local government workers
+NBU39000000000000032321,2015,A01,90,,3,321,Take-up rate for all retirement benefits for state and local government workers
+NBU39000000000000032321,2016,A01,90,,3,321,Take-up rate for all retirement benefits for state and local government workers
+NBU39000000000000032321,2017,A01,90,,3,321,Take-up rate for all retirement benefits for state and local government workers
+NBU39000000000000032321,2018,A01,90,,3,321,Take-up rate for all retirement benefits for state and local government workers
+NBU39000000000000032321,2019,A01,91,,3,321,Take-up rate for all retirement benefits for state and local government workers
+NBU39000000000000032321,2020,A01,90,,3,321,Take-up rate for all retirement benefits for state and local government workers
+NBU39000000000000032321,2021,A01,89,,3,321,Take-up rate for all retirement benefits for state and local government workers
+NBU39000000000000032321,2022,A01,90,,3,321,Take-up rate for all retirement benefits for state and local government workers
+NBU39000000000000032321,2023,A01,89,,3,321,Take-up rate for all retirement benefits for state and local government workers
+NBU39000000000000032321,2024,A01,89,,3,321,Take-up rate for all retirement benefits for state and local government workers
+NBU39000000000000032321,2025,A01,88,,3,321,Take-up rate for all retirement benefits for state and local government workers
+NBU39000000000000032321,2026,A01,89,,3,321,Take-up rate for all retirement benefits for state and local government workers

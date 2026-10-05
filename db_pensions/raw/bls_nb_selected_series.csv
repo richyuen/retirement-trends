@@ -1,0 +1,54 @@
+series_id,seasonal,ownership_code,estimate_code,industry_code,occupation_code,subcell_code,datatype_code,provision_code,survey_code,series_title,footnote_codes,begin_year,begin_period,end_year,end_period
+NBU11900000000000020298,U,1,19,000000,000000,00,20,298,IP,Percent of civilian workers participating in open defined benefit plans,,2010,A01,2026,A01
+NBU11900000000000020299,U,1,19,000000,000000,00,20,299,IP,Percent of civilian workers participating in retirement benefits: defined benefit plans with frozen plans,,2010,A01,2011,A01
+NBU11900000000000020300,U,1,19,000000,000000,00,20,300,IP,Percent of civilian workers participating in retirement benefits: defined benefit plans with frozen plans: all existing participants continue to accrue benefits,,2010,A01,2011,A01
+NBU11900000000000020301,U,1,19,000000,000000,00,20,301,IP,Percent of civilian workers participating in retirement benefits: defined benefit plans with frozen plans: some existing participants continue to accrue benefits,,2010,A01,2011,A01
+NBU11900000000000020302,U,1,19,000000,000000,00,20,302,IP,Percent of civilian workers participating in retirement benefits: defined benefit plans with frozen plans: no existing participants continue to accrue benefits,,2010,A01,2011,A01
+NBU11900000000000020387,U,1,19,000000,000000,00,20,387,IP,Percent of civilian workers participating in soft frozen defined benefit plans with all participants still accruing benefits,,2014,A01,2026,A01
+NBU11900000000000020388,U,1,19,000000,000000,00,20,388,IP,Percent of civilian workers participating in soft frozen defined benefit plans with some participants still accruing benefits,,2014,A01,2026,A01
+NBU11900000000000020389,U,1,19,000000,000000,00,20,389,IP,Percent of civilian workers participating in hard frozen defined benefit plans,,2014,A01,2026,A01
+NBU11900000000000028290,U,1,19,000000,000000,00,28,290,IP,Percent of civilian workers with access to defined benefit plans,,2010,A01,2026,A01
+NBU12000000000000028312,U,1,20,000000,000000,00,28,312,IP,Percent of civilian workers with access to defined contribution plans,,2010,A01,2026,A01
+NBU19000000000000026291,U,1,90,000000,000000,00,26,291,IP,Percent of civilian workers participating in defined benefit plans,,2010,A01,2026,A01
+NBU19000000000000026313,U,1,90,000000,000000,00,26,313,IP,Percent of civilian workers participating in defined contribution plans,,2010,A01,2026,A01
+NBU19000000000000026320,U,1,90,000000,000000,00,26,320,IP,Percent of civilian workers participating in all retirement benefits,,2010,A01,2026,A01
+NBU19000000000000028319,U,1,90,000000,000000,00,28,319,IP,Percent of civilian workers with access to all retirement benefits,,2010,A01,2026,A01
+NBU19000000000000032292,U,1,90,000000,000000,00,32,292,IP,Take-up rate for defined benefit plans for civilian workers,,2010,A01,2026,A01
+NBU19000000000000032314,U,1,90,000000,000000,00,32,314,IP,Take-up rate for defined contribution plans for civilian workers,,2010,A01,2026,A01
+NBU19000000000000032321,U,1,90,000000,000000,00,32,321,IP,Take-up rate for all retirement benefits for civilian workers,,2010,A01,2026,A01
+NBU21900000000000020298,U,2,19,000000,000000,00,20,298,IP,Percent of private industry workers participating in open defined benefit plans,,2010,A01,2026,A01
+NBU21900000000000020299,U,2,19,000000,000000,00,20,299,IP,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans,,2010,A01,2013,A01
+NBU21900000000000020300,U,2,19,000000,000000,00,20,300,IP,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans: all existing participants continue to accrue benefits,,2010,A01,2013,A01
+NBU21900000000000020301,U,2,19,000000,000000,00,20,301,IP,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans: some existing participants continue to accrue benefits,,2010,A01,2013,A01
+NBU21900000000000020302,U,2,19,000000,000000,00,20,302,IP,Percent of private industry workers participating in retirement benefits: defined benefit plans with frozen plans: no existing participants continue to accrue benefits,,2010,A01,2013,A01
+NBU21900000000000020387,U,2,19,000000,000000,00,20,387,IP,Percent of private industry workers participating in soft frozen defined benefit plans with all participants still accruing benefits,,2014,A01,2026,A01
+NBU21900000000000020388,U,2,19,000000,000000,00,20,388,IP,Percent of private industry workers participating in soft frozen defined benefit plans with some participants still accruing benefits,,2014,A01,2026,A01
+NBU21900000000000020389,U,2,19,000000,000000,00,20,389,IP,Percent of private industry workers participating in hard frozen defined benefit plans,,2014,A01,2026,A01
+NBU21900000000000020804,U,2,19,000000,000000,00,20,804,DP,Percent of private industry workers participating in defined benefit plans open to new employees,,2014,A01,2022,A01
+NBU21900000000000020805,U,2,19,000000,000000,00,20,805,DP,Percent of private industry workers participating in defined benefit plans not open to new employees,,2014,A01,2022,A01
+NBU21900000000000028290,U,2,19,000000,000000,00,28,290,IP,Percent of private industry workers with access to defined benefit plans,,2010,A01,2026,A01
+NBU22000000000000028312,U,2,20,000000,000000,00,28,312,IP,Percent of private industry workers with access to defined contribution plans,,2010,A01,2026,A01
+NBU29000000000000026291,U,2,90,000000,000000,00,26,291,IP,Percent of private industry workers participating in defined benefit plans,,2010,A01,2026,A01
+NBU29000000000000026313,U,2,90,000000,000000,00,26,313,IP,Percent of private industry workers participating in defined contribution plans,,2010,A01,2026,A01
+NBU29000000000000026320,U,2,90,000000,000000,00,26,320,IP,Percent of private industry workers participating in all retirement benefits,,2010,A01,2026,A01
+NBU29000000000000028319,U,2,90,000000,000000,00,28,319,IP,Percent of private industry workers with access to all retirement benefits,,2010,A01,2026,A01
+NBU29000000000000032292,U,2,90,000000,000000,00,32,292,IP,Take-up rate for defined benefit plans for private industry workers,,2010,A01,2026,A01
+NBU29000000000000032314,U,2,90,000000,000000,00,32,314,IP,Take-up rate for defined contribution plans for private industry workers,,2010,A01,2026,A01
+NBU29000000000000032321,U,2,90,000000,000000,00,32,321,IP,Take-up rate for all retirement benefits for private industry workers,,2010,A01,2026,A01
+NBU31900000000000020298,U,3,19,000000,000000,00,20,298,IP,Percent of state and local government workers participating in open defined benefit plans,,2010,A01,2026,A01
+NBU31900000000000020299,U,3,19,000000,000000,00,20,299,IP,Percent of state and local government workers participating in retirement benefits: defined benefit plans with frozen plans,,2010,A01,2011,A01
+NBU31900000000000020300,U,3,19,000000,000000,00,20,300,IP,Percent of state and local government workers participating in retirement benefits: defined benefit plans with frozen plans: all existing participants continue to accrue benefits,,2010,A01,2011,A01
+NBU31900000000000020387,U,3,19,000000,000000,00,20,387,IP,Percent of state and local government workers participating in soft frozen defined benefit plans with all participants still accruing benefits,,2014,A01,2026,A01
+NBU31900000000000020388,U,3,19,000000,000000,00,20,388,IP,Percent of state and local government workers participating in soft frozen defined benefit plans with some participants still accruing benefits,,2014,A01,2026,A01
+NBU31900000000000020389,U,3,19,000000,000000,00,20,389,IP,Percent of state and local government workers participating in hard frozen defined benefit plans,,2014,A01,2026,A01
+NBU31900000000000020804,U,3,19,000000,000000,00,20,804,DP,Percent of workers participating in retirement benefits: defined benefit plans with plans open to new employees,,2016,A01,2016,A01
+NBU31900000000000020805,U,3,19,000000,000000,00,20,805,DP,Percent of workers participating in retirement benefits: defined benefit plans with plans not open to new employees,,2016,A01,2016,A01
+NBU31900000000000028290,U,3,19,000000,000000,00,28,290,IP,Percent of state and local government workers with access to defined benefit plans,,2010,A01,2026,A01
+NBU32000000000000028312,U,3,20,000000,000000,00,28,312,IP,Percent of state and local government workers with access to defined contribution plans,,2010,A01,2026,A01
+NBU39000000000000026291,U,3,90,000000,000000,00,26,291,IP,Percent of state and local government workers participating in defined benefit plans,,2010,A01,2026,A01
+NBU39000000000000026313,U,3,90,000000,000000,00,26,313,IP,Percent of state and local government workers participating in defined contribution plans,,2010,A01,2026,A01
+NBU39000000000000026320,U,3,90,000000,000000,00,26,320,IP,Percent of state and local government workers participating in all retirement benefits,,2010,A01,2026,A01
+NBU39000000000000028319,U,3,90,000000,000000,00,28,319,IP,Percent of state and local government workers with access to all retirement benefits,,2010,A01,2026,A01
+NBU39000000000000032292,U,3,90,000000,000000,00,32,292,IP,Take-up rate for defined benefit plans for state and local government workers,,2010,A01,2026,A01
+NBU39000000000000032314,U,3,90,000000,000000,00,32,314,IP,Take-up rate for defined contribution plans for state and local government workers,,2010,A01,2026,A01
+NBU39000000000000032321,U,3,90,000000,000000,00,32,321,IP,Take-up rate for all retirement benefits for state and local government workers,,2010,A01,2026,A01

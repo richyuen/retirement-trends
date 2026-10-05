@@ -1,0 +1,13 @@
+dimension,group,pct_at_risk_2019,pct_at_risk_2022,source
+homeownership,renter,74,72,raw/crr/IB_24-5.pdf Tables 1-4
+homeownership,homeowner,34,24,raw/crr/IB_24-5.pdf Tables 1-4
+plan,defined benefit (incl. DB+DC),21,13,raw/crr/IB_24-5.pdf Tables 1-4
+plan,DC only,42,35,raw/crr/IB_24-5.pdf Tables 1-4
+plan,none,68,65,raw/crr/IB_24-5.pdf Tables 1-4
+income,low third,71,64,raw/crr/IB_24-5.pdf Tables 1-4
+income,middle third,38,29,raw/crr/IB_24-5.pdf Tables 1-4
+income,high third,32,23,raw/crr/IB_24-5.pdf Tables 1-4
+age,30-39,48,40,raw/crr/IB_24-5.pdf Tables 1-4
+age,40-49,46,41,raw/crr/IB_24-5.pdf Tables 1-4
+age,50-59,48,36,raw/crr/IB_24-5.pdf Tables 1-4
+all,all,47,39,raw/crr/IB_24-5.pdf Tables 1-4

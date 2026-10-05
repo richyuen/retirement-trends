@@ -1,0 +1,518 @@
+                                                                                           RETIREMENT
+                                                                                           RESEARCH
+January 2018, Number 18-1
+
+
+
+
+NATIONAL RETIREMENT RISK INDEX
+SHOWS MODEST IMPROVEMENT IN 2016
+By Alicia H. Munnell, Wenliang Hou, and Geoffrey T. Sanzenbacher*
+
+
+
+Introduction
+The release of the Federal Reserve’s 2016 Survey of           data and shows that the share of households at risk
+Consumer Finances (SCF) is a great opportunity to             dropped from 52 percent to 50 percent, largely due
+reassess Americans’ retirement preparedness as                to rising home values. The third section presents
+measured by the National Retirement Risk Index                results by age, income, and pension coverage. The
+(NRRI). The NRRI shows the share of working-                  fourth section takes a step back and assesses the over-
+age households who are “at risk” of being unable to           all reasonableness of the NRRI’s findings. The fifth
+maintain their pre-retirement standard of living in           section concludes that retirement readiness remains
+retirement. This Index is constructed using the SCF,          a major challenge for many of today’s workers; they
+a triennial nationally representative survey of house-        need to save more and/or work longer to improve
+hold finances.                                                their prospects for a secure retirement.
+    Since the last SCF was conducted in 2013, the U.S.
+economy enjoyed a period of low unemployment,
+rising wages, strong stock market growth, and rising          The Nuts & Bolts of the NRRI
+house prices. These factors should have improved
+households’ preparedness for retirement. At the               The NRRI is constructed using data from the SCF,
+same time, longer-term trends – such as the gradual           which collects detailed information on household
+rise in Social Security’s Full Retirement Age and low         assets, liabilities, and demographic characteristics.
+interest rates – served as headwinds that made it             For SCF households, the NRRI compares projected
+more difficult to achieve retirement readiness. The           replacement rates – retirement income as a percent-
+question is what is the net impact of these disparate         age of pre-retirement income – with target rates that
+factors.                                                      would allow households to maintain their living
+    The discussion proceeds as follows. The first sec-        standard and calculates the percentage at risk of fall-
+tion describes the nuts and bolts of the NRRI. The            ing short. The NRRI was originally created using the
+second section updates the NRRI using 2016 SCF                2004 SCF and has been updated with the release of
+                                                              each subsequent survey.
+
+
+
+* Alicia H. Munnell is director of the Center for Retirement Research at Boston College (CRR) and the Peter F. Drucker
+Professor of Management Sciences at Boston College’s Carroll School of Management. Wenliang Hou is a senior research
+advisor at the CRR. Geoffrey T. Sanzenbacher is associate director for research at the CRR. The CRR gratefully acknowl-
+edges Prudential Financial for its sponsorship of the National Retirement Risk Index.
+2                                                                               Center for Retirement Research
+
+
+    Constructing the NRRI involves three steps: 1)               Using this relationship between wealth and
+projecting a replacement rate – retirement income as         income, financial assets and housing at age 65 are
+a share of pre-retirement income – for each member           estimated separately.2 In the case of housing, the
+of a nationally representative sample of U.S. house-         projections are used to calculate two distinct sources
+holds; 2) constructing a target replacement rate that        of income: the rental value that homeowners receive
+would allow each household to maintain its pre-retire-       from living in their home rent free and the amount of
+ment standard of living in retirement; and 3) compar-        equity they could borrow from their housing wealth
+ing the projected and target replacement rates to find       through a reverse mortgage.3
+the percentage of households “at risk.”                          Sources of retirement income that are not de-
+                                                             rived from SCF reported wealth need to be estimated
+Projecting Household Replacement Rates                       directly. For defined benefit pension income, the
+                                                             projections are based on the amounts reported by
+The exercise starts with projecting how much retire-         survey respondents. For Social Security, benefits
+ment income each household will have at age 65.              are calculated directly based on estimated earnings
+Retirement income is defined broadly to include all of       histories for each member of the household. Earn-
+the usual suspects plus housing.1 Retirement income          ings prior to retirement are calculated by creating a
+from financial assets and housing is derived by pro-         wage-indexed earnings history and averaging each
+jecting assets that households will hold at retirement,      individual’s annual indexed wages over his lifetime.
+based on the stable relationship between wealth-to-          Once estimated, the components are added together
+income ratios and age evident in the 1983-2016 SCFs.         to get total projected retirement income at age 65.
+As shown in Figure 1, wealth-to-income lines from                To calculate projected replacement rates, we also
+each survey rest roughly on top of one another, brack-       need income prior to retirement. The items that com-
+eted by 2007 values on the high side and 2013 values         prise pre-retirement income include earnings, the
+on the low side. The fact that 2016 (the red line) looks     return on taxable financial assets, and imputed rent
+somewhat better than 2010 and 2013 but still falls           from housing.4 Average lifetime income then serves
+into the bottom half suggests that the percentage at         as the denominator for each household’s replacement
+risk may have improved only slightly.                        rate.
+
+                                                             Estimating Target Replacement Rates
+Figure 1. Ratio of Wealth to Income by Age from
+the Survey of Consumer Finances, 1983-2016                   To determine the share of the population that will
+6
+                                                             be at risk requires comparing projected replacement
+         1983                                                rates with a benchmark rate. A commonly used
+         1986                                                benchmark is the replacement rate needed to allow
+5        1989                                                households to maintain their pre-retirement stan-
+         1992
+                                                             dard of living in retirement. People typically need
+         1995
+4                                                            less than their full pre-retirement income to main-
+         1998
+         2001                                                tain this standard once they stop working since they
+3        2004                                                generally pay less in taxes, no longer need to save for
+         2007                                                retirement, and often have paid off their mortgage.
+         2010                                                Thus, a greater share of their income is available for
+2        2013
+         2016
+                                                             spending. Target replacement rates are estimated for
+                                                             different types of households5 assuming that house-
+1                                                            holds spread their income in order to have the same
+                                                             level of consumption in retirement as they had before
+0                                                            they retired.6
+    20-22 26-28 32-34 38-40 44-46 50-52 56-58 62-64
+Sources: Authors’ calculations based on U.S. Board of Gov-
+ernors of the Federal Reserve System, Survey of Consumer
+Finances (1983-2016).
+Issue in Brief                                                                                                                 3
+
+
+Calculating the Index                                                Factors That Reduced the NRRI
+The final step in creating the NRRI is to compare                    Between 2013 and 2016, both equity and house prices
+each household’s projected replacement rate with                     increased sharply, serving to reduce the NRRI.
+the appropriate target. Households whose projected                       Equities. Despite a short pullback from late 2015
+replacement rates fall more than 10 percent below the                to early 2016, equity prices increased by more than 20
+target are deemed to be at risk of having insufficient               percent after adjusting for inflation between the third
+income to maintain their pre-retirement standard                     quarter of 2013 (which marks the previous NRRI
+of living. The NRRI is simply the percentage of all                  baseline) and the third quarter of 2016 (see Figure
+households that fall more than 10 percent short of                   3). However, these gains have been concentrated in
+their target.                                                        the top third of the income distribution, which holds
+                                                                     about 87 percent of all equities. That pattern means
+                                                                     that much of the gains went to households that were
+The NRRI in 2013 and 2016                                            already not at risk.
+
+The NRRI hit a peak of 53 percent in 2010 and
+dropped slightly to 52 percent in 2013. For 2016,                    Figure 3. Dow Jones Wilshire 5000 (Real), 1990
+higher stock and house prices should have served to                  (January) to 2017 (September)
+bring the NRRI down through growth in household
+wealth.7 On the other hand, other factors – a higher                 30,000
+Social Security Full Retirement Age, lower interest                  25,000
+rates, and a reduction in the amounts that can be
+borrowed through a reverse mortgage – should have                    20,000
+pushed up the NRRI.
+    The net effect of these positive and negative                    15,000
+developments was to reduce the NRRI in 2016 to 50
+                                                                     10,000
+percent (see Figure 2), a modest improvement from
+the 2013 level. The following discussion describes                    5,000
+why the NRRI declined by first examining the factors
+that reduced it and then examining the factors that                       0
+moved it in the other direction.
+
+                                                                     Sources: Wilshire Associates (2017); and U.S. Bureau of
+Figure 2. The National Retirement Risk Index,                        Labor Statistics (2017).
+1983-2016
+60%                                                                      House Prices. In contrast to equities, a substantial
+                                                     53% 52%
+                                                               50%   percentage of households in all income groups own
+                                           45% 44%                   a home and enjoyed the benefits of rising prices.
+                               40%
+40%                  37% 38%         38%                             Between 2013 and 2016, U.S. home prices increased
+      31% 31% 30%                                                    about 14 percent in real terms, according to the S&P
+                                                                     CoreLogic Case-Shiller U.S. National Home Price
+                                                                     NSA Index (see Figure 4 on the next page). In the
+20%                                                                  NRRI, home ownership and home prices have a sig-
+                                                                     nificant impact because households are assumed to
+                                                                     access their home equity at retirement by taking out
+                                                                     a reverse mortgage. The higher the home value, the
+ 0%
+      1983 1986 1989 1992 1995 1998 2001 2004 2007 2010 2013 2016    more households can extract in cash and turn into an
+                                                                     income stream through annuitization.
+Source: Authors’ calculations.
+4                                                                              Center for Retirement Research
+
+
+Figure 4. Index of Average U.S. House Prices              Figure 5. Full Retirement Age for Different
+(Real), 1990(Q1) to 2016(Q4)                              NRRI Cohorts, 1983-2016
+300                                                       NRRI                    Birth years                   Avg. FRA
+                                                               1957                                      1986
+                                                          2016                                                    66.9
+                                                               1954                                      1983
+250                                                       2013                                                    66.8
+                                                               1951                                      1980
+                                                          2010                                                    66.7
+200                                                            1948                                      1977
+                                                          2007                                                    66.6
+                                                               1945                                      1974
+                                                          2004                                                    66.5
+150                                                            1942                                      1971
+                                                          2001                                                    66.4
+                                                               1939                                      1968
+100                                                       1998                                                    66.2
+                                                               1936                                      1965
+                                                          1995                                                    66.0
+                                                               1933                                      1962
+ 50                                                       1992                                                    65.8
+                                                               1930                                      1959
+                                                          1989                                                    65.6
+    0                                                          1927                                      1956
+                                                          1986                                                    65.5
+                                                               1924                                      1953
+                                                          1983                                                    65.4
+                                                                            Age 65   Age 66     Age 67
+Source: S&P CoreLogic Case-Shiller U.S. National Home
+Price NSA Index, 2017.                                    Source: Authors’ calculations from U.S. Social Security
+                                                          Administration (2017).
+
+
+Factors That Increased the NRRI                              Decline in Interest Rates. Lower interest rates mean
+                                                          that households get less income from annuitizing
+The three main factors increasing the share at risk
+                                                          their assets.8 As shown in Figure 6, interest rates
+were the ongoing rise in Social Security’s Full Retire-
+                                                          were lower in 2016 than 2013, so households will
+ment Age, the decline in interest rates, and new
+                                                          receive less when they annuitize their 401(k)/IRA
+reverse mortgage rules that lowered the percentage
+of home equity that could be accessed at any given
+interest rate.
+                                                          Figure 6. Real 10-Year Interest Rate, 1990-2017
+    Increase in the Full Retirement Age (FRA). The
+transition of the FRA from 65 to 67 has been increas-     5%
+ing the NRRI for many years. Under legislation            4%
+enacted in 1983, the rise in the FRA began with those
+born in 1938 (who turned 62 in 2000) and will be          3%
+fully phased in for those born in 1960 (turning 62 in     2%
+2022). In 1983, about two-thirds of working house-
+                                                          1%
+holds could claim full benefits at 65, the rest had to
+wait until 66; none had to wait until 67. Since then,     0%
+the share of households with an FRA of 66 and 67          -1%
+has increased steadily. By 2016, almost all workers
+had an FRA of 67 (see Figure 5). Because benefits are     -2%
+actuarially reduced for early claiming, an increase in
+the FRA causes benefits claimed at 65 – the assumed
+retirement age in the NRRI – to decline. This decline     Note: Real interest rates equal the 10-year Treasury bond
+affects all households but has a particularly large im-   interest rate minus anticipated 10-year inflation for 1990-
+pact on low-income households, who depend almost          2003 and, thereafter, the 10-year rate for TIPS.
+entirely on Social Security for retirement income.        Sources: Authors’ calculations based on U.S. Board of Gov-
+                                                          ernors of the Federal Reserve System (2017); and Federal
+                                                          Reserve Bank of Philadelphia (2009).
+Issue in Brief                                                                                                           5
+
+
+balances, their other financial assets, and the money          1.4 percentage points, reflecting the fact that housing
+they receive from a reverse mortgage. However, the             is most households’ largest asset. All of the other ef-
+NRRI tapers the impact of the interest rate decline            fects essentially offset each other.
+by including all or part of the change for households
+approaching retirement and none of the change for
+those under age 50. Given that the decline in the              Patterns in the 2016 NRRI
+real interest rate from 2013-2016 is small (from 0.61
+percent to 0.55 percent) and that it affects only those        It is interesting to examine different patterns in the
+close to retirement, its impact on the NRRI is modest.         NRRI by pension coverage, age group, and income
+    Reverse Mortgage Reform. In 2017, the government           level.
+announced tougher rules for the Home Equity Con-                    Compared to no employer retirement plan, having
+version Mortgage (HECM) program – raising up-front             a plan certainly reduces the percentage of households
+premiums and placing tighter limits on loans. This             at risk (see Table 1). But the difference between de-
+effect increased the percentage of households at risk,         fined benefit and 401(k) coverage remains large. Part
+but its impact was slightly offset by the decline in in-       of this discrepancy may be due to the differences in
+terest rates, which raised the amount of home equity           plan design from one in which all risks and respon-
+that can be borrowed.9 The net impact on the NRRI              sibilities are borne by the employer to one in which
+from these changes is small.                                   the individual makes all the decisions and bears all
+                                                               the risk. But it is more likely that the very low NRRI
+                                                               for households with defined benefit plans reflects the
+The Net Effect on the NRRI                                     fact that many of these plans are in the public sector,
+                                                               where pensions account for a much larger share of
+How much does each of these individual factors con-            total compensation than in the private sector.
+tribute to the change in the overall NRRI from 2013
+to 2016? Figure 7 decomposes the total change into
+the effects of: 1) the increase in the stock market; 2)        Table 1. Percentage of Households “At Risk” at
+the increase in the housing market; 3) the rise in the         Age 65 by Pension Coverage, 2013 and 2016
+FRA; 4) the decline in annuity rates; and 5) the new
+rules for reverse mortgages. The increase in housing               Pension coverage                 2013          2016
+prices had the largest effect; it reduced the NRRI by              All                               52%           50%
+                                                                   Defined benefita                  20            20
+                                                                   Defined contribution only         53            51
+Figure 7. Decease in Percentage “At Risk” from
+2013 to 2016, by Contributing Component                            None                              68            67
+ 2%                                                            a
+                                                                This category also includes households with both a defined
+                                                               benefit and a defined contribution plan.
+                                                               Source: Authors’ calculations.
+ 1%
+
+                                     Rising FRA
+                                                                   When viewed by age and income, all groups of
+                             0.3%
+                             0.1%    New HECM rules            households experienced an improvement, except
+ 0%                          0.1%    Annuity rates decline     middle-age and middle-income households (see
+                             -0.6%   Stock market increase     Tables 2 and 3 on the next page). One reason for
+                                                               the lack of improvement for the middle-age group is
+-1%                                                            more non-mortgage borrowing, particularly for educa-
+                             -1.4%   Housing market increase   tion expenses. For example, for households ages 45-
+                                                               50, their average non-mortgage debt-to-income ratio
+-2%                                                            almost doubled from 14 percent in 2013 to 27 percent
+                                                               in 2016.10 Increased borrowing was also an issue for
+Source: Authors’ calculations.
+                                                               the middle-income group, aggravated by a downturn
+                                                               in reported defined benefit coverage.
+6                                                                            Center for Retirement Research
+
+
+Table 2. Percentage of Households “At Risk” at           percent of households falling short.11 The question
+Age 65 by Age Group, 2013 and 2016                       is why this optimal savings approach yields such
+                                                         comforting results. The answer hinges on two key
+Age group                        2013           2016     assumptions:1) how children affect replacement rate
+                                                         targets; and 2) how households consume their accu-
+All                               52%            50%     mulated wealth in retirement.12
+30-39                             59             56          What happens to household consumption once
+40-49                             52             52      the children are grown and leave home? One hypoth-
+                                                         esis is that the parents keep household consumption
+50-59                             45             44      steady by spending more on themselves, particularly
+Source: Authors’ calculations.                           on discretionary items such as travel, entertain-
+                                                         ment, and restaurants. Under the optimal savings
+                                                         approach, though, the adults do not increase their
+Table 3. Percentage of Households “At Risk” at           spending when their children leave the nest; instead,
+Age 65 by Income Group, 2013 and 2016                    they simply save the extra cash. As a result, in addi-
+                                                         tion to accumulating more retirement saving, they
+Income group                     2013           2016     have a lower replacement rate target, which means
+All                               52%           50%      they need to save less than households whose con-
+                                                         sumption remains steady.
+Low income                        60            56           The second key assumption is how households
+Middle income                     52            54       consume their accumulated wealth in retirement.
+High income                       43            41       The NRRI has retirees buying an annuity so that
+                                                         they spend a steady, inflation-adjusted amount. In
+Source: Authors’ calculations.                           contrast, the optimization model assumes that
+                                                         households draw down their wealth on their own. In
+                                                         this optimal framework, households choose higher
+Overall Assessment of NRRI                               consumption in their 60s and significantly lower
+                                                         consumption by age 85. Households accept declin-
+The Center first developed the NRRI over a dozen         ing consumption in retirement, because they are less
+years ago and has been making regular updates and        willing to save during their working years to support
+improvements ever since. The overall finding that        consumption at ages when they are less likely to be
+roughly half of the nation’s working-age households      alive. With a declining consumption path, the typical
+are at risk of falling short in retirement has been      household will need to accumulate much less wealth
+very stable throughout this period, with some ups        to meet any target replacement rate at retirement.
+and downs reflecting fluctuations in the economy.            The question then becomes which set of assump-
+The stability underscores that the broad underly-        tions is most plausible. Spending does decline as
+ing economic, policy, and demographic factors have       people age, but it is unclear the extent to which the
+remained largely unchanged. In addition, the NRRI        pattern reflects declining income; people cannot spend
+methodology incorporates conservative assumptions,       what they do not have. In contrast, financial plan-
+such as having households annuitize their financial      ning tools typically assume that households require
+assets and the proceeds of a reverse mortgage, when      a level amount. And a growing body of research on
+few actually do so.                                      how households behave when the kids leave home
+    While both the stability and conservative assump-    supports the notion of little change in the household’s
+tions of the NRRI suggest that retirement shortfalls     consumption and saving levels. One study shows that
+are a major problem, the question is not fully settled   the household consumption of empty nesters does not
+yet among academic researchers. For example,             decline and their per-capita consumption increases,
+studies by well-respected scholars conclude that         while another finds that they save only a little bit more
+most Americans are saving optimally to meet their        in their 401(k)s.13 Given the accumulating evidence,
+consumption needs in retirement, with less than 10       the assumptions underlying the NRRI seem more
+                                                         plausible than those of the optimal savings approach.
+Issue in Brief                                                                                                    7
+
+
+Conclusion                                                 Endnotes
+Between 2013 and 2016, the NRRI dropped modestly           1 The NRRI does not include income from work,
+– from 52 to 50 percent. The improvement reflected         since labor force participation declines rapidly as
+solid gains in the stock and housing markets. The          people age.
+modest nature of the improvement, though, indi-
+cates that underlying structural factors – such as the     2 Both mortgage debt and non-mortgage debt are
+gradual rise in Social Security’s Full Retirement Age      subtracted from the appropriate components of pro-
+and low interest rates – continued to serve as head-       jected wealth.
+winds against more substantial progress.
+    The bottom line is that half of today’s households     3 For 401(k) assets, other financial wealth, and hous-
+will not have enough retirement income to maintain         ing wealth, the assumption is that households convert
+their pre-retirement standard of living, even if they      this wealth into a stream of income by purchasing
+work to age 65 and annuitize all their financial assets,   an inflation-indexed annuity – that is, an annuity
+including the receipts from a reverse mortgage on          that will provide them with a payment linked to the
+their homes. This analysis clearly confirms that many      Consumer Price Index for the rest of their lives. For
+of today’s workers need to save more and/or work           couples, the annuity provides the surviving spouse
+longer to achieve a secure retirement.14                   with two-thirds of the base amount. While inflation-
+                                                           indexed annuities are not widely used by consumers,
+                                                           they provide a convenient metric for calculating the
+                                                           lifetime income that can be obtained from a lump
+                                                           sum. And while inflation-indexed annuities provide
+                                                           a smaller initial benefit than nominal annuities, they
+                                                           protect a household’s purchasing power over time
+                                                           against the erosive effects of inflation.
+
+                                                           4 Interest on both mortgage and non-mortgage debt
+                                                           is subtracted from the appropriate components of
+                                                           pre-retirement income.
+
+                                                           5 Specifically, the targets are calculated for one-earner
+                                                           and two-earner couples, single men, and single wom-
+                                                           en with low, middle, and high incomes, weighted to
+                                                           reflect the prevalence of home ownership and defined
+                                                           benefit pension coverage.
+
+                                                           6 We recognize that smoothing consumption is not
+                                                           the same as smoothing the unobserved marginal
+                                                           utility of consumption that theory suggests, but our
+                                                           method likely provides a reasonable approximation.
+
+                                                           7 Between 2013 and 2016, median family income
+                                                           grew 10 percent, and median household net worth
+                                                           grew 16 percent. See Bricker et al. (2017).
+
+                                                           8 This relationship assumes no significant change in
+                                                           mortality rates.
+
+                                                           9 The percentage of the Maximum Claim Amount
+                                                           allowable in total cash draws, given the age of the bor-
+8                                                                            Center for Retirement Research
+
+
+rower, increases with a lower “expected” interest rate    References
+of the loan. The latest version of the HECM Principal
+Limit Factors table went into effect on October 2,        Bricker, Jesse, Lisa J. Dettling, Alice Henriques,
+2017.                                                        Joanne W. Hsu, Lindsey Jacobs, Kevin B. Moore,
+                                                             Sarah Pack, John Sabelhaus, Jeffrey Thompson,
+10 The non-mortgage-debt-to-income ratio is the bal-         and Richard A. Windle. 2017. “Changes in U.S.
+ance of borrowing excluding mortgage debt divided            Family Finances from 2013 to 2016: Evidence
+by household income.                                         from the Survey of Consumer Finances.” Federal
+                                                             Reserve Bulletin 103(3): 1-42.
+11 Scholz and Seshadri (2008). Other researchers
+also suggest that retirees are likely to have adequate    Coe, Norma and Anthony Webb. 2010. “Children and
+saving. Hurd and Rohwedder (2013) find only mod-             Household Utility: Evidence from Kids Flying the
+est declines in total spending after retirement. It ap-      Coop.” Working Paper 2010-16. Chestnut Hill,
+pears, though, that the households they study cannot         MA: Center for Retirement Research at Boston
+sustain their initial level of consumption throughout        College.
+the whole retirement period.
+                                                          Dushi, Irena, Alicia H. Munnell, Geoffrey T. Sanzen-
+12 See Munnell, Rutledge, and Webb (2014) for a             bacher, and Anthony Webb. 2015. “Do House-
+thorough discussion of the conflicting studies.             holds Increase Their Savings When the Kids Leave
+                                                            Home?” Working Paper 2015-26. Chestnut Hill,
+13 Coe and Webb (2010) and Dushi et al. (2015). Not         MA: Center for Retirement Research at Boston
+surprisingly, given these findings, a recent NRRI           College.
+study suggests that having children moderately
+increases a household’s prospects of being at risk        Federal Reserve Bank of Philadelphia. 2009. Short-
+(Munnell, Hou, and Sanzenbacher, 2017).                      Term and Long-Term Inflation Forecasts: Survey of
+                                                             Professional Forecasters. Philadelphia, PA.
+14 See Munnell, Webb, and Hou (2014) for an analy-
+sis of how much households need to save for retire-       Hurd, Michael D. and Susann Rohwedder. 2013.
+ment.                                                       “Heterogeneity in Spending Change at Retire-
+                                                            ment.” Journal of the Economics of Ageing 1(2):
+                                                            60-71.
+
+                                                          Munnell, Alicia H., Wenliang Hou, and Geoffrey
+                                                            T. Sanzenbacher. 2017. “The Impact of Raising
+                                                            Children on Retirement Security.” Issue in Brief
+                                                            17-16. Chestnut Hill, MA: Center for Retirement
+                                                            Research at Boston College.
+
+                                                          Munnell, Alicia H., Anthony Webb, and Wenliang
+                                                            Hou. 2014. “How Much Should People Save? Is-
+                                                            sue in Brief 14-11. Chestnut Hill, MA: Center for
+                                                            Retirement Research at Boston College.
+
+                                                          Munnell, Alicia H., Matthew Rutledge, and Anthony
+                                                            Webb. 2014. “Are Retirees Falling Short? Recon-
+                                                            ciling the Conflicting Evidence.” Working Paper
+                                                            2014-16. Chestnut Hill, MA: Center for Retire-
+                                                            ment Research at Boston College.
+Issue in Brief                                             9
+
+
+Scholz, John Karl and Ananth Seshadri. 2008. “Are
+   All Americans Saving ‘Optimally’ for Retirement?”
+   Presented at the 10th Annual Joint Conference
+   of the Retirement Research Consortium (August
+   7-8). Washington, DC.
+
+S&P CoreLogic Case-Shiller U.S. National Home
+  Price NSA Index. 1990-2017. New York, NY.
+
+U.S. Board of Governors of the Federal Reserve
+   System. Survey of Consumer Finances, 1983-2016.
+   Washington, DC.
+
+U.S. Board of Governors of the Federal Reserve
+   System. 2017. “Selected Interest Rates: Historical
+   Data.” Washington, DC.
+
+U.S. Bureau of Labor Statistics. 2017. Consumer Price
+   Index. Washington, DC.
+
+U.S. Social Security Administration. 2017. The Annual
+   Report of the Board of Trustees of the Federal Old-
+   Age and Survivors Insurance and Federal Disability
+   Insurance Trust Funds. Washington, DC: U.S.
+   Government Printing Office.
+
+Wilshire Associates. 2017. Dow Jones Wilshire 5000
+   (Full Cap) Price Levels Since Inception. Data for
+   nominal dollar levels available at: https://wilshire.
+   com/indexes
+RETIREMENT
+RESEARCH
+
+
+
+
+About the Center                                                Affiliated Institutions
+The mission of the Center for Retirement Research               The Brookings Institution
+at Boston College is to produce first-class research            Syracuse University
+and educational tools and forge a strong link between           Urban Institute
+the academic community and decision-makers in the
+public and private sectors around an issue of criti-
+cal importance to the nation’s future. To achieve
+                                                                Contact Information
+                                                                Center for Retirement Research
+this mission, the Center sponsors a wide variety of
+                                                                Boston College
+research projects, transmits new findings to a broad
+                                                                Hovey House
+audience, trains new scholars, and broadens access to
+                                                                140 Commonwealth Avenue
+valuable data sources. Since its inception in 1998, the
+                                                                Chestnut Hill, MA 02467-3808
+Center has established a reputation as an authorita-
+                                                                Phone: (617) 552-1762
+tive source of information on all major aspects of the
+                                                                Fax: (617) 552-0191
+retirement income debate.
+                                                                E-mail: crr@bc.edu
+                                                                Website: http://crr.bc.edu
+
+
+
+
+© 2018, by Trustees of Boston College, Center for Retirement Research. All rights reserved. Short sections of text, not to
+exceed two paragraphs, may be quoted without explicit permission provided that the authors are identified and full credit,
+including copyright notice, is given to Trustees of Boston College, Center for Retirement Research.
+
+The research reported herein was supported by Prudential Financial. The findings and conclusions expressed are solely those
+of the authors and do not represent the opinions or policy of Prudential Financial or the Center for Retirement Research at
+Boston College.
+

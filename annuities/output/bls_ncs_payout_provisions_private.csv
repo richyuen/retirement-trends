@@ -1,0 +1,13 @@
+series_id,provision,2014,2015,2017,2019,2022
+NBU21900000000000020887,DB (traditional): full lump sum available,29.0,,31.0,17.0,
+NBU21900000000000020888,DB (traditional): any lump sum available,34.0,,36.0,23.0,36.0
+NBU21900000000000020889,DB (traditional): lump sum not available,66.0,,64.0,76.0,64.0
+NBU21900000000000020896,DB (traditional): partial lump sum + reduced annuity,5.0,,5.0,6.0,
+NBU21900000000000020925,DB (traditional): lump sum not determinable,,,1.0,1.0,
+NBU22000000000000020R08,DC deferred profit-sharing: annuity available,,21.0,9.0,13.0,8.0
+NBU22000000000000020R23,DC money purchase: annuity available,,,29.0,37.0,20.0
+NBU22000000000000020S14,DC savings & thrift (401(k)-type): annuity available,22.0,,12.0,14.0,11.0
+NBU22000000000000020S15,DC savings & thrift: installments available,41.0,,38.0,36.0,43.0
+NBU22000000000000020S16,DC savings & thrift: lump sum available,87.0,,86.0,92.0,89.0
+NBU22000000000000020S17,DC savings & thrift: other method,11.0,,4.0,7.0,7.0
+NBU22000000000000020S18,DC savings & thrift: method not determinable,12.0,,13.0,8.0,11.0

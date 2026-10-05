@@ -55,3 +55,6 @@ New Sections 12 "Do the laws work?" (Table 10 scorecard, Fig 26 AE spread vs NCS
 
 ## 2026-10-05 v10
 New Sections 15 Working longer (Fig 31 LFPR by age), 16 Health care costs (Fig 32 Medicare premiums vs SS benefit, Fig 33 MEPS OOP burden, Table 12 lifetime cost estimates), 17 Long-term care (Fig 34 nursing-home payer shares), 18 Social Security's finances (Fig 35 years to depletion by report, Table 13 cut vs income). Summary findings 13-15, one watch item, three data notes. Watch/notes/sources renumbered 19-21. 127 refs. Published v10.
+
+## 2026-10-05 v11
+New Sections 19 Are workers ready for retirement? (Fig 36, 37, Table 14), 20 Debt and housing wealth (Fig 38), 21 Poverty among older Americans (Fig 39, 40, Table 15), 22 Decline of DB pensions (Fig 41), 23 Annuities and lifetime income (Fig 42), from readiness/, debt_housing/, poverty/, db_pensions/, annuities/. Summary findings 16-20, a lifetime-income watch item and three data-notes bullets added; 27 refs (154 total). Section 13 DB share reworded to two clean segments at the research thread's request. Published as artifact version 11.
