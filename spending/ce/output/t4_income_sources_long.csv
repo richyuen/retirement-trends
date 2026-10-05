@@ -1,0 +1,1764 @@
+item_code,source,age_group,year,nominal,real2024,share_of_income_before_tax_pct,income_method
+900000,Wages and salaries,All CUs,1984,18178.0,54882,77.5,complete income reporters only
+900000,Wages and salaries,All CUs,1985,19378.0,56493,77.1,complete income reporters only
+900000,Wages and salaries,All CUs,1986,19524.0,55880,76.7,complete income reporters only
+900000,Wages and salaries,All CUs,1987,20613.0,56920,75.4,complete income reporters only
+900000,Wages and salaries,All CUs,1988,21779.0,57750,76.3,complete income reporters only
+900000,Wages and salaries,All CUs,1989,23248.0,58812,74.3,complete income reporters only
+900000,Wages and salaries,All CUs,1990,24173.0,58017,75.8,complete income reporters only
+900000,Wages and salaries,All CUs,1991,25553.0,58852,75.4,complete income reporters only
+900000,Wages and salaries,All CUs,1992,25064.0,56039,74.0,complete income reporters only
+900000,Wages and salaries,All CUs,1993,26494.0,57515,76.0,complete income reporters only
+900000,Wages and salaries,All CUs,1994,27795.0,58833,76.8,complete income reporters only
+900000,Wages and salaries,All CUs,1995,28474.0,58609,77.1,complete income reporters only
+900000,Wages and salaries,All CUs,1996,29560.0,59099,77.8,complete income reporters only
+900000,Wages and salaries,All CUs,1997,31506.0,61577,78.9,complete income reporters only
+900000,Wages and salaries,All CUs,1998,32889.0,63294,79.0,complete income reporters only
+900000,Wages and salaries,All CUs,1999,34456.0,64877,78.4,complete income reporters only
+900000,Wages and salaries,All CUs,2000,35579.0,64813,79.7,complete income reporters only
+900000,Wages and salaries,All CUs,2001,38334.0,67899,80.7,complete income reporters only
+900000,Wages and salaries,All CUs,2002,39864.0,69510,80.6,complete income reporters only
+900000,Wages and salaries,All CUs,2003,41200.0,70239,80.6,complete income reporters only
+900000,Wages and salaries,All CUs,2004,43192.0,71725,79.3,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2005,46291.0,74352,78.8,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2006,48119.0,74873,79.5,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2007,50322.0,76132,79.8,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2008,51007.0,74315,80.2,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2009,50339.0,73604,80.1,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2010,49568.0,71307,79.3,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2011,49805.0,69456,78.2,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2012,51730.0,70678,78.9,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2013,50168.0,67554,78.7,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2014,51889.0,68756,77.6,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2015,54405.0,72004,78.1,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2016,57319.0,74916,76.8,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2017,57590.0,73700,78.3,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2018,61557.0,76899,78.3,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2019,64708.0,79396,78.1,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2020,65449.0,79327,77.6,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2021,67409.0,78036,77.1,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2022,73220.0,78483,77.9,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2023,78286.0,80595,76.9,"imputed, all CUs"
+900000,Wages and salaries,All CUs,2024,80864.0,80864,77.6,"imputed, all CUs"
+900000,Wages and salaries,55-64,1984,17502.0,52841,67.0,complete income reporters only
+900000,Wages and salaries,55-64,1985,19308.0,56289,71.4,complete income reporters only
+900000,Wages and salaries,55-64,1986,20362.0,58279,71.7,complete income reporters only
+900000,Wages and salaries,55-64,1987,21839.0,60305,70.4,complete income reporters only
+900000,Wages and salaries,55-64,1988,21341.0,56589,71.2,complete income reporters only
+900000,Wages and salaries,55-64,1989,23793.0,60190,68.4,complete income reporters only
+900000,Wages and salaries,55-64,1990,24114.0,57875,68.3,complete income reporters only
+900000,Wages and salaries,55-64,1991,27400.0,63106,71.6,complete income reporters only
+900000,Wages and salaries,55-64,1992,26044.0,58230,69.2,complete income reporters only
+900000,Wages and salaries,55-64,1993,26745.0,58060,70.2,complete income reporters only
+900000,Wages and salaries,55-64,1994,29972.0,63441,73.4,complete income reporters only
+900000,Wages and salaries,55-64,1995,27438.0,56476,71.6,complete income reporters only
+900000,Wages and salaries,55-64,1996,30070.0,60119,74.1,complete income reporters only
+900000,Wages and salaries,55-64,1997,30684.0,59970,73.5,complete income reporters only
+900000,Wages and salaries,55-64,1998,31947.0,61481,72.2,complete income reporters only
+900000,Wages and salaries,55-64,1999,34521.0,64999,69.8,complete income reporters only
+900000,Wages and salaries,55-64,2000,35544.0,64749,73.9,complete income reporters only
+900000,Wages and salaries,55-64,2001,38830.0,68778,74.7,complete income reporters only
+900000,Wages and salaries,55-64,2002,40391.0,70429,76.0,complete income reporters only
+900000,Wages and salaries,55-64,2003,45121.0,76924,76.9,complete income reporters only
+900000,Wages and salaries,55-64,2004,45535.0,75616,74.6,"imputed, all CUs"
+900000,Wages and salaries,55-64,2005,46563.0,74789,72.6,"imputed, all CUs"
+900000,Wages and salaries,55-64,2006,48023.0,74724,74.5,"imputed, all CUs"
+900000,Wages and salaries,55-64,2007,54021.0,81729,76.0,"imputed, all CUs"
+900000,Wages and salaries,55-64,2008,54256.0,79049,75.7,"imputed, all CUs"
+900000,Wages and salaries,55-64,2009,53711.0,78534,76.1,"imputed, all CUs"
+900000,Wages and salaries,55-64,2010,52632.0,75715,76.4,"imputed, all CUs"
+900000,Wages and salaries,55-64,2011,55381.0,77232,73.3,"imputed, all CUs"
+900000,Wages and salaries,55-64,2012,59272.0,80982,76.5,"imputed, all CUs"
+900000,Wages and salaries,55-64,2013,58031.0,78142,78.2,"imputed, all CUs"
+900000,Wages and salaries,55-64,2014,57213.0,75811,76.0,"imputed, all CUs"
+900000,Wages and salaries,55-64,2015,57932.0,76672,77.0,"imputed, all CUs"
+900000,Wages and salaries,55-64,2016,62548.0,81750,77.7,"imputed, all CUs"
+900000,Wages and salaries,55-64,2017,66741.0,85411,78.5,"imputed, all CUs"
+900000,Wages and salaries,55-64,2018,70346.0,87878,79.6,"imputed, all CUs"
+900000,Wages and salaries,55-64,2019,80840.0,99190,81.2,"imputed, all CUs"
+900000,Wages and salaries,55-64,2020,73245.0,88776,77.2,"imputed, all CUs"
+900000,Wages and salaries,55-64,2021,77656.0,89899,78.6,"imputed, all CUs"
+900000,Wages and salaries,55-64,2022,82825.0,88778,78.5,"imputed, all CUs"
+900000,Wages and salaries,55-64,2023,91131.0,93819,77.3,"imputed, all CUs"
+900000,Wages and salaries,55-64,2024,96110.0,96110,79.1,"imputed, all CUs"
+900000,Wages and salaries,65+,1988,3709.0,9835,20.9,complete income reporters only
+900000,Wages and salaries,65+,1989,3686.0,9325,18.7,complete income reporters only
+900000,Wages and salaries,65+,1990,3552.0,8525,18.9,complete income reporters only
+900000,Wages and salaries,65+,1991,3926.0,9042,19.6,complete income reporters only
+900000,Wages and salaries,65+,1992,4068.0,9095,19.5,complete income reporters only
+900000,Wages and salaries,65+,1993,4190.0,9096,19.8,complete income reporters only
+900000,Wages and salaries,65+,1994,4075.0,8625,18.0,complete income reporters only
+900000,Wages and salaries,65+,1995,4483.0,9227,20.2,complete income reporters only
+900000,Wages and salaries,65+,1996,4738.0,9473,21.1,complete income reporters only
+900000,Wages and salaries,65+,1997,5626.0,10996,23.5,complete income reporters only
+900000,Wages and salaries,65+,1998,4955.0,9536,20.6,complete income reporters only
+900000,Wages and salaries,65+,1999,5406.0,10179,20.3,complete income reporters only
+900000,Wages and salaries,65+,2000,5872.0,10697,23.3,complete income reporters only
+900000,Wages and salaries,65+,2001,6967.0,12340,25.3,complete income reporters only
+900000,Wages and salaries,65+,2002,8218.0,14330,27.7,complete income reporters only
+900000,Wages and salaries,65+,2003,7501.0,12788,24.6,complete income reporters only
+900000,Wages and salaries,65+,2004,10234.0,16995,29.3,"imputed, all CUs"
+900000,Wages and salaries,65+,2005,10522.0,16900,28.5,"imputed, all CUs"
+900000,Wages and salaries,65+,2006,11742.0,18271,30.9,"imputed, all CUs"
+900000,Wages and salaries,65+,2007,12011.0,18172,29.8,"imputed, all CUs"
+900000,Wages and salaries,65+,2008,11530.0,16799,29.3,"imputed, all CUs"
+900000,Wages and salaries,65+,2009,12699.0,18568,31.9,"imputed, all CUs"
+900000,Wages and salaries,65+,2010,12709.0,18283,30.8,"imputed, all CUs"
+900000,Wages and salaries,65+,2011,13130.0,18310,30.4,"imputed, all CUs"
+900000,Wages and salaries,65+,2012,14163.0,19351,31.7,"imputed, all CUs"
+900000,Wages and salaries,65+,2013,15817.0,21298,35.0,"imputed, all CUs"
+900000,Wages and salaries,65+,2014,15072.0,19971,33.4,"imputed, all CUs"
+900000,Wages and salaries,65+,2015,15798.0,20908,33.9,"imputed, all CUs"
+900000,Wages and salaries,65+,2016,17025.0,22252,35.4,"imputed, all CUs"
+900000,Wages and salaries,65+,2017,16938.0,21676,34.5,"imputed, all CUs"
+900000,Wages and salaries,65+,2018,17744.0,22166,34.4,"imputed, all CUs"
+900000,Wages and salaries,65+,2019,18405.0,22583,33.1,"imputed, all CUs"
+900000,Wages and salaries,65+,2020,17943.0,21748,34.3,"imputed, all CUs"
+900000,Wages and salaries,65+,2021,19018.0,22016,34.4,"imputed, all CUs"
+900000,Wages and salaries,65+,2022,21762.0,23326,36.1,"imputed, all CUs"
+900000,Wages and salaries,65+,2023,22486.0,23149,35.0,"imputed, all CUs"
+900000,Wages and salaries,65+,2024,23800.0,23800,35.3,"imputed, all CUs"
+900000,Wages and salaries,65-74,1984,4212.0,12717,26.8,complete income reporters only
+900000,Wages and salaries,65-74,1985,4872.0,14203,26.8,complete income reporters only
+900000,Wages and salaries,65-74,1986,4358.0,12473,24.4,complete income reporters only
+900000,Wages and salaries,65-74,1987,4451.0,12291,23.9,complete income reporters only
+900000,Wages and salaries,65-74,1988,5677.0,15053,27.4,complete income reporters only
+900000,Wages and salaries,65-74,1989,5612.0,14197,25.5,complete income reporters only
+900000,Wages and salaries,65-74,1990,5439.0,13054,25.3,complete income reporters only
+900000,Wages and salaries,65-74,1991,6056.0,13948,26.7,complete income reporters only
+900000,Wages and salaries,65-74,1992,5937.0,13274,25.6,complete income reporters only
+900000,Wages and salaries,65-74,1993,6473.0,14052,26.5,complete income reporters only
+900000,Wages and salaries,65-74,1994,5792.0,12260,23.2,complete income reporters only
+900000,Wages and salaries,65-74,1995,6772.0,13939,26.5,complete income reporters only
+900000,Wages and salaries,65-74,1996,7267.0,14529,28.1,complete income reporters only
+900000,Wages and salaries,65-74,1997,8494.0,16601,30.9,complete income reporters only
+900000,Wages and salaries,65-74,1998,7545.0,14520,27.9,complete income reporters only
+900000,Wages and salaries,65-74,1999,8169.0,15381,28.2,complete income reporters only
+900000,Wages and salaries,65-74,2000,9174.0,16712,31.3,complete income reporters only
+900000,Wages and salaries,65-74,2001,10880.0,19271,33.6,complete income reporters only
+900000,Wages and salaries,65-74,2002,13134.0,22902,37.4,complete income reporters only
+900000,Wages and salaries,65-74,2003,12359.0,21070,35.0,complete income reporters only
+900000,Wages and salaries,65-74,2004,16264.0,27008,38.6,"imputed, all CUs"
+900000,Wages and salaries,65-74,2005,15947.0,25614,35.3,"imputed, all CUs"
+900000,Wages and salaries,65-74,2006,17551.0,27309,38.1,"imputed, all CUs"
+900000,Wages and salaries,65-74,2007,18489.0,27972,38.8,"imputed, all CUs"
+900000,Wages and salaries,65-74,2008,17321.0,25236,38.3,"imputed, all CUs"
+900000,Wages and salaries,65-74,2009,18760.0,27430,39.7,"imputed, all CUs"
+900000,Wages and salaries,65-74,2010,18989.0,27317,38.2,"imputed, all CUs"
+900000,Wages and salaries,65-74,2011,19670.0,27431,37.5,"imputed, all CUs"
+900000,Wages and salaries,65-74,2012,21251.0,29035,39.7,"imputed, all CUs"
+900000,Wages and salaries,65-74,2013,23076.0,31073,43.2,"imputed, all CUs"
+900000,Wages and salaries,65-74,2014,22448.0,29745,42.9,"imputed, all CUs"
+900000,Wages and salaries,65-74,2015,22768.0,30133,42.1,"imputed, all CUs"
+900000,Wages and salaries,65-74,2016,24627.0,32187,43.0,"imputed, all CUs"
+900000,Wages and salaries,65-74,2017,24716.0,31630,42.6,"imputed, all CUs"
+900000,Wages and salaries,65-74,2018,25366.0,31688,41.8,"imputed, all CUs"
+900000,Wages and salaries,65-74,2019,26233.0,32188,39.8,"imputed, all CUs"
+900000,Wages and salaries,65-74,2020,25066.0,30381,41.7,"imputed, all CUs"
+900000,Wages and salaries,65-74,2021,26954.0,31203,42.6,"imputed, all CUs"
+900000,Wages and salaries,65-74,2022,29134.0,31228,42.8,"imputed, all CUs"
+900000,Wages and salaries,65-74,2023,30884.0,31795,42.8,"imputed, all CUs"
+900000,Wages and salaries,65-74,2024,32898.0,32898,43.6,"imputed, all CUs"
+900000,Wages and salaries,75+,1984,1092.0,3297,9.3,complete income reporters only
+900000,Wages and salaries,75+,1985,1310.0,3819,10.6,complete income reporters only
+900000,Wages and salaries,75+,1986,1417.0,4056,11.4,complete income reporters only
+900000,Wages and salaries,75+,1987,1213.0,3350,9.4,complete income reporters only
+900000,Wages and salaries,75+,1988,1010.0,2678,7.4,complete income reporters only
+900000,Wages and salaries,75+,1989,909.0,2300,5.6,complete income reporters only
+900000,Wages and salaries,75+,1990,1133.0,2719,7.3,complete income reporters only
+900000,Wages and salaries,75+,1991,981.0,2259,6.0,complete income reporters only
+900000,Wages and salaries,75+,1992,1754.0,3922,9.7,complete income reporters only
+900000,Wages and salaries,75+,1993,1407.0,3054,8.2,complete income reporters only
+900000,Wages and salaries,75+,1994,1885.0,3990,9.6,complete income reporters only
+900000,Wages and salaries,75+,1995,1699.0,3497,9.4,complete income reporters only
+900000,Wages and salaries,75+,1996,1726.0,3451,9.4,complete income reporters only
+900000,Wages and salaries,75+,1997,1936.0,3784,10.0,complete income reporters only
+900000,Wages and salaries,75+,1998,1719.0,3308,8.5,complete income reporters only
+900000,Wages and salaries,75+,1999,2295.0,4321,9.6,complete income reporters only
+900000,Wages and salaries,75+,2000,2147.0,3911,10.4,complete income reporters only
+900000,Wages and salaries,75+,2001,2702.0,4786,12.1,complete income reporters only
+900000,Wages and salaries,75+,2002,2925.0,5100,12.2,complete income reporters only
+900000,Wages and salaries,75+,2003,2575.0,4390,10.1,complete income reporters only
+900000,Wages and salaries,75+,2004,4363.0,7245,15.6,"imputed, all CUs"
+900000,Wages and salaries,75+,2005,5018.0,8060,17.6,"imputed, all CUs"
+900000,Wages and salaries,75+,2006,5664.0,8813,19.2,"imputed, all CUs"
+900000,Wages and salaries,75+,2007,5180.0,7837,15.9,"imputed, all CUs"
+900000,Wages and salaries,75+,2008,5185.0,7554,15.8,"imputed, all CUs"
+900000,Wages and salaries,75+,2009,6048.0,8843,19.1,"imputed, all CUs"
+900000,Wages and salaries,75+,2010,5626.0,8093,17.7,"imputed, all CUs"
+900000,Wages and salaries,75+,2011,5321.0,7420,16.6,"imputed, all CUs"
+900000,Wages and salaries,75+,2012,5424.0,7411,16.0,"imputed, all CUs"
+900000,Wages and salaries,75+,2013,6138.0,8265,18.0,"imputed, all CUs"
+900000,Wages and salaries,75+,2014,5294.0,7015,14.9,"imputed, all CUs"
+900000,Wages and salaries,75+,2015,6226.0,8240,17.1,"imputed, all CUs"
+900000,Wages and salaries,75+,2016,6396.0,8360,18.2,"imputed, all CUs"
+900000,Wages and salaries,75+,2017,6016.0,7699,16.5,"imputed, all CUs"
+900000,Wages and salaries,75+,2018,7003.0,8748,18.1,"imputed, all CUs"
+900000,Wages and salaries,75+,2019,7965.0,9773,19.0,"imputed, all CUs"
+900000,Wages and salaries,75+,2020,8070.0,9781,19.4,"imputed, all CUs"
+900000,Wages and salaries,75+,2021,7291.0,8440,16.7,"imputed, all CUs"
+900000,Wages and salaries,75+,2022,11262.0,12071,22.8,"imputed, all CUs"
+900000,Wages and salaries,75+,2023,10859.0,11179,20.3,"imputed, all CUs"
+900000,Wages and salaries,75+,2024,10795.0,10795,19.3,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,1984,1123.0,3390,4.8,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,1985,1331.0,3880,5.3,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,1986,1618.0,4631,6.4,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,1987,1821.0,5028,6.7,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,1988,1790.0,4746,6.3,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,1989,2535.0,6413,8.1,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,1990,2315.0,5556,7.3,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,1991,2552.0,5878,7.5,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,1992,2490.0,5567,7.4,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,1993,2119.0,4600,6.1,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,1994,1870.0,3958,5.2,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,1995,2034.0,4187,5.5,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,1996,2318.0,4634,6.1,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,1997,1969.0,3848,4.9,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,1998,2239.0,4309,5.4,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,1999,2603.0,4901,5.9,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,2000,2344.0,4270,5.2,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,2001,2231.0,3952,4.7,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,2002,2237.0,3901,4.5,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,2003,2138.0,3645,4.2,complete income reporters only
+SFEMPINC,Self-employment income,All CUs,2004,3008.0,4995,5.5,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2005,3772.0,6059,6.4,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2006,3607.0,5612,6.0,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2007,3445.0,5212,5.5,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2008,3219.0,4690,5.1,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2009,2673.0,3908,4.3,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2010,2820.0,4057,4.5,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2011,3269.0,4559,5.1,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2012,2917.0,3985,4.4,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2013,3273.0,4407,5.1,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2014,4284.0,5677,6.4,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2015,4363.0,5774,6.3,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2016,6270.0,8195,8.4,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2017,4506.0,5766,6.1,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2018,5232.0,6536,6.7,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2019,5947.0,7297,7.2,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2020,5808.0,7040,6.9,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2021,6085.0,7044,7.0,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2022,6442.0,6905,6.9,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2023,7749.0,7978,7.6,"imputed, all CUs"
+SFEMPINC,Self-employment income,All CUs,2024,7084.0,7084,6.8,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,1984,1865.0,5631,7.1,complete income reporters only
+SFEMPINC,Self-employment income,55-64,1985,1282.0,3737,4.7,complete income reporters only
+SFEMPINC,Self-employment income,55-64,1986,1994.0,5707,7.0,complete income reporters only
+SFEMPINC,Self-employment income,55-64,1987,2521.0,6961,8.1,complete income reporters only
+SFEMPINC,Self-employment income,55-64,1988,2020.0,5356,6.7,complete income reporters only
+SFEMPINC,Self-employment income,55-64,1989,2927.0,7405,8.4,complete income reporters only
+SFEMPINC,Self-employment income,55-64,1990,3464.0,8314,9.8,complete income reporters only
+SFEMPINC,Self-employment income,55-64,1991,2781.0,6405,7.3,complete income reporters only
+SFEMPINC,Self-employment income,55-64,1992,2527.0,5650,6.7,complete income reporters only
+SFEMPINC,Self-employment income,55-64,1993,2167.0,4704,5.7,complete income reporters only
+SFEMPINC,Self-employment income,55-64,1994,1768.0,3742,4.3,complete income reporters only
+SFEMPINC,Self-employment income,55-64,1995,2330.0,4796,6.1,complete income reporters only
+SFEMPINC,Self-employment income,55-64,1996,2090.0,4179,5.1,complete income reporters only
+SFEMPINC,Self-employment income,55-64,1997,2039.0,3985,4.9,complete income reporters only
+SFEMPINC,Self-employment income,55-64,1998,3494.0,6724,7.9,complete income reporters only
+SFEMPINC,Self-employment income,55-64,1999,5463.0,10286,11.1,complete income reporters only
+SFEMPINC,Self-employment income,55-64,2000,3916.0,7134,8.1,complete income reporters only
+SFEMPINC,Self-employment income,55-64,2001,3559.0,6304,6.8,complete income reporters only
+SFEMPINC,Self-employment income,55-64,2002,2598.0,4530,4.9,complete income reporters only
+SFEMPINC,Self-employment income,55-64,2003,2728.0,4651,4.6,complete income reporters only
+SFEMPINC,Self-employment income,55-64,2004,3799.0,6309,6.2,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2005,4533.0,7281,7.1,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2006,4359.0,6783,6.8,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2007,4478.0,6775,6.3,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2008,5236.0,7629,7.3,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2009,4745.0,6938,6.7,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2010,4174.0,6005,6.1,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2011,7102.0,9904,9.4,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2012,5625.0,7685,7.3,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2013,4616.0,6216,6.2,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2014,6232.0,8258,8.3,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2015,5781.0,7651,7.7,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2016,6388.0,8349,7.9,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2017,5836.0,7469,6.9,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2018,6330.0,7908,7.2,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2019,7962.0,9769,8.0,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2020,9666.0,11716,10.2,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2021,8529.0,9874,8.6,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2022,9413.0,10090,8.9,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2023,10823.0,11142,9.2,"imputed, all CUs"
+SFEMPINC,Self-employment income,55-64,2024,10968.0,10968,9.0,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,1988,735.0,1949,4.1,complete income reporters only
+SFEMPINC,Self-employment income,65+,1989,995.0,2517,5.1,complete income reporters only
+SFEMPINC,Self-employment income,65+,1990,640.0,1536,3.4,complete income reporters only
+SFEMPINC,Self-employment income,65+,1991,807.0,1859,4.0,complete income reporters only
+SFEMPINC,Self-employment income,65+,1992,886.0,1981,4.2,complete income reporters only
+SFEMPINC,Self-employment income,65+,1993,1142.0,2479,5.4,complete income reporters only
+SFEMPINC,Self-employment income,65+,1994,1225.0,2593,5.4,complete income reporters only
+SFEMPINC,Self-employment income,65+,1995,725.0,1492,3.3,complete income reporters only
+SFEMPINC,Self-employment income,65+,1996,794.0,1587,3.5,complete income reporters only
+SFEMPINC,Self-employment income,65+,1997,703.0,1374,2.9,complete income reporters only
+SFEMPINC,Self-employment income,65+,1998,528.0,1016,2.2,complete income reporters only
+SFEMPINC,Self-employment income,65+,1999,1304.0,2455,4.9,complete income reporters only
+SFEMPINC,Self-employment income,65+,2000,811.0,1477,3.2,complete income reporters only
+SFEMPINC,Self-employment income,65+,2001,954.0,1690,3.5,complete income reporters only
+SFEMPINC,Self-employment income,65+,2002,1139.0,1986,3.8,complete income reporters only
+SFEMPINC,Self-employment income,65+,2003,1616.0,2755,5.3,complete income reporters only
+SFEMPINC,Self-employment income,65+,2004,2077.0,3449,5.9,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2005,2421.0,3889,6.6,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2006,1860.0,2894,4.9,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2007,1993.0,3015,4.9,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2008,1791.0,2609,4.6,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2009,976.0,1427,2.4,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2010,1204.0,1732,2.9,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2011,2005.0,2796,4.6,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2012,1596.0,2181,3.6,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2013,1612.0,2171,3.6,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2014,1672.0,2215,3.7,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2015,2592.0,3430,5.6,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2016,2753.0,3598,5.7,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2017,2866.0,3668,5.8,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2018,3241.0,4049,6.3,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2019,5379.0,6600,9.7,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2020,2841.0,3443,5.4,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2021,3046.0,3526,5.5,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2022,3301.0,3538,5.5,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2023,3504.0,3607,5.4,"imputed, all CUs"
+SFEMPINC,Self-employment income,65+,2024,3987.0,3987,5.9,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,1984,712.0,2150,4.5,complete income reporters only
+SFEMPINC,Self-employment income,65-74,1985,773.0,2254,4.2,complete income reporters only
+SFEMPINC,Self-employment income,65-74,1986,939.0,2688,5.3,complete income reporters only
+SFEMPINC,Self-employment income,65-74,1987,990.0,2734,5.3,complete income reporters only
+SFEMPINC,Self-employment income,65-74,1988,1114.0,2954,5.4,complete income reporters only
+SFEMPINC,Self-employment income,65-74,1989,1400.0,3542,6.3,complete income reporters only
+SFEMPINC,Self-employment income,65-74,1990,973.0,2335,4.5,complete income reporters only
+SFEMPINC,Self-employment income,65-74,1991,1090.0,2510,4.8,complete income reporters only
+SFEMPINC,Self-employment income,65-74,1992,1103.0,2466,4.8,complete income reporters only
+SFEMPINC,Self-employment income,65-74,1993,1767.0,3836,7.2,complete income reporters only
+SFEMPINC,Self-employment income,65-74,1994,1699.0,3596,6.8,complete income reporters only
+SFEMPINC,Self-employment income,65-74,1995,970.0,1997,3.8,complete income reporters only
+SFEMPINC,Self-employment income,65-74,1996,758.0,1515,2.9,complete income reporters only
+SFEMPINC,Self-employment income,65-74,1997,905.0,1769,3.3,complete income reporters only
+SFEMPINC,Self-employment income,65-74,1998,664.0,1278,2.5,complete income reporters only
+SFEMPINC,Self-employment income,65-74,1999,1809.0,3406,6.3,complete income reporters only
+SFEMPINC,Self-employment income,65-74,2000,860.0,1567,2.9,complete income reporters only
+SFEMPINC,Self-employment income,65-74,2001,1211.0,2145,3.7,complete income reporters only
+SFEMPINC,Self-employment income,65-74,2002,1451.0,2530,4.1,complete income reporters only
+SFEMPINC,Self-employment income,65-74,2003,1996.0,3403,5.7,complete income reporters only
+SFEMPINC,Self-employment income,65-74,2004,2977.0,4944,7.1,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2005,4070.0,6537,9.0,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2006,2806.0,4366,6.1,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2007,2880.0,4357,6.0,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2008,2007.0,2924,4.4,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2009,1813.0,2651,3.8,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2010,1368.0,1968,2.8,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2011,3165.0,4414,6.0,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2012,2271.0,3103,4.2,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2013,2359.0,3177,4.4,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2014,2397.0,3176,4.6,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2015,3342.0,4423,6.2,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2016,4011.0,5242,7.0,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2017,3572.0,4571,6.2,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2018,4508.0,5632,7.4,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2019,8100.0,9939,12.3,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2020,3837.0,4651,6.4,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2021,4216.0,4881,6.7,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2022,4195.0,4497,6.2,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2023,4100.0,4221,5.7,"imputed, all CUs"
+SFEMPINC,Self-employment income,65-74,2024,4951.0,4951,6.6,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,1984,692.0,2089,5.9,complete income reporters only
+SFEMPINC,Self-employment income,75+,1985,311.0,907,2.5,complete income reporters only
+SFEMPINC,Self-employment income,75+,1986,309.0,884,2.5,complete income reporters only
+SFEMPINC,Self-employment income,75+,1987,224.0,619,1.7,complete income reporters only
+SFEMPINC,Self-employment income,75+,1988,215.0,570,1.6,complete income reporters only
+SFEMPINC,Self-employment income,75+,1989,411.0,1040,2.5,complete income reporters only
+SFEMPINC,Self-employment income,75+,1990,215.0,516,1.4,complete income reporters only
+SFEMPINC,Self-employment income,75+,1991,417.0,960,2.6,complete income reporters only
+SFEMPINC,Self-employment income,75+,1992,617.0,1380,3.4,complete income reporters only
+SFEMPINC,Self-employment income,75+,1993,380.0,825,2.2,complete income reporters only
+SFEMPINC,Self-employment income,75+,1994,620.0,1312,3.2,complete income reporters only
+SFEMPINC,Self-employment income,75+,1995,427.0,879,2.4,complete income reporters only
+SFEMPINC,Self-employment income,75+,1996,837.0,1673,4.6,complete income reporters only
+SFEMPINC,Self-employment income,75+,1997,443.0,866,2.3,complete income reporters only
+SFEMPINC,Self-employment income,75+,1998,357.0,687,1.8,complete income reporters only
+SFEMPINC,Self-employment income,75+,1999,735.0,1384,3.1,complete income reporters only
+SFEMPINC,Self-employment income,75+,2000,757.0,1379,3.7,complete income reporters only
+SFEMPINC,Self-employment income,75+,2001,674.0,1194,3.0,complete income reporters only
+SFEMPINC,Self-employment income,75+,2002,803.0,1400,3.4,complete income reporters only
+SFEMPINC,Self-employment income,75+,2003,1231.0,2099,4.8,complete income reporters only
+SFEMPINC,Self-employment income,75+,2004,1202.0,1996,4.3,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2005,750.0,1205,2.6,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2006,870.0,1354,2.9,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2007,1058.0,1601,3.3,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2008,1555.0,2266,4.7,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2009,58.0,85,0.2,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2010,1020.0,1467,3.2,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2011,620.0,865,1.9,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2012,763.0,1042,2.3,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2013,616.0,829,1.8,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2014,711.0,942,2.0,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2015,1562.0,2067,4.3,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2016,995.0,1300,2.8,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2017,1875.0,2400,5.1,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2018,1457.0,1820,3.8,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2019,1750.0,2147,4.2,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2020,1461.0,1771,3.5,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2021,1318.0,1526,3.0,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2022,2028.0,2174,4.1,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2023,2678.0,2757,5.0,"imputed, all CUs"
+SFEMPINC,Self-employment income,75+,2024,2609.0,2609,4.7,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,1984,2420.0,7306,10.3,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,1985,2604.0,7592,10.4,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,1986,2555.0,7313,10.0,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,1987,2941.0,8121,10.8,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,1988,3063.0,8122,10.7,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,1989,3387.0,8568,10.8,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,1990,3427.0,8225,10.7,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,1991,3584.0,8254,10.6,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,1992,3887.0,8691,11.5,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,1993,4034.0,8757,11.6,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,1994,4200.0,8890,11.6,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,1995,4355.0,8964,11.8,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,1996,4334.0,8665,11.4,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,1997,4531.0,8856,11.3,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,1998,4618.0,8887,11.1,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,1999,4798.0,9034,10.9,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,2000,4856.0,8846,10.9,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,2001,4963.0,8791,10.4,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,2002,5234.0,9126,10.6,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,2003,5601.0,9549,11.0,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",All CUs,2004,5848.0,9711,10.7,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2005,6147.0,9873,10.5,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2006,6139.0,9552,10.1,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2007,6379.0,9651,10.1,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2008,6577.0,9582,10.3,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2009,6837.0,9997,10.9,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2010,7173.0,10319,11.5,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2011,7648.0,10666,12.0,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2012,8021.0,10959,12.2,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2013,7514.0,10118,11.8,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2014,7700.0,10203,11.5,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2015,7801.0,10325,11.2,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2016,8001.0,10457,10.7,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2017,8300.0,10622,11.3,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2018,8664.0,10823,11.0,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2019,8902.0,10923,10.7,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2020,9493.0,11506,11.3,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2021,9632.0,11151,11.0,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2022,10412.0,11160,11.1,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2023,11076.0,11403,10.9,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",All CUs,2024,11646.0,11646,11.2,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,1984,3610.0,10899,13.8,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,1985,3721.0,10848,13.8,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,1986,3719.0,10644,13.1,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,1987,4235.0,11694,13.6,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,1988,4321.0,11458,14.4,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,1989,5257.0,13299,15.1,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,1990,5138.0,12332,14.6,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,1991,5388.0,12409,14.1,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,1992,6000.0,13415,16.0,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,1993,6455.0,14013,17.0,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,1994,6476.0,13707,15.9,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,1995,6095.0,12546,15.9,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,1996,6202.0,12400,15.3,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,1997,6899.0,13484,16.5,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,1998,6578.0,12659,14.9,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,1999,6922.0,13033,14.0,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,2000,6723.0,12247,14.0,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,2001,7139.0,12645,13.7,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,2002,7380.0,12868,13.9,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,2003,7802.0,13301,13.3,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",55-64,2004,8871.0,14731,14.5,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2005,9582.0,15391,14.9,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2006,9087.0,14139,14.1,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2007,8704.0,13168,12.3,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2008,8623.0,12563,12.0,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2009,8457.0,12366,12.0,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2010,8868.0,12757,12.9,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2011,9305.0,12976,12.3,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2012,8942.0,12217,11.5,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2013,7600.0,10234,10.2,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2014,7784.0,10314,10.3,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2015,7832.0,10366,10.4,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2016,7939.0,10376,9.9,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2017,8185.0,10475,9.6,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2018,7935.0,9913,9.0,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2019,7446.0,9136,7.5,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2020,6957.0,8432,7.3,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2021,7022.0,8129,7.1,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2022,7965.0,8537,7.5,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2023,8255.0,8498,7.0,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",55-64,2024,7558.0,7558,6.2,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,1988,10555.0,27988,59.5,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65+,1989,11276.0,28525,57.3,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65+,1990,11650.0,27961,61.8,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65+,1991,12162.0,28011,60.8,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65+,1992,12743.0,28491,61.0,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65+,1993,13204.0,28664,62.3,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65+,1994,14112.0,29870,62.5,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65+,1995,14500.0,29846,65.5,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65+,1996,14515.0,29020,64.7,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65+,1997,15293.0,29889,63.8,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65+,1998,16131.0,31044,67.2,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65+,1999,16217.0,30535,61.0,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65+,2000,16187.0,29487,64.2,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65+,2001,17125.0,30333,62.2,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65+,2002,17819.0,31071,60.0,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65+,2003,18881.0,32189,62.0,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65+,2004,19561.0,32483,55.9,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2005,20534.0,32982,55.6,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2006,20804.0,32371,54.8,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2007,21754.0,32912,54.0,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2008,22155.0,32279,56.3,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2009,22844.0,33402,57.3,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2010,23878.0,34350,57.8,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2011,24539.0,34221,56.8,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2012,25192.0,34419,56.3,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2013,24091.0,32440,53.3,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2014,24515.0,32484,54.4,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2015,23912.0,31647,51.3,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2016,23988.0,31352,49.9,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2017,24673.0,31575,50.3,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2018,26040.0,32530,50.4,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2019,26355.0,32337,47.4,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2020,27081.0,32823,51.8,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2021,28516.0,33012,51.5,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2022,30094.0,32257,49.9,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2023,31913.0,32854,49.6,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65+,2024,33382.0,33382,49.5,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,1984,8670.0,26176,55.2,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,1985,9658.0,28156,53.1,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,1986,9591.0,27451,53.7,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,1987,10451.0,28859,56.2,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,1988,11200.0,29698,54.1,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,1989,11847.0,29970,53.7,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,1990,12176.0,29223,56.6,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,1991,12562.0,28932,55.3,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,1992,12839.0,28706,55.4,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,1993,13373.0,29031,54.7,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,1994,14333.0,30338,57.5,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,1995,15316.0,31525,59.9,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,1996,15400.0,30789,59.6,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,1997,15563.0,30417,56.6,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,1998,16379.0,31521,60.6,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,1999,16498.0,31064,57.0,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,2000,17011.0,30988,58.0,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,2001,17611.0,31194,54.4,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,2002,18276.0,31868,52.0,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,2003,18851.0,32138,53.4,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",65-74,2004,20116.0,33405,47.7,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2005,21892.0,35163,48.4,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2006,22281.0,34669,48.4,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2007,22616.0,34216,47.4,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2008,22591.0,32914,49.9,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2009,23578.0,34475,49.9,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2010,25663.0,36918,51.6,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2011,25828.0,36018,49.2,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2012,26184.0,35775,48.9,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2013,24485.0,32970,45.8,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2014,24140.0,31987,46.1,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2015,23709.0,31379,43.9,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2016,23789.0,31092,41.6,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2017,24400.0,31226,42.0,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2018,25918.0,32377,42.7,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2019,25793.0,31648,39.1,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2020,26627.0,32273,44.3,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2021,27424.0,31747,43.3,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2022,29622.0,31751,43.5,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2023,30655.0,31559,42.5,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",65-74,2024,31347.0,31347,41.5,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,1984,7480.0,22583,63.9,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,1985,7882.0,22979,64.1,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,1986,8211.0,23501,65.9,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,1987,8690.0,23996,67.3,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,1988,9672.0,25647,70.6,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,1989,10452.0,26441,64.2,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,1990,10976.0,26343,71.1,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,1991,11608.0,26735,71.4,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,1992,12624.0,28225,69.9,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,1993,12996.0,28212,75.6,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,1994,13830.0,29273,70.5,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,1995,13508.0,27804,75.0,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,1996,13461.0,26912,73.2,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,1997,14946.0,29211,76.9,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,1998,15821.0,30447,78.2,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,1999,15901.0,29940,66.4,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,2000,15259.0,27797,74.2,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,2001,16596.0,29396,74.6,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,2002,17327.0,30213,72.5,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,2003,18911.0,32240,74.2,complete income reporters only
+RETIRINC,"Social Security, private and government retirement",75+,2004,19020.0,31585,67.9,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2005,19157.0,30770,67.1,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2006,19259.0,29967,65.2,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2007,20846.0,31538,64.1,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2008,21677.0,31583,65.9,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2009,22038.0,32223,69.5,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2010,21864.0,31453,68.8,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2011,23002.0,32077,71.6,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2012,23968.0,32747,70.8,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2013,23566.0,31733,69.1,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2014,25012.0,33142,70.5,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2015,24190.0,32015,66.4,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2016,24266.0,31716,69.0,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2017,25057.0,32066,68.6,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2018,26212.0,32745,67.6,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2019,27103.0,33255,64.6,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2020,27710.0,33586,66.8,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2021,30130.0,34880,69.2,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2022,30767.0,32978,62.3,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2023,33654.0,34647,63.0,"imputed, all CUs"
+RETIRINC,"Social Security, private and government retirement",75+,2024,36291.0,36291,64.8,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),All CUs,2010,4359.0,6271,7.0,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),All CUs,2011,4689.0,6539,7.4,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),All CUs,2012,4843.0,6617,7.4,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),All CUs,2013,5018.0,6757,7.9,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),All CUs,2014,5286.0,7004,7.9,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),All CUs,2015,5577.0,7381,8.0,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),All CUs,2016,5720.0,7476,7.7,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),All CUs,2017,5924.0,7581,8.1,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),All CUs,2018,6300.0,7870,8.0,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),All CUs,2019,6554.0,8042,7.9,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),All CUs,2020,6941.0,8413,8.2,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),All CUs,2021,6920.0,8011,7.9,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),All CUs,2022,7465.0,8002,7.9,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),All CUs,2023,8171.0,8412,8.0,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),All CUs,2024,8707.0,8707,8.4,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),55-64,2010,3918.0,5636,5.7,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),55-64,2011,4019.0,5605,5.3,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),55-64,2012,3962.0,5413,5.1,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),55-64,2013,4003.0,5390,5.4,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),55-64,2014,4252.0,5634,5.7,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),55-64,2015,4606.0,6096,6.1,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),55-64,2016,4609.0,6024,5.7,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),55-64,2017,4365.0,5586,5.1,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),55-64,2018,4393.0,5488,5.0,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),55-64,2019,4328.0,5310,4.3,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),55-64,2020,4663.0,5652,4.9,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),55-64,2021,4299.0,4977,4.4,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),55-64,2022,4578.0,4907,4.3,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),55-64,2023,5025.0,5173,4.3,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),55-64,2024,4671.0,4671,3.8,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65+,2010,15840.0,22787,38.4,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65+,2011,16397.0,22866,37.9,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65+,2012,16496.0,22538,36.9,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65+,2013,16911.0,22772,37.4,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65+,2014,17733.0,23497,39.3,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65+,2015,18141.0,24009,38.9,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65+,2016,18090.0,23644,37.7,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65+,2017,18770.0,24021,38.2,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65+,2018,20059.0,25058,38.9,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65+,2019,20320.0,24932,36.5,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65+,2020,20858.0,25281,39.9,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65+,2021,21004.0,24315,38.0,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65+,2022,22408.0,24019,37.1,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65+,2023,24406.0,25126,37.9,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65+,2024,25806.0,25806,38.3,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65-74,2010,16151.0,23234,32.5,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65-74,2011,16795.0,23421,32.0,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65-74,2012,16686.0,22798,31.2,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65-74,2013,17037.0,22941,31.9,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65-74,2014,17537.0,23238,33.5,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65-74,2015,17853.0,23628,33.0,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65-74,2016,17588.0,22988,30.7,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65-74,2017,18374.0,23514,31.7,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65-74,2018,19598.0,24482,32.3,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65-74,2019,20066.0,24621,30.4,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65-74,2020,20411.0,24739,34.0,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65-74,2021,20468.0,23695,32.3,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65-74,2022,21790.0,23356,32.0,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65-74,2023,23455.0,24147,32.5,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),65-74,2024,24018.0,24018,31.8,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),75+,2010,15490.0,22283,48.7,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),75+,2011,15923.0,22205,49.5,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),75+,2012,16262.0,22218,48.0,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),75+,2013,16744.0,22547,49.1,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),75+,2014,17994.0,23843,50.7,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),75+,2015,18537.0,24533,50.9,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),75+,2016,18792.0,24561,53.4,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),75+,2017,19326.0,24732,52.9,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),75+,2018,20708.0,25869,53.4,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),75+,2019,20659.0,25348,49.3,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),75+,2020,21477.0,26031,51.8,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),75+,2021,21797.0,25233,50.1,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),75+,2022,23290.0,24964,47.2,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),75+,2023,25724.0,26483,48.1,"imputed, all CUs"
+900030,Social Security and railroad retirement (2010+),75+,2024,28361.0,28361,50.6,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),All CUs,2010,2814.0,4048,4.5,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),All CUs,2011,2960.0,4128,4.6,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),All CUs,2012,3179.0,4343,4.8,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),All CUs,2013,235.0,316,0.4,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),55-64,2010,4950.0,7121,7.2,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),55-64,2011,5287.0,7373,7.0,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),55-64,2012,4980.0,6804,6.4,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),55-64,2013,407.0,548,0.5,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),65+,2010,8037.0,11562,19.5,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),65+,2011,8142.0,11354,18.8,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),65+,2012,8696.0,11881,19.4,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),65+,2013,605.0,815,1.3,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),65-74,2010,9512.0,13684,19.1,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),65-74,2011,9033.0,12597,17.2,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),65-74,2012,9499.0,12978,17.7,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),65-74,2013,542.0,730,1.0,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),75+,2010,6374.0,9169,20.1,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),75+,2011,7079.0,9872,22.0,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),75+,2012,7706.0,10529,22.8,"imputed, all CUs"
+900040,Pensions and annuities (2010-2013),75+,2013,688.0,926,2.0,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",All CUs,2013,2261.0,3045,3.5,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",All CUs,2014,2414.0,3199,3.6,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",All CUs,2015,2225.0,2945,3.2,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",All CUs,2016,2280.0,2980,3.1,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",All CUs,2017,2376.0,3041,3.2,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",All CUs,2018,2364.0,2953,3.0,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",All CUs,2019,2348.0,2881,2.8,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",All CUs,2020,2553.0,3094,3.0,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",All CUs,2021,2712.0,3140,3.1,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",All CUs,2022,2948.0,3160,3.1,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",All CUs,2023,2905.0,2991,2.9,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",All CUs,2024,2939.0,2939,2.8,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",55-64,2013,3190.0,4296,4.3,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",55-64,2014,3531.0,4679,4.7,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",55-64,2015,3226.0,4270,4.3,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",55-64,2016,3330.0,4352,4.1,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",55-64,2017,3820.0,4889,4.5,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",55-64,2018,3541.0,4424,4.0,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",55-64,2019,3118.0,3826,3.1,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",55-64,2020,2294.0,2780,2.4,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",55-64,2021,2722.0,3151,2.8,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",55-64,2022,3386.0,3629,3.2,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",55-64,2023,3230.0,3325,2.7,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",55-64,2024,2887.0,2887,2.4,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65+,2013,6575.0,8854,14.6,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65+,2014,6782.0,8987,15.0,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65+,2015,5771.0,7638,12.4,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65+,2016,5898.0,7709,12.3,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65+,2017,5903.0,7554,12.0,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65+,2018,5982.0,7473,11.6,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65+,2019,6035.0,7405,10.8,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65+,2020,6223.0,7543,11.9,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65+,2021,7511.0,8695,13.6,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65+,2022,7686.0,8238,12.7,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65+,2023,7507.0,7728,11.7,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65+,2024,7576.0,7576,11.2,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65-74,2013,6905.0,9298,12.9,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65-74,2014,6604.0,8751,12.6,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65-74,2015,5856.0,7750,10.8,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65-74,2016,6201.0,8105,10.8,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65-74,2017,6026.0,7712,10.4,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65-74,2018,6320.0,7895,10.4,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65-74,2019,5728.0,7028,8.7,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65-74,2020,6215.0,7533,10.3,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65-74,2021,6955.0,8051,11.0,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65-74,2022,7832.0,8395,11.5,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65-74,2023,7200.0,7412,10.0,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",65-74,2024,7329.0,7329,9.7,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",75+,2013,6135.0,8261,18.0,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",75+,2014,7018.0,9299,19.8,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",75+,2015,5653.0,7482,15.5,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",75+,2016,5474.0,7155,15.6,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",75+,2017,5731.0,7334,15.7,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",75+,2018,5505.0,6877,14.2,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",75+,2019,6445.0,7908,15.4,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",75+,2020,6233.0,7555,15.0,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",75+,2021,8333.0,9647,19.1,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",75+,2022,7478.0,8015,15.1,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",75+,2023,7931.0,8165,14.8,"imputed, all CUs"
+900170,"Retirement, survivors, and disability income (2013+)",75+,2024,7930.0,7930,14.2,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,1984,938.0,2832,4.0,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,1985,1126.0,3283,4.5,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,1986,973.0,2785,3.8,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,1987,1115.0,3079,4.1,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,1988,1016.0,2694,3.6,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,1989,1253.0,3170,4.0,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,1990,1059.0,2542,3.3,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,1991,1164.0,2681,3.4,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,1992,1130.0,2527,3.3,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,1993,1029.0,2234,3.0,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,1994,1087.0,2301,3.0,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,1995,861.0,1772,2.3,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,1996,761.0,1521,2.0,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,1997,822.0,1607,2.1,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,1998,871.0,1676,2.1,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,1999,1104.0,2079,2.5,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2000,927.0,1689,2.1,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2001,951.0,1684,2.0,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2002,924.0,1611,1.9,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2003,1097.0,1870,2.1,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2004,1261.0,2094,2.3,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2005,1379.0,2215,2.3,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2006,1486.0,2312,2.5,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2007,1746.0,2642,2.8,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2008,1509.0,2199,2.4,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2009,1460.0,2135,2.3,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2010,1182.0,1700,1.9,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2011,1281.0,1786,2.0,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2012,1358.0,1855,2.1,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2013,1411.0,1900,2.2,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2014,1594.0,2112,2.4,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2015,1737.0,2299,2.5,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2016,1751.0,2289,2.3,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2017,1910.0,2444,2.6,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2018,1941.0,2425,2.5,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2019,1962.0,2407,2.4,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2020,1963.0,2379,2.3,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2021,2279.0,2638,2.6,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2022,2294.0,2459,2.4,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2023,3257.0,3353,3.2,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",All CUs,2024,3066.0,3066,2.9,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,1984,2146.0,6479,8.2,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,1985,2086.0,6081,7.7,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,1986,1598.0,4574,5.6,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,1987,1857.0,5128,6.0,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,1988,1556.0,4126,5.2,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,1989,2088.0,5282,6.0,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,1990,1648.0,3955,4.7,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,1991,1696.0,3906,4.4,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,1992,1943.0,4344,5.2,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,1993,1752.0,3803,4.6,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,1994,1641.0,3473,4.0,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,1995,1326.0,2729,3.5,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,1996,1273.0,2545,3.1,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,1997,1089.0,2128,2.6,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,1998,1250.0,2406,2.8,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,1999,1495.0,2815,3.0,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2000,1153.0,2100,2.4,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2001,1412.0,2501,2.7,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2002,1517.0,2645,2.9,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2003,1922.0,3277,3.3,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2004,1800.0,2989,2.9,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2005,2539.0,4078,4.0,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2006,2040.0,3174,3.2,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2007,2651.0,4011,3.7,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2008,2289.0,3335,3.2,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2009,2164.0,3164,3.1,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2010,1542.0,2218,2.2,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2011,2042.0,2848,2.7,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2012,2110.0,2883,2.7,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2013,2584.0,3479,3.5,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2014,2641.0,3499,3.5,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2015,2288.0,3028,3.0,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2016,2182.0,2852,2.7,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2017,3104.0,3972,3.7,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2018,2379.0,2972,2.7,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2019,1881.0,2308,1.9,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2020,3197.0,3875,3.4,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2021,3164.0,3663,3.2,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2022,3469.0,3718,3.3,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2023,6023.0,6201,5.1,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",55-64,2024,5134.0,5134,4.2,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,1988,2396.0,6353,13.5,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65+,1989,3272.0,8277,16.6,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65+,1990,2539.0,6094,13.5,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65+,1991,2642.0,6085,13.2,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65+,1992,2583.0,5775,12.4,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65+,1993,2139.0,4643,10.1,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65+,1994,2707.0,5730,12.0,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65+,1995,1811.0,3728,8.2,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65+,1996,1858.0,3715,8.3,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65+,1997,1820.0,3557,7.6,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65+,1998,1948.0,3749,8.1,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65+,1999,3092.0,5822,11.6,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2000,1895.0,3452,7.5,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2001,1878.0,3326,6.8,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2002,1704.0,2971,5.7,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2003,1930.0,3290,6.3,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2004,2621.0,4352,7.5,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2005,2845.0,4570,7.7,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2006,2899.0,4511,7.6,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2007,3881.0,5872,9.6,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2008,3173.0,4623,8.1,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2009,2564.0,3749,6.4,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2010,2669.0,3840,6.5,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2011,2681.0,3739,6.2,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2012,2875.0,3928,6.4,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2013,2762.0,3719,6.1,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2014,2763.0,3661,6.1,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2015,3523.0,4663,7.6,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2016,3308.0,4324,6.9,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2017,3618.0,4630,7.4,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2018,3659.0,4571,7.1,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2019,4552.0,5585,8.2,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2020,3193.0,3870,6.1,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2021,3431.0,3972,6.2,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2022,3969.0,4254,6.6,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2023,5247.0,5402,8.2,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65+,2024,5149.0,5149,7.6,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,1984,1701.0,5136,10.8,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,1985,2508.0,7312,13.8,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,1986,2593.0,7421,14.5,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,1987,2300.0,6351,12.4,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,1988,2335.0,6192,11.3,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,1989,2599.0,6575,11.8,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,1990,2400.0,5760,11.2,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,1991,2553.0,5880,11.2,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,1992,2764.0,6180,11.9,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,1993,2244.0,4871,9.2,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,1994,2489.0,5268,10.0,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,1995,1684.0,3466,6.6,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,1996,1800.0,3599,7.0,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,1997,1907.0,3727,6.9,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,1998,1923.0,3701,7.1,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,1999,1713.0,3225,5.9,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2000,1810.0,3297,6.2,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2001,1963.0,3477,6.1,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2002,1438.0,2507,4.1,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2003,1547.0,2637,4.4,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2004,2280.0,3786,5.4,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2005,2592.0,4163,5.7,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2006,2805.0,4365,6.1,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2007,3053.0,4619,6.4,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2008,2596.0,3782,5.7,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2009,2105.0,3078,4.5,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2010,2658.0,3824,5.3,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2011,2789.0,3889,5.3,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2012,2768.0,3782,5.2,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2013,2583.0,3478,4.8,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2014,2402.0,3183,4.6,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2015,3408.0,4510,6.3,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2016,3744.0,4893,6.5,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2017,4182.0,5352,7.2,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2018,3893.0,4863,6.4,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2019,4673.0,5734,7.1,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2020,3225.0,3909,5.4,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2021,3406.0,3943,5.4,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2022,3843.0,4119,5.6,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2023,5458.0,5619,7.6,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",65-74,2024,5073.0,5073,6.7,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,1984,2026.0,6117,17.3,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,1985,2463.0,7180,20.0,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,1986,2187.0,6259,17.6,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,1987,2472.0,6826,19.1,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,1988,2479.0,6573,18.1,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,1989,4243.0,10734,26.1,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,1990,2716.0,6519,17.6,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,1991,2764.0,6366,17.0,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,1992,2359.0,5274,13.1,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,1993,2010.0,4363,11.7,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,1994,2984.0,6316,15.2,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,1995,1966.0,4047,10.9,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,1996,1928.0,3855,10.5,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,1997,1707.0,3336,8.8,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,1998,1980.0,3810,9.8,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,1999,4645.0,8746,19.4,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2000,1991.0,3627,9.7,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2001,1784.0,3160,8.0,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2002,1990.0,3470,8.3,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2003,2317.0,3950,9.1,complete income reporters only
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2004,2954.0,4905,10.5,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2005,3102.0,4982,10.9,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2006,2999.0,4666,10.2,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2007,4755.0,7194,14.6,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2008,3804.0,5542,11.6,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2009,3067.0,4484,9.7,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2010,2681.0,3857,8.4,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2011,2552.0,3559,7.9,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2012,3008.0,4110,8.9,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2013,3001.0,4041,8.8,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2014,3242.0,4296,9.1,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2015,3681.0,4872,10.1,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2016,2700.0,3529,7.7,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2017,2825.0,3615,7.7,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2018,3329.0,4159,8.6,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2019,4391.0,5388,10.5,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2020,3148.0,3815,7.6,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2021,3469.0,4016,8.0,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2022,4149.0,4447,8.4,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2023,4957.0,5103,9.3,"imputed, all CUs"
+INDIVRNT,"Interest, dividends, rental and other property income",75+,2024,5257.0,5257,9.4,"imputed, all CUs"
+900180,Interest and dividends (2013+),All CUs,2013,698.0,940,1.1,"imputed, all CUs"
+900180,Interest and dividends (2013+),All CUs,2014,762.0,1010,1.1,"imputed, all CUs"
+900180,Interest and dividends (2013+),All CUs,2015,916.0,1212,1.3,"imputed, all CUs"
+900180,Interest and dividends (2013+),All CUs,2016,779.0,1018,1.0,"imputed, all CUs"
+900180,Interest and dividends (2013+),All CUs,2017,869.0,1112,1.2,"imputed, all CUs"
+900180,Interest and dividends (2013+),All CUs,2018,1025.0,1280,1.3,"imputed, all CUs"
+900180,Interest and dividends (2013+),All CUs,2019,829.0,1017,1.0,"imputed, all CUs"
+900180,Interest and dividends (2013+),All CUs,2020,998.0,1210,1.2,"imputed, all CUs"
+900180,Interest and dividends (2013+),All CUs,2021,1037.0,1200,1.2,"imputed, all CUs"
+900180,Interest and dividends (2013+),All CUs,2022,1082.0,1160,1.2,"imputed, all CUs"
+900180,Interest and dividends (2013+),All CUs,2023,1691.0,1741,1.7,"imputed, all CUs"
+900180,Interest and dividends (2013+),All CUs,2024,1714.0,1714,1.6,"imputed, all CUs"
+900180,Interest and dividends (2013+),55-64,2013,1397.0,1881,1.9,"imputed, all CUs"
+900180,Interest and dividends (2013+),55-64,2014,922.0,1222,1.2,"imputed, all CUs"
+900180,Interest and dividends (2013+),55-64,2015,1144.0,1514,1.5,"imputed, all CUs"
+900180,Interest and dividends (2013+),55-64,2016,990.0,1294,1.2,"imputed, all CUs"
+900180,Interest and dividends (2013+),55-64,2017,1679.0,2149,2.0,"imputed, all CUs"
+900180,Interest and dividends (2013+),55-64,2018,1386.0,1731,1.6,"imputed, all CUs"
+900180,Interest and dividends (2013+),55-64,2019,821.0,1007,0.8,"imputed, all CUs"
+900180,Interest and dividends (2013+),55-64,2020,1446.0,1753,1.5,"imputed, all CUs"
+900180,Interest and dividends (2013+),55-64,2021,1115.0,1291,1.1,"imputed, all CUs"
+900180,Interest and dividends (2013+),55-64,2022,1300.0,1393,1.2,"imputed, all CUs"
+900180,Interest and dividends (2013+),55-64,2023,3725.0,3835,3.2,"imputed, all CUs"
+900180,Interest and dividends (2013+),55-64,2024,2457.0,2457,2.0,"imputed, all CUs"
+900180,Interest and dividends (2013+),65+,2013,1376.0,1853,3.0,"imputed, all CUs"
+900180,Interest and dividends (2013+),65+,2014,1725.0,2286,3.8,"imputed, all CUs"
+900180,Interest and dividends (2013+),65+,2015,2046.0,2708,4.4,"imputed, all CUs"
+900180,Interest and dividends (2013+),65+,2016,1541.0,2014,3.2,"imputed, all CUs"
+900180,Interest and dividends (2013+),65+,2017,1575.0,2016,3.2,"imputed, all CUs"
+900180,Interest and dividends (2013+),65+,2018,1962.0,2451,3.8,"imputed, all CUs"
+900180,Interest and dividends (2013+),65+,2019,2031.0,2492,3.6,"imputed, all CUs"
+900180,Interest and dividends (2013+),65+,2020,1969.0,2387,3.8,"imputed, all CUs"
+900180,Interest and dividends (2013+),65+,2021,1788.0,2070,3.2,"imputed, all CUs"
+900180,Interest and dividends (2013+),65+,2022,2172.0,2328,3.6,"imputed, all CUs"
+900180,Interest and dividends (2013+),65+,2023,2774.0,2856,4.3,"imputed, all CUs"
+900180,Interest and dividends (2013+),65+,2024,3163.0,3163,4.7,"imputed, all CUs"
+900180,Interest and dividends (2013+),65-74,2013,1135.0,1528,2.1,"imputed, all CUs"
+900180,Interest and dividends (2013+),65-74,2014,1470.0,1948,2.8,"imputed, all CUs"
+900180,Interest and dividends (2013+),65-74,2015,1635.0,2164,3.0,"imputed, all CUs"
+900180,Interest and dividends (2013+),65-74,2016,1571.0,2053,2.7,"imputed, all CUs"
+900180,Interest and dividends (2013+),65-74,2017,1509.0,1931,2.6,"imputed, all CUs"
+900180,Interest and dividends (2013+),65-74,2018,2026.0,2531,3.3,"imputed, all CUs"
+900180,Interest and dividends (2013+),65-74,2019,1897.0,2328,2.9,"imputed, all CUs"
+900180,Interest and dividends (2013+),65-74,2020,1877.0,2275,3.1,"imputed, all CUs"
+900180,Interest and dividends (2013+),65-74,2021,1796.0,2079,2.8,"imputed, all CUs"
+900180,Interest and dividends (2013+),65-74,2022,2149.0,2303,3.2,"imputed, all CUs"
+900180,Interest and dividends (2013+),65-74,2023,2906.0,2992,4.0,"imputed, all CUs"
+900180,Interest and dividends (2013+),65-74,2024,2886.0,2886,3.8,"imputed, all CUs"
+900180,Interest and dividends (2013+),75+,2013,1698.0,2286,5.0,"imputed, all CUs"
+900180,Interest and dividends (2013+),75+,2014,2063.0,2734,5.8,"imputed, all CUs"
+900180,Interest and dividends (2013+),75+,2015,2610.0,3454,7.2,"imputed, all CUs"
+900180,Interest and dividends (2013+),75+,2016,1500.0,1960,4.3,"imputed, all CUs"
+900180,Interest and dividends (2013+),75+,2017,1667.0,2133,4.6,"imputed, all CUs"
+900180,Interest and dividends (2013+),75+,2018,1873.0,2340,4.8,"imputed, all CUs"
+900180,Interest and dividends (2013+),75+,2019,2210.0,2712,5.3,"imputed, all CUs"
+900180,Interest and dividends (2013+),75+,2020,2098.0,2543,5.1,"imputed, all CUs"
+900180,Interest and dividends (2013+),75+,2021,1776.0,2056,4.1,"imputed, all CUs"
+900180,Interest and dividends (2013+),75+,2022,2206.0,2365,4.5,"imputed, all CUs"
+900180,Interest and dividends (2013+),75+,2023,2591.0,2667,4.8,"imputed, all CUs"
+900180,Interest and dividends (2013+),75+,2024,3560.0,3560,6.4,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,1984,252.0,761,1.1,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,1985,235.0,685,0.9,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,1986,273.0,781,1.1,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,1987,294.0,812,1.1,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,1988,308.0,817,1.1,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,1989,290.0,734,0.9,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,1990,344.0,826,1.1,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,1991,389.0,896,1.1,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,1992,471.0,1053,1.4,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,1993,468.0,1016,1.3,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,1994,483.0,1022,1.3,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,1995,462.0,951,1.3,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,1996,437.0,874,1.1,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,1997,382.0,747,1.0,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,1998,330.0,635,0.8,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,1999,320.0,603,0.7,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2000,310.0,565,0.7,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2001,384.0,680,0.8,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2002,352.0,614,0.7,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2003,314.0,535,0.6,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2004,308.0,511,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2005,343.0,551,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2006,340.0,529,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2007,332.0,502,0.5,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2008,371.0,541,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2009,435.0,636,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2010,505.0,726,0.8,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2011,520.0,725,0.8,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2012,534.0,730,0.8,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2013,534.0,719,0.8,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2014,530.0,702,0.8,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2015,568.0,752,0.8,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2016,519.0,678,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2017,460.0,589,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2018,450.0,562,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2019,426.0,523,0.5,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2020,458.0,555,0.5,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2021,590.0,683,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2022,621.0,666,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2023,602.0,620,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",All CUs,2024,620.0,620,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,1984,287.0,866,1.1,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,1985,191.0,557,0.7,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,1986,209.0,598,0.7,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,1987,203.0,561,0.7,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,1988,229.0,607,0.8,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,1989,273.0,691,0.8,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,1990,389.0,934,1.1,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,1991,439.0,1011,1.1,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,1992,499.0,1116,1.3,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,1993,296.0,643,0.8,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,1994,372.0,787,0.9,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,1995,458.0,943,1.2,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,1996,475.0,950,1.2,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,1997,428.0,837,1.0,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,1998,355.0,683,0.8,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,1999,480.0,904,1.0,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,2000,361.0,658,0.8,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,2001,466.0,825,0.9,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,2002,473.0,825,0.9,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,2003,386.0,658,0.7,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",55-64,2004,342.0,568,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2005,404.0,649,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2006,337.0,524,0.5,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2007,339.0,513,0.5,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2008,439.0,640,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2009,540.0,790,0.8,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2010,549.0,790,0.8,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2011,596.0,831,0.8,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2012,639.0,873,0.8,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2013,559.0,753,0.8,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2014,524.0,694,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2015,700.0,926,0.9,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2016,616.0,805,0.8,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2017,479.0,613,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2018,528.0,660,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2019,503.0,617,0.5,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2020,598.0,725,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2021,709.0,821,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2022,768.0,823,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2023,772.0,795,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",55-64,2024,933.0,933,0.8,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,1988,173.0,459,1.0,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65+,1989,182.0,460,0.9,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65+,1990,162.0,389,0.9,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65+,1991,198.0,456,1.0,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65+,1992,168.0,376,0.8,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65+,1993,212.0,460,1.0,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65+,1994,209.0,442,0.9,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65+,1995,287.0,591,1.3,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65+,1996,279.0,558,1.2,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65+,1997,237.0,463,1.0,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65+,1998,186.0,358,0.8,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65+,1999,228.0,429,0.9,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65+,2000,206.0,375,0.8,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65+,2001,349.0,618,1.3,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65+,2002,331.0,577,1.1,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65+,2003,214.0,365,0.7,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65+,2004,206.0,342,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2005,227.0,365,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2006,273.0,425,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2007,239.0,362,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2008,252.0,367,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2009,280.0,409,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2010,282.0,406,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2011,310.0,432,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2012,311.0,425,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2013,328.0,442,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2014,262.0,347,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2015,309.0,409,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2016,310.0,405,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2017,262.0,335,0.5,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2018,247.0,309,0.5,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2019,255.0,313,0.5,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2020,322.0,390,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2021,337.0,390,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2022,412.0,442,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2023,428.0,441,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65+,2024,428.0,428,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,1984,192.0,580,1.2,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,1985,92.0,268,0.5,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,1986,168.0,481,0.9,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,1987,146.0,403,0.8,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,1988,175.0,464,0.8,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,1989,218.0,551,1.0,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,1990,144.0,346,0.7,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,1991,194.0,447,0.9,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,1992,176.0,394,0.8,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,1993,221.0,480,0.9,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,1994,256.0,542,1.0,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,1995,338.0,696,1.3,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,1996,261.0,522,1.0,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,1997,285.0,557,1.0,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,1998,218.0,420,0.8,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,1999,301.0,567,1.0,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,2000,208.0,379,0.7,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,2001,374.0,662,1.2,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,2002,326.0,568,0.9,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,2003,243.0,414,0.7,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",65-74,2004,228.0,379,0.5,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2005,268.0,430,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2006,320.0,498,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2007,282.0,427,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2008,258.0,376,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2009,345.0,504,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2010,293.0,422,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2011,328.0,457,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2012,370.0,506,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2013,331.0,446,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2014,283.0,375,0.5,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2015,342.0,453,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2016,313.0,409,0.5,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2017,316.0,404,0.5,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2018,271.0,339,0.4,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2019,281.0,345,0.4,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2020,392.0,475,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2021,373.0,432,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2022,476.0,510,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2023,456.0,469,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",65-74,2024,534.0,534,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,1984,228.0,688,1.9,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,1985,190.0,554,1.5,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,1986,169.0,484,1.4,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,1987,126.0,348,1.0,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,1988,170.0,451,1.2,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,1989,131.0,331,0.8,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,1990,186.0,446,1.2,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,1991,204.0,470,1.3,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,1992,158.0,353,0.9,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,1993,201.0,436,1.2,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,1994,150.0,317,0.8,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,1995,224.0,461,1.2,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,1996,300.0,600,1.6,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,1997,176.0,344,0.9,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,1998,146.0,281,0.7,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,1999,146.0,275,0.6,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,2000,203.0,370,1.0,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,2001,322.0,570,1.4,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,2002,336.0,586,1.4,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,2003,184.0,314,0.7,complete income reporters only
+WELFARE,"Public assistance, SSI, SNAP",75+,2004,185.0,307,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2005,186.0,299,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2006,224.0,349,0.8,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2007,195.0,295,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2008,246.0,358,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2009,209.0,306,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2010,269.0,387,0.8,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2011,289.0,403,0.9,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2012,238.0,325,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2013,323.0,435,0.9,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2014,233.0,309,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2015,263.0,348,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2016,306.0,400,0.9,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2017,185.0,237,0.5,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2018,213.0,266,0.5,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2019,222.0,272,0.5,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2020,225.0,273,0.5,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2021,284.0,329,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2022,320.0,343,0.6,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2023,389.0,400,0.7,"imputed, all CUs"
+WELFARE,"Public assistance, SSI, SNAP",75+,2024,278.0,278,0.5,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,All CUs,2013,612.0,824,1.0,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,All CUs,2014,556.0,737,0.8,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,All CUs,2015,432.0,572,0.6,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,All CUs,2016,444.0,580,0.6,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,All CUs,2017,457.0,585,0.6,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,All CUs,2018,477.0,596,0.6,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,All CUs,2019,562.0,690,0.7,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,All CUs,2020,902.0,1093,1.1,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,All CUs,2021,1101.0,1275,1.3,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,All CUs,2022,668.0,716,0.7,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,All CUs,2023,505.0,520,0.5,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,All CUs,2024,635.0,635,0.6,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,55-64,2013,618.0,832,0.8,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,55-64,2014,645.0,855,0.9,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,55-64,2015,511.0,676,0.7,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,55-64,2016,478.0,625,0.6,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,55-64,2017,454.0,581,0.5,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,55-64,2018,639.0,798,0.7,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,55-64,2019,681.0,836,0.7,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,55-64,2020,976.0,1183,1.0,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,55-64,2021,1428.0,1653,1.4,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,55-64,2022,823.0,882,0.8,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,55-64,2023,527.0,543,0.4,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,55-64,2024,607.0,607,0.5,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65+,2013,400.0,539,0.9,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65+,2014,613.0,812,1.4,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65+,2015,327.0,433,0.7,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65+,2016,469.0,613,1.0,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65+,2017,544.0,696,1.1,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65+,2018,471.0,588,0.9,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65+,2019,442.0,542,0.8,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65+,2020,700.0,848,1.3,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65+,2021,810.0,938,1.5,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65+,2022,618.0,662,1.0,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65+,2023,578.0,595,0.9,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65+,2024,588.0,588,0.9,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65-74,2013,452.0,609,0.8,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65-74,2014,474.0,628,0.9,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65-74,2015,343.0,454,0.6,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65-74,2016,540.0,706,0.9,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65-74,2017,600.0,768,1.0,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65-74,2018,502.0,627,0.8,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65-74,2019,481.0,590,0.7,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65-74,2020,770.0,933,1.3,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65-74,2021,794.0,919,1.3,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65-74,2022,548.0,587,0.8,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65-74,2023,482.0,496,0.7,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,65-74,2024,524.0,524,0.7,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,75+,2013,329.0,443,1.0,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,75+,2014,797.0,1056,2.2,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,75+,2015,304.0,402,0.8,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,75+,2016,369.0,482,1.0,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,75+,2017,464.0,594,1.3,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,75+,2018,426.0,532,1.1,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,75+,2019,389.0,477,0.9,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,75+,2020,604.0,732,1.5,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,75+,2021,835.0,967,1.9,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,75+,2022,717.0,769,1.5,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,75+,2023,711.0,732,1.3,"imputed, all CUs"
+OTHREGIN,Unemployment/workers comp/veterans/regular contributions,75+,2024,678.0,678,1.2,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,1984,282.0,851,1.2,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,1985,180.0,525,0.7,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,1986,208.0,595,0.8,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,1987,209.0,577,0.8,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,1988,241.0,639,0.8,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,1989,207.0,524,0.7,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,1990,218.0,523,0.7,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,1991,245.0,564,0.7,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,1992,341.0,762,1.0,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,1993,309.0,671,0.9,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,1994,316.0,669,0.9,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,1995,279.0,574,0.8,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,1996,213.0,426,0.6,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,1997,206.0,403,0.5,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,1998,193.0,371,0.5,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,1999,177.0,333,0.4,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,2000,192.0,350,0.4,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,2001,171.0,303,0.4,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,2002,233.0,406,0.5,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,2003,269.0,459,0.5,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,2004,237.0,394,0.4,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,2005,203.0,326,0.3,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,2006,207.0,322,0.3,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,2007,216.0,327,0.3,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,2008,225.0,328,0.4,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,2009,432.0,632,0.7,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,2010,634.0,912,1.0,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,2011,579.0,807,0.9,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",All CUs,2012,428.0,585,0.7,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,1984,526.0,1588,2.0,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,1985,306.0,892,1.1,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,1986,332.0,950,1.2,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,1987,199.0,550,0.6,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,1988,347.0,920,1.2,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,1989,240.0,607,0.7,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,1990,311.0,746,0.9,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,1991,344.0,792,0.9,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,1992,418.0,935,1.1,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,1993,428.0,929,1.1,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,1994,369.0,781,0.9,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,1995,285.0,587,0.7,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,1996,244.0,488,0.6,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,1997,353.0,690,0.8,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,1998,344.0,662,0.8,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,1999,169.0,318,0.3,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,2000,179.0,326,0.4,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,2001,309.0,547,0.6,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,2002,353.0,616,0.7,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,2003,319.0,544,0.5,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,2004,278.0,462,0.5,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,2005,259.0,416,0.4,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,2006,224.0,349,0.3,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,2007,268.0,405,0.4,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,2008,482.0,702,0.7,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,2009,540.0,790,0.8,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,2010,766.0,1102,1.1,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,2011,755.0,1053,1.0,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",55-64,2012,521.0,712,0.7,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,1988,105.0,278,0.6,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,1989,189.0,478,1.0,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,1990,146.0,350,0.8,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,1991,95.0,219,0.5,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,1992,162.0,362,0.8,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,1993,175.0,380,0.8,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,1994,150.0,317,0.7,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,1995,173.0,356,0.8,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,1996,134.0,268,0.6,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,1997,115.0,225,0.5,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,1998,82.0,158,0.3,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,1999,70.0,132,0.3,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,2000,124.0,226,0.5,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,2001,70.0,124,0.3,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,2002,84.0,146,0.3,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,2003,109.0,186,0.4,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,2004,72.0,120,0.2,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,2005,97.0,156,0.3,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,2006,139.0,216,0.4,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,2007,186.0,281,0.5,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,2008,78.0,114,0.2,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,2009,119.0,174,0.3,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,2010,282.0,406,0.7,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,2011,218.0,304,0.5,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65+,2012,199.0,272,0.4,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,1984,164.0,495,1.0,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,1985,131.0,382,0.7,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,1986,113.0,323,0.6,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,1987,134.0,370,0.7,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,1988,136.0,361,0.7,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,1989,276.0,698,1.3,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,1990,165.0,396,0.8,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,1991,114.0,263,0.5,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,1992,225.0,503,1.0,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,1993,251.0,545,1.0,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,1994,218.0,461,0.9,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,1995,236.0,486,0.9,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,1996,194.0,388,0.8,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,1997,80.0,156,0.3,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,1998,100.0,192,0.4,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,1999,86.0,162,0.3,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,2000,159.0,290,0.5,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,2001,96.0,170,0.3,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,2002,115.0,201,0.3,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,2003,110.0,188,0.3,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,2004,103.0,171,0.2,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,2005,151.0,243,0.3,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,2006,93.0,145,0.2,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,2007,96.0,145,0.2,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,2008,104.0,152,0.2,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,2009,180.0,263,0.4,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,2010,431.0,620,0.9,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,2011,290.0,404,0.6,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",65-74,2012,274.0,374,0.5,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,1984,138.0,417,1.2,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,1985,63.0,184,0.5,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,1986,61.0,175,0.5,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,1987,91.0,251,0.7,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,1988,63.0,167,0.5,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,1989,64.0,162,0.4,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,1990,121.0,290,0.8,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,1991,69.0,159,0.4,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,1992,85.0,190,0.5,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,1993,82.0,178,0.5,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,1994,63.0,133,0.3,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,1995,98.0,202,0.5,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,1996,63.0,126,0.3,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,1997,159.0,311,0.8,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,1998,60.0,115,0.3,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,1999,51.0,96,0.2,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,2000,83.0,151,0.4,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,2001,42.0,74,0.2,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,2002,51.0,89,0.2,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,2003,109.0,186,0.4,complete income reporters only
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,2004,43.0,71,0.2,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,2005,43.0,69,0.2,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,2006,187.0,291,0.6,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,2007,281.0,425,0.9,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,2008,49.0,71,0.1,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,2009,51.0,75,0.2,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,2010,112.0,161,0.4,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,2011,131.0,183,0.4,"imputed, all CUs"
+OTHBNFTS,"Unemployment, workers comp, veterans (to 2012)",75+,2012,107.0,146,0.3,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),All CUs,1984,191.0,577,0.8,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,1985,197.0,574,0.8,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,1986,223.0,638,0.9,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,1987,232.0,641,0.8,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,1988,258.0,684,0.9,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,1989,273.0,691,0.9,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,1990,260.0,624,0.8,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,1991,284.0,654,0.8,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,1992,336.0,751,1.0,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,1993,282.0,612,0.8,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,1994,287.0,607,0.8,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,1995,273.0,562,0.7,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,1996,243.0,486,0.6,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,1997,293.0,573,0.7,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,1998,260.0,500,0.6,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,1999,262.0,493,0.6,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,2000,309.0,563,0.7,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,2001,315.0,558,0.7,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,2002,412.0,718,0.8,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,2003,343.0,585,0.7,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),All CUs,2004,413.0,686,0.8,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),All CUs,2005,382.0,614,0.7,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),All CUs,2006,409.0,636,0.7,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),All CUs,2007,463.0,700,0.7,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),All CUs,2008,446.0,650,0.7,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),All CUs,2009,416.0,608,0.7,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),All CUs,2010,407.0,585,0.7,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),All CUs,2011,364.0,508,0.6,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),All CUs,2012,380.0,519,0.6,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),55-64,1984,74.0,223,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,1985,105.0,306,0.4,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,1986,115.0,329,0.4,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,1987,82.0,226,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,1988,97.0,257,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,1989,79.0,200,0.2,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,1990,168.0,403,0.5,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,1991,146.0,336,0.4,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,1992,88.0,197,0.2,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,1993,134.0,291,0.4,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,1994,121.0,256,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,1995,128.0,263,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,1996,127.0,254,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,1997,93.0,182,0.2,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,1998,119.0,229,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,1999,153.0,288,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,2000,149.0,271,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,2001,193.0,342,0.4,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,2002,366.0,638,0.7,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,2003,273.0,465,0.5,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),55-64,2004,242.0,402,0.4,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),55-64,2005,167.0,268,0.3,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),55-64,2006,243.0,378,0.4,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),55-64,2007,463.0,700,0.7,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),55-64,2008,188.0,274,0.3,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),55-64,2009,295.0,431,0.4,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),55-64,2010,218.0,314,0.3,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),55-64,2011,204.0,284,0.3,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),55-64,2012,189.0,258,0.2,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),65+,1988,51.0,135,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65+,1989,65.0,164,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65+,1990,92.0,221,0.5,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65+,1991,116.0,267,0.6,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65+,1992,195.0,436,0.9,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65+,1993,58.0,126,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65+,1994,74.0,157,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65+,1995,54.0,111,0.2,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65+,1996,46.0,92,0.2,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65+,1997,69.0,135,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65+,1998,71.0,137,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65+,1999,105.0,198,0.4,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65+,2000,82.0,149,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65+,2001,89.0,158,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65+,2002,256.0,446,0.9,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65+,2003,87.0,148,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65+,2004,113.0,188,0.3,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),65+,2005,196.0,315,0.5,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),65+,2006,165.0,257,0.4,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),65+,2007,139.0,210,0.3,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),65+,2008,180.0,262,0.5,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),65+,2009,163.0,238,0.4,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),65+,2010,153.0,220,0.4,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),65+,2011,231.0,322,0.5,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),65+,2012,252.0,344,0.6,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),65-74,1984,45.0,136,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,1985,82.0,239,0.5,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,1986,87.0,249,0.5,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,1987,62.0,171,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,1988,36.0,95,0.2,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,1989,69.0,175,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,1990,140.0,336,0.7,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,1991,76.0,175,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,1992,44.0,98,0.2,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,1993,50.0,109,0.2,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,1994,93.0,197,0.4,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,1995,54.0,111,0.2,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,1996,63.0,126,0.2,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,1997,91.0,178,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,1998,40.0,77,0.1,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,1999,92.0,173,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,2000,81.0,148,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,2001,110.0,195,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,2002,143.0,249,0.4,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,2003,99.0,169,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),65-74,2004,61.0,101,0.1,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),65-74,2005,206.0,331,0.5,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),65-74,2006,90.0,140,0.2,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),65-74,2007,154.0,233,0.3,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),65-74,2008,153.0,223,0.3,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),65-74,2009,192.0,281,0.4,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),65-74,2010,179.0,258,0.4,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),65-74,2011,311.0,434,0.6,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),65-74,2012,296.0,404,0.6,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),75+,1984,45.0,136,0.4,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,1985,81.0,236,0.7,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,1986,71.0,203,0.6,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,1987,48.0,133,0.4,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,1988,72.0,191,0.5,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,1989,58.0,147,0.4,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,1990,31.0,74,0.2,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,1991,170.0,392,1.0,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,1992,382.0,854,2.1,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,1993,68.0,148,0.4,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,1994,50.0,106,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,1995,54.0,111,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,1996,25.0,50,0.1,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,1997,40.0,78,0.2,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,1998,110.0,212,0.5,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,1999,120.0,226,0.5,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,2000,83.0,151,0.4,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,2001,65.0,115,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,2002,379.0,661,1.6,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,2003,76.0,130,0.3,complete income reporters only
+REGCONT,Regular contributions for support (to 2012),75+,2004,164.0,272,0.6,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),75+,2005,185.0,297,0.6,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),75+,2006,242.0,377,0.8,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),75+,2007,123.0,186,0.4,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),75+,2008,210.0,306,0.6,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),75+,2009,130.0,190,0.4,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),75+,2010,124.0,178,0.4,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),75+,2011,136.0,190,0.4,"imputed, all CUs"
+REGCONT,Regular contributions for support (to 2012),75+,2012,199.0,272,0.6,"imputed, all CUs"
+OTHRINC,Other income,All CUs,1984,81.0,245,0.3,complete income reporters only
+OTHRINC,Other income,All CUs,1985,75.0,219,0.3,complete income reporters only
+OTHRINC,Other income,All CUs,1986,86.0,246,0.3,complete income reporters only
+OTHRINC,Other income,All CUs,1987,102.0,282,0.4,complete income reporters only
+OTHRINC,Other income,All CUs,1988,85.0,225,0.3,complete income reporters only
+OTHRINC,Other income,All CUs,1989,115.0,291,0.4,complete income reporters only
+OTHRINC,Other income,All CUs,1990,93.0,223,0.3,complete income reporters only
+OTHRINC,Other income,All CUs,1991,130.0,299,0.4,complete income reporters only
+OTHRINC,Other income,All CUs,1992,136.0,304,0.4,complete income reporters only
+OTHRINC,Other income,All CUs,1993,133.0,289,0.4,complete income reporters only
+OTHRINC,Other income,All CUs,1994,142.0,301,0.4,complete income reporters only
+OTHRINC,Other income,All CUs,1995,180.0,370,0.5,complete income reporters only
+OTHRINC,Other income,All CUs,1996,148.0,296,0.4,complete income reporters only
+OTHRINC,Other income,All CUs,1997,217.0,424,0.5,complete income reporters only
+OTHRINC,Other income,All CUs,1998,221.0,425,0.5,complete income reporters only
+OTHRINC,Other income,All CUs,1999,230.0,433,0.5,complete income reporters only
+OTHRINC,Other income,All CUs,2000,133.0,242,0.3,complete income reporters only
+OTHRINC,Other income,All CUs,2001,158.0,280,0.3,complete income reporters only
+OTHRINC,Other income,All CUs,2002,173.0,302,0.3,complete income reporters only
+OTHRINC,Other income,All CUs,2003,165.0,281,0.3,complete income reporters only
+OTHRINC,Other income,All CUs,2004,187.0,311,0.3,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2005,194.0,312,0.3,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2006,225.0,350,0.4,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2007,189.0,286,0.3,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2008,208.0,303,0.3,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2009,266.0,389,0.4,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2010,192.0,276,0.3,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2011,218.0,304,0.3,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2012,229.0,313,0.3,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2013,272.0,366,0.4,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2014,323.0,428,0.5,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2015,320.0,424,0.5,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2016,360.0,471,0.5,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2017,351.0,449,0.5,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2018,314.0,392,0.4,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2019,345.0,423,0.4,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2020,278.0,337,0.3,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2021,336.0,389,0.4,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2022,346.0,371,0.4,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2023,330.0,340,0.3,"imputed, all CUs"
+OTHRINC,Other income,All CUs,2024,291.0,291,0.3,"imputed, all CUs"
+OTHRINC,Other income,55-64,1984,94.0,284,0.4,complete income reporters only
+OTHRINC,Other income,55-64,1985,55.0,160,0.2,complete income reporters only
+OTHRINC,Other income,55-64,1986,59.0,169,0.2,complete income reporters only
+OTHRINC,Other income,55-64,1987,103.0,284,0.3,complete income reporters only
+OTHRINC,Other income,55-64,1988,69.0,183,0.2,complete income reporters only
+OTHRINC,Other income,55-64,1989,119.0,301,0.3,complete income reporters only
+OTHRINC,Other income,55-64,1990,75.0,180,0.2,complete income reporters only
+OTHRINC,Other income,55-64,1991,91.0,210,0.2,complete income reporters only
+OTHRINC,Other income,55-64,1992,91.0,203,0.2,complete income reporters only
+OTHRINC,Other income,55-64,1993,99.0,215,0.3,complete income reporters only
+OTHRINC,Other income,55-64,1994,89.0,188,0.2,complete income reporters only
+OTHRINC,Other income,55-64,1995,268.0,552,0.7,complete income reporters only
+OTHRINC,Other income,55-64,1996,110.0,220,0.3,complete income reporters only
+OTHRINC,Other income,55-64,1997,150.0,293,0.4,complete income reporters only
+OTHRINC,Other income,55-64,1998,151.0,291,0.3,complete income reporters only
+OTHRINC,Other income,55-64,1999,226.0,426,0.5,complete income reporters only
+OTHRINC,Other income,55-64,2000,81.0,148,0.2,complete income reporters only
+OTHRINC,Other income,55-64,2001,57.0,101,0.1,complete income reporters only
+OTHRINC,Other income,55-64,2002,83.0,145,0.2,complete income reporters only
+OTHRINC,Other income,55-64,2003,122.0,208,0.2,complete income reporters only
+OTHRINC,Other income,55-64,2004,164.0,272,0.3,"imputed, all CUs"
+OTHRINC,Other income,55-64,2005,109.0,175,0.2,"imputed, all CUs"
+OTHRINC,Other income,55-64,2006,113.0,176,0.2,"imputed, all CUs"
+OTHRINC,Other income,55-64,2007,122.0,185,0.2,"imputed, all CUs"
+OTHRINC,Other income,55-64,2008,140.0,204,0.2,"imputed, all CUs"
+OTHRINC,Other income,55-64,2009,157.0,230,0.2,"imputed, all CUs"
+OTHRINC,Other income,55-64,2010,157.0,226,0.2,"imputed, all CUs"
+OTHRINC,Other income,55-64,2011,131.0,183,0.2,"imputed, all CUs"
+OTHRINC,Other income,55-64,2012,209.0,286,0.3,"imputed, all CUs"
+OTHRINC,Other income,55-64,2013,176.0,237,0.2,"imputed, all CUs"
+OTHRINC,Other income,55-64,2014,203.0,269,0.3,"imputed, all CUs"
+OTHRINC,Other income,55-64,2015,218.0,289,0.3,"imputed, all CUs"
+OTHRINC,Other income,55-64,2016,323.0,422,0.4,"imputed, all CUs"
+OTHRINC,Other income,55-64,2017,237.0,303,0.3,"imputed, all CUs"
+OTHRINC,Other income,55-64,2018,185.0,231,0.2,"imputed, all CUs"
+OTHRINC,Other income,55-64,2019,294.0,361,0.3,"imputed, all CUs"
+OTHRINC,Other income,55-64,2020,225.0,273,0.2,"imputed, all CUs"
+OTHRINC,Other income,55-64,2021,286.0,331,0.3,"imputed, all CUs"
+OTHRINC,Other income,55-64,2022,235.0,252,0.2,"imputed, all CUs"
+OTHRINC,Other income,55-64,2023,374.0,385,0.3,"imputed, all CUs"
+OTHRINC,Other income,55-64,2024,262.0,262,0.2,"imputed, all CUs"
+OTHRINC,Other income,65+,1988,28.0,74,0.2,complete income reporters only
+OTHRINC,Other income,65+,1989,25.0,63,0.1,complete income reporters only
+OTHRINC,Other income,65+,1990,62.0,149,0.3,complete income reporters only
+OTHRINC,Other income,65+,1991,59.0,136,0.3,complete income reporters only
+OTHRINC,Other income,65+,1992,85.0,190,0.4,complete income reporters only
+OTHRINC,Other income,65+,1993,71.0,154,0.3,complete income reporters only
+OTHRINC,Other income,65+,1994,45.0,95,0.2,complete income reporters only
+OTHRINC,Other income,65+,1995,114.0,235,0.5,complete income reporters only
+OTHRINC,Other income,65+,1996,62.0,124,0.3,complete income reporters only
+OTHRINC,Other income,65+,1997,102.0,199,0.4,complete income reporters only
+OTHRINC,Other income,65+,1998,109.0,210,0.5,complete income reporters only
+OTHRINC,Other income,65+,1999,158.0,297,0.6,complete income reporters only
+OTHRINC,Other income,65+,2000,43.0,78,0.2,complete income reporters only
+OTHRINC,Other income,65+,2001,96.0,170,0.3,complete income reporters only
+OTHRINC,Other income,65+,2002,159.0,277,0.5,complete income reporters only
+OTHRINC,Other income,65+,2003,99.0,169,0.3,complete income reporters only
+OTHRINC,Other income,65+,2004,103.0,171,0.3,"imputed, all CUs"
+OTHRINC,Other income,65+,2005,94.0,151,0.3,"imputed, all CUs"
+OTHRINC,Other income,65+,2006,99.0,154,0.3,"imputed, all CUs"
+OTHRINC,Other income,65+,2007,100.0,151,0.2,"imputed, all CUs"
+OTHRINC,Other income,65+,2008,182.0,265,0.5,"imputed, all CUs"
+OTHRINC,Other income,65+,2009,218.0,319,0.5,"imputed, all CUs"
+OTHRINC,Other income,65+,2010,109.0,157,0.3,"imputed, all CUs"
+OTHRINC,Other income,65+,2011,118.0,165,0.3,"imputed, all CUs"
+OTHRINC,Other income,65+,2012,125.0,171,0.3,"imputed, all CUs"
+OTHRINC,Other income,65+,2013,148.0,199,0.3,"imputed, all CUs"
+OTHRINC,Other income,65+,2014,203.0,269,0.5,"imputed, all CUs"
+OTHRINC,Other income,65+,2015,166.0,220,0.4,"imputed, all CUs"
+OTHRINC,Other income,65+,2016,181.0,237,0.4,"imputed, all CUs"
+OTHRINC,Other income,65+,2017,196.0,251,0.4,"imputed, all CUs"
+OTHRINC,Other income,65+,2018,223.0,279,0.4,"imputed, all CUs"
+OTHRINC,Other income,65+,2019,267.0,328,0.5,"imputed, all CUs"
+OTHRINC,Other income,65+,2020,211.0,256,0.4,"imputed, all CUs"
+OTHRINC,Other income,65+,2021,177.0,205,0.3,"imputed, all CUs"
+OTHRINC,Other income,65+,2022,203.0,218,0.3,"imputed, all CUs"
+OTHRINC,Other income,65+,2023,170.0,175,0.3,"imputed, all CUs"
+OTHRINC,Other income,65+,2024,128.0,128,0.2,"imputed, all CUs"
+OTHRINC,Other income,65-74,1984,25.0,75,0.2,complete income reporters only
+OTHRINC,Other income,65-74,1985,75.0,219,0.4,complete income reporters only
+OTHRINC,Other income,65-74,1986,26.0,74,0.1,complete income reporters only
+OTHRINC,Other income,65-74,1987,64.0,177,0.3,complete income reporters only
+OTHRINC,Other income,65-74,1988,30.0,80,0.1,complete income reporters only
+OTHRINC,Other income,65-74,1989,30.0,76,0.1,complete income reporters only
+OTHRINC,Other income,65-74,1990,66.0,158,0.3,complete income reporters only
+OTHRINC,Other income,65-74,1991,77.0,177,0.3,complete income reporters only
+OTHRINC,Other income,65-74,1992,94.0,210,0.4,complete income reporters only
+OTHRINC,Other income,65-74,1993,90.0,195,0.4,complete income reporters only
+OTHRINC,Other income,65-74,1994,53.0,112,0.2,complete income reporters only
+OTHRINC,Other income,65-74,1995,183.0,377,0.7,complete income reporters only
+OTHRINC,Other income,65-74,1996,81.0,162,0.3,complete income reporters only
+OTHRINC,Other income,65-74,1997,167.0,326,0.6,complete income reporters only
+OTHRINC,Other income,65-74,1998,169.0,325,0.6,complete income reporters only
+OTHRINC,Other income,65-74,1999,259.0,488,0.9,complete income reporters only
+OTHRINC,Other income,65-74,2000,46.0,84,0.2,complete income reporters only
+OTHRINC,Other income,65-74,2001,120.0,213,0.4,complete income reporters only
+OTHRINC,Other income,65-74,2002,235.0,410,0.7,complete income reporters only
+OTHRINC,Other income,65-74,2003,109.0,186,0.3,complete income reporters only
+OTHRINC,Other income,65-74,2004,108.0,179,0.3,"imputed, all CUs"
+OTHRINC,Other income,65-74,2005,77.0,124,0.2,"imputed, all CUs"
+OTHRINC,Other income,65-74,2006,118.0,184,0.3,"imputed, all CUs"
+OTHRINC,Other income,65-74,2007,137.0,207,0.3,"imputed, all CUs"
+OTHRINC,Other income,65-74,2008,202.0,294,0.4,"imputed, all CUs"
+OTHRINC,Other income,65-74,2009,313.0,458,0.7,"imputed, all CUs"
+OTHRINC,Other income,65-74,2010,130.0,187,0.3,"imputed, all CUs"
+OTHRINC,Other income,65-74,2011,138.0,192,0.3,"imputed, all CUs"
+OTHRINC,Other income,65-74,2012,108.0,148,0.2,"imputed, all CUs"
+OTHRINC,Other income,65-74,2013,166.0,224,0.3,"imputed, all CUs"
+OTHRINC,Other income,65-74,2014,221.0,293,0.4,"imputed, all CUs"
+OTHRINC,Other income,65-74,2015,154.0,204,0.3,"imputed, all CUs"
+OTHRINC,Other income,65-74,2016,205.0,268,0.4,"imputed, all CUs"
+OTHRINC,Other income,65-74,2017,255.0,326,0.4,"imputed, all CUs"
+OTHRINC,Other income,65-74,2018,278.0,347,0.5,"imputed, all CUs"
+OTHRINC,Other income,65-74,2019,381.0,467,0.6,"imputed, all CUs"
+OTHRINC,Other income,65-74,2020,163.0,198,0.3,"imputed, all CUs"
+OTHRINC,Other income,65-74,2021,152.0,176,0.2,"imputed, all CUs"
+OTHRINC,Other income,65-74,2022,241.0,258,0.4,"imputed, all CUs"
+OTHRINC,Other income,65-74,2023,155.0,160,0.2,"imputed, all CUs"
+OTHRINC,Other income,65-74,2024,133.0,133,0.2,"imputed, all CUs"
+OTHRINC,Other income,75+,1984,11.0,33,0.1,complete income reporters only
+OTHRINC,Other income,75+,1985,7.0,20,0.1,complete income reporters only
+OTHRINC,Other income,75+,1986,36.0,103,0.3,complete income reporters only
+OTHRINC,Other income,75+,1987,48.0,133,0.4,complete income reporters only
+OTHRINC,Other income,75+,1988,25.0,66,0.2,complete income reporters only
+OTHRINC,Other income,75+,1989,17.0,43,0.1,complete income reporters only
+OTHRINC,Other income,75+,1990,56.0,134,0.4,complete income reporters only
+OTHRINC,Other income,75+,1991,34.0,78,0.2,complete income reporters only
+OTHRINC,Other income,75+,1992,72.0,161,0.4,complete income reporters only
+OTHRINC,Other income,75+,1993,48.0,104,0.3,complete income reporters only
+OTHRINC,Other income,75+,1994,33.0,70,0.2,complete income reporters only
+OTHRINC,Other income,75+,1995,30.0,62,0.2,complete income reporters only
+OTHRINC,Other income,75+,1996,39.0,78,0.2,complete income reporters only
+OTHRINC,Other income,75+,1997,19.0,37,0.1,complete income reporters only
+OTHRINC,Other income,75+,1998,35.0,67,0.2,complete income reporters only
+OTHRINC,Other income,75+,1999,43.0,81,0.2,complete income reporters only
+OTHRINC,Other income,75+,2000,40.0,73,0.2,complete income reporters only
+OTHRINC,Other income,75+,2001,69.0,122,0.3,complete income reporters only
+OTHRINC,Other income,75+,2002,78.0,136,0.3,complete income reporters only
+OTHRINC,Other income,75+,2003,90.0,153,0.4,complete income reporters only
+OTHRINC,Other income,75+,2004,99.0,164,0.4,"imputed, all CUs"
+OTHRINC,Other income,75+,2005,111.0,178,0.4,"imputed, all CUs"
+OTHRINC,Other income,75+,2006,80.0,124,0.3,"imputed, all CUs"
+OTHRINC,Other income,75+,2007,61.0,92,0.2,"imputed, all CUs"
+OTHRINC,Other income,75+,2008,160.0,233,0.5,"imputed, all CUs"
+OTHRINC,Other income,75+,2009,114.0,167,0.4,"imputed, all CUs"
+OTHRINC,Other income,75+,2010,86.0,124,0.3,"imputed, all CUs"
+OTHRINC,Other income,75+,2011,94.0,131,0.3,"imputed, all CUs"
+OTHRINC,Other income,75+,2012,147.0,201,0.4,"imputed, all CUs"
+OTHRINC,Other income,75+,2013,124.0,167,0.4,"imputed, all CUs"
+OTHRINC,Other income,75+,2014,179.0,237,0.5,"imputed, all CUs"
+OTHRINC,Other income,75+,2015,181.0,240,0.5,"imputed, all CUs"
+OTHRINC,Other income,75+,2016,146.0,191,0.4,"imputed, all CUs"
+OTHRINC,Other income,75+,2017,114.0,146,0.3,"imputed, all CUs"
+OTHRINC,Other income,75+,2018,145.0,181,0.4,"imputed, all CUs"
+OTHRINC,Other income,75+,2019,115.0,141,0.3,"imputed, all CUs"
+OTHRINC,Other income,75+,2020,277.0,336,0.7,"imputed, all CUs"
+OTHRINC,Other income,75+,2021,213.0,247,0.5,"imputed, all CUs"
+OTHRINC,Other income,75+,2022,149.0,160,0.3,"imputed, all CUs"
+OTHRINC,Other income,75+,2023,190.0,196,0.4,"imputed, all CUs"
+OTHRINC,Other income,75+,2024,121.0,121,0.2,"imputed, all CUs"

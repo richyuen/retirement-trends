@@ -1,0 +1,29 @@
+tax_year,all_returns,returns_with_penalty_tax,pct_of_all_returns_computed,penalty_tax_amount_thousand_usd,implied_penalized_distributions_billion_usd_computed,penalty_tax_per_100usd_taxable_ira_pension_distributions_computed,note,source_url
+1996,120351208,3434814,2.85,2189148,21.9,0.77,denominator from SOI Table 1.4 (https://www.irs.gov/pub/irs-soi/96in14si.xls),https://www.irs.gov/pub/irs-soi/96in33ar.xls
+1997,122421991,3415245,2.79,2335845,23.4,0.742,denominator from SOI Table 1.4 (https://www.irs.gov/pub/irs-soi/97in14.xls),https://www.irs.gov/pub/irs-soi/97in33.xls
+1998,124770662,3786186,3.03,2699419,27.0,0.761,denominator from SOI Table 1.4 (https://www.irs.gov/pub/irs-soi/98in14ar.xls),https://www.irs.gov/pub/irs-soi/98in33ar.xls
+1999,127075145,4076050,3.21,3074825,30.7,0.785,,https://www.irs.gov/pub/irs-soi/99in33ar.xls
+2000,129373500,4334527,3.35,3414692,34.1,0.804,,https://www.irs.gov/pub/irs-soi/00in33ar.xls
+2001,130255237,4571187,3.51,3259975,32.6,0.753,,https://www.irs.gov/pub/irs-soi/01in33ar.xls
+2002,130076443,4896938,3.76,3498067,35.0,0.784,,https://www.irs.gov/pub/irs-soi/02in33ar.xls
+2003,130423626,4877670,3.74,3407940,34.1,0.739,,https://www.irs.gov/pub/irs-soi/03in33ar.xls
+2004,132226042,4924584,3.72,3640374,36.4,0.734,,https://www.irs.gov/pub/irs-soi/04in33ar.xls
+2005,134372678,4822297,3.59,3820152,38.2,0.718,,https://www.irs.gov/pub/irs-soi/05in33ar.xls
+2006,138394754,5148030,3.72,4347720,43.5,0.756,,https://www.irs.gov/pub/irs-soi/06in33ar.xls
+2007,142978806,5550175,3.88,5004547,50.0,0.784,,https://www.irs.gov/pub/irs-soi/07in33ar.xls
+2008,142450569,5734262,4.03,5273134,52.7,0.789,,https://www.irs.gov/pub/irs-soi/08in33ar.xls
+2009,140494127,5874254,4.18,5312413,53.1,0.807,,https://www.irs.gov/pub/irs-soi/09in33ar.xls
+2010,142892051,5921264,4.14,5817684,58.2,0.773,,https://www.irs.gov/pub/irs-soi/10in33ar.xls
+2011,145370240,5706635,3.93,5699151,57.0,0.714,,https://www.irs.gov/pub/irs-soi/11in33ar.xls
+2012,144928472,5613766,3.87,5583667,55.8,0.662,,https://www.irs.gov/pub/irs-soi/12in33ar.xls
+2013,147351299,5726292,3.89,5873596,58.7,0.689,,https://www.irs.gov/pub/irs-soi/13in33ar.xls
+2014,148606578,5725795,3.85,5840378,58.4,0.65,,https://www.irs.gov/pub/irs-soi/14in33ar.xls
+2015,150493263,5453565,3.62,5975801,59.8,0.634,,https://www.irs.gov/pub/irs-soi/15in33ar.xls
+2016,150272157,5170222,3.44,5489009,54.9,0.577,,https://www.irs.gov/pub/irs-soi/16in33ar.xls
+2017,152903231,5112100,3.34,5663889,56.6,0.558,,https://www.irs.gov/pub/irs-soi/17in33ar.xls
+2018,153774296,5080752,3.3,5916650,59.2,0.544,2018: denominator = combined IRA+pension taxable line,https://www.irs.gov/pub/irs-soi/18in33ar.xls
+2019,157796807,5203674,3.3,6043348,60.4,0.545,,https://www.irs.gov/pub/irs-soi/19in33ar.xls
+2020,164358792,3873810,2.36,3642009,36.4,0.328,CARES Act: CRDs exempt from 10% tax,https://www.irs.gov/pub/irs-soi/20in33ar.xls
+2021,160824340,4484060,2.79,5199727,52.0,0.411,,https://www.irs.gov/pub/irs-soi/21in33ar.xls
+2022,161336659,4788972,2.97,5646079,56.5,0.418,,https://www.irs.gov/pub/irs-soi/22in33ar.xls
+2023,160602107,5092999,3.17,6380591,63.8,0.466,,https://www.irs.gov/pub/irs-soi/23in33ar.xls

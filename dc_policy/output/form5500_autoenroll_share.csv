@@ -1,0 +1,115 @@
+filing_year,group,n_plans,pct_plans_AE,participants_acct,pct_participants_in_AE_plans
+2010,all DC plans,666604,3.2,64249275,21.9
+2010,401(k) plans,516689,3.9,50543635,26.3
+2010,"401(k) plans, 11+ acct-bal participants",281401,6.0,49477873,26.8
+2010,"401(k) plans, <100 acct-bal participants",472971,2.5,8580492,4.5
+2010,"401(k) plans, 100+ acct-bal participants",43718,19.8,41963143,30.7
+2010,401(k) plans eff<= 2006,402982,3.9,47838776,26.2
+2010,"401(k) plans eff<= 2006, 11+ acct-bal participants",247453,5.8,47100015,26.6
+2010,401(k) plans eff 2007-2008,68154,3.4,1648053,22.3
+2010,"401(k) plans eff 2007-2008, 11+ acct-bal participants",22211,6.2,1452148,25.0
+2010,401(k) plans eff 2009-2010,45477,5.4,1056497,37.2
+2010,"401(k) plans eff 2009-2010, 11+ acct-bal participants",11727,9.6,925471,41.8
+2010,401(k) plans eff 2007,35148,2.6,956275,22.9
+2010,"401(k) plans eff 2007, 11+ acct-bal participants",11987,5.0,857386,25.3
+2010,401(k) plans eff 2008,33006,4.3,691778,21.6
+2010,"401(k) plans eff 2008, 11+ acct-bal participants",10224,7.5,594762,24.6
+2010,401(k) plans eff 2009,22613,5.6,604950,40.4
+2010,"401(k) plans eff 2009, 11+ acct-bal participants",6459,9.4,538830,44.8
+2010,401(k) plans eff 2010,22864,5.2,451547,32.8
+2010,"401(k) plans eff 2010, 11+ acct-bal participants",5268,9.8,386641,37.6
+2015,all DC plans,659540,6.0,71015240,34.0
+2015,401(k) plans,548667,6.9,57021274,39.4
+2015,"401(k) plans, 11+ acct-bal participants",287185,10.1,55843561,40.2
+2015,"401(k) plans, <100 acct-bal participants",500902,4.7,8742525,7.6
+2015,"401(k) plans, 100+ acct-bal participants",47765,30.4,48278749,45.2
+2015,401(k) plans eff<= 2011,424758,6.6,54340412,40.0
+2015,"401(k) plans eff<= 2011, 11+ acct-bal participants",251821,9.7,53510977,40.6
+2015,401(k) plans eff 2012-2013,53556,5.4,1271296,25.7
+2015,"401(k) plans eff 2012-2013, 11+ acct-bal participants",16998,10.5,1123628,28.6
+2015,401(k) plans eff 2014-2015,70142,10.5,1408957,30.4
+2015,"401(k) plans eff 2014-2015, 11+ acct-bal participants",18351,15.3,1208438,33.9
+2015,401(k) plans eff 2012,24817,5.1,639730,26.2
+2015,"401(k) plans eff 2012, 11+ acct-bal participants",8317,9.3,572103,28.9
+2015,401(k) plans eff 2013,28739,5.6,631566,25.2
+2015,"401(k) plans eff 2013, 11+ acct-bal participants",8681,11.7,551525,28.3
+2015,401(k) plans eff 2014,33410,8.7,718745,34.5
+2015,"401(k) plans eff 2014, 11+ acct-bal participants",9403,14.4,622596,38.6
+2015,401(k) plans eff 2015,36732,12.2,690212,26.2
+2015,"401(k) plans eff 2015, 11+ acct-bal participants",8948,16.2,585842,28.8
+2019,all DC plans,697412,12.3,82062826,41.2
+2019,401(k) plans,606989,13.6,66330047,46.7
+2019,"401(k) plans, 11+ acct-bal participants",316228,16.6,65029452,47.4
+2019,"401(k) plans, <100 acct-bal participants",552376,11.3,9586968,13.9
+2019,"401(k) plans, 100+ acct-bal participants",54613,37.4,56743079,52.2
+2019,401(k) plans eff<= 2015,449847,10.1,62532416,46.9
+2019,"401(k) plans eff<= 2015, 11+ acct-bal participants",266013,14.4,61663962,47.5
+2019,401(k) plans eff 2016-2017,69587,18.0,1963731,38.8
+2019,"401(k) plans eff 2016-2017, 11+ acct-bal participants",25391,23.5,1775410,41.2
+2019,401(k) plans eff 2018-2019,87353,28.3,1833366,49.0
+2019,"401(k) plans eff 2018-2019, 11+ acct-bal participants",24810,32.5,1589602,52.2
+2019,401(k) plans eff 2016,32753,15.5,1035512,41.2
+2019,"401(k) plans eff 2016, 11+ acct-bal participants",12440,21.0,948507,43.8
+2019,401(k) plans eff 2017,36834,20.3,928219,36.0
+2019,"401(k) plans eff 2017, 11+ acct-bal participants",12951,25.9,826903,38.1
+2019,401(k) plans eff 2018,41991,26.4,1080504,51.9
+2019,"401(k) plans eff 2018, 11+ acct-bal participants",13407,32.0,962415,55.1
+2019,401(k) plans eff 2019,45362,30.1,752862,44.8
+2019,"401(k) plans eff 2019, 11+ acct-bal participants",11403,33.1,627187,47.7
+2023,all DC plans,801581,24.2,94679070,46.3
+2023,401(k) plans,730272,26.2,77356328,51.9
+2023,"401(k) plans, 11+ acct-bal participants",366767,26.9,75743733,52.5
+2023,"401(k) plans, <100 acct-bal participants",669112,24.7,11138160,24.9
+2023,"401(k) plans, 100+ acct-bal participants",61160,43.0,66218168,56.5
+2023,401(k) plans eff<= 2019,500072,16.3,72409857,51.4
+2023,"401(k) plans eff<= 2019, 11+ acct-bal participants",293626,20.5,71438589,52.0
+2023,401(k) plans eff 2020-2021,92495,39.1,2583170,56.7
+2023,"401(k) plans eff 2020-2021, 11+ acct-bal participants",34031,45.1,2332436,58.9
+2023,401(k) plans eff 2022-2023,137373,53.7,2362950,62.0
+2023,"401(k) plans eff 2022-2023, 11+ acct-bal participants",39101,59.0,1972400,63.6
+2023,401(k) plans eff 2020,40770,37.9,1166597,51.7
+2023,"401(k) plans eff 2020, 11+ acct-bal participants",15781,44.1,1058843,53.4
+2023,401(k) plans eff 2021,51725,40.2,1416573,60.9
+2023,"401(k) plans eff 2021, 11+ acct-bal participants",18250,45.9,1273593,63.4
+2023,401(k) plans eff 2022,70921,47.9,1441923,61.7
+2023,"401(k) plans eff 2022, 11+ acct-bal participants",23016,56.6,1239243,64.0
+2023,401(k) plans eff 2023,66452,60.0,921027,62.6
+2023,"401(k) plans eff 2023, 11+ acct-bal participants",16085,62.4,733157,62.8
+2024,all DC plans,831243,29.3,96803698,48.2
+2024,401(k) plans,762535,31.4,79977705,53.5
+2024,"401(k) plans, 11+ acct-bal participants",378669,30.6,78295323,54.0
+2024,"401(k) plans, <100 acct-bal participants",700507,30.3,11502990,28.8
+2024,"401(k) plans, 100+ acct-bal participants",62028,44.6,68474715,57.7
+2024,401(k) plans eff<= 2020,511840,18.6,74599118,52.6
+2024,"401(k) plans eff<= 2020, 11+ acct-bal participants",298898,22.5,73603105,53.2
+2024,401(k) plans eff 2021-2022,115412,44.6,3293356,64.0
+2024,"401(k) plans eff 2021-2022, 11+ acct-bal participants",42574,51.6,2981772,66.4
+2024,401(k) plans eff 2023-2024,134111,69.0,2085085,68.6
+2024,"401(k) plans eff 2023-2024, 11+ acct-bal participants",37193,71.3,1710322,68.1
+2024,401(k) plans eff 2021,48409,40.1,1557945,63.3
+2024,"401(k) plans eff 2021, 11+ acct-bal participants",18348,45.5,1428112,65.6
+2024,401(k) plans eff 2022,67003,47.9,1735411,64.7
+2024,"401(k) plans eff 2022, 11+ acct-bal participants",24226,56.3,1553660,67.0
+2024,401(k) plans eff 2023,64415,62.4,1119970,65.8
+2024,"401(k) plans eff 2023, 11+ acct-bal participants",19854,67.1,939694,66.3
+2024,401(k) plans eff 2024,69696,75.0,965115,71.8
+2024,"401(k) plans eff 2024, 11+ acct-bal participants",17339,76.2,770628,70.2
+2025,all DC plans,651684,39.9,33887532,48.6
+2025,401(k) plans,613600,41.8,30661297,51.5
+2025,"401(k) plans, 11+ acct-bal participants",284374,38.2,29201548,51.9
+2025,"401(k) plans, <100 acct-bal participants",592300,41.6,9446285,38.1
+2025,"401(k) plans, 100+ acct-bal participants",21300,48.5,21215012,57.5
+2025,401(k) plans eff<= 2021,382182,21.4,27631493,48.7
+2025,"401(k) plans eff<= 2021, 11+ acct-bal participants",211346,24.3,26812706,49.6
+2025,401(k) plans eff 2022-2023,104379,63.1,1670950,70.7
+2025,"401(k) plans eff 2022-2023, 11+ acct-bal participants",39327,70.6,1384691,72.7
+2025,401(k) plans eff 2024-2025,126547,85.9,1358822,86.1
+2025,"401(k) plans eff 2024-2025, 11+ acct-bal participants",33700,88.0,1004138,85.7
+2025,401(k) plans eff 2022,52564,52.2,869303,61.8
+2025,"401(k) plans eff 2022, 11+ acct-bal participants",20364,61.0,726353,64.3
+2025,401(k) plans eff 2023,51815,74.1,801647,80.4
+2025,"401(k) plans eff 2023, 11+ acct-bal participants",18963,80.9,658338,82.0
+2025,401(k) plans eff 2024,58680,83.5,763255,86.0
+2025,"401(k) plans eff 2024, 11+ acct-bal participants",18966,88.1,595044,86.5
+2025,401(k) plans eff 2025,67867,87.9,595567,86.3
+2025,"401(k) plans eff 2025, 11+ acct-bal participants",14734,87.9,409094,84.7

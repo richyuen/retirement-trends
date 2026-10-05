@@ -1,0 +1,136 @@
+year,sex,e0,e65,e75,source
+1980,Both,73.7,16.4,10.4,NCHS Health US 2020-21 Table LExpMort
+1980,Male,70,14.1,8.8,NCHS Health US 2020-21 Table LExpMort
+1980,Female,77.4,18.3,11.5,NCHS Health US 2020-21 Table LExpMort
+1981,Both,74.1,16.6,10.6,NCHS Health US 2020-21 Table LExpMort
+1981,Male,70.4,14.3,9,NCHS Health US 2020-21 Table LExpMort
+1981,Female,77.8,18.6,11.7,NCHS Health US 2020-21 Table LExpMort
+1982,Both,74.5,16.8,10.7,NCHS Health US 2020-21 Table LExpMort
+1982,Male,70.8,14.5,9.1,NCHS Health US 2020-21 Table LExpMort
+1982,Female,78.1,18.7,11.9,NCHS Health US 2020-21 Table LExpMort
+1983,Both,74.6,16.7,10.6,NCHS Health US 2020-21 Table LExpMort
+1983,Male,71,14.4,9,NCHS Health US 2020-21 Table LExpMort
+1983,Female,78.1,18.6,11.7,NCHS Health US 2020-21 Table LExpMort
+1984,Both,74.7,16.8,10.7,NCHS Health US 2020-21 Table LExpMort
+1984,Male,71.1,14.5,9,NCHS Health US 2020-21 Table LExpMort
+1984,Female,78.2,18.6,11.8,NCHS Health US 2020-21 Table LExpMort
+1985,Both,74.7,16.7,10.6,NCHS Health US 2020-21 Table LExpMort
+1985,Male,71.1,14.5,9,NCHS Health US 2020-21 Table LExpMort
+1985,Female,78.2,18.5,11.7,NCHS Health US 2020-21 Table LExpMort
+1986,Both,74.7,16.8,10.7,NCHS Health US 2020-21 Table LExpMort
+1986,Male,71.2,14.6,9.1,NCHS Health US 2020-21 Table LExpMort
+1986,Female,78.2,18.6,11.7,NCHS Health US 2020-21 Table LExpMort
+1987,Both,74.9,16.9,10.7,NCHS Health US 2020-21 Table LExpMort
+1987,Male,71.4,14.7,9.1,NCHS Health US 2020-21 Table LExpMort
+1987,Female,78.3,18.7,11.8,NCHS Health US 2020-21 Table LExpMort
+1988,Both,74.9,16.9,10.6,NCHS Health US 2020-21 Table LExpMort
+1988,Male,71.4,14.7,9.1,NCHS Health US 2020-21 Table LExpMort
+1988,Female,78.3,18.6,11.7,NCHS Health US 2020-21 Table LExpMort
+1989,Both,75.1,17.1,10.9,NCHS Health US 2020-21 Table LExpMort
+1989,Male,71.7,15,9.3,NCHS Health US 2020-21 Table LExpMort
+1989,Female,78.5,18.8,11.9,NCHS Health US 2020-21 Table LExpMort
+1990,Both,75.4,17.2,10.9,NCHS Health US 2020-21 Table LExpMort
+1990,Male,71.8,15.1,9.4,NCHS Health US 2020-21 Table LExpMort
+1990,Female,78.8,18.9,12,NCHS Health US 2020-21 Table LExpMort
+1991,Both,75.5,17.4,11.1,NCHS Health US 2020-21 Table LExpMort
+1991,Male,72,15.3,9.5,NCHS Health US 2020-21 Table LExpMort
+1991,Female,78.9,19.1,12.1,NCHS Health US 2020-21 Table LExpMort
+1992,Both,75.8,17.5,11.2,NCHS Health US 2020-21 Table LExpMort
+1992,Male,72.3,15.4,9.6,NCHS Health US 2020-21 Table LExpMort
+1992,Female,79.1,19.2,12.2,NCHS Health US 2020-21 Table LExpMort
+1993,Both,75.5,17.3,10.9,NCHS Health US 2020-21 Table LExpMort
+1993,Male,72.2,15.3,9.5,NCHS Health US 2020-21 Table LExpMort
+1993,Female,78.8,18.9,11.9,NCHS Health US 2020-21 Table LExpMort
+1994,Both,75.7,17.4,11,NCHS Health US 2020-21 Table LExpMort
+1994,Male,72.4,15.5,9.6,NCHS Health US 2020-21 Table LExpMort
+1994,Female,79,19,12,NCHS Health US 2020-21 Table LExpMort
+1995,Both,75.8,17.4,11,NCHS Health US 2020-21 Table LExpMort
+1995,Male,72.5,15.6,9.7,NCHS Health US 2020-21 Table LExpMort
+1995,Female,78.9,18.9,11.9,NCHS Health US 2020-21 Table LExpMort
+1996,Both,76.1,17.5,11.1,NCHS Health US 2020-21 Table LExpMort
+1996,Male,73.1,15.7,9.8,NCHS Health US 2020-21 Table LExpMort
+1996,Female,79.1,19,12,NCHS Health US 2020-21 Table LExpMort
+1997,Both,76.5,17.7,11.2,NCHS Health US 2020-21 Table LExpMort
+1997,Male,73.6,15.9,9.9,NCHS Health US 2020-21 Table LExpMort
+1997,Female,79.4,19.2,12.1,NCHS Health US 2020-21 Table LExpMort
+1998,Both,76.7,17.8,11.3,NCHS Health US 2020-21 Table LExpMort
+1998,Male,73.8,16,10,NCHS Health US 2020-21 Table LExpMort
+1998,Female,79.5,19.2,12.2,NCHS Health US 2020-21 Table LExpMort
+1999,Both,76.7,17.7,11.2,NCHS Health US 2020-21 Table LExpMort
+1999,Male,73.9,16.1,10,NCHS Health US 2020-21 Table LExpMort
+1999,Female,79.4,19.1,12.1,NCHS Health US 2020-21 Table LExpMort
+2000,Both,76.8,17.6,11,NCHS Health US 2020-21 Table LExpMort
+2000,Male,74.1,16,9.8,NCHS Health US 2020-21 Table LExpMort
+2000,Female,79.3,19,11.8,NCHS Health US 2020-21 Table LExpMort
+2001,Both,77,17.9,11.2,NCHS Health US 2020-21 Table LExpMort
+2001,Male,74.3,16.2,9.9,NCHS Health US 2020-21 Table LExpMort
+2001,Female,79.5,19.2,12,NCHS Health US 2020-21 Table LExpMort
+2002,Both,77,17.9,11.2,NCHS Health US 2020-21 Table LExpMort
+2002,Male,74.4,16.3,10,NCHS Health US 2020-21 Table LExpMort
+2002,Female,79.6,19.2,12,NCHS Health US 2020-21 Table LExpMort
+2003,Both,77.2,18.1,11.3,NCHS Health US 2020-21 Table LExpMort
+2003,Male,74.5,16.5,10.1,NCHS Health US 2020-21 Table LExpMort
+2003,Female,79.7,19.3,12.1,NCHS Health US 2020-21 Table LExpMort
+2004,Both,77.6,18.4,11.5,NCHS Health US 2020-21 Table LExpMort
+2004,Male,75,16.9,10.4,NCHS Health US 2020-21 Table LExpMort
+2004,Female,80.1,19.6,12.4,NCHS Health US 2020-21 Table LExpMort
+2005,Both,77.6,18.4,11.5,NCHS Health US 2020-21 Table LExpMort
+2005,Male,75,16.9,10.4,NCHS Health US 2020-21 Table LExpMort
+2005,Female,80.1,19.6,12.3,NCHS Health US 2020-21 Table LExpMort
+2006,Both,77.8,18.7,11.7,NCHS Health US 2020-21 Table LExpMort
+2006,Male,75.2,17.2,10.6,NCHS Health US 2020-21 Table LExpMort
+2006,Female,80.3,19.9,12.5,NCHS Health US 2020-21 Table LExpMort
+2007,Both,78.1,18.8,11.9,NCHS Health US 2020-21 Table LExpMort
+2007,Male,75.5,17.4,10.7,NCHS Health US 2020-21 Table LExpMort
+2007,Female,80.6,20,12.6,NCHS Health US 2020-21 Table LExpMort
+2008,Both,78.2,18.8,11.8,NCHS Health US 2020-21 Table LExpMort
+2008,Male,75.6,17.4,10.7,NCHS Health US 2020-21 Table LExpMort
+2008,Female,80.6,20,12.6,NCHS Health US 2020-21 Table LExpMort
+2009,Both,78.5,19.1,12.1,NCHS Health US 2020-21 Table LExpMort
+2009,Male,76,17.7,11,NCHS Health US 2020-21 Table LExpMort
+2009,Female,80.9,20.3,12.9,NCHS Health US 2020-21 Table LExpMort
+2010,Both,78.7,19.1,12.1,NCHS Health US 2020-21 Table LExpMort
+2010,Male,76.3,17.7,11,NCHS Health US 2020-21 Table LExpMort
+2010,Female,81,20.3,12.9,NCHS Health US 2020-21 Table LExpMort
+2011,Both,78.7,19.2,12.1,NCHS Health US 2020-21 Table LExpMort
+2011,Male,76.3,17.8,11.1,NCHS Health US 2020-21 Table LExpMort
+2011,Female,81.1,20.3,12.9,NCHS Health US 2020-21 Table LExpMort
+2012,Both,78.8,19.3,12.2,NCHS Health US 2020-21 Table LExpMort
+2012,Male,76.4,17.9,11.2,NCHS Health US 2020-21 Table LExpMort
+2012,Female,81.2,20.5,12.9,NCHS Health US 2020-21 Table LExpMort
+2013,Both,78.8,19.3,12.2,NCHS Health US 2020-21 Table LExpMort
+2013,Male,76.4,17.9,11.2,NCHS Health US 2020-21 Table LExpMort
+2013,Female,81.2,20.5,12.9,NCHS Health US 2020-21 Table LExpMort
+2014,Both,78.9,19.4,12.3,NCHS Health US 2020-21 Table LExpMort
+2014,Male,76.5,18,11.2,NCHS Health US 2020-21 Table LExpMort
+2014,Female,81.3,20.6,13.1,NCHS Health US 2020-21 Table LExpMort
+2015,Both,78.7,19.3,12.2,NCHS Health US 2020-21 Table LExpMort
+2015,Male,76.3,18,11.2,NCHS Health US 2020-21 Table LExpMort
+2015,Female,81.1,20.5,13,NCHS Health US 2020-21 Table LExpMort
+2016,Both,78.7,19.4,12.3,NCHS Health US 2020-21 Table LExpMort
+2016,Male,76.2,18.1,11.3,NCHS Health US 2020-21 Table LExpMort
+2016,Female,81.1,20.6,13.1,NCHS Health US 2020-21 Table LExpMort
+2017,Both,78.6,19.4,12.3,NCHS Health US 2020-21 Table LExpMort
+2017,Male,76.1,18,11.3,NCHS Health US 2020-21 Table LExpMort
+2017,Female,81.1,20.6,13,NCHS Health US 2020-21 Table LExpMort
+2018,Both,78.74,19.47,12.32,NCHS US Life Tables 2018 (NVSR 69-12)
+2018,Male,76.22,18.1,11.34,NCHS US Life Tables 2018 (NVSR 69-12)
+2018,Female,81.25,20.69,13.09,NCHS US Life Tables 2018 (NVSR 69-12)
+2019,Both,78.85,19.59,12.42,NCHS US Life Tables 2019 (NVSR 70-19)
+2019,Male,76.31,18.2,11.44,NCHS US Life Tables 2019 (NVSR 70-19)
+2019,Female,81.39,20.82,13.21,NCHS US Life Tables 2019 (NVSR 70-19)
+2020,Both,76.99,18.46,11.56,NCHS US Life Tables 2020 (NVSR 71-01)
+2020,Male,74.19,17.03,10.58,NCHS US Life Tables 2020 (NVSR 71-01)
+2020,Female,79.88,19.78,12.38,NCHS US Life Tables 2020 (NVSR 71-01)
+2021,Both,76.37,18.42,11.63,NCHS US Life Tables 2021 (NVSR 72-12)
+2021,Male,73.55,16.99,10.63,NCHS US Life Tables 2021 (NVSR 72-12)
+2021,Female,79.33,19.74,12.48,NCHS US Life Tables 2021 (NVSR 72-12)
+2022,Both,77.46,18.91,11.95,NCHS US Life Tables 2022 (NVSR 74-02)
+2022,Male,74.81,17.54,10.98,NCHS US Life Tables 2022 (NVSR 74-02)
+2022,Female,80.2,20.17,12.75,NCHS US Life Tables 2022 (NVSR 74-02)
+2023,Both,78.42,19.52,12.4,NCHS US Life Tables 2023 (NVSR 74-06)
+2023,Male,75.82,18.19,11.48,NCHS US Life Tables 2023 (NVSR 74-06)
+2023,Female,81.08,20.71,13.15,NCHS US Life Tables 2023 (NVSR 74-06)
+2024,Both,78.97,19.66,12.51,NCHS US Life Tables 2024 (NVSR 75-05)
+2024,Male,76.53,18.36,11.6,NCHS US Life Tables 2024 (NVSR 75-05)
+2024,Female,81.45,20.83,13.24,NCHS US Life Tables 2024 (NVSR 75-05)

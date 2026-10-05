@@ -49,3 +49,6 @@ SIPP long series 1996-2024 (sipp_hist/): Figs 17-18 inserted after Fig 16; later
 
 ## 2026-10-04 v8
 New Section 11 "Staying in the plan: evidence beyond recordkeepers" from dc_stay/: Figs 23 (TSP one-year retention), 24 (Form 5500 + TSP separated share), 25 (SCF former-employer plan share). Watch/notes/sources renumbered 12-14. 80 refs (tsp-minutes, tsp-stats, dol-5500-abs, ebri-hrs). Published v8.
+
+## 2026-10-05 v9
+New Sections 12 "Do the laws work?" (Table 10 scorecard, Fig 26 AE spread vs NCS participation, Fig 27 IRS early-withdrawal penalty 1996-2023), 13 "Where retirees' income comes from, and how they spend it" (Fig 28 CPS income shares, exclRINT; Fig 29 CE spending vs 55-64), 14 "How long the money has to last" (Fig 30 e65 by sex, Table 11 period vs cohort, income/education gaps). Summary findings 10-12, two watch items, three data notes. Watch/notes/sources renumbered 15-17. 107 refs. Line renderer: per-series connect. Published v9.

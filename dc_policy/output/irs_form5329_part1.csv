@@ -1,0 +1,22 @@
+tax_year,form5329_forms_filed,l1_early_distributions_returns,l1_early_distributions_thousand_usd,l2_excepted_returns,l2_excepted_thousand_usd,l3_subject_to_tax_returns,l3_subject_to_tax_thousand_usd,l4_additional_tax_returns,l4_additional_tax_thousand_usd,excepted_share_of_l1_dollars_pct_computed,l4_as_pct_of_schedule2_line8_amount_computed,note,source_url,pdf_pages
+2003,1310019,,,,,1204919,,1199692,,,,Only lines 3-4 published,https://www.irs.gov/pub/irs-prior/p4801--2005.pdf,69 (counts only)
+2004,1420645,,,,,1199916,11387977,1183326,1152233,,31.7,Only lines 3-4 published,https://www.irs.gov/pub/irs-prior/p4801--2006.pdf,"58, 138"
+2005,1540846,,,,,1095447,10553068,1082489,1063973,,27.9,Only lines 3-4 published,https://www.irs.gov/pub/irs-prior/p4801--2007.pdf,"67, 155"
+2006,1469483,,,,,1185109,11876673,1184932,1203007,,27.7,Only lines 3-4 published,https://www.irs.gov/pub/irs-prior/p4801--2008.pdf,"68, 162"
+2007,1479094,,,,,1193950,13270709,1185681,1346454,,26.9,Only lines 3-4 published,https://www.irs.gov/pub/irs-prior/p4801--2009.pdf,"67, 159"
+2008,1555643,,,,,1234843,13886804,1225466,1400346,,26.6,Only lines 3-4 published,https://www.irs.gov/pub/irs-prior/p4801--2010.pdf,"71, 169"
+2009,1823910,1452186,19538845,408897,4707348,1251019,14831497,1239998,1503229,24.1,28.3,,https://www.irs.gov/pub/irs-prior/p4801--2011.pdf,122-123
+2010,2248795,1762130,24360307,698210,8344873,1291460,16015434,1282186,1610256,34.3,27.7,,https://www.irs.gov/pub/irs-prior/p4801--2012.pdf,123-124
+2011,2204937,1671414,22293534,649615,7179766,1244696,15113768,1232500,1517325,32.2,26.6,,https://www.irs.gov/pub/irs-prior/p4801--2013.pdf,133-134
+2012,2320131,1706380,22819432,791396,7659135,1229552,15160297,1205886,1526507,33.6,27.3,,https://www.irs.gov/pub/irs-prior/p4801--2014.pdf,119-120
+2013,2381823,1669640,23520908,772196,8267029,1215507,15253879,1206104,1540840,35.1,26.2,,https://www.irs.gov/pub/irs-prior/p4801--2015.pdf,123-124
+2014,2510510,1837199,24875706,816942,9010883,1328005,15864822,1313958,1594639,36.2,27.3,,https://www.irs.gov/pub/irs-prior/p4801--2016.pdf,123-124
+2015,2403290,1650294,24436592,774554,8712380,1196134,15724213,1184816,1578045,35.7,26.4,,https://www.irs.gov/pub/irs-prior/p4801--2017.pdf,123-124
+2016,2478312,1670459,24144927,749543,8638543,1219361,15506384,1205095,1558169,35.8,28.4,,https://www.irs.gov/pub/irs-soi/16inlinecount.pdf,139-140
+2017,2344142,1655273,26977109,793554,10787076,1165832,16190033,1142057,1634677,40.0,28.9,,https://www.irs.gov/pub/irs-prior/p4801--2019.pdf,127-128
+2018,2501861,1731906,26887443,787969,9439520,1258116,17447923,1239327,1762775,35.1,29.8,,https://www.irs.gov/pub/irs-prior/p4801--2020.pdf,133-134
+2019,2581137,1744375,26119515,747595,9741192,1273561,16378322,1269309,1664419,37.3,27.5,,https://www.irs.gov/pub/irs-prior/p4801--2021.pdf,123-124
+2020,2590504,1685945,27466424,987305,18259286,884241,9207138,868688,930493,66.5,25.5,"CRDs reported on Form 8915-E, not Form 5329 Part I",https://www.irs.gov/pub/irs-prior/p4801--2022.pdf,121-122
+2021,2551270,1556847,25676915,607967,9124823,1151337,16540898,1142430,1664968,35.5,32.0,,https://www.irs.gov/pub/irs-prior/p4801--2024.pdf,143-144
+2022,2679325,1667143,28327509,658908,9985273,1255846,18339225,1241259,1848451,35.2,32.7,,https://www.irs.gov/pub/irs-prior/p4801--122024.pdf,131-132
+2023,2939286,1916967,132957756,754282,110788817,1464637,22165542,1451618,2238517,,35.1,L1/L2 dollars as printed by SOI (verified pp.131-132) but implausible: L1 +$105B and L2 +$101B vs 2022 while L3/L4 and all aggregates move normally; avg excepted amount per excepting return $146.9K vs $15.2K (2022). Not a parsing or definition change; likely sample outlier/capture error. Use L3/L4 only.,https://www.irs.gov/pub/irs-pdf/p4801.pdf,131-132

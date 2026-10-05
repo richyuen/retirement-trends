@@ -1,0 +1,568 @@
+series_id,item_code,characteristics_code,series_title,begin_year,end_year
+CXU580901LB0401M,580901,01,Medicare payments by Age: All Consumer Units,2010,2024
+CXU580901LB0402M,580901,02,Medicare payments by Age: Reference person under age 25,2010,2024
+CXU580901LB0403M,580901,03,Medicare payments by Age: Reference person from age 25 to 34,2010,2024
+CXU580901LB0404M,580901,04,Medicare payments by Age: Reference person from age 35 to 44,2010,2024
+CXU580901LB0405M,580901,05,Medicare payments by Age: Reference person from age 45 to 54,2010,2024
+CXU580901LB0406M,580901,06,Medicare payments by Age: Reference person from age 55 to 64,2010,2024
+CXU580901LB0407M,580901,07,Medicare payments by Age: Reference person age 65 or over,2010,2024
+CXU580901LB0408M,580901,08,Medicare payments by Age: Reference person from age 65 to 74,2010,2024
+CXU580901LB0409M,580901,09,Medicare payments by Age: Reference person age 75 or over,2010,2024
+CXU580907LB0401M,580907,01,Medicare prescription drug premiums by Age: All Consumer Units,2010,2024
+CXU580907LB0402M,580907,02,Medicare prescription drug premiums by Age: Reference person under age 25,2010,2024
+CXU580907LB0403M,580907,03,Medicare prescription drug premiums by Age: Reference person from age 25 to 34,2010,2024
+CXU580907LB0404M,580907,04,Medicare prescription drug premiums by Age: Reference person from age 35 to 44,2010,2024
+CXU580907LB0405M,580907,05,Medicare prescription drug premiums by Age: Reference person from age 45 to 54,2010,2024
+CXU580907LB0406M,580907,06,Medicare prescription drug premiums by Age: Reference person from age 55 to 64,2010,2024
+CXU580907LB0407M,580907,07,Medicare prescription drug premiums by Age: Reference person age 65 or over,2010,2024
+CXU580907LB0408M,580907,08,Medicare prescription drug premiums by Age: Reference person from age 65 to 74,2010,2024
+CXU580907LB0409M,580907,09,Medicare prescription drug premiums by Age: Reference person age 75 or over,2010,2024
+CXU900000LB0401M,900000,01,Wages and salaries by Age: All Consumer Units,1984,2024
+CXU900000LB0402M,900000,02,Wages and salaries by Age: Reference person under age 25,1984,2024
+CXU900000LB0403M,900000,03,Wages and salaries by Age: Reference person from age 25 to 34,1984,2024
+CXU900000LB0404M,900000,04,Wages and salaries by Age: Reference person from age 35 to 44,1984,2024
+CXU900000LB0405M,900000,05,Wages and salaries by Age: Reference person from age 45 to 54,1984,2024
+CXU900000LB0406M,900000,06,Wages and salaries by Age: Reference person from age 55 to 64,1984,2024
+CXU900000LB0407M,900000,07,Wages and salaries by Age: Reference person age 65 or over,1988,2024
+CXU900000LB0408M,900000,08,Wages and salaries by Age: Reference person from age 65 to 74,1984,2024
+CXU900000LB0409M,900000,09,Wages and salaries by Age: Reference person age 75 or over,1984,2024
+CXU900030LB0401M,900030,01,Social Security and railroad retirement income by Age: All Consumer Units,2010,2024
+CXU900030LB0402M,900030,02,Social Security and railroad retirement income by Age: Reference person under age 25,2010,2024
+CXU900030LB0403M,900030,03,Social Security and railroad retirement income by Age: Reference person from age 25 to 34,2010,2024
+CXU900030LB0404M,900030,04,Social Security and railroad retirement income by Age: Reference person from age 35 to 44,2010,2024
+CXU900030LB0405M,900030,05,Social Security and railroad retirement income by Age: Reference person from age 45 to 54,2010,2024
+CXU900030LB0406M,900030,06,Social Security and railroad retirement income by Age: Reference person from age 55 to 64,2010,2024
+CXU900030LB0407M,900030,07,Social Security and railroad retirement income by Age: Reference person age 65 or over,2010,2024
+CXU900030LB0408M,900030,08,Social Security and railroad retirement income by Age: Reference person from age 65 to 74,2010,2024
+CXU900030LB0409M,900030,09,Social Security and railroad retirement income by Age: Reference person age 75 or over,2010,2024
+CXU900040LB0401M,900040,01,Pensions and annuities by Age: All Consumer Units,2010,2013
+CXU900040LB0402M,900040,02,Pensions and annuities by Age: Reference person under age 25,2010,2013
+CXU900040LB0403M,900040,03,Pensions and annuities by Age: Reference person from age 25 to 34,2010,2013
+CXU900040LB0404M,900040,04,Pensions and annuities by Age: Reference person from age 35 to 44,2010,2013
+CXU900040LB0405M,900040,05,Pensions and annuities by Age: Reference person from age 45 to 54,2010,2013
+CXU900040LB0406M,900040,06,Pensions and annuities by Age: Reference person from age 55 to 64,2010,2013
+CXU900040LB0407M,900040,07,Pensions and annuities by Age: Reference person age 65 or over,2010,2013
+CXU900040LB0408M,900040,08,Pensions and annuities by Age: Reference person from age 65 to 74,2010,2013
+CXU900040LB0409M,900040,09,Pensions and annuities by Age: Reference person age 75 or over,2010,2013
+CXU900050LB0401M,900050,01,"Dividends, royalties, estates, trusts by Age: All Consumer Units",2010,2013
+CXU900050LB0402M,900050,02,"Dividends, royalties, estates, trusts by Age: Reference person under age 25",2010,2013
+CXU900050LB0403M,900050,03,"Dividends, royalties, estates, trusts by Age: Reference person from age 25 to 34",2010,2013
+CXU900050LB0404M,900050,04,"Dividends, royalties, estates, trusts by Age: Reference person from age 35 to 44",2010,2013
+CXU900050LB0405M,900050,05,"Dividends, royalties, estates, trusts by Age: Reference person from age 45 to 54",2010,2013
+CXU900050LB0406M,900050,06,"Dividends, royalties, estates, trusts by Age: Reference person from age 55 to 64",2010,2013
+CXU900050LB0407M,900050,07,"Dividends, royalties, estates, trusts by Age: Reference person age 65 or over",2010,2013
+CXU900050LB0408M,900050,08,"Dividends, royalties, estates, trusts by Age: Reference person from age 65 to 74",2010,2013
+CXU900050LB0409M,900050,09,"Dividends, royalties, estates, trusts by Age: Reference person age 75 or over",2010,2013
+CXU900080LB0401M,900080,01,Interest by Age: All Consumer Units,2010,2013
+CXU900080LB0402M,900080,02,Interest by Age: Reference person under age 25,2010,2013
+CXU900080LB0403M,900080,03,Interest by Age: Reference person from age 25 to 34,2010,2013
+CXU900080LB0404M,900080,04,Interest by Age: Reference person from age 35 to 44,2010,2013
+CXU900080LB0405M,900080,05,Interest by Age: Reference person from age 45 to 54,2010,2013
+CXU900080LB0406M,900080,06,Interest by Age: Reference person from age 55 to 64,2010,2013
+CXU900080LB0407M,900080,07,Interest by Age: Reference person age 65 or over,2010,2013
+CXU900080LB0408M,900080,08,Interest by Age: Reference person from age 65 to 74,2010,2013
+CXU900080LB0409M,900080,09,Interest by Age: Reference person age 75 or over,2010,2013
+CXU900170LB0401M,900170,01,"Retirement, survivors, and disability income by Age: All Consumer Units",2013,2024
+CXU900170LB0402M,900170,02,"Retirement, survivors, and disability income by Age: Reference person under age 25",2013,2024
+CXU900170LB0403M,900170,03,"Retirement, survivors, and disability income by Age: Reference person from age 25 to 34",2013,2024
+CXU900170LB0404M,900170,04,"Retirement, survivors, and disability income by Age: Reference person from age 35 to 44",2013,2024
+CXU900170LB0405M,900170,05,"Retirement, survivors, and disability income by Age: Reference person from age 45 to 54",2013,2024
+CXU900170LB0406M,900170,06,"Retirement, survivors, and disability income by Age: Reference person from age 55 to 64",2013,2024
+CXU900170LB0407M,900170,07,"Retirement, survivors, and disability income by Age: Reference person age 65 or over",2013,2024
+CXU900170LB0408M,900170,08,"Retirement, survivors, and disability income by Age: Reference person from age 65 to 74",2013,2024
+CXU900170LB0409M,900170,09,"Retirement, survivors, and disability income by Age: Reference person age 75 or over",2013,2024
+CXU900180LB0401M,900180,01,Interest and dividends by Age: All Consumer Units,2013,2024
+CXU900180LB0402M,900180,02,Interest and dividends by Age: Reference person under age 25,2013,2024
+CXU900180LB0403M,900180,03,Interest and dividends by Age: Reference person from age 25 to 34,2013,2024
+CXU900180LB0404M,900180,04,Interest and dividends by Age: Reference person from age 35 to 44,2013,2024
+CXU900180LB0405M,900180,05,Interest and dividends by Age: Reference person from age 45 to 54,2013,2024
+CXU900180LB0406M,900180,06,Interest and dividends by Age: Reference person from age 55 to 64,2013,2024
+CXU900180LB0407M,900180,07,Interest and dividends by Age: Reference person age 65 or over,2013,2024
+CXU900180LB0408M,900180,08,Interest and dividends by Age: Reference person from age 65 to 74,2013,2024
+CXU900180LB0409M,900180,09,Interest and dividends by Age: Reference person age 75 or over,2013,2024
+CXU900190LB0401M,900190,01,Net room/rental income by Age: All Consumer Units,2013,2024
+CXU900190LB0402M,900190,02,Net room/rental income by Age: Reference person under age 25,2013,2024
+CXU900190LB0403M,900190,03,Net room/rental income by Age: Reference person from age 25 to 34,2013,2024
+CXU900190LB0404M,900190,04,Net room/rental income by Age: Reference person from age 35 to 44,2013,2024
+CXU900190LB0405M,900190,05,Net room/rental income by Age: Reference person from age 45 to 54,2013,2024
+CXU900190LB0406M,900190,06,Net room/rental income by Age: Reference person from age 55 to 64,2013,2024
+CXU900190LB0407M,900190,07,Net room/rental income by Age: Reference person age 65 or over,2013,2024
+CXU900190LB0408M,900190,08,Net room/rental income by Age: Reference person from age 65 to 74,2013,2024
+CXU900190LB0409M,900190,09,Net room/rental income by Age: Reference person age 75 or over,2013,2024
+CXU900200LB0401M,900200,01,"Royalty, estate, and trust income by Age: All Consumer Units",2013,2024
+CXU900200LB0402M,900200,02,"Royalty, estate, and trust income by Age: Reference person under age 25",2013,2024
+CXU900200LB0403M,900200,03,"Royalty, estate, and trust income by Age: Reference person from age 25 to 34",2013,2024
+CXU900200LB0404M,900200,04,"Royalty, estate, and trust income by Age: Reference person from age 35 to 44",2013,2024
+CXU900200LB0405M,900200,05,"Royalty, estate, and trust income by Age: Reference person from age 45 to 54",2013,2024
+CXU900200LB0406M,900200,06,"Royalty, estate, and trust income by Age: Reference person from age 55 to 64",2013,2024
+CXU900200LB0407M,900200,07,"Royalty, estate, and trust income by Age: Reference person age 65 or over",2013,2024
+CXU900200LB0408M,900200,08,"Royalty, estate, and trust income by Age: Reference person from age 65 to 74",2013,2024
+CXU900200LB0409M,900200,09,"Royalty, estate, and trust income by Age: Reference person age 75 or over",2013,2024
+CXU980010LB0401M,980010,01,Number of People in CU by Age: All Consumer Units,1984,2024
+CXU980010LB0402M,980010,02,Number of People in CU by Age: Reference person under age 25,1984,2024
+CXU980010LB0403M,980010,03,Number of People in CU by Age: Reference person from age 25 to 34,1984,2024
+CXU980010LB0404M,980010,04,Number of People in CU by Age: Reference person from age 35 to 44,1984,2024
+CXU980010LB0405M,980010,05,Number of People in CU by Age: Reference person from age 45 to 54,1984,2024
+CXU980010LB0406M,980010,06,Number of People in CU by Age: Reference person from age 55 to 64,1984,2024
+CXU980010LB0407M,980010,07,Number of People in CU by Age: Reference person age 65 or over,1988,2024
+CXU980010LB0408M,980010,08,Number of People in CU by Age: Reference person from age 65 to 74,1984,2024
+CXU980010LB0409M,980010,09,Number of People in CU by Age: Reference person age 75 or over,1984,2024
+CXU980020LB0401M,980020,01,Age of reference person by Age: All Consumer Units,1984,2024
+CXU980020LB0402M,980020,02,Age of reference person by Age: Reference person under age 25,1984,2024
+CXU980020LB0403M,980020,03,Age of reference person by Age: Reference person from age 25 to 34,1984,2024
+CXU980020LB0404M,980020,04,Age of reference person by Age: Reference person from age 35 to 44,1984,2024
+CXU980020LB0405M,980020,05,Age of reference person by Age: Reference person from age 45 to 54,1984,2024
+CXU980020LB0406M,980020,06,Age of reference person by Age: Reference person from age 55 to 64,1984,2024
+CXU980020LB0407M,980020,07,Age of reference person by Age: Reference person age 65 or over,1988,2024
+CXU980020LB0408M,980020,08,Age of reference person by Age: Reference person from age 65 to 74,1984,2024
+CXU980020LB0409M,980020,09,Age of reference person by Age: Reference person age 75 or over,1984,2024
+CXU980030LB0401M,980030,01,Number of Earners by Age: All Consumer Units,1984,2024
+CXU980030LB0402M,980030,02,Number of Earners by Age: Reference person under age 25,1984,2024
+CXU980030LB0403M,980030,03,Number of Earners by Age: Reference person from age 25 to 34,1984,2024
+CXU980030LB0404M,980030,04,Number of Earners by Age: Reference person from age 35 to 44,1984,2024
+CXU980030LB0405M,980030,05,Number of Earners by Age: Reference person from age 45 to 54,1984,2024
+CXU980030LB0406M,980030,06,Number of Earners by Age: Reference person from age 55 to 64,1984,2024
+CXU980030LB0407M,980030,07,Number of Earners by Age: Reference person age 65 or over,1988,2024
+CXU980030LB0408M,980030,08,Number of Earners by Age: Reference person from age 65 to 74,1984,2024
+CXU980030LB0409M,980030,09,Number of Earners by Age: Reference person age 75 or over,1984,2024
+CXU980060LB0401M,980060,01,Adults 65 and older by Age: All Consumer Units,1984,2024
+CXU980060LB0402M,980060,02,Adults 65 and older by Age: Reference person under age 25,1984,2024
+CXU980060LB0403M,980060,03,Adults 65 and older by Age: Reference person from age 25 to 34,1984,2024
+CXU980060LB0404M,980060,04,Adults 65 and older by Age: Reference person from age 35 to 44,1984,2024
+CXU980060LB0405M,980060,05,Adults 65 and older by Age: Reference person from age 45 to 54,1984,2024
+CXU980060LB0406M,980060,06,Adults 65 and older by Age: Reference person from age 55 to 64,1984,2024
+CXU980060LB0407M,980060,07,Adults 65 and older by Age: Reference person age 65 or over,1988,2024
+CXU980060LB0408M,980060,08,Adults 65 and older by Age: Reference person from age 65 to 74,1984,2024
+CXU980060LB0409M,980060,09,Adults 65 and older by Age: Reference person age 75 or over,1984,2024
+CXU980230LB0401M,980230,01,Percent Homeowner with mortgage by Age: All Consumer Units,1984,2024
+CXU980230LB0402M,980230,02,Percent Homeowner with mortgage by Age: Reference person under age 25,1984,2024
+CXU980230LB0403M,980230,03,Percent Homeowner with mortgage by Age: Reference person from age 25 to 34,1984,2024
+CXU980230LB0404M,980230,04,Percent Homeowner with mortgage by Age: Reference person from age 35 to 44,1984,2024
+CXU980230LB0405M,980230,05,Percent Homeowner with mortgage by Age: Reference person from age 45 to 54,1984,2024
+CXU980230LB0406M,980230,06,Percent Homeowner with mortgage by Age: Reference person from age 55 to 64,1984,2024
+CXU980230LB0407M,980230,07,Percent Homeowner with mortgage by Age: Reference person age 65 or over,1988,2024
+CXU980230LB0408M,980230,08,Percent Homeowner with mortgage by Age: Reference person from age 65 to 74,1984,2024
+CXU980230LB0409M,980230,09,Percent Homeowner with mortgage by Age: Reference person age 75 or over,1984,2024
+CXU980240LB0401M,980240,01,Percent Homeowner without mortgage by Age: All Consumer Units,1984,2024
+CXU980240LB0402M,980240,02,Percent Homeowner without mortgage by Age: Reference person under age 25,1984,2024
+CXU980240LB0403M,980240,03,Percent Homeowner without mortgage by Age: Reference person from age 25 to 34,1984,2024
+CXU980240LB0404M,980240,04,Percent Homeowner without mortgage by Age: Reference person from age 35 to 44,1984,2024
+CXU980240LB0405M,980240,05,Percent Homeowner without mortgage by Age: Reference person from age 45 to 54,1984,2024
+CXU980240LB0406M,980240,06,Percent Homeowner without mortgage by Age: Reference person from age 55 to 64,1984,2024
+CXU980240LB0407M,980240,07,Percent Homeowner without mortgage by Age: Reference person age 65 or over,1988,2024
+CXU980240LB0408M,980240,08,Percent Homeowner without mortgage by Age: Reference person from age 65 to 74,1984,2024
+CXU980240LB0409M,980240,09,Percent Homeowner without mortgage by Age: Reference person age 75 or over,1984,2024
+CXU980260LB0401M,980260,01,Percent Renter by Age: All Consumer Units,1984,2024
+CXU980260LB0402M,980260,02,Percent Renter by Age: Reference person under age 25,1984,2024
+CXU980260LB0403M,980260,03,Percent Renter by Age: Reference person from age 25 to 34,1984,2024
+CXU980260LB0404M,980260,04,Percent Renter by Age: Reference person from age 35 to 44,1984,2024
+CXU980260LB0405M,980260,05,Percent Renter by Age: Reference person from age 45 to 54,1984,2024
+CXU980260LB0406M,980260,06,Percent Renter by Age: Reference person from age 55 to 64,1984,2024
+CXU980260LB0407M,980260,07,Percent Renter by Age: Reference person age 65 or over,1988,2024
+CXU980260LB0408M,980260,08,Percent Renter by Age: Reference person from age 65 to 74,1984,2024
+CXU980260LB0409M,980260,09,Percent Renter by Age: Reference person age 75 or over,1984,2024
+CXUALCBEVGLB0401M,ALCBEVG,01,Alcoholic beverages by Age: All Consumer Units,1984,2024
+CXUALCBEVGLB0402M,ALCBEVG,02,Alcoholic beverages by Age: Reference person under age 25,1984,2024
+CXUALCBEVGLB0403M,ALCBEVG,03,Alcoholic beverages by Age: Reference person from age 25 to 34,1984,2024
+CXUALCBEVGLB0404M,ALCBEVG,04,Alcoholic beverages by Age: Reference person from age 35 to 44,1984,2024
+CXUALCBEVGLB0405M,ALCBEVG,05,Alcoholic beverages by Age: Reference person from age 45 to 54,1984,2024
+CXUALCBEVGLB0406M,ALCBEVG,06,Alcoholic beverages by Age: Reference person from age 55 to 64,1984,2024
+CXUALCBEVGLB0407M,ALCBEVG,07,Alcoholic beverages by Age: Reference person age 65 or over,1988,2024
+CXUALCBEVGLB0408M,ALCBEVG,08,Alcoholic beverages by Age: Reference person from age 65 to 74,1984,2024
+CXUALCBEVGLB0409M,ALCBEVG,09,Alcoholic beverages by Age: Reference person age 75 or over,1984,2024
+CXUAPPARELLB0401M,APPAREL,01,Apparel and services by Age: All Consumer Units,1984,2024
+CXUAPPARELLB0402M,APPAREL,02,Apparel and services by Age: Reference person under age 25,1984,2024
+CXUAPPARELLB0403M,APPAREL,03,Apparel and services by Age: Reference person from age 25 to 34,1984,2024
+CXUAPPARELLB0404M,APPAREL,04,Apparel and services by Age: Reference person from age 35 to 44,1984,2024
+CXUAPPARELLB0405M,APPAREL,05,Apparel and services by Age: Reference person from age 45 to 54,1984,2024
+CXUAPPARELLB0406M,APPAREL,06,Apparel and services by Age: Reference person from age 55 to 64,1984,2024
+CXUAPPARELLB0407M,APPAREL,07,Apparel and services by Age: Reference person age 65 or over,1988,2024
+CXUAPPARELLB0408M,APPAREL,08,Apparel and services by Age: Reference person from age 65 to 74,1984,2024
+CXUAPPARELLB0409M,APPAREL,09,Apparel and services by Age: Reference person age 75 or over,1984,2024
+CXUCASHCONTLB0401M,CASHCONT,01,Cash contributions by Age: All Consumer Units,1984,2024
+CXUCASHCONTLB0402M,CASHCONT,02,Cash contributions by Age: Reference person under age 25,1984,2024
+CXUCASHCONTLB0403M,CASHCONT,03,Cash contributions by Age: Reference person from age 25 to 34,1984,2024
+CXUCASHCONTLB0404M,CASHCONT,04,Cash contributions by Age: Reference person from age 35 to 44,1984,2024
+CXUCASHCONTLB0405M,CASHCONT,05,Cash contributions by Age: Reference person from age 45 to 54,1984,2024
+CXUCASHCONTLB0406M,CASHCONT,06,Cash contributions by Age: Reference person from age 55 to 64,1984,2024
+CXUCASHCONTLB0407M,CASHCONT,07,Cash contributions by Age: Reference person age 65 or over,1988,2024
+CXUCASHCONTLB0408M,CASHCONT,08,Cash contributions by Age: Reference person from age 65 to 74,1984,2024
+CXUCASHCONTLB0409M,CASHCONT,09,Cash contributions by Age: Reference person age 75 or over,1984,2024
+CXUCONSUNITLB0401M,CONSUNIT,01,Number of consumer units (in thousands) by Age: All Consumer Units,1984,2024
+CXUCONSUNITLB0402M,CONSUNIT,02,Number of consumer units (in thousands) by Age: Reference person under age 25,1984,2024
+CXUCONSUNITLB0403M,CONSUNIT,03,Number of consumer units (in thousands) by Age: Reference person from age 25 to 34,1984,2024
+CXUCONSUNITLB0404M,CONSUNIT,04,Number of consumer units (in thousands) by Age: Reference person from age 35 to 44,1984,2024
+CXUCONSUNITLB0405M,CONSUNIT,05,Number of consumer units (in thousands) by Age: Reference person from age 45 to 54,1984,2024
+CXUCONSUNITLB0406M,CONSUNIT,06,Number of consumer units (in thousands) by Age: Reference person from age 55 to 64,1984,2024
+CXUCONSUNITLB0407M,CONSUNIT,07,Number of consumer units (in thousands) by Age: Reference person age 65 or over,1988,2024
+CXUCONSUNITLB0408M,CONSUNIT,08,Number of consumer units (in thousands) by Age: Reference person from age 65 to 74,1984,2024
+CXUCONSUNITLB0409M,CONSUNIT,09,Number of consumer units (in thousands) by Age: Reference person age 75 or over,1984,2024
+CXUDRUGSLB0401M,DRUGS,01,Drugs by Age: All Consumer Units,1984,2024
+CXUDRUGSLB0402M,DRUGS,02,Drugs by Age: Reference person under age 25,1984,2024
+CXUDRUGSLB0403M,DRUGS,03,Drugs by Age: Reference person from age 25 to 34,1984,2024
+CXUDRUGSLB0404M,DRUGS,04,Drugs by Age: Reference person from age 35 to 44,1984,2024
+CXUDRUGSLB0405M,DRUGS,05,Drugs by Age: Reference person from age 45 to 54,1984,2024
+CXUDRUGSLB0406M,DRUGS,06,Drugs by Age: Reference person from age 55 to 64,1984,2024
+CXUDRUGSLB0407M,DRUGS,07,Drugs by Age: Reference person age 65 or over,1988,2024
+CXUDRUGSLB0408M,DRUGS,08,Drugs by Age: Reference person from age 65 to 74,1984,2024
+CXUDRUGSLB0409M,DRUGS,09,Drugs by Age: Reference person age 75 or over,1984,2024
+CXUEDUCATNLB0401M,EDUCATN,01,Education by Age: All Consumer Units,1984,2024
+CXUEDUCATNLB0402M,EDUCATN,02,Education by Age: Reference person under age 25,1984,2024
+CXUEDUCATNLB0403M,EDUCATN,03,Education by Age: Reference person from age 25 to 34,1984,2024
+CXUEDUCATNLB0404M,EDUCATN,04,Education by Age: Reference person from age 35 to 44,1984,2024
+CXUEDUCATNLB0405M,EDUCATN,05,Education by Age: Reference person from age 45 to 54,1984,2024
+CXUEDUCATNLB0406M,EDUCATN,06,Education by Age: Reference person from age 55 to 64,1984,2024
+CXUEDUCATNLB0407M,EDUCATN,07,Education by Age: Reference person age 65 or over,1988,2024
+CXUEDUCATNLB0408M,EDUCATN,08,Education by Age: Reference person from age 65 to 74,1984,2024
+CXUEDUCATNLB0409M,EDUCATN,09,Education by Age: Reference person age 75 or over,1984,2024
+CXUENTRTAINLB0401M,ENTRTAIN,01,Entertainment by Age: All Consumer Units,1984,2024
+CXUENTRTAINLB0402M,ENTRTAIN,02,Entertainment by Age: Reference person under age 25,1984,2024
+CXUENTRTAINLB0403M,ENTRTAIN,03,Entertainment by Age: Reference person from age 25 to 34,1984,2024
+CXUENTRTAINLB0404M,ENTRTAIN,04,Entertainment by Age: Reference person from age 35 to 44,1984,2024
+CXUENTRTAINLB0405M,ENTRTAIN,05,Entertainment by Age: Reference person from age 45 to 54,1984,2024
+CXUENTRTAINLB0406M,ENTRTAIN,06,Entertainment by Age: Reference person from age 55 to 64,1984,2024
+CXUENTRTAINLB0407M,ENTRTAIN,07,Entertainment by Age: Reference person age 65 or over,1988,2024
+CXUENTRTAINLB0408M,ENTRTAIN,08,Entertainment by Age: Reference person from age 65 to 74,1984,2024
+CXUENTRTAINLB0409M,ENTRTAIN,09,Entertainment by Age: Reference person age 75 or over,1984,2024
+CXUFOODAWAYLB0401M,FOODAWAY,01,Food away from home by Age: All Consumer Units,1984,2024
+CXUFOODAWAYLB0402M,FOODAWAY,02,Food away from home by Age: Reference person under age 25,1984,2024
+CXUFOODAWAYLB0403M,FOODAWAY,03,Food away from home by Age: Reference person from age 25 to 34,1984,2024
+CXUFOODAWAYLB0404M,FOODAWAY,04,Food away from home by Age: Reference person from age 35 to 44,1984,2024
+CXUFOODAWAYLB0405M,FOODAWAY,05,Food away from home by Age: Reference person from age 45 to 54,1984,2024
+CXUFOODAWAYLB0406M,FOODAWAY,06,Food away from home by Age: Reference person from age 55 to 64,1984,2024
+CXUFOODAWAYLB0407M,FOODAWAY,07,Food away from home by Age: Reference person age 65 or over,1988,2024
+CXUFOODAWAYLB0408M,FOODAWAY,08,Food away from home by Age: Reference person from age 65 to 74,1984,2024
+CXUFOODAWAYLB0409M,FOODAWAY,09,Food away from home by Age: Reference person age 75 or over,1984,2024
+CXUFOODHOMELB0401M,FOODHOME,01,Food at home by Age: All Consumer Units,1984,2024
+CXUFOODHOMELB0402M,FOODHOME,02,Food at home by Age: Reference person under age 25,1984,2024
+CXUFOODHOMELB0403M,FOODHOME,03,Food at home by Age: Reference person from age 25 to 34,1984,2024
+CXUFOODHOMELB0404M,FOODHOME,04,Food at home by Age: Reference person from age 35 to 44,1984,2024
+CXUFOODHOMELB0405M,FOODHOME,05,Food at home by Age: Reference person from age 45 to 54,1984,2024
+CXUFOODHOMELB0406M,FOODHOME,06,Food at home by Age: Reference person from age 55 to 64,1984,2024
+CXUFOODHOMELB0407M,FOODHOME,07,Food at home by Age: Reference person age 65 or over,1988,2024
+CXUFOODHOMELB0408M,FOODHOME,08,Food at home by Age: Reference person from age 65 to 74,1984,2024
+CXUFOODHOMELB0409M,FOODHOME,09,Food at home by Age: Reference person age 75 or over,1984,2024
+CXUFOODTOTLLB0401M,FOODTOTL,01,Food by Age: All Consumer Units,1984,2024
+CXUFOODTOTLLB0402M,FOODTOTL,02,Food by Age: Reference person under age 25,1984,2024
+CXUFOODTOTLLB0403M,FOODTOTL,03,Food by Age: Reference person from age 25 to 34,1984,2024
+CXUFOODTOTLLB0404M,FOODTOTL,04,Food by Age: Reference person from age 35 to 44,1984,2024
+CXUFOODTOTLLB0405M,FOODTOTL,05,Food by Age: Reference person from age 45 to 54,1984,2024
+CXUFOODTOTLLB0406M,FOODTOTL,06,Food by Age: Reference person from age 55 to 64,1984,2024
+CXUFOODTOTLLB0407M,FOODTOTL,07,Food by Age: Reference person age 65 or over,1988,2024
+CXUFOODTOTLLB0408M,FOODTOTL,08,Food by Age: Reference person from age 65 to 74,1984,2024
+CXUFOODTOTLLB0409M,FOODTOTL,09,Food by Age: Reference person age 75 or over,1984,2024
+CXUGASFUELLB0401M,GASFUEL,01,Gasoline and other fuels by Age: All Consumer Units,2023,2024
+CXUGASFUELLB0402M,GASFUEL,02,Gasoline and other fuels by Age: Reference person under age 25,2023,2024
+CXUGASFUELLB0403M,GASFUEL,03,Gasoline and other fuels by Age: Reference person from age 25 to 34,2023,2024
+CXUGASFUELLB0404M,GASFUEL,04,Gasoline and other fuels by Age: Reference person from age 35 to 44,2023,2024
+CXUGASFUELLB0405M,GASFUEL,05,Gasoline and other fuels by Age: Reference person from age 45 to 54,2023,2024
+CXUGASFUELLB0406M,GASFUEL,06,Gasoline and other fuels by Age: Reference person from age 55 to 64,2023,2024
+CXUGASFUELLB0407M,GASFUEL,07,Gasoline and other fuels by Age: Reference person age 65 or over,2023,2024
+CXUGASFUELLB0408M,GASFUEL,08,Gasoline and other fuels by Age: Reference person from age 65 to 74,2023,2024
+CXUGASFUELLB0409M,GASFUEL,09,Gasoline and other fuels by Age: Reference person age 75 or over,2023,2024
+CXUGASOILLB0401M,GASOIL,01,"Gasoline, other fuels, and motor oil by Age: All Consumer Units",1984,2023
+CXUGASOILLB0402M,GASOIL,02,"Gasoline, other fuels, and motor oil by Age: Reference person under age 25",1984,2023
+CXUGASOILLB0403M,GASOIL,03,"Gasoline, other fuels, and motor oil by Age: Reference person from age 25 to 34",1984,2023
+CXUGASOILLB0404M,GASOIL,04,"Gasoline, other fuels, and motor oil by Age: Reference person from age 35 to 44",1984,2023
+CXUGASOILLB0405M,GASOIL,05,"Gasoline, other fuels, and motor oil by Age: Reference person from age 45 to 54",1984,2023
+CXUGASOILLB0406M,GASOIL,06,"Gasoline, other fuels, and motor oil by Age: Reference person from age 55 to 64",1984,2023
+CXUGASOILLB0407M,GASOIL,07,"Gasoline, other fuels, and motor oil by Age: Reference person age 65 or over",1988,2023
+CXUGASOILLB0408M,GASOIL,08,"Gasoline, other fuels, and motor oil by Age: Reference person from age 65 to 74",1984,2023
+CXUGASOILLB0409M,GASOIL,09,"Gasoline, other fuels, and motor oil by Age: Reference person age 75 or over",1984,2023
+CXUHEALTHLB0401M,HEALTH,01,Healthcare by Age: All Consumer Units,1984,2024
+CXUHEALTHLB0402M,HEALTH,02,Healthcare by Age: Reference person under age 25,1984,2024
+CXUHEALTHLB0403M,HEALTH,03,Healthcare by Age: Reference person from age 25 to 34,1984,2024
+CXUHEALTHLB0404M,HEALTH,04,Healthcare by Age: Reference person from age 35 to 44,1984,2024
+CXUHEALTHLB0405M,HEALTH,05,Healthcare by Age: Reference person from age 45 to 54,1984,2024
+CXUHEALTHLB0406M,HEALTH,06,Healthcare by Age: Reference person from age 55 to 64,1984,2024
+CXUHEALTHLB0407M,HEALTH,07,Healthcare by Age: Reference person age 65 or over,1988,2024
+CXUHEALTHLB0408M,HEALTH,08,Healthcare by Age: Reference person from age 65 to 74,1984,2024
+CXUHEALTHLB0409M,HEALTH,09,Healthcare by Age: Reference person age 75 or over,1984,2024
+CXUHHFURNSHLB0401M,HHFURNSH,01,Household furnishings and equipment by Age: All Consumer Units,1984,2024
+CXUHHFURNSHLB0402M,HHFURNSH,02,Household furnishings and equipment by Age: Reference person under age 25,1984,2024
+CXUHHFURNSHLB0403M,HHFURNSH,03,Household furnishings and equipment by Age: Reference person from age 25 to 34,1984,2024
+CXUHHFURNSHLB0404M,HHFURNSH,04,Household furnishings and equipment by Age: Reference person from age 35 to 44,1984,2024
+CXUHHFURNSHLB0405M,HHFURNSH,05,Household furnishings and equipment by Age: Reference person from age 45 to 54,1984,2024
+CXUHHFURNSHLB0406M,HHFURNSH,06,Household furnishings and equipment by Age: Reference person from age 55 to 64,1984,2024
+CXUHHFURNSHLB0407M,HHFURNSH,07,Household furnishings and equipment by Age: Reference person age 65 or over,1988,2024
+CXUHHFURNSHLB0408M,HHFURNSH,08,Household furnishings and equipment by Age: Reference person from age 65 to 74,1984,2024
+CXUHHFURNSHLB0409M,HHFURNSH,09,Household furnishings and equipment by Age: Reference person age 75 or over,1984,2024
+CXUHHOPERLB0401M,HHOPER,01,Household operations by Age: All Consumer Units,1984,2024
+CXUHHOPERLB0402M,HHOPER,02,Household operations by Age: Reference person under age 25,1984,2024
+CXUHHOPERLB0403M,HHOPER,03,Household operations by Age: Reference person from age 25 to 34,1984,2024
+CXUHHOPERLB0404M,HHOPER,04,Household operations by Age: Reference person from age 35 to 44,1984,2024
+CXUHHOPERLB0405M,HHOPER,05,Household operations by Age: Reference person from age 45 to 54,1984,2024
+CXUHHOPERLB0406M,HHOPER,06,Household operations by Age: Reference person from age 55 to 64,1984,2024
+CXUHHOPERLB0407M,HHOPER,07,Household operations by Age: Reference person age 65 or over,1988,2024
+CXUHHOPERLB0408M,HHOPER,08,Household operations by Age: Reference person from age 65 to 74,1984,2024
+CXUHHOPERLB0409M,HHOPER,09,Household operations by Age: Reference person age 75 or over,1984,2024
+CXUHLTHINSRLB0401M,HLTHINSR,01,Health insurance by Age: All Consumer Units,1984,2024
+CXUHLTHINSRLB0402M,HLTHINSR,02,Health insurance by Age: Reference person under age 25,1984,2024
+CXUHLTHINSRLB0403M,HLTHINSR,03,Health insurance by Age: Reference person from age 25 to 34,1984,2024
+CXUHLTHINSRLB0404M,HLTHINSR,04,Health insurance by Age: Reference person from age 35 to 44,1984,2024
+CXUHLTHINSRLB0405M,HLTHINSR,05,Health insurance by Age: Reference person from age 45 to 54,1984,2024
+CXUHLTHINSRLB0406M,HLTHINSR,06,Health insurance by Age: Reference person from age 55 to 64,1984,2024
+CXUHLTHINSRLB0407M,HLTHINSR,07,Health insurance by Age: Reference person age 65 or over,1988,2024
+CXUHLTHINSRLB0408M,HLTHINSR,08,Health insurance by Age: Reference person from age 65 to 74,1984,2024
+CXUHLTHINSRLB0409M,HLTHINSR,09,Health insurance by Age: Reference person age 75 or over,1984,2024
+CXUHOMEOWNLB0401M,HOMEOWN,01,Percent Homeowner by Age: All Consumer Units,1990,2024
+CXUHOMEOWNLB0402M,HOMEOWN,02,Percent Homeowner by Age: Reference person under age 25,1990,2024
+CXUHOMEOWNLB0403M,HOMEOWN,03,Percent Homeowner by Age: Reference person from age 25 to 34,1990,2024
+CXUHOMEOWNLB0404M,HOMEOWN,04,Percent Homeowner by Age: Reference person from age 35 to 44,1990,2024
+CXUHOMEOWNLB0405M,HOMEOWN,05,Percent Homeowner by Age: Reference person from age 45 to 54,1990,2024
+CXUHOMEOWNLB0406M,HOMEOWN,06,Percent Homeowner by Age: Reference person from age 55 to 64,1990,2024
+CXUHOMEOWNLB0407M,HOMEOWN,07,Percent Homeowner by Age: Reference person age 65 or over,1990,2024
+CXUHOMEOWNLB0408M,HOMEOWN,08,Percent Homeowner by Age: Reference person from age 65 to 74,1990,2024
+CXUHOMEOWNLB0409M,HOMEOWN,09,Percent Homeowner by Age: Reference person age 75 or over,1990,2024
+CXUHOUSINGLB0401M,HOUSING,01,Housing by Age: All Consumer Units,1984,2024
+CXUHOUSINGLB0402M,HOUSING,02,Housing by Age: Reference person under age 25,1984,2024
+CXUHOUSINGLB0403M,HOUSING,03,Housing by Age: Reference person from age 25 to 34,1984,2024
+CXUHOUSINGLB0404M,HOUSING,04,Housing by Age: Reference person from age 35 to 44,1984,2024
+CXUHOUSINGLB0405M,HOUSING,05,Housing by Age: Reference person from age 45 to 54,1984,2024
+CXUHOUSINGLB0406M,HOUSING,06,Housing by Age: Reference person from age 55 to 64,1984,2024
+CXUHOUSINGLB0407M,HOUSING,07,Housing by Age: Reference person age 65 or over,1988,2024
+CXUHOUSINGLB0408M,HOUSING,08,Housing by Age: Reference person from age 65 to 74,1984,2024
+CXUHOUSINGLB0409M,HOUSING,09,Housing by Age: Reference person age 75 or over,1984,2024
+CXUINCAFTTXLB0401M,INCAFTTX,01,Income after taxes by Age: All Consumer Units,1984,2023
+CXUINCAFTTXLB0402M,INCAFTTX,02,Income after taxes by Age: Reference person under age 25,1984,2023
+CXUINCAFTTXLB0403M,INCAFTTX,03,Income after taxes by Age: Reference person from age 25 to 34,1984,2023
+CXUINCAFTTXLB0404M,INCAFTTX,04,Income after taxes by Age: Reference person from age 35 to 44,1984,2023
+CXUINCAFTTXLB0405M,INCAFTTX,05,Income after taxes by Age: Reference person from age 45 to 54,1984,2023
+CXUINCAFTTXLB0406M,INCAFTTX,06,Income after taxes by Age: Reference person from age 55 to 64,1984,2023
+CXUINCAFTTXLB0407M,INCAFTTX,07,Income after taxes by Age: Reference person age 65 or over,1988,2023
+CXUINCAFTTXLB0408M,INCAFTTX,08,Income after taxes by Age: Reference person from age 65 to 74,1984,2023
+CXUINCAFTTXLB0409M,INCAFTTX,09,Income after taxes by Age: Reference person age 75 or over,1984,2023
+CXUINCBEFTXLB0401M,INCBEFTX,01,Income before taxes by Age: All Consumer Units,1984,2024
+CXUINCBEFTXLB0402M,INCBEFTX,02,Income before taxes by Age: Reference person under age 25,1984,2024
+CXUINCBEFTXLB0403M,INCBEFTX,03,Income before taxes by Age: Reference person from age 25 to 34,1984,2024
+CXUINCBEFTXLB0404M,INCBEFTX,04,Income before taxes by Age: Reference person from age 35 to 44,1984,2024
+CXUINCBEFTXLB0405M,INCBEFTX,05,Income before taxes by Age: Reference person from age 45 to 54,1984,2024
+CXUINCBEFTXLB0406M,INCBEFTX,06,Income before taxes by Age: Reference person from age 55 to 64,1984,2024
+CXUINCBEFTXLB0407M,INCBEFTX,07,Income before taxes by Age: Reference person age 65 or over,1988,2024
+CXUINCBEFTXLB0408M,INCBEFTX,08,Income before taxes by Age: Reference person from age 65 to 74,1984,2024
+CXUINCBEFTXLB0409M,INCBEFTX,09,Income before taxes by Age: Reference person age 75 or over,1984,2024
+CXUINDIVRNTLB0401M,INDIVRNT,01,"Interest, dividends, rental income, and other property income by Age: All Consumer Units",1984,2024
+CXUINDIVRNTLB0402M,INDIVRNT,02,"Interest, dividends, rental income, and other property income by Age: Reference person under age 25",1984,2024
+CXUINDIVRNTLB0403M,INDIVRNT,03,"Interest, dividends, rental income, and other property income by Age: Reference person from age 25 to 34",1984,2024
+CXUINDIVRNTLB0404M,INDIVRNT,04,"Interest, dividends, rental income, and other property income by Age: Reference person from age 35 to 44",1984,2024
+CXUINDIVRNTLB0405M,INDIVRNT,05,"Interest, dividends, rental income, and other property income by Age: Reference person from age 45 to 54",1984,2024
+CXUINDIVRNTLB0406M,INDIVRNT,06,"Interest, dividends, rental income, and other property income by Age: Reference person from age 55 to 64",1984,2024
+CXUINDIVRNTLB0407M,INDIVRNT,07,"Interest, dividends, rental income, and other property income by Age: Reference person age 65 or over",1988,2024
+CXUINDIVRNTLB0408M,INDIVRNT,08,"Interest, dividends, rental income, and other property income by Age: Reference person from age 65 to 74",1984,2024
+CXUINDIVRNTLB0409M,INDIVRNT,09,"Interest, dividends, rental income, and other property income by Age: Reference person age 75 or over",1984,2024
+CXUINSPENSNLB0401M,INSPENSN,01,Personal insurance and pensions by Age: All Consumer Units,1984,2024
+CXUINSPENSNLB0402M,INSPENSN,02,Personal insurance and pensions by Age: Reference person under age 25,1984,2024
+CXUINSPENSNLB0403M,INSPENSN,03,Personal insurance and pensions by Age: Reference person from age 25 to 34,1984,2024
+CXUINSPENSNLB0404M,INSPENSN,04,Personal insurance and pensions by Age: Reference person from age 35 to 44,1984,2024
+CXUINSPENSNLB0405M,INSPENSN,05,Personal insurance and pensions by Age: Reference person from age 45 to 54,1984,2024
+CXUINSPENSNLB0406M,INSPENSN,06,Personal insurance and pensions by Age: Reference person from age 55 to 64,1984,2024
+CXUINSPENSNLB0407M,INSPENSN,07,Personal insurance and pensions by Age: Reference person age 65 or over,1988,2024
+CXUINSPENSNLB0408M,INSPENSN,08,Personal insurance and pensions by Age: Reference person from age 65 to 74,1984,2024
+CXUINSPENSNLB0409M,INSPENSN,09,Personal insurance and pensions by Age: Reference person age 75 or over,1984,2024
+CXULIFEINSRLB0401M,LIFEINSR,01,Life and other personal insurance by Age: All Consumer Units,1984,2024
+CXULIFEINSRLB0402M,LIFEINSR,02,Life and other personal insurance by Age: Reference person under age 25,1984,2024
+CXULIFEINSRLB0403M,LIFEINSR,03,Life and other personal insurance by Age: Reference person from age 25 to 34,1984,2024
+CXULIFEINSRLB0404M,LIFEINSR,04,Life and other personal insurance by Age: Reference person from age 35 to 44,1984,2024
+CXULIFEINSRLB0405M,LIFEINSR,05,Life and other personal insurance by Age: Reference person from age 45 to 54,1984,2024
+CXULIFEINSRLB0406M,LIFEINSR,06,Life and other personal insurance by Age: Reference person from age 55 to 64,1984,2024
+CXULIFEINSRLB0407M,LIFEINSR,07,Life and other personal insurance by Age: Reference person age 65 or over,1988,2024
+CXULIFEINSRLB0408M,LIFEINSR,08,Life and other personal insurance by Age: Reference person from age 65 to 74,1984,2024
+CXULIFEINSRLB0409M,LIFEINSR,09,Life and other personal insurance by Age: Reference person age 75 or over,1984,2024
+CXUMEDSERVSLB0401M,MEDSERVS,01,Medical services by Age: All Consumer Units,1984,2024
+CXUMEDSERVSLB0402M,MEDSERVS,02,Medical services by Age: Reference person under age 25,1984,2024
+CXUMEDSERVSLB0403M,MEDSERVS,03,Medical services by Age: Reference person from age 25 to 34,1984,2024
+CXUMEDSERVSLB0404M,MEDSERVS,04,Medical services by Age: Reference person from age 35 to 44,1984,2024
+CXUMEDSERVSLB0405M,MEDSERVS,05,Medical services by Age: Reference person from age 45 to 54,1984,2024
+CXUMEDSERVSLB0406M,MEDSERVS,06,Medical services by Age: Reference person from age 55 to 64,1984,2024
+CXUMEDSERVSLB0407M,MEDSERVS,07,Medical services by Age: Reference person age 65 or over,1988,2024
+CXUMEDSERVSLB0408M,MEDSERVS,08,Medical services by Age: Reference person from age 65 to 74,1984,2024
+CXUMEDSERVSLB0409M,MEDSERVS,09,Medical services by Age: Reference person age 75 or over,1984,2024
+CXUMEDSUPPLLB0401M,MEDSUPPL,01,Medical supplies by Age: All Consumer Units,1984,2024
+CXUMEDSUPPLLB0402M,MEDSUPPL,02,Medical supplies by Age: Reference person under age 25,1984,2024
+CXUMEDSUPPLLB0403M,MEDSUPPL,03,Medical supplies by Age: Reference person from age 25 to 34,1984,2024
+CXUMEDSUPPLLB0404M,MEDSUPPL,04,Medical supplies by Age: Reference person from age 35 to 44,1984,2024
+CXUMEDSUPPLLB0405M,MEDSUPPL,05,Medical supplies by Age: Reference person from age 45 to 54,1984,2024
+CXUMEDSUPPLLB0406M,MEDSUPPL,06,Medical supplies by Age: Reference person from age 55 to 64,1984,2024
+CXUMEDSUPPLLB0407M,MEDSUPPL,07,Medical supplies by Age: Reference person age 65 or over,1988,2024
+CXUMEDSUPPLLB0408M,MEDSUPPL,08,Medical supplies by Age: Reference person from age 65 to 74,1984,2024
+CXUMEDSUPPLLB0409M,MEDSUPPL,09,Medical supplies by Age: Reference person age 75 or over,1984,2024
+CXUMISCLB0401M,MISC,01,Miscellaneous by Age: All Consumer Units,1984,2024
+CXUMISCLB0402M,MISC,02,Miscellaneous by Age: Reference person under age 25,1984,2024
+CXUMISCLB0403M,MISC,03,Miscellaneous by Age: Reference person from age 25 to 34,1984,2024
+CXUMISCLB0404M,MISC,04,Miscellaneous by Age: Reference person from age 35 to 44,1984,2024
+CXUMISCLB0405M,MISC,05,Miscellaneous by Age: Reference person from age 45 to 54,1984,2024
+CXUMISCLB0406M,MISC,06,Miscellaneous by Age: Reference person from age 55 to 64,1984,2024
+CXUMISCLB0407M,MISC,07,Miscellaneous by Age: Reference person age 65 or over,1988,2024
+CXUMISCLB0408M,MISC,08,Miscellaneous by Age: Reference person from age 65 to 74,1984,2024
+CXUMISCLB0409M,MISC,09,Miscellaneous by Age: Reference person age 75 or over,1984,2024
+CXUOTHBNFTSLB0401M,OTHBNFTS,01,"Unemployment and workers' compensation, veterans' benefits by Age: All Consumer Units",1984,2012
+CXUOTHBNFTSLB0402M,OTHBNFTS,02,"Unemployment and workers' compensation, veterans' benefits by Age: Reference person under age 25",1984,2012
+CXUOTHBNFTSLB0403M,OTHBNFTS,03,"Unemployment and workers' compensation, veterans' benefits by Age: Reference person from age 25 to 34",1984,2012
+CXUOTHBNFTSLB0404M,OTHBNFTS,04,"Unemployment and workers' compensation, veterans' benefits by Age: Reference person from age 35 to 44",1984,2012
+CXUOTHBNFTSLB0405M,OTHBNFTS,05,"Unemployment and workers' compensation, veterans' benefits by Age: Reference person from age 45 to 54",1984,2012
+CXUOTHBNFTSLB0406M,OTHBNFTS,06,"Unemployment and workers' compensation, veterans' benefits by Age: Reference person from age 55 to 64",1984,2012
+CXUOTHBNFTSLB0407M,OTHBNFTS,07,"Unemployment and workers' compensation, veterans' benefits by Age: Reference person age 65 or over",1988,2012
+CXUOTHBNFTSLB0408M,OTHBNFTS,08,"Unemployment and workers' compensation, veterans' benefits by Age: Reference person from age 65 to 74",1984,2012
+CXUOTHBNFTSLB0409M,OTHBNFTS,09,"Unemployment and workers' compensation, veterans' benefits by Age: Reference person age 75 or over",1984,2012
+CXUOTHREGINLB0401M,OTHREGIN,01,"Unemployment and workers' compensation, veterans' benefits, and regular contributions for support by Age: All Consumer Units",2013,2024
+CXUOTHREGINLB0402M,OTHREGIN,02,"Unemployment and workers' compensation, veterans' benefits, and regular contributions for support by Age: Reference person under age 25",2013,2024
+CXUOTHREGINLB0403M,OTHREGIN,03,"Unemployment and workers' compensation, veterans' benefits, and regular contributions for support by Age: Reference person from age 25 to 34",2013,2024
+CXUOTHREGINLB0404M,OTHREGIN,04,"Unemployment and workers' compensation, veterans' benefits, and regular contributions for support by Age: Reference person from age 35 to 44",2013,2024
+CXUOTHREGINLB0405M,OTHREGIN,05,"Unemployment and workers' compensation, veterans' benefits, and regular contributions for support by Age: Reference person from age 45 to 54",2013,2024
+CXUOTHREGINLB0406M,OTHREGIN,06,"Unemployment and workers' compensation, veterans' benefits, and regular contributions for support by Age: Reference person from age 55 to 64",2013,2024
+CXUOTHREGINLB0407M,OTHREGIN,07,"Unemployment and workers' compensation, veterans' benefits, and regular contributions for support by Age: Reference person age 65 or over",2013,2024
+CXUOTHREGINLB0408M,OTHREGIN,08,"Unemployment and workers' compensation, veterans' benefits, and regular contributions for support by Age: Reference person from age 65 to 74",2013,2024
+CXUOTHREGINLB0409M,OTHREGIN,09,"Unemployment and workers' compensation, veterans' benefits, and regular contributions for support by Age: Reference person age 75 or over",2013,2024
+CXUOTHRINCLB0401M,OTHRINC,01,Other income by Age: All Consumer Units,1984,2024
+CXUOTHRINCLB0402M,OTHRINC,02,Other income by Age: Reference person under age 25,1984,2024
+CXUOTHRINCLB0403M,OTHRINC,03,Other income by Age: Reference person from age 25 to 34,1984,2024
+CXUOTHRINCLB0404M,OTHRINC,04,Other income by Age: Reference person from age 35 to 44,1984,2024
+CXUOTHRINCLB0405M,OTHRINC,05,Other income by Age: Reference person from age 45 to 54,1984,2024
+CXUOTHRINCLB0406M,OTHRINC,06,Other income by Age: Reference person from age 55 to 64,1984,2024
+CXUOTHRINCLB0407M,OTHRINC,07,Other income by Age: Reference person age 65 or over,1988,2024
+CXUOTHRINCLB0408M,OTHRINC,08,Other income by Age: Reference person from age 65 to 74,1984,2024
+CXUOTHRINCLB0409M,OTHRINC,09,Other income by Age: Reference person age 75 or over,1984,2024
+CXUOWNDWELLLB0401M,OWNDWELL,01,Owned dwellings by Age: All Consumer Units,1984,2024
+CXUOWNDWELLLB0402M,OWNDWELL,02,Owned dwellings by Age: Reference person under age 25,1984,2024
+CXUOWNDWELLLB0403M,OWNDWELL,03,Owned dwellings by Age: Reference person from age 25 to 34,1984,2024
+CXUOWNDWELLLB0404M,OWNDWELL,04,Owned dwellings by Age: Reference person from age 35 to 44,1984,2024
+CXUOWNDWELLLB0405M,OWNDWELL,05,Owned dwellings by Age: Reference person from age 45 to 54,1984,2024
+CXUOWNDWELLLB0406M,OWNDWELL,06,Owned dwellings by Age: Reference person from age 55 to 64,1984,2024
+CXUOWNDWELLLB0407M,OWNDWELL,07,Owned dwellings by Age: Reference person age 65 or over,1988,2024
+CXUOWNDWELLLB0408M,OWNDWELL,08,Owned dwellings by Age: Reference person from age 65 to 74,1984,2024
+CXUOWNDWELLLB0409M,OWNDWELL,09,Owned dwellings by Age: Reference person age 75 or over,1984,2024
+CXUPENSIONSLB0401M,PENSIONS,01,"Retirement, pensions, and Social Security by Age: All Consumer Units",1984,2024
+CXUPENSIONSLB0402M,PENSIONS,02,"Retirement, pensions, and Social Security by Age: Reference person under age 25",1984,2024
+CXUPENSIONSLB0403M,PENSIONS,03,"Retirement, pensions, and Social Security by Age: Reference person from age 25 to 34",1984,2024
+CXUPENSIONSLB0404M,PENSIONS,04,"Retirement, pensions, and Social Security by Age: Reference person from age 35 to 44",1984,2024
+CXUPENSIONSLB0405M,PENSIONS,05,"Retirement, pensions, and Social Security by Age: Reference person from age 45 to 54",1984,2024
+CXUPENSIONSLB0406M,PENSIONS,06,"Retirement, pensions, and Social Security by Age: Reference person from age 55 to 64",1984,2024
+CXUPENSIONSLB0407M,PENSIONS,07,"Retirement, pensions, and Social Security by Age: Reference person age 65 or over",1988,2024
+CXUPENSIONSLB0408M,PENSIONS,08,"Retirement, pensions, and Social Security by Age: Reference person from age 65 to 74",1984,2024
+CXUPENSIONSLB0409M,PENSIONS,09,"Retirement, pensions, and Social Security by Age: Reference person age 75 or over",1984,2024
+CXUPERSCARELB0401M,PERSCARE,01,Personal care products and services by Age: All Consumer Units,1984,2024
+CXUPERSCARELB0402M,PERSCARE,02,Personal care products and services by Age: Reference person under age 25,1984,2024
+CXUPERSCARELB0403M,PERSCARE,03,Personal care products and services by Age: Reference person from age 25 to 34,1984,2024
+CXUPERSCARELB0404M,PERSCARE,04,Personal care products and services by Age: Reference person from age 35 to 44,1984,2024
+CXUPERSCARELB0405M,PERSCARE,05,Personal care products and services by Age: Reference person from age 45 to 54,1984,2024
+CXUPERSCARELB0406M,PERSCARE,06,Personal care products and services by Age: Reference person from age 55 to 64,1984,2024
+CXUPERSCARELB0407M,PERSCARE,07,Personal care products and services by Age: Reference person age 65 or over,1988,2024
+CXUPERSCARELB0408M,PERSCARE,08,Personal care products and services by Age: Reference person from age 65 to 74,1984,2024
+CXUPERSCARELB0409M,PERSCARE,09,Personal care products and services by Age: Reference person age 75 or over,1984,2024
+CXUPERSTAXLB0401M,PERSTAX,01,Personal taxes (contains some imputed values) by Age: All Consumer Units,1984,2023
+CXUPERSTAXLB0402M,PERSTAX,02,Personal taxes (contains some imputed values) by Age: Reference person under age 25,1984,2023
+CXUPERSTAXLB0403M,PERSTAX,03,Personal taxes (contains some imputed values) by Age: Reference person from age 25 to 34,1984,2023
+CXUPERSTAXLB0404M,PERSTAX,04,Personal taxes (contains some imputed values) by Age: Reference person from age 35 to 44,1984,2023
+CXUPERSTAXLB0405M,PERSTAX,05,Personal taxes (contains some imputed values) by Age: Reference person from age 45 to 54,1984,2023
+CXUPERSTAXLB0406M,PERSTAX,06,Personal taxes (contains some imputed values) by Age: Reference person from age 55 to 64,1984,2023
+CXUPERSTAXLB0407M,PERSTAX,07,Personal taxes (contains some imputed values) by Age: Reference person age 65 or over,1988,2023
+CXUPERSTAXLB0408M,PERSTAX,08,Personal taxes (contains some imputed values) by Age: Reference person from age 65 to 74,1984,2023
+CXUPERSTAXLB0409M,PERSTAX,09,Personal taxes (contains some imputed values) by Age: Reference person age 75 or over,1984,2023
+CXUREADINGLB0401M,READING,01,Reading by Age: All Consumer Units,1984,2024
+CXUREADINGLB0402M,READING,02,Reading by Age: Reference person under age 25,1984,2024
+CXUREADINGLB0403M,READING,03,Reading by Age: Reference person from age 25 to 34,1984,2024
+CXUREADINGLB0404M,READING,04,Reading by Age: Reference person from age 35 to 44,1984,2024
+CXUREADINGLB0405M,READING,05,Reading by Age: Reference person from age 45 to 54,1984,2024
+CXUREADINGLB0406M,READING,06,Reading by Age: Reference person from age 55 to 64,1984,2024
+CXUREADINGLB0407M,READING,07,Reading by Age: Reference person age 65 or over,1988,2024
+CXUREADINGLB0408M,READING,08,Reading by Age: Reference person from age 65 to 74,1984,2024
+CXUREADINGLB0409M,READING,09,Reading by Age: Reference person age 75 or over,1984,2024
+CXUREGCONTLB0401M,REGCONT,01,Regular contributions for support by Age: All Consumer Units,1984,2012
+CXUREGCONTLB0402M,REGCONT,02,Regular contributions for support by Age: Reference person under age 25,1984,2012
+CXUREGCONTLB0403M,REGCONT,03,Regular contributions for support by Age: Reference person from age 25 to 34,1984,2012
+CXUREGCONTLB0404M,REGCONT,04,Regular contributions for support by Age: Reference person from age 35 to 44,1984,2012
+CXUREGCONTLB0405M,REGCONT,05,Regular contributions for support by Age: Reference person from age 45 to 54,1984,2012
+CXUREGCONTLB0406M,REGCONT,06,Regular contributions for support by Age: Reference person from age 55 to 64,1984,2012
+CXUREGCONTLB0407M,REGCONT,07,Regular contributions for support by Age: Reference person age 65 or over,1988,2012
+CXUREGCONTLB0408M,REGCONT,08,Regular contributions for support by Age: Reference person from age 65 to 74,1984,2012
+CXUREGCONTLB0409M,REGCONT,09,Regular contributions for support by Age: Reference person age 75 or over,1984,2012
+CXURETIRINCLB0401M,RETIRINC,01,"Social Security, private and government retirement by Age: All Consumer Units",1984,2024
+CXURETIRINCLB0402M,RETIRINC,02,"Social Security, private and government retirement by Age: Reference person under age 25",1984,2024
+CXURETIRINCLB0403M,RETIRINC,03,"Social Security, private and government retirement by Age: Reference person from age 25 to 34",1984,2024
+CXURETIRINCLB0404M,RETIRINC,04,"Social Security, private and government retirement by Age: Reference person from age 35 to 44",1984,2024
+CXURETIRINCLB0405M,RETIRINC,05,"Social Security, private and government retirement by Age: Reference person from age 45 to 54",1984,2024
+CXURETIRINCLB0406M,RETIRINC,06,"Social Security, private and government retirement by Age: Reference person from age 55 to 64",1984,2024
+CXURETIRINCLB0407M,RETIRINC,07,"Social Security, private and government retirement by Age: Reference person age 65 or over",1988,2024
+CXURETIRINCLB0408M,RETIRINC,08,"Social Security, private and government retirement by Age: Reference person from age 65 to 74",1984,2024
+CXURETIRINCLB0409M,RETIRINC,09,"Social Security, private and government retirement by Age: Reference person age 75 or over",1984,2024
+CXURNTDWELLLB0401M,RNTDWELL,01,Rented dwellings by Age: All Consumer Units,1984,2024
+CXURNTDWELLLB0402M,RNTDWELL,02,Rented dwellings by Age: Reference person under age 25,1984,2024
+CXURNTDWELLLB0403M,RNTDWELL,03,Rented dwellings by Age: Reference person from age 25 to 34,1984,2024
+CXURNTDWELLLB0404M,RNTDWELL,04,Rented dwellings by Age: Reference person from age 35 to 44,1984,2024
+CXURNTDWELLLB0405M,RNTDWELL,05,Rented dwellings by Age: Reference person from age 45 to 54,1984,2024
+CXURNTDWELLLB0406M,RNTDWELL,06,Rented dwellings by Age: Reference person from age 55 to 64,1984,2024
+CXURNTDWELLLB0407M,RNTDWELL,07,Rented dwellings by Age: Reference person age 65 or over,1988,2024
+CXURNTDWELLLB0408M,RNTDWELL,08,Rented dwellings by Age: Reference person from age 65 to 74,1984,2024
+CXURNTDWELLLB0409M,RNTDWELL,09,Rented dwellings by Age: Reference person age 75 or over,1984,2024
+CXUSFEMPINCLB0401M,SFEMPINC,01,Self-employment income by Age: All Consumer Units,1984,2024
+CXUSFEMPINCLB0402M,SFEMPINC,02,Self-employment income by Age: Reference person under age 25,1984,2024
+CXUSFEMPINCLB0403M,SFEMPINC,03,Self-employment income by Age: Reference person from age 25 to 34,1984,2024
+CXUSFEMPINCLB0404M,SFEMPINC,04,Self-employment income by Age: Reference person from age 35 to 44,1984,2024
+CXUSFEMPINCLB0405M,SFEMPINC,05,Self-employment income by Age: Reference person from age 45 to 54,1984,2024
+CXUSFEMPINCLB0406M,SFEMPINC,06,Self-employment income by Age: Reference person from age 55 to 64,1984,2024
+CXUSFEMPINCLB0407M,SFEMPINC,07,Self-employment income by Age: Reference person age 65 or over,1988,2024
+CXUSFEMPINCLB0408M,SFEMPINC,08,Self-employment income by Age: Reference person from age 65 to 74,1984,2024
+CXUSFEMPINCLB0409M,SFEMPINC,09,Self-employment income by Age: Reference person age 75 or over,1984,2024
+CXUSHELTERLB0401M,SHELTER,01,Shelter by Age: All Consumer Units,1984,2024
+CXUSHELTERLB0402M,SHELTER,02,Shelter by Age: Reference person under age 25,1984,2024
+CXUSHELTERLB0403M,SHELTER,03,Shelter by Age: Reference person from age 25 to 34,1984,2024
+CXUSHELTERLB0404M,SHELTER,04,Shelter by Age: Reference person from age 35 to 44,1984,2024
+CXUSHELTERLB0405M,SHELTER,05,Shelter by Age: Reference person from age 45 to 54,1984,2024
+CXUSHELTERLB0406M,SHELTER,06,Shelter by Age: Reference person from age 55 to 64,1984,2024
+CXUSHELTERLB0407M,SHELTER,07,Shelter by Age: Reference person age 65 or over,1988,2024
+CXUSHELTERLB0408M,SHELTER,08,Shelter by Age: Reference person from age 65 to 74,1984,2024
+CXUSHELTERLB0409M,SHELTER,09,Shelter by Age: Reference person age 75 or over,1984,2024
+CXUTOBACCOLB0401M,TOBACCO,01,Tobacco products and smoking supplies by Age: All Consumer Units,1984,2024
+CXUTOBACCOLB0402M,TOBACCO,02,Tobacco products and smoking supplies by Age: Reference person under age 25,1984,2024
+CXUTOBACCOLB0403M,TOBACCO,03,Tobacco products and smoking supplies by Age: Reference person from age 25 to 34,1984,2024
+CXUTOBACCOLB0404M,TOBACCO,04,Tobacco products and smoking supplies by Age: Reference person from age 35 to 44,1984,2024
+CXUTOBACCOLB0405M,TOBACCO,05,Tobacco products and smoking supplies by Age: Reference person from age 45 to 54,1984,2024
+CXUTOBACCOLB0406M,TOBACCO,06,Tobacco products and smoking supplies by Age: Reference person from age 55 to 64,1984,2024
+CXUTOBACCOLB0407M,TOBACCO,07,Tobacco products and smoking supplies by Age: Reference person age 65 or over,1988,2024
+CXUTOBACCOLB0408M,TOBACCO,08,Tobacco products and smoking supplies by Age: Reference person from age 65 to 74,1984,2024
+CXUTOBACCOLB0409M,TOBACCO,09,Tobacco products and smoking supplies by Age: Reference person age 75 or over,1984,2024
+CXUTOTALEXPLB0401M,TOTALEXP,01,Average annual expenditures by Age: All Consumer Units,1984,2024
+CXUTOTALEXPLB0402M,TOTALEXP,02,Average annual expenditures by Age: Reference person under age 25,1984,2024
+CXUTOTALEXPLB0403M,TOTALEXP,03,Average annual expenditures by Age: Reference person from age 25 to 34,1984,2024
+CXUTOTALEXPLB0404M,TOTALEXP,04,Average annual expenditures by Age: Reference person from age 35 to 44,1984,2024
+CXUTOTALEXPLB0405M,TOTALEXP,05,Average annual expenditures by Age: Reference person from age 45 to 54,1984,2024
+CXUTOTALEXPLB0406M,TOTALEXP,06,Average annual expenditures by Age: Reference person from age 55 to 64,1984,2024
+CXUTOTALEXPLB0407M,TOTALEXP,07,Average annual expenditures by Age: Reference person age 65 or over,1988,2024
+CXUTOTALEXPLB0408M,TOTALEXP,08,Average annual expenditures by Age: Reference person from age 65 to 74,1984,2024
+CXUTOTALEXPLB0409M,TOTALEXP,09,Average annual expenditures by Age: Reference person age 75 or over,1984,2024
+CXUTRANSLB0401M,TRANS,01,Transportation by Age: All Consumer Units,1984,2024
+CXUTRANSLB0402M,TRANS,02,Transportation by Age: Reference person under age 25,1984,2024
+CXUTRANSLB0403M,TRANS,03,Transportation by Age: Reference person from age 25 to 34,1984,2024
+CXUTRANSLB0404M,TRANS,04,Transportation by Age: Reference person from age 35 to 44,1984,2024
+CXUTRANSLB0405M,TRANS,05,Transportation by Age: Reference person from age 45 to 54,1984,2024
+CXUTRANSLB0406M,TRANS,06,Transportation by Age: Reference person from age 55 to 64,1984,2024
+CXUTRANSLB0407M,TRANS,07,Transportation by Age: Reference person age 65 or over,1988,2024
+CXUTRANSLB0408M,TRANS,08,Transportation by Age: Reference person from age 65 to 74,1984,2024
+CXUTRANSLB0409M,TRANS,09,Transportation by Age: Reference person age 75 or over,1984,2024
+CXUUTILSLB0401M,UTILS,01,"Utilities, fuels, and public services by Age: All Consumer Units",1984,2024
+CXUUTILSLB0402M,UTILS,02,"Utilities, fuels, and public services by Age: Reference person under age 25",1984,2024
+CXUUTILSLB0403M,UTILS,03,"Utilities, fuels, and public services by Age: Reference person from age 25 to 34",1984,2024
+CXUUTILSLB0404M,UTILS,04,"Utilities, fuels, and public services by Age: Reference person from age 35 to 44",1984,2024
+CXUUTILSLB0405M,UTILS,05,"Utilities, fuels, and public services by Age: Reference person from age 45 to 54",1984,2024
+CXUUTILSLB0406M,UTILS,06,"Utilities, fuels, and public services by Age: Reference person from age 55 to 64",1984,2024
+CXUUTILSLB0407M,UTILS,07,"Utilities, fuels, and public services by Age: Reference person age 65 or over",1988,2024
+CXUUTILSLB0408M,UTILS,08,"Utilities, fuels, and public services by Age: Reference person from age 65 to 74",1984,2024
+CXUUTILSLB0409M,UTILS,09,"Utilities, fuels, and public services by Age: Reference person age 75 or over",1984,2024
+CXUVEHPURCHLB0401M,VEHPURCH,01,Vehicle purchases (net outlay) by Age: All Consumer Units,1984,2024
+CXUVEHPURCHLB0402M,VEHPURCH,02,Vehicle purchases (net outlay) by Age: Reference person under age 25,1984,2024
+CXUVEHPURCHLB0403M,VEHPURCH,03,Vehicle purchases (net outlay) by Age: Reference person from age 25 to 34,1984,2024
+CXUVEHPURCHLB0404M,VEHPURCH,04,Vehicle purchases (net outlay) by Age: Reference person from age 35 to 44,1984,2024
+CXUVEHPURCHLB0405M,VEHPURCH,05,Vehicle purchases (net outlay) by Age: Reference person from age 45 to 54,1984,2024
+CXUVEHPURCHLB0406M,VEHPURCH,06,Vehicle purchases (net outlay) by Age: Reference person from age 55 to 64,1984,2024
+CXUVEHPURCHLB0407M,VEHPURCH,07,Vehicle purchases (net outlay) by Age: Reference person age 65 or over,1988,2024
+CXUVEHPURCHLB0408M,VEHPURCH,08,Vehicle purchases (net outlay) by Age: Reference person from age 65 to 74,1984,2024
+CXUVEHPURCHLB0409M,VEHPURCH,09,Vehicle purchases (net outlay) by Age: Reference person age 75 or over,1984,2024
+CXUWELFARELB0401M,WELFARE,01,"Public assistance, Supplemental Security Income, Supplementary Nutrition Assistance Program (SNAP) by Age: All Consumer Units",1984,2024
+CXUWELFARELB0402M,WELFARE,02,"Public assistance, Supplemental Security Income, Supplementary Nutrition Assistance Program (SNAP) by Age: Reference person under age 25",1984,2024
+CXUWELFARELB0403M,WELFARE,03,"Public assistance, Supplemental Security Income, Supplementary Nutrition Assistance Program (SNAP) by Age: Reference person from age 25 to 34",1984,2024
+CXUWELFARELB0404M,WELFARE,04,"Public assistance, Supplemental Security Income, Supplementary Nutrition Assistance Program (SNAP) by Age: Reference person from age 35 to 44",1984,2024
+CXUWELFARELB0405M,WELFARE,05,"Public assistance, Supplemental Security Income, Supplementary Nutrition Assistance Program (SNAP) by Age: Reference person from age 45 to 54",1984,2024
+CXUWELFARELB0406M,WELFARE,06,"Public assistance, Supplemental Security Income, Supplementary Nutrition Assistance Program (SNAP) by Age: Reference person from age 55 to 64",1984,2024
+CXUWELFARELB0407M,WELFARE,07,"Public assistance, Supplemental Security Income, Supplementary Nutrition Assistance Program (SNAP) by Age: Reference person age 65 or over",1988,2024
+CXUWELFARELB0408M,WELFARE,08,"Public assistance, Supplemental Security Income, Supplementary Nutrition Assistance Program (SNAP) by Age: Reference person from age 65 to 74",1984,2024
+CXUWELFARELB0409M,WELFARE,09,"Public assistance, Supplemental Security Income, Supplementary Nutrition Assistance Program (SNAP) by Age: Reference person age 75 or over",1984,2024
