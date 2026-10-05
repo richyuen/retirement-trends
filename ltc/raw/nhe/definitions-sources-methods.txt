@@ -1,0 +1,2992 @@
+National Health Expenditure Accounts (NHEA):
+          Methodology Paper, 2024
+                          Definitions, Sources, and Methods
+
+                                 Last Updated: January 2026
+                          National Health Expenditures for 1960-2024
+
+
+                                National Health Statistics Group
+                                      Office of the Actuary
+                            Centers for Medicare & Medicaid Services
+
+
+                                               Table of Contents
+
+Introduction: About the U.S. National Health Expenditure Accounts........................... 2
+How is Health Care Spending Defined and Organized in the NHEA? ............................ 4
+Definitions, Sources, and Methods by NHEA Category ............................................... 7
+  Medical Services ........................................................................................................ 7
+  Medical Goods......................................................................................................... 11
+  Payers and Programs for Medical Services and Goods ................................................ 13
+  Categories Added at the Health Consumption Expenditures Aggregation Level ............ 23
+  Categories Added at the National Health Expenditures Aggregation Level .................... 26
+NHEA by Type of Sponsor ....................................................................................... 28
+Health Insurance Enrollment and the Uninsured ..................................................... 33
+Deflating National Health Expenditures .................................................................. 35
+  Deflators Used in the Personal Health Care Price Index .............................................. 36
+  Deflators Used in the Non-Personal Health Care Price Index ....................................... 37
+References ............................................................................................................ 39
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+
+Introduction: About the U.S. National Health Expenditure Accounts
+Since 1964, the U.S. Department of Health and Human Services 1 and its predecessor agencies have
+                                                                  0F
+
+
+
+
+published an annual series of data presenting total national health expenditures (NHE). These estimates,
+termed the National Health Expenditure Accounts (NHEA), are compiled with the goal of measuring the total
+annual dollar amount of health care consumption in the U.S., as well as the dollar amount invested in
+medical sector structures and equipment and non-commercial research to procure health services in the
+future.
+
+The NHEA are generally compatible with a production-based accounting structure such as the Bureau of
+Economic Analysis’ National Income and Product Accounts (NIPA), 2 but include a more complete picture of
+                                                                       1F
+
+
+
+
+the health care sector. 3 Using an expenditures approach to national economic accounting, the NHEA
+                       2F
+
+
+
+
+identifies all final consumption of health care goods and services as well as investment in a given year that is
+purchased or provided by direct or third-party payments and programs.
+
+Three primary characteristics of the NHEA flow from this framework. First, the NHEA are comprehensive
+because they contain all of the main components of the health care system within a unified mutually
+exclusive and exhaustive structure. Second, the NHEA are multidimensional, encompassing not only
+expenditures for medical goods and services, but also the payers and programs that finance these
+expenditures. Third, the NHEA are consistent because they apply a common set of definitions that allow
+comparisons among categories and over time.
+
+To keep the NHEA accurate and relevant, the scope, methods, and data sources used are periodically
+reexamined. Every five years, the NHEA undergoes a comprehensive revision that includes the incorporation
+of newly available source data, methodological and definitional changes, and the benchmarking of estimates
+from the U.S. Census Bureau’s quinquennial Economic Census (available for years ending in “2” and “7”).
+During these comprehensive revisions, the entire NHEA time series (1960-forward) is evaluated and may be
+revised. The most recent comprehensive revision is reflected in the 2024 vintage of the NHEA. Please visit
+the following website for more information regarding these changes:
+
+               https://www.cms.gov/files/document/summary-benchmark-changes-2024.pdf
+
+The NHEA are not limited to national level, historical estimates of health spending and health insurance
+enrollment. Selected additional NHEA products include:
+
+    •   Health care expenditure projections: 4 Historical NHEA estimates provide a basis for projections of
+                                              3F
+
+
+
+
+        future health care expenditures. Each year following the release of the historical NHEA data, the
+        Office of the Actuary releases updated 10-year projections of health care expenditures that
+        incorporate updated assumptions about demographic and economic factors, as well as inflation
+        rates and other economic information. By projecting the likely future trends in health care spending
+        under current law, these models provide key information to legislators, research analysts, academic
+        professionals, and the public so that they can make informed decisions.
+
+    •   Health care expenditures by age and sex: 5 Historical health spending is also estimated by age and
+                                                   4F
+
+
+
+
+        sex for selected years from 2002 through 2020. These estimates reflect personal health care
+        spending by type of good or services and by source of funding (private health insurance, Medicare,
+        Medicaid, our-of-pocket, and all other payers and programs) for five age groups: 0-18, 19-4, 45-64,
+        65-84, and 85 and over for males and females.
+
+    •    Health care expenditures by state of provider 6 and state of residence: 7 , State level health accounts
+                                                        5F                      6F
+
+
+
+
+        by state of provider (1980 through 2020) reflect state level expenditures by the type of establishment
+        delivering care (hospitals, physicians and clinics, nursing homes, etc.) and for medical products
+        (prescription drugs, over-the-counter medicines and sundries, and durable medical equipment).
+        These estimates are useful in measuring the role of health spending in state economies and allow for
+        state and regional comparisons over time. Health care expenditures by state of residence (available
+        for 1991 through 2020) represent adjusted state of provider expenditures that reflect health spending
+
+                                                        2
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+        for the state in which the patient resides (they capture the migration patterns associated with those
+        who cross state borders to receive care). Because health spending by state of residence is
+        consistent with state population and/or health insurance enrollment counts, it is the only set of
+        state-level estimates in which it is appropriate to calculate health spending per person by state.
+
+NHEA data can be and has been used to study numerous topics related to the health care sector. Examples
+include:
+
+    •   Health care expenditures as a proportion of GDP. Within the NHEA, the amount of health care goods
+        and services produced relative to the amount of all goods and services produced represents the
+        share of the nation’s total production that is attributed to health care. The amount of economic
+        resources devoted to the production of health care also represents the opportunity cost of health
+        care to society, in that such resources cannot be applied to the production of any other types of
+        goods and services.
+
+    •   Health care expenditures by payers and programs. The NHEA allows for the analysis of the share and
+        magnitude of various types of health care payers and programs including health insurance (such as
+        private health insurance, Medicare, and Medicaid) consumer out-of-pocket payments, and other
+        third-party payers and programs.
+
+    •   Health care expenditures for various types of goods and services. The NHEA present the amount of
+        annual consumption of health care goods and services produced by various health care
+        establishments in the U.S and are useful in analyzing the changing mix of medical services and
+        products consumed.
+
+    •   Health care expenditures by type of sponsor. The NHEA is aligned to produce estimates of spending
+        by type of sponsor, or the businesses, households, governments, and other private revenues that are
+        ultimately responsible for financing health care expenditures and are the sponsors of private health
+        insurance premiums, out-of-pocket spending, and government program expenditures. These
+        estimates, combined with measures of available resources used to pay for health care, can help to
+        identify health care financing pressures and the impact of changes in health care costs.
+
+    •   Health care policy changes. The comprehensive and integrated structure of the NHEA creates an
+        ideal tool for evaluating changes to the health care system such as the mix of the insured and
+        uninsured, the distribution of all direct and third-party payers and programs, the consumption of
+        health care goods and services, and impacts of legislation.
+
+
+
+
+                                                      3
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+
+How is Health Care Spending Defined and Organized in the NHEA?
+The NHEA tabulate aggregate health care spending in the United States on three major dimensions: spending
+by medical service and/or good; by payer and/or program; and by sponsor (or source of financing).
+
+Exhibit 1 provides a visualization of the structure and organization of the NHEA.
+
+Personal health care (PHC) expenditures, the internal box in Exhibit 1, represent all revenues received by
+health care providers and retail establishments for the provision of medical goods and services as well as all
+non-patient and non-operating revenue, grants, subsidies, and philanthropy received by health care
+providers.
+
+Health consumption expenditures (HCE) equal PHC spending plus spending for government public health
+activity, government administration, and non-medical insurance expenditures.
+
+National health expenditures (NHE) equal HCE plus investment, which is the sum of medical sector
+purchases of structures and equipment and expenditures for non-commercial medical research.
+
+Exhibit 1: Structure of the NHEA by Goods and Services
+
+ National Health Expenditures (NHE)
+ equals HCE plus Investment
+    Health Consumption Expenditures (HCE)
+    equals PHC plus Government Administration, Non-Medical Insurance Expenditures, Public
+    Health Activities
+       Personal Health Care (PHC)
+           Hospital Care
+           Physician and Clinical Services
+           Other Professional Services
+           Dental Services
+           Other Health, Residential, and Personal Care
+           Home Health Care
+           Nursing Care Facilities and Continuing Care
+             Retirement Communities
+           Prescription Drugs
+           Other Non-Durable Medical Products
+          Durable Medical Equipment
+        Government Administration
+        Non-Medical Insurance Expenditures
+        Public Health Activities
+    Investment
+       Non-Commercial Research
+        Structures and Equipment
+
+Source: Centers for Medicare & Medicaid Services, Office of the Actuary, National Health Statistics Group.
+
+
+
+
+                                                           4
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+Industry Classification and Data Sources for Medical Services and Goods
+In the NHEA, health care spending is classified by type of establishment. Services are classified by the 2022
+North American Industry Classification System (NAICS). 8 Goods are classified according to the product
+                                                                        7F
+
+
+
+
+codes used by the U.S. Census Bureau. Exhibit 2 shows the mapping of NAICS codes to NHEA categories.
+Exhibit 2: NAICS Structure for the Health Care Services Crosswalk to NHEA
+          NAICS Structure                                                    NHEA Categories
+62        Health Care and Social Assistance
+621       Ambulatory Health Care Services
+6211      Offices of Physicians                                              Physician and clinical services
+6212      Offices of Dentists                                                Dental Services
+6213      Offices of Other Health Practitioners                              Other professional services/durable medical equipment
+62131     Offices of Chiropractors                                           Other professional services
+62132     Offices of Optometrists                                            Other professional services/durable medical equipment
+62133     Offices of Mental Health Practitioners (except Physicians)         Other professional services
+62134     Offices of Physical, Occupational and Speech Therapists, and       Other professional services
+          Audiologists
+62139     Offices of All Other Health Practitioners                          Other professional services
+621391    Offices of Podiatrists                                             Other professional services
+621399    Offices of All Other Miscellaneous Health Practitioners            Other professional services
+6214      Outpatient Care Centers                                            Physician and clinical services
+62141     Family Planning Centers                                            Physician and clinical services
+62142     Outpatient Mental Health and Substance Abuse Centers               Physician and clinical services
+62149     Other Outpatient Care Centers                                      Physician and clinical services
+621491    HMO Medical Centers                                                Physician and clinical services
+621492    Kidney Dialysis Centers                                            Physician and clinical services
+621493    Freestanding Ambulatory Surgical and Emergency Centers             Physician and clinical services
+621498    All Other Outpatient Care Centers                                  Physician and clinical services
+6215      Medical and Diagnostic Laboratories                                Physician and clinical services
+621511    Medical Laboratories                                               Physician and clinical services
+621512    Diagnostic Imaging Centers                                         Physician and clinical services
+6216      Home Health Care Services                                          Home health care
+6219      Other Ambulatory Health Care Services                              Other health, residential, and personal care (partial)
+62191     Ambulance Services                                                 Other health, residential, and personal care
+622       Hospitals                                                          Hospital care
+6221      General Medical and Surgical Hospitals                             Hospital care
+6222      Psychiatric and Substance Abuse Hospitals                          Hospital care
+6223      Specialty (except Psychiatric and Substance Abuse) Hospitals Hospital care
+623       Nursing and Residential Care Facilities                            Nursing home and residential care facilities/other health,
+                                                                             residential, and personal care
+6231      Nursing Care Facilities (Skilled Nursing Facilities)               Nursing care facilities and continuing care retirement
+                                                                             communities
+6232      Residential Intellectual and Developmental Disability, Mental      Other health, residential, and personal care
+          Health and Substance Abuse Facilities
+62321     Residential Intellectual and Developmental Disability Facilities Other health, residential, and personal care
+62322     Residential Mental Health and Substance Abuse Facilities           Other health, residential, and personal care
+6233      Continuing Care Retirement Communities and Assisted Living         Nursing care facilities and continuing care retirement
+          Facilities for the Elderly                                         communities (only 623311)
+62331     Continuing Care Retirement Communities and Assisted Living         Nursing care facilities and continuing care retirement
+          Facilities for the Elderly                                         communities (only 623311)
+623311    Continuing Care Retirement Communities                             Nursing care facilities and continuing care retirement
+                                                                             communities
+NOTE: The following codes within NAICS 62 are out-of-scope for the NHEA: 62199, 621991, 621999, 623312, 6239.
+
+
+
+                                                                    5
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+Exhibit 3 below identifies the primary data sources and methodologies used to estimate spending for the
+NHE services and goods categories. U.S. Census Bureau data sources, such as the Economic Census (EC)
+and the Service Annual Survey (SAS) (which are also classified by NAICS code), are a primary input to NHE
+service spending totals. For sources of funding estimates related to each service or good, similar data
+sources and methods are used. For Medicare, Medicaid, and other third-party payers and programs, data is
+used that originate directly from public programs or from the Budget of the U.S. Government. For private
+health insurance, out-of-pocket, and other private revenues, expenditures by type of service or good are
+distributed using survey data, such as the SAS and Quarterly Services Survey (QSS)after known program
+spending (Medicare, Medicaid, and other third-party payers and programs) is removed.
+
+Exhibit 3: An Overview of Data Sources and Methodology Used in the NHEA
+                                                                                                                                 Other
+                                                                                                                                 Third-Party
+                                                                                        Other                                    Payers and
+Service/Good:                            Total Spending         PHI         OOP         Private    Medicare         Medicaid     Programs
+Hospital Care                            QSS, SAS, EC, and       Residual, distributed using the
+                                                                                                      Claims Data      CMS-64s     Program or Budget Data
+
+
+
+
+                                         AHA                               SAS, QSS
+Physician and Clinical Services          QSS, SAS and EC         Residual, distributed using the
+                                                                                                      Claims Data      CMS-64s     Program or Budget Data
+
+
+
+
+                                                                           SAS, QSS
+Other Professional Services              QSS, SAS and EC         Residual, distributed using the
+                                                                                                      Claims Data      CMS-64s     Program or Budget Data
+
+
+
+
+                                                                           SAS, QSS
+Dental Services                          QSS, SAS and EC         Residual, distributed using the
+                                                                                                      Claims Data      CMS-64s     Program or Budget Data
+
+
+
+
+                                                                           SAS, QSS
+Other Health, Residential, and           QSS, SAS, EC,                SAS and other data            Trustees        CMS-64s      Program or
+Personal Care                            Program or Budget                                           Report,                       Budget
+                                         data, and other data                                      Summary                          Data
+                                                                                                    Claims,
+                                                                                                      and
+                                                                                                   Medicare
+                                                                                                   Advantage
+                                                                                                   Bid Pricing
+                                                                                                   Tool data
+Home Health Care                         QSS, SAS and EC         Residual, distributed using the
+                                                                                                      Claims Data      CMS-64s     Program or Budget Data
+
+
+
+
+                                                                            SAS, QSS
+Nursing Care Facilities and Continuing QSS, SAS and EC           Residual, distributed using the
+                                                                                                      Claims Data      CMS-64s     Program or Budget Data
+
+
+
+
+Care Retirement Communities                                                 SAS, QSS
+Prescription Drugs                     CRT and IQVIA Health      Residual, distributed     N/A
+                                                                                                      Claims Data      CMS-64s     Program or Budget Data
+
+
+
+
+                                                                 using data from CMS
+                                                                  and IQVIA Health
+Durable Medical Equipment                I-O and EC                    PCE, CE, and MEPS                            MAX/MSIS
+                                                                                                      Claims Data                  Program or Budget Data
+
+
+
+
+Other Non-durable Medical Products       PCE                       N/A                     N/A                        N/A
+                                                                                                      Claims Data                  Program or Budget Data
+
+
+
+
+Key of terms:
+EC = The U.S. Census Bureau's Economic Census, available for years ending in 2 and 7
+Other data = Includes data from the Journal of Emergency Medical Services, Bureau of Labor Statistics, Mercer Survey for onsite health
+care, and Kaiser Health Research and Educational Trust (HRET) survey of Employer-Sponsored Health Benefits
+SAS = The U.S. Census Bureau's Service Annual Survey. This survey was discontinued with the 2022 data and will be replaced with the
+Annual Integrated Economic Survey (AIES) with 2023 data.
+QSS = The U.S. Census Bureau’s Quarterly Services Survey.
+IQVIA = IQVIA's National Prescription Audit and Method of Payment Report
+CMS = Centers for Medicare & Medicaid Services
+CRT = The U.S. Census Bureau's Census of Retail Trade, available for years ending in 2 and 7
+I-O = The Bureau of Economic Analysis' Input-Output Accounts, available for years ending in 2 and 7
+CE = The Bureau of Labor Statistics' Consumer Expenditure Survey
+MEPS = The Agency for Healthcare Quality and Research's Medical Expenditure Panel Survey
+PCE = Personal Consumption Expenditures
+MAX/MSIS = Medicaid Analytic eXtract system and Medicaid Statistical Information Statistics
+Source: The National Health Statistics Group, Office of the Actuary, Centers for Medicare & Medicaid Services
+
+
+
+
+                                                                   6
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+
+Definitions, Sources, and Methods by NHEA Category
+
+Medical Services
+
+Hospital Care
+Definition: Expenditures for hospital care include revenue received by all U.S. hospitals for all services
+rendered (NAICS 622). This includes net patient revenues (gross charges less contractual adjustments, bad
+debts, and charity care). It also includes government tax appropriations, non-patient operating revenue such
+as receipts from cafeterias, gift shops and parking lots, and non-operating revenue, such as interest income,
+contributions, and grants.
+
+Other hospital-based services, such as inpatient pharmacy, hospital-based nursing home care, hospital-
+based home health care and fees for any other services billed by the hospital such as hospice are also
+included in the hospital care category.
+
+Data Sources: Current hospital care revenue data sources include the Economic Census (EC), Services
+Annual Survey (SAS), and the Quarterly Servies Survey (QSS), all compiled by the Bureau of the Census. For
+federal hospital spending, data sources include the President’s Budget (Office of Management and Budget)
+as well as budget information from the Department of Veterans Affairs and Indian Health Services. Hospital
+care spending estimates for 1960-2007 were estimated based on American Hospital Association (AHA)
+annual survey data.
+
+Methods: Hospital Care spending levels are benchmarked to the 2012 and 2017 Economic Census 9 and  8F
+
+
+
+
+interpolated and extrapolated using growth derived from the revenue trends in the Service Annual Survey, 10
+                                                                                                         9F
+
+
+
+
+the American Hospital Association’s (AHA) Annual Survey of Hospitals 11 (through 2021) and the Quarterly
+                                                                      10F
+
+
+
+
+Services Survey. 12 Estimates of hospital spending from 1960-2007 are benchmarked to the AHA’s Annual
+                11F
+
+
+
+
+Survey.
+
+Total federal hospital spending is calculated as the sum of expenditures for services provided at Department
+of Veterans Affairs hospitals, Department of Defense hospitals, Indian Health Service hospitals, and other
+federal hospitals.
+
+Physician and Clinical Services
+Definition: In the NHEA the physicians and clinical services category includes Offices of Physicians
+[including Doctors of Medicine (M.D.) and Doctors of Osteopathy (D.O.) (NAICS 6211)] and outpatient care
+centers (NAICS 6214), plus the portion of medical and diagnostic laboratories services that are billed
+independently by the laboratories (a portion of NAICS 6215).
+
+Data Sources: Statistics compiled and published by the Internal Revenue Service (IRS) (1960-1987), data
+from the Services Annual Survey (SAS), compiled by the Bureau of the Census, trends from the Quarterly
+Servies Survey (QSS).
+
+Methods: For employer-based establishments, physician, clinical, and independently billing medical
+laboratory services are benchmarked to business receipts of private taxable and tax-exempt firms collected
+in the U.S. Census Bureau’s quinquennial Economic Census (EC).9 Information from the U.S. Census
+Bureau’s Service Annual Survey10 is used to interpolate between the EC benchmark years and to extrapolate
+to later periods. Receipts of non-employer taxable firms are then added to the revenue for employer-based
+taxable and tax-exempt firms to estimate calendar year expenditures.
+
+A subtraction is made to physician and clinical service expenditures to remove revenue received from other
+providers including professional fees paid to physicians by hospitals, since these fees are included in
+hospital expenditures.
+
+
+
+                                                      7
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+The services of physicians working under salary for a hospital, nursing home, or other type of health care
+establishment are reported with expenditures for that service. For example, care rendered by hospital
+residents and interns at a hospital is included in the hospital services estimate and excluded from the
+physician and clinical services estimates. Likewise, physicians’ professional fees received from
+arrangements with hospitals, including minimum guaranteed income, percentage of departmental billing,
+and bonuses would be excluded from the physician and clinical services estimates.
+
+Estimates of spending for government-run Department of Veterans Affairs, Department of Defense, and
+Indian Health Service clinics and the Coast Guard Academy Clinic are added to physician and clinical
+services expenditures. The SAS does not collect data for government facilities in this industry.
+
+For estimates prior to 1987 expenditures for physician and clinical services were estimated primarily using
+business receipts for sole proprietorships, partnerships, and incorporated practices compiled and published
+by the Internal Revenue Service (IRS) in its Statistics of Income publication. 13
+                                                                           12F
+
+
+
+
+Dental Services
+Definition: Dental services expenditures cover services provided by licensed dental practitioners, including
+Doctor of Dental Medicine (D.M.D.), Doctors of Dental Surgery (D.D.S.), or Doctors of Dental Science
+(D.D.Sc.) that are classified under NAICS 6212: Offices of Dentists. These include preventive, cosmetic,
+emergency, and specialized treatments delivered in private practices, group practices, hospitals, or HMO
+medical centers.
+
+Data Sources: The primary data sources for estimates of dental spending are the U.S. Census Bureau’s
+Service Annual Survey (SAS), the Quarterly Services Survey (QSS), and the Economic Census (EC). For 1960-
+1987, dental services spending estimates were based on IRS data.
+
+Methods: Total dental services expenditures are calculated by summing dental services revenue for
+employer and non-employer firms from the Service Annual Survey. Estimates of dental services provided in
+Department of Defense (DOD) facilities are then added to arrive at the final total.
+
+For 2023 and 2024, total levels for employer firms are derived using annual trend rates from the Quarterly
+Services Survey (QSS). Spending from non-employers are from the US Census Bureau’s Nonemployer
+Statistics program.
+
+Other Professional Services
+Definition: The other professional services category includes spending provided in establishments operated
+by health practitioners other than physicians (MDs) and dentists (DDS, DMD, and DDSc). This includes
+services provided in offices of chiropractors (NAICS 621310), offices of optometrists (NAICS 621320), offices
+of mental health practitioners (except physicians) (NAICS 621330), offices of physical, occupational and
+speech therapists, and audiologists (NAICS 621340), offices of podiatrists (NAICS 621391), and offices of all
+other miscellaneous health practitioners (NAICS 621399).
+
+Data Sources: Spending for employer establishments is developed from revenue estimates from the U.S.
+Census Bureau’s Service Annual Survey, Quarterly Services Survey, and the Economic Census. Spending
+from non-employers are from the US Census Bureau’s Nonemployer Statistics program. In the years before
+Census data became available, estimates were derived using information from the IRS and the Bureau of
+Labor Statistics (BLS).
+
+Methods: Total spending estimates are derived by summing the revenue of employer and non-employer
+firms, with an adjustment to remove a portion of optometrist revenue for eyeglasses, contact lenses, and
+other optical goods, as that spending is included in durable medical equipment. The percentage of optical
+goods from optometric offices is estimated from North American Product Classification System (NAPCS)
+data from the Economic Census.
+
+
+
+                                                      8
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+Other health, residential, and personal care
+Definition: The other health, residential, and personal care category includes spending for services provided
+in non-traditional settings including residential mental health and substance abuse facilities, residential
+intellectual and developmental disability facilities, Medicaid home and community-based waivers, school
+health, worksite health care, and some ambulance services.
+Data Sources: The data sources used are specific to each of the underlying services/settings:
+
+    •   Residential facilities – NAICS 6232 employer and non-employer data from U.S. Census Bureau
+        Service Annual Survey (SAS), Medicaid program data for Intermediate Care Facilities for individuals
+        with Intellectual Disabilities (ICFs/IID), and program data from DOD, VA, and SAMSHA.
+    •   Ambulance Services – NAICS 62191 employer and non-employer data from the U.S. Census Bureau
+        Service Annual Survey and data from the Journal of Emergency Medical Services.
+    •   Worksite Health Care – Survey of employer sponsors health plans, Consumer Price index for medical
+        services and physicians (BLS), a Mercer Survey of onsite health care, and the Kaiser Family
+        Foundation/Health Research and Educational Trust Survey of Employer Sponsored Health Benefits.
+    •   Other care provided in non-traditional settings
+            o Medicaid home and Community Based Waivers - Medicaid Program Data
+            o School health - National Public Education Financial Survey, Public and Private school
+                 enrollment (National Center for Education Statistics).
+Methods: Expenditures for private establishments that provide residential mental health and substance
+abuse and residential intellectual and developmental disability services are estimated using business
+receipts of private taxable and tax-exempt firms collected in the Economic Census. Information from the SAS
+is used to interpolate between the EC benchmark years and to extrapolate to later periods. Public facility
+expenditures are estimates using program data from Medicaid and the Veterans Administration as well as
+estimates of state and local facility revenues based on wage data (BLS) and are added to total expenditures
+of private establishments.
+
+Expenditures for ambulance services provided by private establishments are estimated using business
+receipts of private taxable and tax-exempt firms collected in the Economic Census. Information from the SAS
+is used to interpolate between the EC benchmark years and to extrapolate to later periods. Public payments
+(Medicare, Medicaid, and General Assistance) to government operated establishments are estimated from
+program data as well information from the Journal of Emergency Medical Services. 14 While the total
+                                                                                  13F
+
+
+
+
+ambulance expenditures reflect public payments to government operated establishments and revenue
+received by private establishments, it does exclude private payment to government operated establishments
+due to a lack of source data.
+
+The worksite healthcare estimate is derived from various data sources. A 1984 survey of employer-sponsored
+health plans 15 produced an estimated cost per employee with access to covered services in 1984, which was
+                 14F
+
+
+
+
+extrapolated back to 1960 and forward to current periods using national employment data and the Consumer
+Price Index 16 for medical services and physicians from the Bureau of Labor Statistics. Additional information
+           15F
+
+
+
+
+from the Mercer Survey 17 for onsite health care and the Kaiser Family Foundation/Health Research and
+                       16F
+
+
+
+
+Educational Trust Survey of Employer-Sponsored Health Benefits 18 provides data on the number of
+                                                                 17F
+
+
+
+
+employees that are provided with worksite health care services.
+Expenditures for medical care provided in non-traditional settings includes care provided in community
+centers, senior citizens centers, schools, and military field stations. One of the largest categories of
+government spending for this category is home and community-based waiver programs under Medicaid. In
+these programs, states may apply for waivers in order to provide care to beneficiaries who would otherwise
+require long-term inpatient care in a hospital or nursing home. Examples of types of services provided under
+these waivers include rehabilitation, respite care, and environmental modifications. This care is frequently
+delivered in community centers and senior citizens centers and through home visits by various kinds of
+medical and non-medical personnel. School health expenditures are estimated using data from the National
+
+
+                                                      9
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+Public Education Financial Survey 19 supplemented with enrollment estimates for both public and private
+                                        18F
+
+
+
+
+schools from the National Center for Education Statistics. 20
+                                                            19F
+
+
+
+
+Home Health Care
+Definition: The home health care component of the NHEA measures annual expenditures for skilled nursing,
+hospice, and other ancillary services delivered in the home by freestanding home health agencies (HHAs) as
+classified in NAICS category 6216.
+
+Spending associated with hospital-based HHAs are classified with hospitals (NAICS 622) and are therefore
+included with hospital care expenditures.
+
+Data Sources: Estimates of home health expenditure are developed from revenue data from the U.S. Census
+Bureau’s Economic Census, Service Annual Survey, and Quarterly Services Survey. These data are
+supplemented with Medicare Provider Analysis and Review data 21 (for 1988 through 2014) and Chronic
+                                                                        20F
+
+
+
+
+Conditions Data Warehouse data 22 (for 2015 forward) to estimate revenue for government-owned HHAs.
+                                  21F
+
+
+
+
+Before the Census data became available, estimates were based on Medicare cost report data and survey
+data from the National League for Nursing.
+
+Methods: For employer-based establishments, estimates of freestanding home health spending starting in
+1987 and for years ending in 2 and 7 are based on business receipts of private taxable and tax-exempt firms
+collected in the U.S. Census Bureau’s quinquennial Economic Census (EC). 9 Information from the U.S.
+Census Bureau’s Service Annual Survey10 is used to interpolate between the EC benchmark years until 2022,
+and trends from the U.S. Census Bureau’s Quarterly Services Survey12 are used to extrapolate to later
+periods. Receipts of non-employer taxable firms are then added to the revenue for employer-based taxable
+and tax-exempt firms to estimate calendar year expenditures for home health care services.
+
+Revenue for government-owned HHAs are estimated by calculating an annual adjustment factor using a ratio
+of Medicare reimbursements for government-owned freestanding HHAs to Medicare reimbursements for all
+privately owned freestanding HHAs, which are obtained using tabulations from the Medicare Provider
+Analysis and Review database. This ratio, multiplied by Census receipts, produces an estimate of revenue for
+freestanding government facilities, which is then added to the receipts for private establishments.
+
+Freestanding home health expenditures for 1967 through 1987 were primarily based on data available from
+the Medicare and Medicaid programs. In the mid-1970s, analysis of Medicare cost report data from home
+health agencies that were not part of a hospital or nursing home indicated that agency costs for services,
+medical equipment, and supplies provided to Medicare patients represented approximately 50 percent of
+total agency costs. 23 Examination of annual data for 1981-84 verified Medicare’s 50-percent share.
+                   22F
+
+
+
+
+Estimates of spending for home health care from 1960 through 1966 were obtained from information
+reported by a sample of voluntary public health nursing agencies in surveys conducted by the National
+League for Nursing in 1958, 1963, and 1967. These survey data on total agency income and income from
+patient fees were weighted to estimate income of all voluntary public health nursing agencies and then
+estimated for each non-survey year between 1958 and 1968. 24      23F
+
+
+
+
+Nursing Care Facilities and Continuing Care Retirement Communities
+Definition: The nursing care facilities and continuing care retirement communities category of the NHEA
+includes freestanding facilities that are primarily engaged in providing inpatient nursing, rehabilitative, and
+continuous personal care services to persons requiring nursing care (NAICS 6231) and continuing care
+retirement communities with on-site nursing care facilities (NAICS 623311).
+
+In the NHEA, hospital-based nursing home care is included with hospital care expenditures (NAICS 622).
+
+Data Sources: Estimates of expenditures for nursing care facilities and continuing care retirement
+communities are developed from revenue data from the U.S. Census Bureau’s Economic Census, Service
+Annual Survey, and Quarterly Services Survey. Data from the Bureau of Labor Statistics’ (BLS) Quarterly
+
+
+                                                       10
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+Census of Employment and Wages (QCEW) 25 is used in the estimation of expenditures for state and local
+                                                 24F
+
+
+
+
+government nursing facilities, while spending for nursing facilities operated by the Veterans Administration
+(VA) are based on VA program data.
+
+Methods: Estimates of expenditures for care received in private freestanding nursing homes for the years
+ending in 2 and 7 starting in 1977 are based on business receipts of service establishments from the U.S.
+Census Bureau’s quinquennial Economic Census (EC).9 Information from the U.S. Census Bureau’s Service
+Annual Survey10 is used to interpolate between the EC benchmark years and extrapolate to later periods. For
+state and local nursing facilities, BLS wages and salaries are converted to estimated revenues using a ratio of
+government wages to revenues, which is based on private wage and revenue data from the EC as a proxy.
+Government outlays for care provided in nursing facilities operated by the Department of Veterans Affairs are
+added to the private establishment estimates detailed above.
+
+Estimates of freestanding nursing home spending prior to 1977 are based on total nursing home expenditures
+from the National Center for Health Statistics’ estimates of average revenue per day for all facilities providing
+some nursing care. 26 The estimates were interpolated and extrapolated using employee work hours for
+                   25F
+
+
+
+
+nursing and personal care facilities 27 multiplied by the growth in skilled nursing facility input prices. 28
+                                    26F                                                               27F
+
+
+
+
+Medical Goods
+
+Prescription Drugs
+Definition: The retail prescription drugs category includes retail sales of human-use, dosage-form drugs,
+biological drugs, and diagnostic products that are available only by a prescription. These include retail
+prescription drug purchases that occur in pharmacies and drug stores (including both chain and
+independent), supermarkets and other grocery store pharmacies, mail-order and other direct-selling
+establishments, department stores, warehouse clubs and supercenters, and all other general mass-
+merchandising establishments.
+
+Data Sources: Prescription drug purchases from these retail establishments are based on data from the
+quinquennial Census of Retail Trade (CRT) 29 and from annual data purchased from IQVIA. 30
+                                           28F                                              29F
+
+
+
+
+Methods: In benchmark years (years ending in 2 or 7), retail prescription drug expenditures are based on the
+Census of Retail Trade, Merchandise Line Sales for pharmacies and drug retailers, warehouse clubs and
+supercenters, and supermarkets and other grocery retailers. Added to the Census of Retail Trade data are
+estimates of non-employer receipts for sales of prescription drugs in pharmacies and drug stores. In
+addition, estimates for government-run mail order facilities as well as estimates for state-specific sales taxes
+on prescription drugs are added to total spending estimates in benchmark years. To interpolate between
+benchmark years and extrapolate to later periods, information from the IQVIA National Prescription Audit and
+the Method of Payment Report30 are used.
+
+Next, the prescription drug estimates are adjusted to account for manufacturers’ rebates that reduce
+insurers’ net payments for drugs. Providers and insurers who are responsible for the purchase of large
+volumes of drugs have been able to negotiate rebates with manufacturers for the use of specific drugs.
+Rebates received by providers such as hospitals do not require an adjustment because rebate savings are
+received directly by hospitals whose revenues are used to measure hospital spending. In retail purchases of
+prescription drugs, however, the retail outlet is not a party to the rebate transaction that takes place between
+the insurer who pays the retail outlet and the manufacturer that produces the drug. Because the NHEA
+estimates of prescription drugs are based on retail sales data at the pharmacy level, a reduction to account
+for manufacturers’ rebates must be made to total drug spending and to third-party payments to retail
+pharmacies to avoid over-estimation of prescription drug spending. Administrative data is used to estimate
+rebates for programs run by the federal and state and local governments. For private health insurance (PHI),
+we estimate rebates using data from the Medical Loss Ratio (MLR) Data and System Resources public use
+
+
+
+
+                                                       11
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+file. 31 Additionally, retail prescription drug spending in the NHEA is net of any rebates or discounts given by
+   30F
+
+
+
+
+pharmacies.
+
+Other Non-Durable Medical Products
+Definition: Other non-durable medical products include retail sales of non-prescription drugs (such as
+analgesics, cough and allergy medications), as well as medical sundries (including surgical and medical
+instruments, surgical dressings, and diagnostic products such as needles and thermometers). This category
+includes sales of these products to individuals, but excludes purchases made by health care providers or
+facilities.
+
+Data Sources: Estimates of consumer retail purchases of these products are derived from Personal
+Consumption Expenditures (PCE) data from the U.S. Bureau of Economic Analysis (BEA).2
+
+Methods: The estimate for other non-durable medical products reflects the two relevant PCE categories
+since they align with the NHE definition of other non-durable medical products. It captures total expenditures
+on non-prescription drugs and other medical products for the period 1960–2024.
+
+Durable Medical Equipment
+Definition: Durable Medical Equipment expenditures include medical products intended for repeated or
+long-term use, generally with a useful life of three years or more. This category covers items such as contact
+lenses, eyeglasses and other ophthalmic goods, surgical instruments and supplies, prosthetic and artificial
+devices, orthopedic equipment, and hearing aids. In addition to purchases, rental payments for DME are also
+included in this estimate.
+
+Data Sources: Durable Medical Equipment estimates are based on several federal data sources, including
+the Medical Expenditure Panel Survey (MEPS), Personal Consumption Expenditures (PCE), the Economic
+Census (EC), the Input-Output (I-O) Accounts, and a supplementary table known as the PCE Bridge Table,
+which links PCE categories to the I-O framework. 2
+
+Methods: Durable Medical Equipment (DME) estimates are benchmarked to the Input-Output (I/O) accounts
+(when available) and Economic Census (EC) data and then adjusted to align with the NHE definition. For non-
+benchmark years, total DME expenditures are extrapolated and interpolated using the annual PCE Bridge
+Tables. In years when that information is unavailable, DME expenditures are estimated using trends in the
+PCE for therapeutic appliances and equipment.
+
+
+
+
+                                                       12
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+
+Payers and Programs for Medical Services and Goods
+The payers and programs for personal health care (PHC) shown in Exhibit 4 are directly responsible for
+purchasing or providing medical goods and services. These payers include out-of-pocket, health insurance,
+and other third-party payers and programs.
+
+Exhibit 4: Structure of the NHEA by Source of Funds
+
+ National Health Expenditures (NHE)
+ equals HCE plus Investment
+    Health Consumption Expenditures (HCE)
+    equals PHC plus Government Administration, Non-Medical Insurance Expenditures, Public Health
+    Activities
+       Personal Health Care
+       (PHC)
+           Out-of-Pocket
+           Health Insurance
+                Private Health Insurance
+                Medicare
+                Medicaid (Title XIX)
+                Children's Health Insurance Program (Title XIX and Title XXI)
+                Department of Defense
+                Department of Veterans Affairs
+           Other Third-Party Payers and Programs
+                Worksite Health Care
+                Other Private Revenues
+                Indian Health Services
+                Workers' Compensation
+                General Assistance
+                Maternal/Child Health
+                Vocational Rehabilitation
+                Other Federal Programs
+                SAMHSA
+                Other State and Local Programs
+                School Health
+        Government Administration
+        Non-Medical Insurance Expenditures
+        Public Health Activities
+    Investment
+       Non-Commercial Research
+        Structures and Equipment
+
+Source: Centers for Medicare & Medicaid Services, Office of the Actuary, National Health Statistics Group.
+
+
+
+
+                                                           13
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+Out-of-Pocket
+Definition: Out-of-pocket (OOP) spending for health care consists of direct spending by consumers for
+health care goods and services including the amount paid out-of-pocket for services not covered by
+insurance. It also includes copayments, coinsurance, or deductibles required by private health insurance
+(PHI) and public programs such as Medicare and Medicaid (not paid by some other third party), as well as
+payments covered by health savings accounts (HSAs).
+
+Premium payments for private insurance plans (including Medicare Advantage private plans) are not
+included in out-of-pocket spending since the payment by the enrollee is paid to a third-party insurer (PHI or
+Medicare) that is classified in the NHEA as a separate source of funds. Similarly, coinsurance and deductible
+amounts paid by supplementary Medicare policies on behalf of enrolled Medicare beneficiaries are also
+excluded from the out-of-pocket source of funds category and are counted as private health insurance.
+
+Data Sources: For hospitals, physicians and clinics, dental, other professionals, home health, and nursing
+home services, the Service Annual Survey10 provides data on out-of-pocket payments along with all other
+sources of funds. Other sources of data that are used to estimate out-of-pocket spending include Medicare
+and Medicaid program data, the Health Care Cost and Utilization Report, 32 IQVIA,30 the Medical Expenditure
+                                                                         31F
+
+
+
+
+Panel Survey,41 the Medicare Current Beneficiary Survey, 33 the Consumer Expenditure Survey 34 as well as
+                                                                  32F                           33F
+
+
+
+
+trade association publications such as from the Visiting Nurses Association, 35 the American Hospital
+                                                                               34F
+
+
+
+
+Association,11 the American Medical Association, 36 and the American Dental Association. 37
+                                                       35F                                36F
+
+
+
+
+In previous years, data from surveys of the non-institutional population’s health care use and financing
+patterns provided information used to determine the amount of out-of-pocket spending. For 1963 and 1970,
+the Center for Health Administration Studies and the National Opinion Research Center, both at the
+University of Chicago, surveyed individuals for the purpose of providing “reliable and valid statistics of
+medical care use and expenditures”. 38 These studies were followed by the National Medical Care
+                                     37F
+
+
+
+
+Expenditure Survey (for 1977 and 1987), 39 the National Medical Care Utilization and Expenditure Survey (for
+                                           38F
+
+
+
+
+1980), 40 and the Medical Expenditure Panel Survey-Household Component (MEPS-HC) (for 1996-2008). 41
+      39F                                                                                                      40F
+
+
+
+
+Method: Out-of-pocket expenditures are estimated using a residual methodology. First, for each NHE type
+of service, overall expenditures are estimated (see methodology for each individual service piece). Second,
+payments for public payers (which are estimated using payer-specific program data) are subtracted from
+total expenditures, with the residual remaining for private payers. The private residual is allocated using
+information from survey data such as the Service Annual Survey, as well as other sources that may be
+available specific to each service industry. Using percent distributions that are developed to allocate the
+private residual, the appropriate amount of expenditures are allocated to private health insurance, out-of-
+pocket spending, and other private revenues.
+
+Health Insurance
+This aggregate category includes private health insurance, Medicare, Medicaid, the Children’s Health
+Insurance Program, the Department of Defense and the Department of Veterans Affairs. These plans provide
+enrollees and beneficiaries insurance against medical losses and, in some instances, directly provide
+medical care.
+
+Private Health Insurance
+Definition: Private health insurance expenditures in the NHEA include total outlays for private health
+insurance coverage. This estimate includes Health Maintenance Organizations, Preferred Provider
+Organizations, Point of Service Plans, Consumer Directed Plans, and indemnity plans, among others.
+
+Data Sources: Private health insurance benefits by type of service are estimated using provider survey data
+from the U.S. Census Bureau in conjunction with source of funding spending from several sources. These
+sources include the American Medical Association,36 the American Hospital Association,11 A.M. Best, 42 the
+                                                                                                         41F
+
+
+
+
+Centers for Medicare & Medicaid Services, 43 as well as household data from surveys such as the National
+                                                 42F
+
+
+
+
+                                                             14
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+Medical Care Expenditure Survey39 and the Medical Expenditure Panel Survey-Household Component
+(MEPS-HC).41
+
+Method: Private health insurance expenditures are estimated using a residual methodology. First, for each
+NHE type of service, overall expenditures are estimated (see methodology for each individual service piece).
+Second, payments for public payers (which are estimated using payer-specific program data) are subtracted
+from total expenditures, with the residual remaining for private payers. The private residual is allocated using
+information from survey data such as the Service Annual Survey, as well as other sources that may be
+available specific to each service industry. Using percent distributions that are developed to allocate the
+private residual, the appropriate amount of expenditures are allocated to private health insurance, out-of-
+pocket spending, and other private revenues.
+
+Medicare
+Definition: Medicare is a health insurance program for people aged 65 or older, people under the age of 65
+with certain disabilities, and people of all ages with end-stage renal disease (ESRD). Medicare consists of
+four main parts: Hospital Insurance (HI), or Part A; Supplementary Medical Insurance (SMI), or Part B;
+Medicare Advantage private plan coverage, or Part C; and Prescription Drug Coverage, or Part D.
+
+Medicare is offered in one of two options, the first being original fee-for-service, which is a traditional health
+care model where providers are reimbursed for each service they provide and beneficiaries pay a portion of
+the costs. Fee-for-service covers Part A services, which includes inpatient hospital, skilled nursing facilities,
+home health care, and hospice care; Part B services, which includes outpatient hospital, physician services,
+home health care, durable medical equipment, laboratory tests performed in physician offices and
+independent laboratories, and services provided by other medical professionals; and Part D which includes
+retail prescription drugs.
+
+Medicare is also offered through Medicare private plans (commonly referred to as “Medicare Advantage”)
+where private insurance companies contract with the federal government to provide a standard package of
+Medicare benefits (Parts A, B, and D), and sometimes extra benefits such as vision, hearing, and dental
+coverage, to their enrollees. Medicare pays a pre-determined per enrollee monthly amount to the Medicare
+Advantage private health plan to cover the costs of providing services to their members. Collectively,
+Medicare Advantage private plan spending is referred to as Part C.
+
+Data Sources: Estimates of Medicare spending for personal health care are based on information prepared
+by the Centers for Medicare & Medicaid Services’ (CMS) Office of the Actuary for the Medicare Trustees
+Report, 44 bid pricing tool data submitted by Medicare contractors, and Medicare administrative and
+       43F
+
+
+
+
+statistical records.
+
+Method: Medicare expenditures by type of service are separately estimated for traditional fee-for-service and
+for Medicare Advantage private health plans. Fee-for service and private plan expenditures are then summed
+for each type of service, and subsequently the services are summed to represent total incurred Medicare
+benefit spending.
+
+To estimate fee-for-service expenditures, incurred benefit spending data from the annual Medicare Trustees
+Report is used. Because the NHEA reflect spending based in the U.S. only (50 states plus the District of
+Columbia), an adjustment is first made to exclude spending for U.S. territories and outlying areas. Next,
+Medicare statistical and program data are used to convert, or crosswalk, the published categories from the
+Medicare Trustees Report to NHE service categories. For example, Part A Trustees Report data (which
+includes inpatient hospital care, skilled nursing facilities, Part A home health care, and hospice services) are
+crosswalked into the NHE categories for hospitals, nursing care facilities, and home health care. In the
+NHEA, hospital-based skilled nursing care, hospital-based home health care, and hospital-based hospice
+services are all included in the NHE hospital category. Additionally, Trustees Report data for Part B carrier
+services (which includes Part B fee schedule services, physician-administered drugs, laboratory services,
+and durable medical equipment) are crosswalked into the NHE categories for physician services, dental
+
+
+                                                        15
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+services, other professional services, home health care, nursing home care, retail prescription drugs,
+durable medical equipment, and other non-durable medical products. Trustees report data for Part B
+intermediary services (which includes outpatient hospital, Part B home health care, and other intermediary
+services) are mapped into hospital care, home health care, and clinical services.
+
+To estimate Medicare Advantage private plan expenditures by type of service, total Part C Trustees Report
+incurred spending is allocated using information submitted to CMS on plans’ bid pricing tools. Bid pricing
+tools are used to inform CMS about the types of services that the plan intends to provide to their enrollees for
+the upcoming contract year, and they also contain information about base period experience for the most
+recent full year.
+
+Medicaid
+Definition: Medicaid provides health coverage to Americans, including eligible low-income adults, children,
+pregnant women, elderly adults and people with disabilities. Medicaid is administered by states, according
+to federal requirements. The program is funded jointly by states and the federal government.
+
+Data Sources: Medicaid estimates are based primarily on financial information filed by state Medicaid
+agencies on Form CMS-64. 45 These state level reports provide total program net expenditures by Medicaid
+                           44F
+
+
+
+
+program category including program administration and premiums. Prior to the availability of the Quarterly
+Expense Report (Form CMS-64) in 1979, state statistical reports (Form CMS-2082) were used to develop
+service distributions.
+
+Method: Medicaid expenditures, as reported by state by program categories on Form CMS-64, are mapped
+to NHEA service categories for each state. For example, total Medicaid hospital spending is the sum of
+eleven types of program payments, including: inpatient hospital–regular, inpatient hospital–disproportionate
+share hospital (DSH), inpatient hospital–supplemental, inpatient hospital–graduate medical education,
+mental health facility services–regular, mental health facility–DSH, outpatient hospital services–regular,
+outpatient hospital services–supplemental, emergency hospital services, health information technology
+incentive payments, and critical access hospitals. All program categories are assigned to NHEA service
+categories in this fashion. CMS-64 categories that pertain to home and community-based waivers are
+included in the NHEA category for Other Health Residential and Personal Care Services.
+
+A series of adjustments are then made to the CMS-64 data, including a) allocating expenditures to the
+appropriate year to account for payments that occurred in prior periods, b) moving hospital-based nursing
+home and home health expenditures to the hospital category, and c) deducting expenditures for Medicaid
+buy-ins to Medicare to avoid double counting in the NHEA. For durable medical equipment (DME) Medicaid
+spending, the estimate is developed from the Medicaid Analytic eXtract (MAX) 46 through 2014 and the TAF
+                                                                               45F
+
+
+
+
+Research Identifiable Files version of the Transformed Medicaid Statistical Information System 47 for more
+                                                                                                 46F
+
+
+
+
+recent periods.
+
+For capitated and other insurance premium payments included with CMS-64 data, the method is to first
+remove administrative costs and an estimated portion of state-directed payments from Medicaid premium
+payments. State-directed payments are then allocated to services using Office of the Actuary analysis of
+state-directed payment preprints. 48 The remainder of premiums are then allocated to NHEA service
+                                  47F
+
+
+
+
+categories using TAF and 2017 Economic Census Health Care and Social Assistance: Revenue by Type of
+Payer for the US and States: 2017. 49 In certain states, additional adjustments are made to account for
+                                   48F
+
+
+
+
+specific services or products that are carved out of the premium. These carve-outs typically occur for
+prescription drugs and dental services.
+
+Children’s Health Insurance Program (Title XIX and Title XXI)
+Definition: The Children's Health Insurance Program (CHIP) is a joint federal/state program that provides
+health insurance for children in families that do not have health insurance coverage and are not eligible for
+Medicaid. CHIP was created in 1997 with the enactment of the Balanced Budget Act of 1997 (BBA97). The
+
+
+                                                      16
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+BBA97 gave states the option to set up new independent health insurance programs for children (Title 21), to
+expand existing state Medicaid programs to insure children who were eligible for health insurance coverage
+under CHIP eligibility standards (Title 19), or to use a combination of CHIP programs and Medicaid
+expansions. The Children's Health Insurance Program Reauthorization Act of 2009 (CHIPRA or Public Law
+111-3) reauthorized CHIP through FY 2013. The Affordable Care Act of 2010 (ACA) extended CHIP funding
+through FY 2015, and the Medicare Access and CHIP Reauthorization Act of 2015 (MACRA) further extended
+CHIP funding through FY 2017. The Healthy Kids Act funded CHIP for six years (FY2018 to FY2023) and the
+Bipartisan Budget Act of 2018 funded CHIP for four more years (FY2024 to FY2027).
+
+Data Sources: State Children's Health Insurance Program (SCHIP) spending data is gathered from Form
+CMS-21. Medicaid expansion-based CHIP programs (MCHIP) spending data is gathered from Form CMS-
+64.45
+
+Method: Quarterly SCHIP and MCHIP data by state are extracted from the relevant forms and aggregated into
+calendar years. The state data are aggregated to obtain a U.S. total. Service distributions are derived from
+program payment data and aligned with NHEA service categories using the same methodology as used for
+the Medicaid estimates.
+
+Department of Defense
+Definition: The Department of Defense (DOD) provides health care through the Military Health System (MHS)
+and its TRICARE program to members of the uniformed services, their families and their survivors, as well as
+retired members and their families. The MHS consists of direct care system, where beneficiaries obtain care
+at military treatment facilities (MTF), and a purchased care system, where beneficiaries obtain care from
+private sector providers administered by TRICARE network contracts.
+
+Data Sources: Health care expenditures data come directly from DOD. These are sourced from the DOD FY
+Presidents Budget submissions, 50 unpublished data for active-duty spending by service, 51 and data for non-
+                                 49F                                                    50F
+
+
+
+
+active-duty spending by service. 52 Additionally, receipts to the Defense Health Program from the DOD
+                                51F
+
+
+
+
+Medicare Eligible Retiree Health Care fund are included, covering health care costs of Medicare-eligible
+retirees, their families, and survivors.
+
+Method: DOD budget and Medicare-Eligible Retiree Health Care Fund (MERHCF) data are combined to
+calculate sums for direct care (provided in MTF) and purchased care. These expenditures are then allocated
+to NHEA services based on the distribution of DOD spending by service. Administration spending is based on
+actual program data. All DOD spending data is converted from a federal fiscal year to a calendar year and
+adjusted to exclude spending outside the scope of the NHEA, such as expenditures for non-DOD
+beneficiaries (e.g., Coast Guard, Public Health Service, and National Oceanic and Atmospheric
+Administration).
+
+Department of Veterans Affairs
+Definition: The Department of Veterans Affairs provides health care and other services to Veterans and other
+eligible beneficiaries through the Veterans Health Administration, which provides a broad range of primary
+care, specialized care and related medical and social support services that are uniquely related to Veterans’
+health or special needs.
+
+Data Sources: The Department of Veterans Affairs (VA) estimates of health expenditures are prepared using
+unpublished detailed quarterly expenditure data supplied by the VA 53 supplemented with data from the
+                                                                   52F
+
+
+
+
+Appendix to the Budget of the U.S. Government, 54 Monthly Treasury Statements of Receipts and Outlays of
+                                               53F
+
+
+
+
+the U.S. Government, 55 and VA Annual Reports and Congressional Submissions. 56
+                     54F                                                        55F
+
+
+
+
+Method: Using fiscal quarterly data obtained directly from the VA, expenditures for each detailed VA category
+are crosswalked to NHE service categories and then are converted to calendar year totals. Annual fiscal and
+calendar year growth rates from Monthly Treasury Statements, the Budget Appendix, and other annual VA
+reports are used to compare and validate the trends of the expenditure data obtained from the VA.
+
+
+                                                     17
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+Other Third-Party Payers and Programs
+
+Worksite Health Care
+Definition: Worksite health care includes health care goods and services that are directly provided by
+employers to their employees. This includes services such as those provided at an on-site health unit, such
+as the administration of flu shots and blood tests and onsite physician services.
+
+Data Sources: The worksite health care estimate is based primarily on a 1967 estimate of the cost per
+employee for those with access to worksite health care services, obtained from historical surveys of
+employer-sponsored health plans. Other data sources used to estimate worksite health care expenditures
+include the number of employed civilians and the Consumer Price Index (CPI)16 for physicians, both from the
+Bureau of Labor Statistics, as well as data from Mercer’s National Survey of Employer-Sponsored Health
+Plans17 and from the Kaiser Family Foundation/Health Research and Educational Trust Survey of Employer-
+Sponsored Health Benefits.18
+
+Method: In 1967, cost data from surveys of employer-sponsored health plans was used to produce an
+original estimate of costs per employee for those with access to worksite health care services. Costs per
+employee in 1967 were extrapolated to earlier and later years using the CPI for physician services. To
+estimate the number of employees with access to worksite health care, the number of employed civilians is
+multiplied by an assumption for the percentage of employees with access to worksite health care. Costs per
+employee are then multiplied by the estimate of the number of employees with access to worksite health
+care to produce total worksite health care costs. The estimate is then adjusted to account for growth in the
+use and intensity of services.
+
+Other Private Revenues
+Definition: Other private revenues include the medical portion of property and casualty insurance,
+philanthropic support, and non-patient revenue. Philanthropic support may be direct from individuals or may
+be obtained through philanthropic fund-raising organizations such as the United Way, or other foundations or
+corporations. Philanthropic revenues may be spent directly for patient care or may be held in an endowment
+fund to produce income to cover current expenses. For institutions such as hospitals, nursing homes and
+home health agencies, other private funds also include non-patient income from the operation of gift shops,
+cafeterias, parking lots, educational programs, and investment income.
+
+Data Sources: Estimates of other private revenues, including philanthropy, are based on information from
+the U.S. Census Bureau’ Services Annual Survey,10 trade associations, the American Hospital Association
+Annual Survey,11 and person surveys such as the National Medical Care Expenditure Survey39 and the
+National Medical Care Utilization and Expenditure Survey.40 The medical portion of property and casualty
+insurance is also included in this estimate. First, estimates of property and casualty insurance benefits are
+developed for automobile, homeowners, and multi-peril insurance using annual data for premiums earned
+and direct losses incurred that are published by A.M. Best.42 The medical portion of these data are further
+estimated using data from the Insurance Information Institute 57 and from the National Highway Traffic Safety
+                                                              56F
+
+
+
+
+Administration. 58
+               57F
+
+
+
+
+Method: Other Private Revenues are estimated using a residual methodology. First, for each NHE type of
+service, overall expenditures are estimated (see methodology for each individual service piece). Second,
+payments for public payers (which are estimated using payer-specific program data) are subtracted from
+total expenditures, with the residual remaining for private payers. The private residual is allocated using
+information from survey data such as the Service Annual Survey, as well as other sources that may be
+available specific to each service industry. Using percent distributions that are developed to allocate the
+private residual, the appropriate amount of expenditures are allocated to private health insurance, out-of-
+pocket spending, and other private revenues. An estimate of the medical component of property and
+casualty insurance by service is also estimated and is included with other private revenues.
+
+
+
+                                                      18
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+Indian Health Services
+Definition: The Indian Health Service (IHS), an agency within the Department of Health and Human Services,
+is responsible for providing federal health services to American Indians and Alaska Natives. The provision of
+health services to members of federally recognized tribes grew out of the special government-to-government
+relationship between the federal government and Indian tribes. The IHS is the principal federal health care
+provider and health advocate for Native American people.
+
+Data Sources: The NHEA estimate of IHS spending is based on data from the Appendix to the Budget of the
+U.S. Government.54 The IHS Budget justification document is also used to estimate the goods and services
+distributions of IHS spending.
+
+Method: The IHS funding obligations from the President’s Budget are cross walked to NHEA categories and
+adjusted to estimate funding outlays. Data from IHS congressional justification documents and historical
+data are used to distribute the outlays into NHEA service categories, while administration spending is based
+on historical data.
+
+Workers’ Compensation
+Definition: Workers’ compensation includes medical benefit expenditures that are paid by workers’
+compensation insurance programs. These programs are prescribed by state or federal laws for which costs
+are paid directly by employers or workers. This includes: all state workers’ compensation programs; the
+Federal Employees’ Compensation Act (FECA), which provides benefits to federal workers; the portion of the
+Longshore and Harbor Workers Act (LHWCA) paid by employers, which provides protection to longshore,
+harbor, and other maritime workers; the portion of the Black Lung Benefits Act financed by employers, which
+provides compensation to coal miners with black lung disease; and the Energy Employees Occupational
+Illness Compensation Program.
+
+The U.S. Department of Labor, Office of Workers' Compensation Programs, administers compensation
+programs that provide benefits to federal workers or their dependents that are injured at work or acquire an
+occupational disease. These benefits include wage replacement, medical treatment, and vocational
+rehabilitation, with death benefits also available to survivors.
+
+Non-federal workers’ compensation programs are financed almost exclusively by employers. Premiums are
+based on industry classification and the occupational classification of their workers. Most large employers
+are also experience-rated. All non-federal workers’ compensation programs are designed and administered
+by the state. Generally, state laws require that all non-federal employers purchase insurance, either from
+commercial (private) insurers or from publicly operated state funds or prove that they have the financial
+ability to carry their own risk (self).
+
+Data Sources: Estimates for federal workers’ compensation programs are based on the Appendix to the
+Budget of the U.S. Government54 and medical benefits and administrative costs from the U.S. Department of
+Labor.
+
+For non-federal workers’ compensation, expenditures are estimated using data from the Census Bureau’s
+Service Annual Survey (SAS)10 and the National Association of Insurance Commissioners (NAIC) Market
+Share Reports for Property/Casualty Groups and Companies. 59 For 1994-2022, national data on workers’
+                                                             58F
+
+
+
+
+compensation benefits and costs were based on data from the National Academy of Social Insurance
+(NASI). 60 For 1993 and years prior, data was obtained from the Social Security Administration (SSA).
+       59F
+
+
+
+
+Method: For historical estimates through 2022, workers’ compensation estimates are based on employer
+costs and benefits paid using data from NASI publications. To extrapolate medical benefits to the current
+year, a historical workers’ compensation medical benefits trend was developed from SAS data and applied to
+the 2022 NASI-based medical benefit estimate. To estimate workers’ compensation non-medical
+expenditures through 2022, the difference between employer costs and benefits paid based on NASI data
+
+
+
+                                                     19
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+was calculated. For 2023 forward, the NASI-based non-medical expenditure level is extrapolated using data
+from NAIC on direct premiums and losses.
+
+General Assistance
+Definition: General assistance expenditures in the NHEA include two types of programs: General assistance
+programs that are often modeled after Medicaid, and State Pharmaceutical Assistance Programs (SPAP) that
+provide low-income and medically needy senior citizens and individuals with disabilities financial assistance
+for prescription drugs.
+
+General assistance refers to direct payments for health care goods or services to or on behalf of needy
+people who do not qualify for federally financed assistance programs. These payments are provided by state
+and local governments and are not financed in whole or part by federal funds. General assistance may be
+administered by the state welfare agency, a local agency, or a local agency under state supervision.
+Eligibility requirements and payment levels of general assistance programs vary greatly from state to state
+and often within a state. SPAP data are collected separately from other general assistance data.
+
+Data Sources: Estimates of general assistance and SPAP expenditures are based on data from the annual
+State Expenditures Report by the National Association of State Budget Officers (NASBO), 61 along with data
+                                                                                          60F
+
+
+
+
+collected directly from the pertinent state or county agencies, as no national clearinghouse for these data
+exists.
+
+Method: Historical estimates, based on state-level data of general assistance programs, are extrapolated
+using the growth in NASBO Other Cash Assistance for most states, while state budget data for general
+assistance programs are used to estimate the remainder. Estimates of SPAPs are based on data collected
+directly from each participating state.
+
+Maternal and Child Health
+Definition: The Maternal and Child Health program is a joint federal and state program that promotes and
+improves the health and well-being of mothers, children, and families. The program is administered by the
+Department of Health and Human Services under the Health Resources and Services Administration through
+the Maternal and Child Health Bureau. The program seeks to improve access to quality care (especially for
+individuals with low income), reduce infant mortality, provide comprehensive prenatal and postnatal care for
+women, increase health assessments and diagnostic and treatment services, provide access to preventive
+and rehabilitative services for children in need of specialized medical services, and create family-centered,
+community-based systems of coordinated care for children with special health care needs.
+
+Maternal and child health funds are distributed to grantees from 59 states and other jurisdictions (59 total
+grantees). States and other jurisdictions must match every four dollars of federal money that they receive
+with at least three dollars of state and/or local money (i.e., non-federal dollars).
+
+Data Sources: Data for federal and state Maternal and Child Health spending is obtained directly from the
+Maternal and Child Health Bureau. The federal portion is based mainly on the State Maternal and Child
+Health block grant program, Special Projects of Regional and National Significance, and Community
+Integrated Service Systems. The historical state and local spending estimate is based on Public Health
+Foundation data 62 and data from 1998 forward is available on the Maternal and Child Health Bureau
+                61F
+
+
+
+
+website. 63
+        62F
+
+
+
+
+Method: Aggregate personal health care and administrative spending for Maternal and Child Health (MCH) is
+first estimated and then converted from fiscal years to calendar years, covering both federal and state & local
+MCH expenditures. These totals are subsequently distributed into various service categories using the NHEA
+service distributions.
+
+
+
+
+                                                      20
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+Vocational Rehabilitation
+Definition: The vocational rehabilitation program is financed through federal, state, and local government
+funds to support the rehabilitation of individuals with physical and mental impairments. Within the NHEA,
+only personal health care goods and services funded by this program are included.
+
+Data Sources: Data for the vocational rehabilitation program are obtained from the Appendix to the Budget
+of the U.S. Government54 and from the U.S. Department of Education’s vocational rehabilitation state grant
+program, 64 which provides information on federal, state, and local spending. Historical service-level
+         63F
+
+
+
+
+expenditures were obtained from cost report data from the Rehabilitation Services Administration, a sub-
+agency within the Department of Education. 6564F
+
+
+
+
+Method: Total expenditures for vocational rehabilitation are estimated based on state grant data, which
+include current and projected federal, state, and local spending. Historically, total spending was then
+allocated to the NHEA categories for Hospitals, Physicians and Clinical Services, and Durable Medical
+Equipment using cost report data from the Rehabilitation Services Administration. For 2021 and forward,
+total vocational rehabilitation expenditures are allocated using service distributions derived from total
+national health expenditures.
+
+Other Federal Programs
+Definition and Data Sources: This category includes federal health care funds and grants budgeted to
+various federal agencies that are not reflected in other categories in the NHEA, Office of Economic
+Opportunity expenditures, Non-XIX federal expenditures, Pre-Existing Conditions Insurance Plan
+expenditures, and expenditures for the Provider Relief Fund and Paycheck Protection Program Loans.
+
+Data on health care funds and grants are obtained from the Budget Appendix of the U.S. Government for the
+Health Resources and Services Administration (HRSA) and the Department of Health and Human Services
+(DHHS). Estimates of other federal program expenditures are based, in part, on data reported by the budget
+offices of federal agencies, such as for the Assistant Secretary for Health, Howard University Hospital,
+Department of Education, Department of Justice, AmeriCorps, and the Department of Defense (civilian
+programs). Several differences exist between spending definitions in the federal budget and those used in
+the conceptual framework of the NHEA. Expenditures for the education and training of health professionals
+(including direct support of health professional schools and student assistance through loans and
+scholarships) are not included in the NHEA. Furthermore, payments made by government agencies for
+employee health insurance are included with private health insurance expenditures rather than government
+expenditures.
+
+Expenditures for two programs that no longer exist are included in earlier years. Expenditures for the Office
+of Economic Opportunity were included in the NHEA category for Other Federal Programs during 1965 to
+1973, and non-XIX federal expenditures were included during 1960 to 1971.
+
+Pre-Existing Conditions Insurance Plans (2010–2014) were created under the Affordable Care Act of 2010
+(ACA) to provide a health coverage option for U.S. citizens and legal residents that have been without health
+coverage for at least six months, have a pre-existing condition, or have been denied health coverage because
+of their health condition.
+
+The Provider Relief Fund (PRF) and Paycheck Protection Program (PPP) Loan programs were created in 2020
+as a response to the coronavirus disease 2019 (COVID-19) pandemic. The Provider Relief Fund was designed
+to offset health care providers’ loss in revenue from the pandemic, as well as to give them resources to
+improve their ability to fight the COVID-19 pandemic. The PPP Loan program was designed to help small
+businesses maintain employees and cover other eligible expenses by providing forgivable loans. While not
+directly targeted at healthcare providers, healthcare providers that met eligibility requirements took part in
+the program. Expenditures for the Provider Relief Fund were estimated using data from the Health Resources
+and Services Administration, and expenditures for the PPP Loan program were estimated using data from the
+Small Business Administration.
+
+
+                                                      21
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+Method: Funding amounts from federal budget data are either directly assigned or estimated for the
+following service categories: Hospitals, Clinics, and Other Health Residential and Personal Care. Estimates
+for the Provider Relief Fund and PPP Loans are allocated to the appropriate NHEA service categories and are
+then summed to incorporate into the overall estimate for Other Federal Programs. 66 65F
+
+
+
+
+Substance Abuse and Mental Health Services Administration
+Definition: The Substance Abuse and Mental Health Services Administration (SAMHSA) provides grants or
+outlays for program areas such as: Substance Abuse Treatment Capacity, Mental Health System
+Transformation, Strategic Prevention Framework, Co-Occurring Disorders, Seclusion & Restraint (elimination
+of), Older Adults, and HIV/AIDS & Hepatitis. These funds are used in part to purchase or provide personal
+health care services.
+
+Data Sources: The data sources for this estimate include the SAMHSA budget, monthly treasury statements
+from the Department of the Treasury,55 and the Appendix to the Budget of the U.S. Government.54
+
+Method: SAMHSA expenditures are estimated in two pieces: program administration and services provided.
+Both components are estimated based on data from the SAMHSA budget. Expenditures for program
+administration are scaled to remove research expenditures using a ratio of substance abuse plus mental
+health outlays divided by total outlays (substance abuse, mental health, and all other outlays) minus
+program management outlays from the budget. Spending is then allocated to the service categories using
+budget block grant and SAMHSA provider data.
+
+Other State and Local Programs
+Definition: Other state and local programs include temporary disability insurance, state and local subsidies
+to providers, and non-XIX state and local health care expenditures.
+
+In general, all spending by state and local governments that are not reimbursed by the federal government
+(through benefit payments or grants-in-aid) nor by patients or their agents are treated as state and local
+expenditures. As with federal expenditures, payments for employee health insurance by state and local
+governments are included in private health insurance.
+
+Temporary disability insurance includes medical care benefits provided to workers as a result of temporary
+non-occupational disability or short-term sickness. This benefit is currently offered solely in the state of New
+York.
+
+State and local subsidies are payments by the state and local government to hospitals, home health
+agencies, and other facilities owned by the state.
+
+Data Sources: Data covering state and local programs come from a variety of sources. State agencies self-
+report information on state-specific programs. The U.S. Census Bureau collects data on state and local
+health and hospital expenditures through its quinquennial census and intercensal sample surveys.
+
+Estimates for temporary disability insurance use data from the New York State Workers Comp Board and the
+Social Security Bulletin Annual Statistical Supplement.
+
+Method: For temporary disability insurance, levels are from the New York State Workers Comp Board and the
+Social Security Bulletin Annual Statistical Supplement. For 2008 forward, estimates are imputed using data
+from the New York state labor force. Estimates are allocated to services using the latest NHE service
+distributions.
+
+School Health
+Definition: School health includes all personal health care expenditures for students in primary and
+secondary public and private schools. This may include school nursing services, hearing and vision tests, as
+well as more comprehensive clinical services.
+
+
+                                                       22
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+Data Sources: The data sources used for this estimate include information from the Department of
+Education 67 and the National Public Education Financial Survey conducted by the U.S. Census Bureau.
+           66F
+
+
+
+
+Method: School health expenditure estimates for public schools are updated from data on public school
+expenditures for “other student and school activities”. Spending occurring by private schools are built into
+the total by using a per student level from the public school estimate and multiplying this by total enrollment
+in both private and public schools.
+
+Categories Added at the Health Consumption Expenditures Aggregation Level
+
+Government Administration and Non-Medical Insurance Expenditures
+This category includes the administrative costs of health care programs such as Medicare and Medicaid, as
+well as the non-medical insurance expenditures associated with various types of insurers and insurance
+plans. Non-medical insurance expenditures are defined as the difference between private health insurance
+expenditures and benefits incurred, and include administrative costs, additions to reserves, rate credits and
+dividends, premium taxes and fees, and net underwriting gains or losses. 6867F
+
+
+
+
+Private Health Insurance
+
+The estimate of non-medical insurance expenditures by private health insurance plans is developed using
+data from A.M. Best42 to estimate total premiums and benefits paid for insurance plans, including for
+indemnity, managed care, and property and casualty insurers. Additionally, estimates of self-insured plans
+and prepaid plans are developed using from data from the Medical Expenditure Panel Survey-Insurance
+Component (MEPS-IC) 69 and a variety of sources including the Survey of Health Insurance Plans conducted
+                       68F
+
+
+
+
+by the Health Care Financing Administration for earlier years.15 Taken together, these data provide an
+estimate of the relationship between PHI expenditures and benefits, called the “insurer non-medical ratio” in
+the NHEA.
+
+For years prior to 1996, the insurer non-medical ratio was developed using a number of health insurance
+industry sources. This method measured PHI expenditures and incurred benefits directly from the principal
+payment source. Data for the Blue Cross and Blue Shield plans were used to estimate the non-medical
+insurance expenditures of plans marketed by its members. 70 Annual data on PHI spending and benefits
+                                                            69F
+
+
+
+
+published by the National Underwriter Company 71 were used to develop estimates for commercial carriers
+                                                 70F
+
+
+
+
+through 1995. Estimates for prepaid plans in later years were developed using data from the Group Health
+Association of America which later became American Association of Health Plans. 72   71F
+
+
+
+
+To produce a non-medical insurance expenditure level and total PHI expenditure level, the insurer non-
+medical ratio is applied to an estimate of PHI benefits by type of service for all years back to 1960. The PHI
+benefit level is estimated using provider survey data in conjunction with source of funding spending from
+several sources. These sources include the U.S. Census Bureau, the American Medical Association,36 and
+the American Hospital Association11 as well as household data from surveys such as the National Medical
+Care Expenditure Survey,39 and later the Medical Expenditure Panel Survey-Household Component (MEPS-
+HC).41
+
+Medicare
+
+Medicare program spending includes administrative costs borne by the federal government to pay for
+salaries and expenses related to the federal management of Medicare Hospital Insurance (or Part A) and
+Supplementary Medical Insurance (or Parts B and D). Also included in total Medicare expenditures are non-
+medical insurance expenditures for private plans administering the Part C (Medicare Advantage) and Part D
+(prescription drugs) programs.
+
+Medicare government administrative expenses are obtained from Department of the Treasury reports
+submitted to the Office of the Actuary, as reported annually in the Medicare Trustees Report.44 For the non-
+medical insurance expenditures component of Medicare Advantage private plans, data is obtained from bid
+
+                                                       23
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+pricing tool information that plans submit to the Centers for Medicare & Medicaid Services. Estimates of Part
+D administration are obtained from Medicare Trustees Report data and represent general Part D federal
+government administration and non-medical insurance expenditures for private plans.
+
+When estimating the non-medical insurance expenditures for Part D, separate calculations are done for
+stand-alone prescription drug plans and for Medicare Advantage prescription drug plans.
+
+Estimates of the non-medical insurance expenditures for Part C and Part D private plans are added to the
+estimates of general administrative costs of the federal government to equal total administrative and non-
+medical expenditures for Medicare.
+
+Medicaid
+For Medicaid, government administrative costs include federal and state and local salaries and expenses of
+the program, as well as non-medical insurance expenditures that are incurred by the private plans that insure
+Medicaid enrollees. Medicaid administrative costs are estimated using Centers for Medicare & Medicaid
+Services' (CMS) program data. Non-medical insurance expenditures are prepared using total premiums paid
+(from the CMS-64 forms)45 and unique insurer non-medical ratios developed from AM Best’s NAIC financial
+statements.42 These estimates of private insurers’ non-medical insurance expenditures are deducted from
+Medicaid premium payments and added to the Medicaid administrative cost estimates to derive Medicaid
+expenditures at the health consumption expenditure level. Medicaid premium payments that are reduced by
+non-medical insurance expenditures are allocated to the National Health Expenditure Accounts’ service
+categories using TAF and 2017 Economic Census Health Care and Social Assistance: Revenue by Type of
+Payer for the US and States: 2017.49
+
+Children’s Health Insurance Program
+Administration and non-medical insurance expenditures of private insurance for the Children’s Health
+Insurance Program (CHIP) covers all of the federal and state and local salaries and expenses of the program
+as well as non-medical insurance expenditures by the private plans that insure CHIP enrollees.42 These
+expenditures, when added to the personal health care expenditures for CHIP, equal the health consumption
+expenditures level for this program.
+
+Department of Defense and the Department of Veterans Affairs
+Administration estimates of the Department of Defense and the Department of Veterans Affairs cover federal
+salaries and expenses related to these health programs, including the administrative costs of providing care
+directly to beneficiaries in Department of Defense and/or Department of Veterans Affairs facilities. These
+expenditures, when added to personal health care expenditures, equal the health consumption expenditures
+level for these programs and are estimated using program data as well as information from the Appendix to
+the Budget of the U.S. Government.54
+
+Other Third-Party Payers and Programs
+Other third-party payers and programs that have administrative costs and/or the non-medical insurance
+expenditures of private health insurance include Indian Health Service, workers’ compensation, Maternal
+and Child Health, vocational rehabilitation, other federal programs, and the Substance Abuse and Mental
+Health Services Administration. The estimates of non-medical insurance expenditures or direct
+administrative costs are estimated using a variety of sources including administrative or budget data as well
+as trade groups and other miscellaneous sources.
+
+
+
+
+                                                     24
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+Government Public Health Activities
+Federal Public Health Activity
+
+Definition: Government public health activity is defined as organizing and delivering population-wide health
+services such as epidemiological surveillance, inoculations, immunization/vaccination services, disease
+prevention programs, the operation of public health laboratories, and other such functions. These services
+may be funded by the federal government and/or state and local governments.
+
+At the federal level, the Food and Drug Administration and the Centers for Disease Control and Prevention
+(CDC) account for the great majority of federal public health spending. Specific public health-related
+emergencies, such as the 9/11/2001 attack and the COVID-19 pandemic have led to additional funding
+through other federal funding sources as applicable, such as the Public Health and Social Services
+Emergency Fund, a portion of the HHS Departmental Management Budget, and certain functions within the
+Department of Homeland Security.
+
+Government public health activities do not include government spending for public works, environmental
+functions (air and water pollution abatement, sanitation and sewage treatment, water supplies, etc.), or
+emergency planning.
+
+Data Sources: Federal government: spending outlays are taken from annual budget documents prepared by
+the various agencies and summarized in the budget of the U.S.54 Congressional budget justifications and
+treasury reports were also used to help estimate the amount and timing of public health spending for the
+COVID-19 pandemic.
+
+Methods: Budget data are first accumulated from the Programs and Financing sections of the Budget
+Appendix as obligations for financing identified public health program conducted by the federal government.
+Wherever the entire budget is devoted to public health, the actual and projected outlays for these programs
+are added. Otherwise, other means for converting obligations to outlays are utilized. In many cases, these
+conversions were developed in earlier periods when the budget more explicitly labeled both obligations and
+outlays by program. Those ratios are still carried forward under the current system where only obligations
+are identified by program. In some cases, a number of public health programs are folded into an overall
+departmental budget.
+
+State and Local Public Health Activity
+
+Definition: State and local government public health activity expenditures are primarily for the operation of
+state and local health departments. Federal payments to state and local governments through other
+programs, such as Maternal and Child Health, are deducted to avoid double counting.
+
+Data Sources: State and local governments’ spending is estimated using data from the quinquennial (5-year)
+Census of Governments and from the Census Bureau’s annual survey of state and local government
+finances; the latter surveys all state governments and a sample of local government units drawn from the 5-
+year Census. Estimates for the most recent year are extrapolated using the average growth rate of the prior 3
+years. These state fiscal year estimates are then converted to calendar year estimates.
+
+Methods: State and local public health activity is estimated using Census data on healthcare outlays by
+state and local governments less the associated outlays for capital expenditures, federal funding of state and
+local public health programs, maternal and child health grants, and the portion of state and local
+government research that is funded by the federal government and non-commercial organizations, all of
+which are not included in this estimate. For years beyond the latest available annual survey of state and
+local governments, the estimate is extrapolated using the prior year’s growth.
+
+
+
+
+                                                      25
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+
+Categories Added at the National Health Expenditures Aggregation Level
+
+Investment
+
+Non-Commercial Research
+Definition: Non-commercial research encompasses healthcare research conducted by non-profit entities.
+This includes research funded by federal and state governments, academic institutions, and nonprofit
+organizations such as foundations, professional societies, and individuals. It excludes research funded by
+for-profit firms.
+
+Data Sources: There are three primary sources used to derive the non-commercial research estimate.
+Federal government funding is based on National Institutes of Health (NIH) budget outlays54, 73 and National
+                                                                                               72F
+
+
+
+
+Science Foundation (NSF) research obligations. 74 State government funding is derived from the Higher
+                                                 73F
+
+
+
+
+Education Research and Development (HERD) Survey conducted by the NSF. 75 Private funding is based on
+                                                                               74F
+
+
+
+
+the tax audit data from ProPublica’s Nonprofit Explorer database. 76
+                                                                   75F
+
+
+
+
+Methods: Noncommercial Research Funding includes federal, state and local, and private sources. Federal
+funding is derived primarily from the National Institutes of Health (NIH) budget, which reports annual outlays
+with a two-year projection. After subtracting capital-related expenditures, the remaining budget is assigned
+to research. Research obligations from other federal agencies to NIH, as published by the National Science
+Foundation (NSF), are then carried forward to all subsequent NIH budget years.
+
+State and local funding is based on published academic data from the NSF’s Higher Education Research and
+Development (HERD) Survey, which provides research and development expenditures at the total research
+level, while the non-academic portion of the estimate is extrapolated from 1997 forward using academic
+trends.
+
+Private research estimates, which were incorporated into the NHEA in 1992, were initially derived from the
+same NSF sources used for state and local funding. From 2009 through 2015, IRS Form 990 data from the
+Urban Institute’s National Center for Charitable Statistics 77 were incorporated to refine the private funding
+                                                            76F
+
+
+
+
+estimate, and for years after 2015, audited financial statements of nonprofit organizations classified as
+medical research were used to construct annual trends of receipts and extrapolate forward.
+
+Structures and Equipment
+
+Structures
+Definition: The structures component of the NHEA is defined as the value of new construction put in place
+by non-retail medical establishments. The structures category includes new buildings; additions, alterations,
+and major replacements; mechanical and electric installations; and site preparation. It also includes the
+underlying costs of materials and labor, contractor profit, architectural and engineering work, those
+overhead and administrative costs chargeable to the project’s owner, and interest and taxes paid during
+construction. Maintenance and repairs are excluded.
+
+Data Sources: Private structures estimates for 2023 and 2024 are derived from Medicare cost report data 78       77F
+
+
+
+
+and U.S. Census Bureau Value of Construction Put in Place Survey data.80 For 1993-2022, the primary data
+source for the private structures estimates is the Annual Capital Expenditures Survey (ACES). 79 The private
+                                                                                                     78F
+
+
+
+
+structures’ estimates for preceding years are based on data published by the U.S. Census Bureau 80 (1964-  79F
+
+
+
+
+1992) and the Bureau of Economic Analysis (BEA) (1960-1964).
+
+For public structures, the primary data source is BEA, Table 5.9.5. Gross Government Fixed Investment by
+Type.2
+
+Methods: For 2023 and 2024, estimated historical relationships between ACES data and Medicare cost
+report data for hospitals and U.S. Census Bureau Value of Construction Put in Place Survey are applied to
+
+
+                                                       26
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+2023 and 2024 trends obtained from these data sources to derive estimates of private structures for the
+NHEA. To estimate private structures for 1993-2022, total expenditures for new structures for NAICS 62
+obtained from the ACES data are adjusted to reflect only expenditures within the scope of the NHEA.
+Specifically, the following expenditures for new structures are subtracted from the total: (1) NAICS 624
+(except 6244) (Social Assistance (except Child Day Care Services), (2) NAICS 6244 (Child Day Care Services),
+and (3) a portion of NAICS 623 estimated to reflect NAICS 623312 (Assisted Living Facilities for the Elderly)
+and NAICS 623990 (Other Residential Care Facilities). The private structures’ estimates for preceding years
+(1960-1992) are prepared by extrapolating the 1993 values back by a time series developed using data
+published by the U.S. Census Bureau (1964-1992) and the BEA (1960-1964).
+
+For public structures, the estimates for 1960-2024 are equal to the gross government investment in health
+care structures (Federal and State & Local) from BEA, Table 5.9.5. Gross Government Fixed Investment by
+Type.
+
+Equipment
+Definition: The equipment component of the NHEA is comprised of the value of new capital equipment
+(including software) purchased or put in place by non-retail medical establishments during the year. This
+definition is not limited to specific medical equipment or devices.
+
+Data Sources: For 1993-2022, the primary data sources for the private equipment estimates are the ACES.79
+The private equipment estimates for preceding years are based on data published by the U.S. Census
+Bureau, Manufacturers’ Shipments, Inventories, & Orders (M3) survey. 81
+                                                                      80F
+
+
+
+
+For public equipment, the primary data source for 1960-2023 is data underlying BEA, Table 3.17, Selected
+Government Current and Capital Expenditures by Function.2 Public equipment estimates for 2024 are
+derived based on data obtained from BEA, Table 3.9.5. Government Consumption Expenditures and Gross
+Investment.2
+
+Methods: For 2023 and 2024, estimated historical relationships between ACES data and Census Bureau
+Manufacturers’ Shipments, Inventories, and Orders (M3) survey are applied to 2023 and 2024 trends
+obtained from the M3 survey to derive estimates of growth in private equipment for the NHEA. To estimate
+private equipment for 1998-2022, total expenditures for new equipment for NAICS 62 obtained from the
+ACES data are adjusted to reflect only expenditures within the scope of the NHEA. Specifically, the following
+expenditures for new equipment are subtracted from the total: (1) NAICS 624 (except 6244) (Social
+Assistance (except Child Day Care Services), (2) NAICS 6244 (Child Day Care Services), and (3) a portion of
+NAICS 623 estimated to reflect NAICS 623312 (Assisted Living Facilities for the Elderly) and NAICS 623990
+(Other Residential Care Facilities).
+
+For public equipment, the estimates for 1960-2023 are equal to government gross investment data (Federal
+and State & Local) for Equipment and Software for the health function from data provided by BEA. Public
+equipment estimates for 2024 are derived using trends for gross investment in Equipment and Software
+(Nondefense Federal and State & Local) obtained from BEA.
+
+
+
+
+                                                     27
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+
+NHEA by Type of Sponsor
+
+Introduction
+The structure of NHEA provides estimates of both the sources of payment and the sponsors of health care.
+The sources of payment include the payers and programs that directly pay for health care and are usually
+third-party insurers.
+
+Health spending by sponsor, or source of financing, provides estimates of spending by the businesses,
+households, other private funds and governments that are responsible for financing, or sponsoring, health
+care payments. The difference between payers and sponsors can be illustrated using private health
+insurance as an example. Although private health insurers pay claims on behalf of individuals covered by
+health insurance policies, premiums are often financed, or sponsored, by a combination of employers
+(private businesses, federal government, and state/local governments), households (as employees or
+purchased directly by individuals in the form of individually purchased policies), and government (such as
+the Medicare retiree drug subsidy payments to private and state and local employers and the Marketplace
+tax credits and subsidies).
+
+Exhibit 5 provides a crosswalk of national health expenditures by payers and by sponsors.
+
+Exhibit 5. Crosswalk of National Health Expenditure Payers to Business, Household, and Government
+Sponsors
+
+                        Sponsor    Business, Household, and Other Private                Government
+
+                                   Private
+    Payers                        Business       Household       Other Private    Federal   State and Local
+
+       Out-of-pocket                                  X
+
+       Private Health Insurance       X               X                              X             X
+
+       Other Private Sponsors1                                         X
+
+       Medicare                       X               X                              X             X
+
+       Medicaid                                                                      X             X
+
+       Other Payers 2                 X                                              X             X
+
+1
+ Includes Philanthropy, Private Research, Private Structures and Equipment, and Other Non-Patient revenues.
+2
+ Includes Department of Defense, Department of Veterans Affairs, Children’s Health Insurance Program, Worksite
+Health Care, Indian Health Service, workers’ compensation, general assistance, Maternal and Child Health, vocational
+rehabilitation, Substance Abuse and Mental Health Services Administration, school health, public health activities,
+federal and state and local research, and structures and equipment and other federal and state and local programs.
+
+NHEA Expenditure Crosswalk to the Sponsor
+
+Out-of-Pocket
+Out-of-pocket expenditures are defined as direct spending by households for all health care goods and
+services. This includes the amount paid out-of-pocket for services not covered by insurance; the amount of
+copayment, coinsurance, and deductibles required by private health insurance and by public programs such
+as Medicare and Medicaid (and not paid by some other third party); and payments from health and flexible
+savings accounts. Cost-sharing subsidies for eligible individuals in the Marketplace are excluded from out-
+of-pocket spending.
+
+
+
+                                                          28
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+Private Health Insurance
+Private health insurance expenditures in the sponsor analysis are disaggregated into employer-sponsored
+insurance and directly purchased insurance. These expenditures are then further allocated into the sponsors
+that finance these expenditures, which include households, private businesses and governments.
+
+Employer-sponsored insurance: Employer and Employee share
+Employer-sponsored insurance (ESI) includes premiums paid by employers and/or employees for health
+insurance plans offered by the employer, whether or not the employer actually contributes to the health plan.
+Union health insurance plans are also considered to be employer-sponsored plans. The primary data source
+for estimating ESI is the Medical Expenditure Panel Survey-Insurance Component (MEPS-IC).69 The MEPS-IC
+contains estimates of employer- and employee-sponsored premiums for active employees, continuation of
+health coverage (COBRA), 82 and retirees of non-federal sponsors (private businesses and state and local
+                          81F
+
+
+
+
+governments). The federal estimates of ESI premiums paid by federal employers, employees and retirees are
+provided by the U.S. Office of Personnel Management. 83    82F
+
+
+
+
+Employer share
+The employer share of premiums paid by private businesses and by state and local governments is based on
+MEPS-IC data, while the employer share of premiums paid for by the federal government is based on data
+provided by OPM.83 Because MEPS-IC data for state and local governments are lagged by one year,
+estimates for the current year are based on Employer Cost for Employee Compensation (ECEC) data from
+the Bureau of Labor Statistics’ (BLS) National Compensation Survey. 84 For years prior to 2003 and for 2007,
+                                                                    83F
+
+
+
+
+the employer share of premiums are based on annual growth rates from ECEC data.
+Employee share
+Employer-sponsored private health insurance (PHI) premiums paid by active employees, retirees, and former
+employees who are covered by COBRA are captured in the sponsor estimates as household spending. The
+estimates of employee contributions for those with ESI through a private business or state and local
+government are produced using MEPS-IC data; employee contributions for ESI through the federal
+government are based on data from OPM. State and local government employee estimates for the most
+current year are based on ECEC data, as MEPS-IC data is lagged by one year. For years prior to 2003 and for
+2007, PHI premiums paid by retirees are based on the annual growth rate from the BLS’ Consumer
+Expenditure Survey34 and the ECEC data. For 2007, premiums paid by private and state and local employees
+are estimated using MEPS-IC data projected using the 2009 Kaiser Family Foundation/Health Research and
+Educational Trust Survey of Employer-Sponsored Health Benefits18 combined with the historical relationship
+between the employee/retiree paid and the employer-paid share of ESI.
+
+Direct purchase insurance
+Direct purchase insurance includes premiums paid by individuals for policies that are not available through
+an employer or a union-based plan. This includes Medigap policies, Marketplace plans, and other directly
+purchased health insurance. The main data sources used in estimating direct purchase insurance premiums
+include the Bureau of Labor Statistics’ Consumer Expenditure Survey,34 the National Association of
+Insurance Commissioners (NAIC), 85 and CMS data.43, 86 From a sponsor perspective, all direct purchase
+                                  84F                85F
+
+
+
+
+insurance is considered household spending with the exceptions of a) the continuation of health coverage
+(COBRA) subsidies 87 paid by the federal government which are based on data from the Internal Revenue
+                   86F
+
+
+
+
+Service (IRS), b) health insurance premium tax credits and cost-sharing subsidies from Marketplace plans,
+and c) federal and state & local payments for the Basic Health Program.
+
+Medicare
+The Medicare program is financed by several different mechanisms. The Hospital Insurance (HI) Trust Fund
+is primarily financed through Federal Insurance Contributions Act (FICA) taxes on covered payroll, plus
+interest income, taxation of benefits, voluntary premiums and other revenues. The Supplementary Medical
+
+
+                                                     29
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+Insurance (SMI) Trust Fund is financed through general revenues, premiums (Part B, Part D, and Medicare
+premium buy-in programs by Medicaid), state phase-down payments, and interest income.
+In the sponsor analysis, an increase in the assets of the Medicare HI Trust Fund allows for immediate
+reductions in current federal general funding obligations for Medicare. These surpluses are recorded as
+special interest-bearing treasury obligations and are combined with all other general revenues. The surplus
+is reported as an offset to the difference between program outlays and the dedicated financing sources of
+Medicare since, in essence, the surplus decreases the amount of general revenues necessary to pay for
+health care.
+
+Medicare spending is disaggregated to reflect these different financing sources in the sponsor analysis. The
+HI payroll taxes paid by employers (private, federal, and state and local employers), along with one-half of
+the self-employed payroll taxes, are assigned to businesses and federal and state/local governments (using
+unpublished data from the Social Security Administration). The employees’ share of HI payroll taxes,
+together with the other half of the self-employed payroll taxes, HI taxation of benefits, and SMI premiums, are
+considered household spending.
+
+Estimates for the Medicare premium buy-in program (payments made by state Medicaid programs for
+Medicare Part A and Part B premiums for eligible individuals) and receipts from states for phased-down
+Medicaid contributions for Part D are allocated to state and local governments. Additionally, the federal
+Medicaid program pays for Medicare premiums as part of the buy-in program. The remaining Medicare
+expenditures are roughly equal to trust fund interest income and federal general revenue contributions to
+Medicare and are included in the federal government category.
+
+Medicaid
+Estimates of Medicaid spending are reflected in both federal and state spending from a sponsor perspective.
+
+Other Health Insurance and Third-Party Payers and Programs
+In the sponsor estimates, federal programs and payments including Department of Defense, Department of
+Veterans Affairs, Indian Health Service, Substance Abuse and Mental Health Services Administration, other
+federal programs, federal public health activities, the federal share of Maternal and Child Health (MCH),
+vocational rehabilitation, Children’s Health Insurance Program (CHIP), workers’ compensation, and federal
+investment in research, and structures and equipment are included as federal spending.
+
+General assistance, school health, state public health activities, other state and local programs, the state
+shares of MCH and CHIP, vocational rehabilitation, and state and local investment in research, and
+structures and equipment are included as state and local spending in the sponsor estimates.
+
+Worksite health care, state and local workers’ compensation, and temporary disability insurance are
+classified into the private business sponsor category. 88 Private business investment in research, structures,
+                                                      87F
+
+
+
+
+and equipment are classified in other private sponsors.
+
+Business, Household, Other Private Revenues, and Government
+The crosswalk between the NHEA payers and programs and the underlying sponsors provides the
+information needed to identify spending by businesses, households, other private revenues, and
+governments. Below are the definitions for each of these sponsor categories.
+
+Private Business
+Private business health spending represents health care expenditures by employers on behalf of their
+employees. These primarily include employer’s contributions for employer-sponsored insurance premiums
+and Medicare Hospital Insurance (HI) trust fund payroll taxes (including half of total self-employed payroll
+
+
+                                                      30
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+taxes). A portion of Medicare payroll taxes is included in the private business sector because they represent
+dedicated taxes that are earmarked for health care spending. In addition, private business health spending
+includes payments for state workers’ compensation, temporary disability insurance, and worksite health
+care. Excluded from private business spending are Medicare retiree drug subsidy payments to private
+employer plans beginning in 2010, small business tax credits beginning in 2010, and payments for the Early
+Retirement Reinsurance Program for the period 2010-2011.
+
+Households
+Household health spending represents expenditures by individuals to provide or purchase health care for
+themselves or family members. Household spending primarily includes the employee’s share of employer-
+sponsored insurance premiums, premiums for directly purchased insurance, and Medicare Hospital
+Insurance (HI) trust fund payroll taxes (including half of the total self-employed payroll taxes, and taxes paid
+on Social Security benefits). The household portion of payroll taxes is included with the household sector
+because they are dedicated taxes earmarked for health care spending. Premiums paid to the Medicare HI
+and Supplementary Medical Insurance (SMI) Trust Funds, the Pre-existing Conditions Insurance Plans, and
+the Basic Health Program are also included with households. Additionally, the medical portion of property
+and casualty insurance (automobile, homeowners, multi-peril, or other liability insurance) is included with
+households.
+
+Out-of-pocket spending for copayments, deductibles, and services not covered by health insurance are also
+allocated to the household. Excluded from household spending are health insurance premium tax credits
+and cost-sharing subsidies from Marketplace plans, continuation of health coverage (COBRA) subsidies,
+federal and state & local payments for the Basic Health Program, and Medicaid buy-ins for the Medicare
+premiums of people eligible for both Medicaid and Medicare (dual eligibles).
+
+Other Private Sponsors
+Other private sponsors include all other private sponsors of health care other than private businesses and
+households such as privately funded research, privately funded structures and equipment, philanthropic
+support, and non-patient revenue. Philanthropic support may be direct from individuals or may be obtained
+through philanthropic fund-raising organizations such as the United Way. Support may also be obtained from
+foundations or corporations. Philanthropic revenues may be spent directly for patient care or may be held in
+an endowment fund to produce income to cover current expenses. For institutions such as hospitals, nursing
+homes and home health agencies, other private funds also include income from the operation of gift shops,
+cafeterias, parking lots, educational programs, and investment income. Also included in this category are
+private investment in research, structures, and equipment.
+
+Federal Government
+The federal government finances many federal health care programs from general revenues, most notably
+Medicare spending not paid for by other sponsors or dedicated payroll taxes. Also, as an employer, the
+federal government pays employer-sponsored insurance premiums and Medicare Hospital Insurance (HI)
+Trust Fund payroll taxes for federal employees. The federal government sponsor estimate also includes the
+federal share of the Medicaid program, the federal portion of Medicare premium buy-in programs by
+Medicaid, Medicare retiree drug subsidy payments beginning in 2006, payments for Department of Defense,
+Department of Veterans Affairs, Indian Health Service, Substance Abuse and Mental Health Services
+Administration, other federal programs (including COVID-19 response funding from the Provider Relief Fund
+and the Paycheck Protection Program), public health activities, the federal share of Maternal and Child
+Health, vocational rehabilitation, Children’s Health Insurance Program, workers’ compensation,
+continuation of health coverage (COBRA) subsidy payments, small business tax credits, Early Retirement
+Reinsurance Program payments, Basic Health Program payments, health insurance premium tax credits and
+cost-sharing subsidies from Marketplace plans, and federal investment in research, structures and
+equipment. Excluded from federal government spending are Pre-existing Conditions Insurance Plan
+
+
+                                                       31
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+premiums, Medicare Supplementary Medical Insurance (SMI) premiums, and Part D state phase-down
+payments to Medicare.
+
+State and Local Government
+State and local governments finance health care programs and also pay for health insurance coverage for
+state and local government employees. This estimate includes the employer contribution for employer-
+sponsored insurance premiums and Medicare Hospital Insurance (HI) Trust Fund payroll taxes for state
+employees. The state and local government’s portion of payroll taxes are included with the state and local
+government sector because they are dedicated taxes earmarked for health care spending. Also included is
+the state share of the Medicaid program, the state portion of Medicare premium buy-in programs by
+Medicaid, receipts from states for phased-down Medicaid contributions for Medicare Part D, Basic Health
+Program payments, other state and local programs such as general assistance, school health, Maternal and
+Child Health, vocational rehabilitation, Children’s Health Insurance Program, public health activities, other
+state and local programs, and state and local investment in research, structures and equipment. Excluded
+from state and local government spending are Early Retirement Reinsurance Program payments and
+Medicare retiree drug subsidy payments to state and local government employer plans.
+
+
+
+
+                                                     32
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+
+Health Insurance Enrollment and the Uninsured
+The enrollment estimates in the NHEA cover total private health insurance (PHI) (including direct and
+employer-sponsored plans), Medicare, Medicaid, Children’s Health Insurance Program (CHIP), and other
+public programs, as well as an estimate of the uninsured. These estimates of enrollment are generally for a
+specific point in time (Medicaid is a person-year estimate, which is essentially a proxy for a point-in-time
+estimate).
+
+Total Private Health Insurance Enrollment
+Total private health insurance (PHI) enrollment consists of enrollment in employer-sponsored insurance and
+direct purchase plans (group and non-group) including Marketplace and Medigap policies. The enrollment
+estimates are not mutually exclusive and cannot be summed within PHI as individuals can be enrolled in
+multiple types of plans. The 1960-1986 estimates were based on data from the National Center for Health
+Statistics’ National Health Interview Survey, 89 data from the Health Insurance Association of America, 90 and
+                                            88F                                                        89F
+
+
+
+
+analysis performed by Marjorie Carroll and Ross H. Arnett, III. 91 For 1987-2009, total PHI estimates were
+                                                              90F
+
+
+
+
+developed from the State Health Access Data Assistance Center’s (SHADAC) enhanced Current Population
+Survey (CPS) 92 coverage estimates adjusted by the Office of the Actuary to reflect the overcount of
+             91F
+
+
+
+
+individually purchased health insurance enrollment in the CPS. Enrollment for 2010 forward was estimated
+using the sum of the individual and employer insurance estimates adjusted to account for the overlap of
+health insurance coverage.
+
+Employer-Sponsored Insurance
+Employer-sponsored insurance (ESI) is purchased through an employer, union, or by a self-employed
+individual. For 1987-1995, ESI enrollment was estimated using the growth in the number of policies for
+employer-purchased health insurance from the Bureau of Labor Statistics’ Consumer Expenditure Survey34
+applied to the enhanced CPS levels in 1996. Enrollment for 1996-2009 was estimated using the levels from
+the State Health Access Data Assistance Center’s (SHADAC) enhanced Current Population Survey (CPS).92
+Enrollment for 2010 through 2013 was estimated using data from the National Center for Health Statistics’
+National Health Interview Survey.89 Enrollment for 2014-forward was estimated using data from CPS, with
+the exception of 2019, which used data from the American Community Survey.
+
+Direct Purchase Insurance
+Medigap: Medigap plans are standardized health insurance plans that are sold by private insurance
+companies to Medicare beneficiaries to fill the "gaps" in Medicare coverage. These plans are available to
+people aged 65 or older and to some individuals under age 65 with certain disabilities, and people of all ages
+with end-stage renal disease (ESRD). August point-in-time levels from the Coordination of Benefits (COB) file
+were used to estimate Medigap enrollment for the period 2014-2024. Estimates for 2002-2013 were
+developed using the average relationship between COB and National Association of Insurance
+Commissioners data in the years 2013-2017. Estimates for years prior to 2002 were based primarily on
+trends from the Centers for Medicare & Medicaid Services’ (CMS) Medicare Current Beneficiary Survey
+(MCBS).33
+
+Marketplace: Under the Affordable Care Act of 2010 (ACA), health insurance coverage was expanded
+through private insurers allowing individuals to purchase from both federal and state-run health insurance
+Marketplaces. Marketplace average monthly enrollment was estimated using program data from CMS.
+
+Other Direct Purchase: This category includes insurance purchased on the private market that is not
+associated with an employer or a Medigap or Marketplace plan. Examples of direct purchase insurance
+include group plans purchased through the American Association of Retired Persons (AARP) or other
+associations, non-group plans (both ACA-compliant and ACA non-compliant such as grandfather and
+grandmother plans), Short-Term Limited Duration (STLD) Health plans, and the Basic Health Program
+(BHP). Estimates of enrollment for 2014 – 2024 were derived from the Medical Loss Ratio (MLR) Data and
+
+
+                                                      33
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+System Resources public use file (CMS, Consumer Information and Insurance Oversight). STLD health plan
+enrollment estimates were derived using data from the National Association of Insurance Commissioners,
+and BHP enrollment estimates were derived using data from states with BHP plans. 93 For 1996-2013,
+                                                                                   92F
+
+
+
+
+enrollment was estimated using the levels from the Medical Expenditure Panel Survey-Household
+Component (MEPS-HC),41 while 1987-1995 was estimated using the growth in the number of covered lives for
+individually purchased health insurance from the Consumer Expenditure Survey34 applied to the MEPS-HC
+level in 1995.
+
+Medicare
+For 2016 forward, Medicare enrollment is from the Centers for Medicare & Medicaid Services’ Chronic
+Condition Data Warehouse (CCW), a database with 100% of Medicare enrollment derived from the Common
+Medicare Environment database. Prior to 2016, the source for Medicare enrollment was the Denominator
+File, which used data from the Medicare Enrollment Database. Medicare enrollment from the CCW includes
+counts of all Medicare beneficiaries who were enrolled on or after January 1 of a calendar year. The
+estimates of Medicare Part A and/or B enrollment use a person-year methodology, which sums the number
+of months each beneficiary is enrolled during the year and divides by 12. Additionally, an adjustment is made
+to create U.S. only enrollment figures by removing enrollment for U.S. territories.
+
+Medicaid
+Medicaid enrollment estimates for 1966-1974 were developed using data from the Institute for Medicaid
+Management, while estimates for 1975-1998 were developed using the Medicaid Statistical Reports (HCFA-
+2082). The enrollment estimates for Medicaid from 1999 to 2004 were from the Medicaid Statistical
+Information System (MSIS); the 2005-2013 estimates were developed using Medicaid Analytic eXtract (MAX)
+data;46 and 2014 through 2024 estimates were estimated by the Office of the Actuary using the form CMS-
+64. 94 Medicaid new adult group enrollment estimates from 2014-2024 were also developed using the form
+   93F
+
+
+
+
+CMS-64.
+
+Children’s Health Insurance Program
+CHIP enrollment estimates are obtained through the Statistical Enrollment Data System using forms CMS-
+21E, CMS-64.21E, and CMS-64.EC.
+
+Other Public
+Other public programs include health insurance coverage provided by the Department of Defense (DOD) and
+the Department of Veterans Affairs (VA). Enrollment for other public programs for 1987-2011 was estimated
+using the levels from the State Health Access Data Assistance Center’s (SHADAC) enhanced Current
+Population Survey (CPS),92 and for 2012 through 2016 estimates were extrapolated using the CPS. From
+2017-2021 and 2024, enrollment is estimated based on data from the DOD 95 and the VA. 96 The 2022 and
+                                                                          94F            95F
+
+
+
+
+2023 estimates were based on the trend from the CPS for those years.
+
+Uninsured
+Persons not covered by health insurance (including individuals using the Indian Health Service in order to be
+consistent with CPS definitions) are considered uninsured. The number of uninsured for 1987-2009 was
+estimated using the levels from the State Health Access Data Assistance Center’s (SHADAC) enhanced
+Current Population Survey (CPS)92 adjusted for an estimate of the Medicaid undercount, and for 2010 to 2018
+estimates were extrapolated using growth from National Health Interview Survey (NHIS).89 The 2019 estimate
+was extrapolated using 2019/2018 trend from the American Community Survey. The 2020 estimate was
+extrapolated using the 2020/2018 trend from the CPS. The 2021 estimate was based on the population share
+of the uninsured from the NHIS. The 2022 estimate was based on the 2022/2021 trend from the American
+Community Survey. The 2023 and 2024 estimates were based on NHIS share of the uninsured multiplied by
+the NHE population.
+
+
+                                                     34
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+
+Deflating National Health Expenditures
+Increased health care spending reflects increases in technological developments, changes in the
+demographic composition of the population, changes in the intensity and quantity of health care services
+delivered per person, and price inflation for medical goods and services. Deflating health care spending
+separates the effects of price growth from growth attributable to all other factors. The dollar value of these
+estimates of real health care expenditures is determined by the index chosen to remove price growth from
+spending.
+
+One approach to deflating health spending is to remove the effects of economy-wide inflation alone. Prior to
+the 2011 NHEA, this was the method used to deflate health spending for the NHEA. The most appropriate
+deflator for economy-wide prices for this purpose is the price index for the gross domestic product (GDP), as
+measured by the Bureau of Economic Analysis (BEA). The GDP deflator is the most comprehensive measure
+of price inflation for the economy as a whole. This measure eliminates economy-wide inflation, a cause of
+growth over which the health sector has little control.
+
+An alternative approach to removing the effects of price growth from health spending is to deflate health care
+expenditures by a measure of medical specific price inflation. For personal health care (PHC) spending, this
+involves directly deflating expenditures by price indexes associated with the services and goods provided; for
+non-PHC spending this involves deflating by composite indexes matching the components of spending for
+each category. The resulting measure of “real” growth associated with this approach reflects growth in non-
+price factors, which can result from technological developments, changes in the demographic composition
+of the population (by age, sex, and proximity to death), or any changes in the intensity and quantity of health
+care services delivered per person. Also, this residual includes the net effect of any error in the measurement
+of medical prices or medical expenditures.
+
+The goal of deflating spending at the national health expenditure (NHE) level is to isolate price changes so
+that “real NHE” spending can be determined. Thus, it is critical that the measure used to deflate spending at
+the NHE level accurately reflects price changes only and does not capture any of the biases that can occur
+when aggregating individual indexes. The chain-weight method used in the NHE deflator attempts to control
+for any aggregation bias by using a Fisher Ideal formulation. The Fisher Ideal index formulation reflects the
+geometric mean of a Laspeyres index, which uses a prior-period quantity weights, and a Paasche index,
+which uses the current period quantity weights. Chain-weighted inflation measures would give a lower
+inflation rate than standard inflation rates if substitutions were made over time to purchase less of the goods
+that were experiencing faster price growth.
+
+The PHC deflator is calculated as a chain-weighted price index for the various goods and services that
+account for PHC spending in the NHE. Exhibit 6 provides the detailed price series that are used for each
+category of spending. 97 Unlike the 2010 method, which used an implicit deflator approach, the current PHC
+                      96F
+
+
+
+
+deflator relies on a chain-weighted approach.
+
+In order to estimate a non-PHC deflator, a chain-weighted price index of the subcomponents of non-PHC is
+estimated. This index weights together the detailed price series for each non-PHC component, at the
+maximum level of detail available. Exhibit 7 provides the major non-PHC expenditure categories and their
+respective deflators.
+
+The price indexes developed by the Office of the Actuary are a more appropriate measure of the medical
+price inflation associated with expenditures reported in the NHEA than two other available indexes—the
+Bureau of Labor Statistics’ (BLS) Medical Care Consumer Price Index (CPI-U) for all urban consumers and the
+BEA medical care component of the personal consumption expenditure fixed-weight price index.
+
+For example, the medical care component of the CPI is weighted based on consumer out-of-pocket
+expenditures, Medicare Part B payments, and private health insurance payments to providers for medical
+benefits. 98 Without consideration of all types of payers and programs, certain health care services are
+         97F
+
+
+
+
+assigned weights that under- or over-represent their shares if all payers and programs expenditures were
+
+
+                                                       35
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+considered. Additionally, the medical care component of the PCE price index is not an optimal index to use
+since it excludes spending on care provided by government facilities.
+
+The BLS Producer Price Index (PPI) is a third measure of price inflation. The PPI measures transaction prices
+or net prices received by producers for their output. Receipts include those from both public and private
+sources. However, most PPIs for the health service industry begin in 1994 or later and therefore lack a
+sufficient time series to span the entire history of the NHEA.
+
+Deflators Used in the Personal Health Care Price Index
+Exhibit 6 lists the price series assigned to each component of PHC expenditures. All data used are as
+published except for the following: the CPI for Prescription Drugs for 2003, 2006, 2012-2013, and 2015-2023,
+and the PPI for Office of Physicians for 2021 (see footnote in Exhibit 6).
+
+Exhibit 6: Price Proxies for the Personal Health Care Expenditure Price Index
+
+Industry/Commodity or Service                   Price proxy
+Personal Health Care
+Hospital Care                           PPI, hospitals
+Physician and Clinical Services         Composite Index: PPI, offices of physicians and PPI, medical
+                                        and diagnostic laboratories
+Other Professional Services             CPI, services by other medical professionals
+Dental Services                         CPI, dental services
+Other Health, Residential, and Personal Composite Index:
+Care                                        • CPI physician services (used for other health care)
+                                            • CPI care of invalids and elderly at home (used for home
+                                                 and community-based waivers),
+                                            • CPI All Items (used for ambulance services)
+                                                     •   PPI residential developmental disability homes (used
+                                                         for residential facilities)
+Home Health Care                                PPI, home health care services
+Nursing Care Facilities and Continuing          PPI, nursing care facilities
+Care Retirement Communities
+Prescription Drugs                              CPI, prescription drugs
+Other Non-durable Medical Products              CPI, non-prescription drugs
+Durable Medical Equipment                       Composite Index: CPI, eyeglasses and eye care and CPI,
+                                                medical equipment and supplies
+Notes: Data for the PPI and CPI are available from the U.S. Department of Labor, BLS, http://www.bls.gov. All indexes are
+scaled to 100.0 in 2017. The underlying PPI and CPI indexes used to construct the chain-weighted National Health
+Expenditure deflator are at times adjusted for unique factors where the trends in the index do not match the
+definition/scope or trends in the expenditure categories that are being deflated. Examples include adjustments that
+account for the movement of retail prescription drugs to the over-the-counter market, prescription drug manufacturer
+rebates, and differences in the underlying prices in public programs (such as Medicare and Medicaid).
+
+
+
+
+                                                           36
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+
+Deflators Used in the Non-Personal Health Care Price Index
+Exhibit 7 lists the price series assigned to each component of non-PHC expenditures. Details for each of the
+price proxies for each non-PHC category are provided in the text following Exhibit 7.
+
+Exhibit 7: Price Proxies for the Non-Personal Health Care Expenditure Price Index
+
+Industry/Commodity or Service                    Price proxy
+Non-Personal Health Care
+Government Administration                        Composite index of wages, benefits, professional fees,
+                                                 claims/financial intermediary services, office rent, and other
+                                                 expenses for six government programs
+Non-Medical Insurance Expenditures               Composite index of compensation, capital, taxes and fees,
+                                                 reserves/gains/losses, and other expenses for five classes of
+                                                 insurance
+Government Public Health Activities              Composite index of federal, state, and local government
+                                                 consumption
+Research                                         National Institutes of Health Biomedical Research and
+                                                 Development Price Index 99
+                                                                          98F
+
+
+
+
+Structures & Equipment                           Composite Index of BEA Price indexes for private fixed
+                                                 investment in structures by type and private fixed investment in
+                                                 equipment and software by type
+Note: All indexes are scaled to 100.0 in 2017.
+
+Unlike the PHC deflator where typically one price series is used to represent the pure price change
+associated with a constant product, the non-PHC categories are typically deflated by an input price index
+that represents the price increases associated with the expenses underlying the production of these
+categories (the notable exceptions are non-commercial research and structures and equipment). 100      99F
+
+
+
+
+Because of the unique nature of the non-PHC categories, published price series are not typically available for
+these categories, or those that are available may not adequately capture the concepts appropriate for the
+given non-PHC category. Instead, alternative data sources are used to decompose these expenses into the
+key underlying inputs, such as compensation or capital costs, and then publicly available price series are
+used to deflate those input expenses. A brief description of each price deflator follows.
+
+Government Administration
+Government administrative costs are deflated using a composite input price index that chain-weight together
+price indexes for wages and salaries, benefits, professional fees, claims processing services, office rent and
+other expenses. The input weights reflect six sub-categories of government administrative costs: Medicare,
+Department of Defense, Department of Veterans Affairs, Medicaid, Children’s Health Insurance Program
+(CHIP), and other third-party payers. The weights are determined using data from the Medicare Trustees
+Report, Medicaid administrative data, and congressional justifications. The price series for each of the
+categories represent proxies for price change, such as federal civilian pay, employment cost indexes for
+state and local government workers, and other relevant occupations and appropriate PPIs and CPIs.
+
+Non-Medical Insurance Expenditures
+For non-medical insurance expenditures, the nominal spending level is deflated using a chain-weighted
+composite index of input costs and price proxies designed to directly measure the price growth associated
+with the difference between health insurance expenditures and benefits incurred. This difference includes
+cost growth for administrative services, taxes and fees, changes to reserves, and net underwriting gains or
+losses. There are five types of private health insurance for which non-medical insurance expenditures are
+
+
+                                                          37
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+estimated. The first type groups together: individual direct purchase or non-group insurance, the majority of
+worker’s compensation insurance, the health portion of property and casualty insurance, and pre-existing
+conditions insurance plans from 2010-2014. The second type is fully insured group/commercial insurance.
+The third type is self-insured ESI. The fourth type is Medicare Advantage and stand-alone Medicare Part D
+plans, and the fifth type is Medicaid and CHIP managed care plans.
+
+For each type of insurance, estimates are developed for five general components of non-medical insurance
+expenditures that sum to the total for this category. These components include: compensation of the
+employees that are administering the insurance, capital costs, taxes and fees, other costs (such as rent,
+advertising, certain commissions, etc.), and, in some cases, changes to reserves and underwriting gains or
+losses. A blended index of price proxies, typically BLS Employment Cost Index’s (ECIs), BLS PPIs, or
+deflators produced as part of the BEA’s National Income and Product Accounts (NIPA), are weighted together
+by the respective input costs for three of these general components. All changes in taxes and/or changes to
+reserves or underwriting gains or losses are treated as price changes. These various price changes are then
+combined to create a composite non-medical insurance expenditures input price deflator.
+
+Government Public Health Activities
+Public health spending in the NHEA is deflated using a composite index that chain-weights together price
+indexes for state and local and federal public health, with state and local expenditures accounting for the
+majority of the index. State and local public health expenditures are deflated using the price index for gross
+state and local government consumption expenditure for health from the NIPA produced by the BEA. Federal
+public health expenditures are deflated using an input cost index that weight together the input costs of the
+Health Resources and Services Administration, the Food and Drug Administration, and the Centers for
+Disease Control and appropriate price proxies from the BLS. Together these three organizations account for
+the majority of federal public health spending.
+
+Structures & Equipment
+Investment in structures and equipment is deflated using a composite index that chain-weights together
+detailed price indexes associated with private fixed investment in structures and equipment, by detailed
+asset category. The detailed nominal investment levels by asset category serve as the weights to aggregate
+up to the composite chain-weighted price index for structures and equipment. These detailed asset
+distributions are obtained primarily using data from the BEA’s Capital Flow Table and Fixed Asset Accounts.
+Five categories of detailed investment in structures are derived using this methodology: hospital and
+institutional, office buildings, industrial, electric light and power, and other buildings. Twenty-two categories
+of detailed investment in equipment are derived as well. Additionally, appropriate price indexes for
+investment in structures and equipment are selected for each of these categories. The price indexes are
+from BEA’s Table 5.4.4. Price Indexes for Private Fixed Investment in Structures by Type; Table 5.5.4. Price
+Indexes for Private Fixed Investment in Equipment by Type; and Table 5.6.4 Price Indexes for Private Fixed
+Investments in Intellectual Property Products by Type.
+
+
+
+
+                                                       38
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+
+References
+
+1
+  The Cabinet-level Department of Health, Education and Welfare was created under President Eisenhower
+on April 11, 1953. In 1979, the Department of Education Organization Act was signed into law, providing for a
+separate Department of Education. HEW became the Department of Health and Human Services on May 4,
+1980. For more information, see U.S. Department of Health and Human Services. Historical highlights
+[Internet]. Washington (DC): HHS; [cited 2025 Dec 1]. Available from: https://www.hhs.gov/about/historical-
+highlights/index.html
+2
+  U.S. Bureau of Economic Analysis. National Income and Product Accounts [Internet]. Suitland (MD): U.S.
+Department of Commerce [cited 2025 Dec 1]. Available via query
+from: https://apps.bea.gov/iTable/index_nipa.cfm
+3
+  Hartman M, Kornfeld R, Catlin A. A reconciliation of health care expenditures in the National Health
+Expenditures Accounts and in Gross Domestic Product [Internet]. Washington (DC): Bureau of Economic
+Analysis, Survey of Current Business; 2010 Sep [cited 2025 Dec 1]. Available
+from: https://apps.bea.gov/scb/pdf/2010/09%20September/0910_healthcare.pdf
+4
+ Centers for Medicare & Medicaid Services. National Health Expenditures, Projected [Internet]. Baltimore
+(MD): Centers for Medicare & Medicaid Services [cited 2026 Jan 8]. Available from:
+https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-
+data/projected
+5
+ Centers for Medicare & Medicaid Services. National Health Expenditures, Age and Sex [Internet]. Baltimore
+(MD): Centers for Medicare & Medicaid Services [cited 2026 Jan 8]. Available from:
+https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/age-
+and-sex
+6
+ Centers for Medicare & Medicaid Services. National Health Expenditures, State (Provider) [Internet].
+Baltimore (MD): Centers for Medicare & Medicaid Services [cited 2026 Jan 8]. Available from:
+https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/state-
+provider
+7
+ Centers for Medicare & Medicaid Services. National Health Expenditures, State (Residence) [Internet].
+Baltimore (MD): Centers for Medicare & Medicaid Services [cited 2026 Jan 8]. Available from:
+https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/state-
+residence
+8
+ U.S. Census Bureau sources such as the Economic Census are based on the 2017 version of NAICS. Please
+see Census Bureau. North American Industry Classification System [Internet]. Washington (DC): Census
+Bureau; 2017 [cited 2025 Dec 1]. Available from: https://www.census.gov/naics
+9
+ Census Bureau. Economic Census Data Tables and FTP Files by Year [Internet]. Census Bureau; Suitland
+(MD): 1977, 1982, 1987, 1992, 1997, 2002, 2007, 2012, 2017, 2022 [cited 2026 Jan 8]. Available from:
+https://www.census.gov/programs-surveys/economic-census/data/tables.html
+10
+  Census Bureau. Service Annual Survey [Internet]. Suitland (MD): Census Bureau [cited 2026 Jan 8].
+Available from: https://www.census.gov/programs-surveys/sas.html
+11
+     American Hospital Association. Annual Survey of Hospitals. Chicago (IL).
+12
+  Census Bureau. Quarterly Services Survey [Internet]. Suitland (MD): Census Bureau [cited 2026 Jan 8].
+Available from: http://www.census.gov/services/index.html
+
+
+
+
+                                                       39
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+
+
+13
+  Internal Revenue Service. Data tabulated from samples of business income tax returns. Washington (DC):
+Internal Revenue Service; 1960–1989.
+14
+  Journal of Emergency Medical Services (JEMS) [Internet]. United States: JEMS Communication; 1980–
+[cited 2026 Jan 9]. Available from: https://www.jems.com/
+
+ McDonnell P, Guttenberg A, Greenberg L, Arnett R. Self-insured health plans. Health Care Financ Rev. 1986
+15
+
+Winter;8(2):1–16. HCFA Pub. No. 03226.
+16
+  Bureau of Labor Statistics. Consumer Price Index [Internet]. Washington (DC): Bureau of Labor Statistics
+[cited 2026 Jan 8]. Available from: http://www.bls.gov/cpi/
+17
+  Mercer LLC. National Survey of Employer-Sponsored Health Plans [Internet]. New York (NY): Mercer [cited
+2026 Jan 8]. Available from: https://www.mercer.com/en-us/solutions/health-and-
+benefits/research/national-survey-of-employer-sponsored-health-plans/
+18
+  Kaiser Family Foundation. Employer Health Benefits Survey [Internet]. Washington (DC): Kaiser Family
+Foundation [cited 2026 Jan 8]. Available from: https://www.kff.org/series/employer-health-benefits-survey/
+19
+  National Center for Education Statistics. Common Core of Data: America’s Public Schools [Internet].
+Washington (DC): National Center for Education Statistics [cited 2026 Jan 9]. Available via query from:
+https://nces.ed.gov/ccd/files.asp
+20
+  National Center for Education Statistics. Digest of Education Statistics [Internet]. Washington (DC):
+National Center for Education Statistics [cited 2026 Jan 9]. Available via query from:
+https://nces.ed.gov/programs/digest/current_tables.asp
+21
+  Centers for Medicare & Medicaid Services. Medicare Provider Analysis and Review [Internet]. Baltimore
+(MD): Centers for Medicare & Medicaid Services [cited 2026 Jan 9]. Available from:
+https://www.cms.gov/data-research/statistics-trends-and-reports/medicare-fee-for-service-parts-a-
+b/medpar
+
+ Centers for Medicare & Medicaid Services. Chronic Conditions Data Warehouse [Internet]. Baltimore (MD):
+22
+
+Centers for Medicare & Medicaid Services [cited 2026 Jan 9]. Available from: https://www2.ccwdata.org/
+23
+  Health Care Financing Administration. Tabulations from Medicare’s home health cost reports. Baltimore
+(MD): Health Care Financing Administration; 1974–1976 and 1981–1984. Unpublished.
+24
+  Freeman V. Income and expenditures in voluntary public health nursing agencies, 1967. Nurs Outlook.
+1969 Mar;17:40–3.
+
+ Bureau of Labor Statistics. Quarterly Census of Employment and Wages [Internet]. Washington (DC):
+25
+
+Bureau of Labor Statistics [cited 2026 Jan 12]. Available from: https://www.bls.gov/cew/
+
+ National Center for Health Statistics. National Nursing Home Survey [Internet]. Hyattsville (MD): National
+26
+
+Center for Health Statistics; 1972–2004 [cited 2026 Jan 8]. Available via query from: https://archive.cdc.gov/
+27
+  Census Bureau. Current Employment Statistics - CES (National) [Internet]. Suitland (MD): Census Bureau
+[cited 2026 Jan 8]. Available from: https://www.bls.gov/ces/
+28
+  Centers for Medicare & Medicaid Services. Skilled Nursing Facility Market Basket [Internet]. Baltimore
+(MD): Centers for Medicare & Medicaid Services [cited 2026 Jan 8]. Available from:
+https://www.cms.gov/data-research/statistics-trends-and-reports/medicare-program-rates-
+statistics/market-basket-data
+
+
+
+
+                                                      40
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+
+
+29
+  Census Bureau. Monthly Retail Trade [Internet]. Suitland (MD): Census Bureau; 1982–2017 [cited 2026 Jan
+8]. Available from: https://www.census.gov/retail/index.html
+30
+  IQVIA. Unpublished data from the National Prescription Audit and the Method of Payment Report. Durham
+(NC): IQVIA; 1992–2024.
+31
+  Centers for Medicare & Medicaid Services. Medical Loss Ratio Data and System Resources [Internet].
+Baltimore (MD): Centers for Medicare & Medicaid Services [cited 2026 Jan 8]. Available from:
+https://www.cms.gov/marketplace/resources/data/medical-loss-ratio-data-systems-resources
+
+ Health Care Cost Institute. Health Care Cost and Utilization Report [Internet]. Washington (DC): Health
+32
+
+Care Cost Institute Inc.; 2018-2022 [cited 2026 Jan 12]. Available from: https://healthcostinstitute.org/hccur/
+33
+  Centers for Medicare & Medicaid Services. Medicare Current Beneficiary Survey [Internet]. Baltimore (MD):
+Centers for Medicare & Medicaid Services [cited 2026 Jan 12]. Available from: https://www.cms.gov/data-
+research/research/medicare-current-beneficiary-survey
+34
+  Bureau of Labor Statistics. Consumer Expenditure Surveys [Internet]. Washington (DC): Bureau of Labor
+Statistics; 1960–2020 [cited 2026 Jan 8]. Available from: https://www.bls.gov/cex/
+
+ Visiting Nurse Association of America. Survey of Visiting Nurse Association of America Members.
+35
+
+Washington (DC): Visiting Nurse Association of America; 1988.
+36
+  American Medical Association. Socio-economic Monitoring System. Chicago (IL): American Medical
+Association;1984–2001.
+37
+  American Dental Association. Annual Survey of Dental Practice. Chicago (IL): American Dental Association;
+1980–2000.
+38
+  Research Triangle Institute. Benchmark Studies of the National Health Accounts. Research Triangle Park
+(NC): Research Triangle Institute; 1987 Mar. Contract No.: 500-86-0042. Prepared for the Health Care
+Financing Administration.
+39
+  National Center for Health Services Research. National Medical Care Expenditure Survey. Washington
+(DC): U.S. Department of Health and Human Services; 1977, 1987.
+40
+  National Center for Health Statistics; Health Care Financing Administration. National Medical Care
+Utilization and Expenditure Survey. Washington (DC): U.S. Department of Health and Human Services; 1980.
+Unpublished.
+41
+   Agency for Healthcare Research and Quality. Medical Expenditure Panel Survey-Household Component
+[Internet]. Rockville (MD): Agency for Healthcare Research and Quality [cited 2026 Jan 8]. Available from:
+https://meps.ahrq.gov/mepsweb/survey_comp/household.jsp
+42
+     A.M. Best. A.M. Best’s Financial Suite, Statement Products. Oldwick (NJ): A.M. Best; 2001–2024.
+43
+  Centers for Medicare & Medicaid Services. Unpublished data from the Center for Consumer Information
+and Insurance Oversight.
+44
+  Centers for Medicare & Medicaid Services. Annual Report of the Boards of Trustees of the Federal Hospital
+Insurance and Federal Supplementary Medical Insurance Trust Funds [Internet]. Baltimore (MD): Centers for
+Medicare & Medicaid Services [cited 2026 Jan 8]. Available from: https://www.cms.gov/data-
+research/statistics-trends-and-reports/trustees-report-trust-funds
+
+ Centers for Medicare & Medicaid Services. Medicaid Expenditure Reports [Internet]. Baltimore (MD):
+45
+
+Centers for Medicare & Medicaid Services [cited 2026 Jan 8]. Available from:
+
+
+
+                                                       41
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+
+
+https://www.medicaid.gov/medicaid/financial-management/state-budget-expenditure-reporting-for-
+medicaid-and-chip/expenditure-reports-mbes/cbes
+46
+  Centers for Medicare & Medicaid Services. Medicaid Analytic eXtract [Internet]. Baltimore (MD): Centers for
+Medicare & Medicaid Services [cited 2026 Jan 8]. Available from: https://www.medicaid.gov/medicaid/data-
+systems/macbis/medicaid-chip-research-files/medicaid-analytic-extract-max-general-information
+47
+   Centers for Medicare & Medicaid Services. Transformed Medicaid Statistical Information System (T-MSIS)
+Analytical Files (TAF) [Internet]. Baltimore (MD): Centers for Medicare & Medicaid Services [cited 2026 Jan 8].
+Available from: https://www.medicaid.gov/medicaid/data-systems/macbis/medicaid-chip-research-
+files/transformed-medicaid-statistical-information-system-t-msis-analytic-files-taf
+48
+  Centers for Medicare & Medicaid Services. Approved State Directed Payment Preprints [Internet].
+Baltimore (MD): Centers for Medicare & Medicaid Services [cited 2026 Jan 8]. Available from:
+https://www.medicaid.gov/medicaid/managed-care/guidance/state-directed-payments/approved-state-
+directed-payment-preprints
+49
+   Census Bureau. Health Care and Social Assistance: Revenue by Type of Payer for the US and States: 2017
+[Internet]. Suitland (MD): Census Bureau [cited 2026 Jan 8]. Available from:
+https://data.census.gov/table/ECNTYPEPAYER2017.EC1762TYPEPAYER?q=EC1762TYPEPAYER&hidePrevie
+w=true
+
+ U.S. Department of Defense. TRICARE Management Activity. Resource Management. Washington (DC):
+50
+
+Department of Defense; 1981–2024.
+51
+  U.S. Department of Defense. Unpublished data from the Medical Expense and Performance Reporting
+System for Fixed Military Medical and Dental Treatment Facilities. Washington (DC): Department of Defense;
+2006–2020.
+
+ U.S. Department of Defense. TRICARE Management Activity. Data Quality and Functional Proponency.
+52
+
+Washington (DC): Department of Defense; 1980–2024.
+53
+  U.S. Department of Veterans Affairs. Unpublished data from the Allocation Resource Center. Washington
+(DC): Department of Defense; 1999-2024.
+
+ Executive Office of the President. Budget of the United States Government. Washington (DC): Office of
+54
+
+Management and Budget.
+55
+  U.S. Department of the Treasury. Monthly Treasury Statement (MTS) [Internet]. Washington (DC): U.S.
+Department of the Treasury [cited 2026 Jan 8]. Available from:
+https://fiscaldata.treasury.gov/datasets/monthly-treasury-statement/summary-of-receipts-outlays-and-the-
+deficit-surplus-of-the-u-s-government
+56
+  U.S. Department of Veterans Affairs. Budget [Internet]. Washington (DC): Department of Veterans Affairs
+[cited 2026 Jan 8]. Available from: https://department.va.gov/administrations-and-
+offices/management/budget/
+57
+  Insurance Information Institute. Facts + statistics [Internet]. Malvern (PA): Insurance Information Institute;
+2002–2023 [cited 2025 Dec 4]. Available from:https://www.iii.org/fact-statistic/facts-statistics-homeowners-
+and-renters-insurance; https://www.iii.org/fact-statistic/facts-statistics-auto-insurance
+58
+   National Highway Traffic Safety Administration. Motor Vehicle Traffic Crash Data Resource Page
+[Internet].Washington (DC): National Highway Traffic Safety Administration 2019–2023 [cited 2026 Jan 8].
+Available via query from: https://crashstats.nhtsa.dot.gov/#!/
+
+
+
+
+                                                      42
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+
+
+59
+   National Association of Insurance Commissioners. Market Share Reports for Groups and Companies
+[Internet]. Washington (DC): National Association of Insurance Commissioners [cited 2026 Jan 8]. Available
+via query from: https://content.naic.org/publications
+
+ National Academy of Social Insurance. Workers’ Compensation Benefits, Costs, and Coverage.
+60
+
+Washington (DC):National Academy of Social Insurance.
+61
+  National Association of State Budget Officers. State Expenditure Report [Internet]. Washington (DC):
+National Association of State Budget Officers [cited 2026 Jan 8]. Available from:
+https://www.nasbo.org/reports-data/state-expenditure-report
+
+ Public Health Foundation. Public Health Agencies: Expenditures and Sources of Funds. Washington (DC):
+62
+
+Public Health Foundation; 1977–1990.
+
+ Maternal & Child Health Bureau. Explore the Title V Federal-State Partnership [Internet]. Rockville (MD):
+63
+
+Maternal & Child Health Bureau cited [2026 Jan 8]. Available from https://mchb.tvisdata.hrsa.gov/
+64
+  U.S. Department of Education. Fiscal Year 2023-FY 2025 President’s Budget State Tables for the U.S.
+Department of Education. Washington (DC): U.S. Department of Education [cited 2026 Jan 12]. Available
+from: https://www.ed.gov/about/ed-overview/annual-performance-reports/budget/budget-tables/fiscal-
+year-2023-fy-2025-presidents-budget-state-tables-us-department-of-education#update
+65
+  Rehabilitation Services Administration. View data. Washington (DC): Rehabilitation Services Adminstration
+[cited 2026 Jan 12]. Available from https://rsa.ed.gov/data/view-data
+66
+  Centers for Medicare & Medicaid Services. Accounting for Federal COVID Expenditures in the National
+Health Expenditure Accounts [Internet]. Baltimore (MD): Centers for Medicare & Medicaid Services [cited
+2026 Jan 8]. Available from: www.cms.gov/files/document/accounting-federal-covid-expenditures-national-
+health-expenditure-accounts.pdf
+
+ National Center for Educational Statistics. Digest of Education Statistics. Washington (DC):National
+67
+
+Center for Educational Statistics; 2008.
+68
+     This category was formerly labeled “Net cost of health insurance”.
+69
+   Agency for Healthcare Research and Quality. Medical Expenditure Panel Survey-Insurance Component
+[Internet]. Rockville (MD): Agency for Healthcare Research and Quality; 1996–2006, 2008–2024. Available
+from: https://meps.ahrq.gov/mepsweb/survey_comp/Insurance.jsp
+70
+     National Association of Blue Cross and Blue Shield. Personal communication. Chicago (IL): 1960–2005.
+71
+     National Underwriter Company. Argus Chart of Health Insurance. New York (NY): 1960–1996.
+72
+     American Association of Health Plans. Annual Publication. Washington (DC): 1984–1994.
+73
+  National Institutes of Health. NIH Data Book 1994. Bethesda (MD): U.S. Department of Health and Human
+Services; 1995 Mar. NIH Pub. No. 95-1261.
+74
+  National Science Foundation. Survey of Federal Funds for Research and Development [Internet].
+Alexandria (VA): National Center for Science and Engineering Statistics [cited 2026 Jan 8]. Available from:
+https://ncses.nsf.gov/surveys/federal-funds-research-development/2023-2024
+75
+  National Science Foundation. Higher Education Research and Development Survey [Internet]. Alexandria
+(VA): National Center for Science and Engineering Statistics [cited 2026 Jan 8]. Available from:
+https://ncses.nsf.gov/surveys/higher-education-research-development/2024
+
+
+
+
+                                                        43
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+
+
+76
+  Suozzo A, Glassford A, Ngu A, Roberts B. Nonprofit Explorer [Internet]. ProPublica;2025 Dec 22 [cited 2026
+Jan 8]. Available via query from: https://projects.propublica.org/nonprofits/
+77
+  Urban Institute. Welcome to the National Center for Charitable Statistics [Internet]. Washington (DC):
+Urban Institute [cited 2026 Jan 8]. Available at https://nccs.urban.org/
+78
+  U.S. Department of Health and Human Services, Centers for Medicare & Medicaid Services. Healthcare
+Provider Cost Reporting Information System (HCRIS), Form CMS-2552-10. [Internet]. Baltimore (MD): CMS;
+[cited 2025 Dec 10]. Available from: https://www.cms.gov/data-research/statistics-trends-and-reports/cost-
+reports
+79
+  Census Bureau. Annual Capital Expenditures Survey (ACES) [Internet]. Suitland (MD): Census Bureau
+[cited 2026 Jan 8]. Available from: https://www.census.gov/programs-surveys/aces.html.
+80
+  Census Bureau. Construction Spending [Internet]. Suitland (MD): Census Bureau [cited 2026 Jan 8].
+Available from: https://www.census.gov/construction/c30/c30index.html.
+81
+  Census Bureau. Manufacturers’ Shipments, Inventories, & Orders [Internet]. Suitland (MD): Census Bureau
+[cited 2026 Jan 8]. Available from: https://www.census.gov/manufacturing/m3/index.html.
+82
+  In general, COBRA requires certain employers to continue to offer former employees and their dependents
+health insurance coverage at a cost of 102 percent of the employer premium for a period of 18 months.
+83
+     Office of Personnel Management. Unpublished data.1987–2024.
+
+ Bureau of Labor Statistics. Employer Costs for Employee Compensation [Internet] Washington (DC):
+84
+
+Bureau of Labor Statistics [cited 2026 Jan8]. Available from: https://www.bls.gov/ecec/
+85
+     National Association of Insurance Commissioners. Personal communication. Chicago (IL): 1960–2005.
+86
+  Centers for Medicare & Medicaid Services. Medigap (Medicare Supplement Health Insurance) [Internet].
+Baltimore (MD) [cited 2026 Jan8]. Available from: https://www.cms.gov/medicare/health-drug-
+plans/medigap
+87
+  As part of the American Recovery and Reinvestment Act of 2009 (ARRA) persons that lost their jobs
+involuntarily had a temporary reduction in their COBRA premiums. The period of coverage was initially for 9
+months and then extended to 15 months as the result of the COBRA Coverage Extension Act of 2009. If a
+person or family member was involuntarily terminated during the period from September 1, 2008 to May 31,
+2010 the household may be eligible to pay a reduced premium. Eligible individuals pay only 35 percent of the
+COBRA premium under their plan for up to 15 months. Data for the estimates of the amount of COBRA
+subsidy was from U.S. Department of the Treasury. Interim Report to The Congress on COBRA Premium
+Assistance. Washington (DC): June 2010.
+88
+  A small expenditure for workers’ compensation covering federal employees is the financial responsibility of
+the federal government as an employer. In both the National Health Expenditure Accounts’ source of funding
+and sponsor presentations, workers’ compensation for federal employers is in the federal category.
+89
+  National Center for Health Statistics. National Health Interview Survey [Internet]. Washington (DC):
+National Center for Health Statistics; 1966–2024 [cited 2026 Jan8]. Available from:
+https://www.cdc.gov/nchs/nhis/index.html
+90
+  Health Insurance Association of America. Source Book of Health Insurance Data. Washington (DC): HIAA;
+1989-2001.
+
+
+
+
+                                                     44
+National Health Expenditure Accounts (NHEA): Methodology Paper, 2024
+
+
+
+91
+  Carroll MS, Arnett RH. Private health insurance plans in 1978 and 1979: a review of coverage, enrollment,
+and financial experience. Health Care Financ Rev. 1981 Sep;3(1):55–87. HCFA Pub. No. 03123.
+92
+  State Health Access Data Assistance Center. SHADAC‐Enhanced Current Population Survey Health
+Insurance Coverage Estimates: A Summary of Historical Adjustments [Internet]. Minneapolis (MN): State
+Health Access Data Assistance Center; 2009 Nov [cited 2026 Jan 8]. Available from:
+https://www.shadac.org/files/shadac/publications/TechBrief_CPSEnhanced.pdf
+93
+  Oregon and Minnesota had BHPs in 2024 (OHP Bridge and MinnesotaCare, respectively). Also included is
+New York’s plan, the Essential Plan, which was previously a BHP until 2024 when it gained funding through a
+Section 1332 innovation waiver.
+94
+  Medicaid.gov. Medicaid Enrollment Data Collected Through MBES [Internet]. Baltimore (MD): Centers for
+Medicare & Medicaid Services [cited 2026 Jan 8]. Available from:
+https://www.medicaid.gov/medicaid/national-medicaid-chip-program-information/medicaid-chip-
+enrollment-data/medicaid-enrollment-data-collected-through-mbes
+95
+   Health.mil. Evaluation of the TRICARE Program: Fiscal Year Report to Congress [Internet]. Falls Church
+(VA): Defense Health Agency [cited 2026 Jan 8]. Available from: https://health.mil/Military-Health-
+Topics/Access-Cost-Quality-and-Safety/Health-Care-Program-Evaluation/Annual-Evaluation-of-the-
+TRICARE-Program
+96
+  U.S. Department of Veterans Affairs. Survey of Veteran Enrollees’ Health and Use of Health Care [Internet].
+Washington (DC): Department of Veterans Affairs [cited 2026 Jan 8]. Available from:
+https://www.va.gov/health/survey.asp
+97
+  Centers for Medicare & Medicaid Services. National Health Expenditure Accounts: NHE Deflator [Internet].
+Available from: https://www.cms.gov/research-statistics-data-and-systems/statistics-trends-and-
+reports/nationalhealthexpenddata/downloads/nhe-deflator.pdf
+98
+  Ford IK, Ginsburg DH. Medical care in the Consumer Price Index. In: Medical Care Output and Productivity.
+Studies in Income and Wealth, Vol. 62. Cambridge (MA): University of Chicago Press; 2001.
+99
+  National Institutes of Health. Biomedical Research and Development Price Index [Internet]. Washington
+(DC): National Institutes of Health; 2025 Jun [cited 2026 Jan 8]. Available from:
+https://officeofbudget.od.nih.gov/gbipriceindexes.html.
+100
+   The growth of the input price indexes serves as a proxy for the output price increase associated with the
+production of these services since a specific output price index is unavailable. This approach implicitly
+assumes that changes in productivity (and in some cases margins) average to roughly zero such that the
+input price equals the output price.
+
+
+
+
+                                                      45
+

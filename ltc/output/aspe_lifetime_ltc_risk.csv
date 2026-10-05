@@ -1,0 +1,33 @@
+source,cohort,measure,value,unit
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,Any significant LTSS need (2+ ADLs >=90 days or severe cognitive impairment),56.4,% of people
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,Need lasting >5 years,22.1,% of people
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,"Any significant need, men",48.6,% of people
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,"Any significant need, women",63.7,% of people
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,Any paid LTSS use,45.3,% of people
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,Paid LTSS 5+ years,4.4,% of people
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,Average years of need (all),3.1,years
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,Average years of paid LTSS (all),0.8,years
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,Average lifetime paid LTSS cost (all),120900,2020 $
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,Average lifetime paid LTSS cost (users),245400,2020 $
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,Medicaid share of lifetime cost,43,%
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,Out-of-pocket share of lifetime cost,37,%
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,"Other public share (VA, OAA, Medicare hospice)",15,%
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,Private insurance share of lifetime cost,5,%
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,"Out of pocket >= $100,000",14,% of people
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,"Out of pocket > $250,000",6.4,% of people
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,"Out of pocket > $250,000, top income quintile",10.3,% of people
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,"Ever on Medicaid LTSS, bottom income quintile",35.4,% of people
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,"Ever on Medicaid LTSS, top income quintile",5.7,% of people
+ASPE 2022 (Johnson & Dey; DYNASIM4),turning 65 in 2021-2025,"Value of unpaid family care, recipients",204000,2020 $
+ASPE 2016 (Favreault & Dey; DYNASIM3),turning 65 in 2015-2019,Any LTSS need,52.3,% of people
+ASPE 2016 (Favreault & Dey; DYNASIM3),turning 65 in 2015-2019,Average years of need (all),2.0,years
+ASPE 2016 (Favreault & Dey; DYNASIM3),turning 65 in 2015-2019,"Average lifetime LTSS cost (all, incl. Medicare)",138100,2015 $
+ASPE 2016 (Favreault & Dey; DYNASIM3),turning 65 in 2015-2019,Out-of-pocket share of lifetime cost,52.3,%
+ASPE 2016 (Favreault & Dey; DYNASIM3),turning 65 in 2015-2019,"Out of pocket >= $100,000",17,% of people
+"ASPE 2019 (Johnson; HRS 1995-2014, historical)",survivors to 65,Develop severe LTSS needs before death,70,% of people
+"ASPE 2019 (Johnson; HRS 1995-2014, historical)",survivors to 65,Receive any paid LTSS,48,% of people
+"ASPE 2019 (Johnson; HRS 1995-2014, historical)",survivors to 65,90+ days of nursing home care,28,% of people
+"ASPE 2019 (Johnson; HRS 1995-2014, historical)",survivors to 65,Medicaid-financed long-term nursing home care,13,% of people
+"ASPE 2019 (Johnson; HRS 1995-2014, historical)",survivors to 65,More than 2 years in a nursing home,15,% of people
+"ASPE 2019 (Johnson; HRS 1995-2014, historical)",survivors to 65,"Severe needs, women / men",75 / 64,% of people
+"Kemper, Komisar & Alecxih 2005/06 (cited in ASPE 2019)",turning 65 in 2005,"Need LTSS (broader definition: 2+ ADLs, 4+ IADLs, or any paid care)",69,% of people

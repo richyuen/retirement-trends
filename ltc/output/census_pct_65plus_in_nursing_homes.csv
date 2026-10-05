@@ -1,0 +1,5 @@
+census_year,pct_65plus,pct_65_74,pct_75_84,pct_85plus,source
+1990,5.1,1.4,6.1,24.5,Census C2KBR/01-10 Table 8 (1990 CPH-L-137)
+2000,4.5,1.1,4.7,18.2,Census C2KBR/01-10 Table 8
+2010,3.1,0.9,3.2,11.2,"Census P23-212 (65+ in the United States: 2010), p.49"
+2020,2.5,0.9,2.7,10.2,"Census C2020BR-07 (The Older Population: 2020), p.9"

@@ -1,0 +1,325 @@
+                                                                                              RETIREMENT
+                                                                                              RESEARCH
+May 2025 Number 25-10
+
+
+
+
+HOW MUCH HAVE SOCIAL SECURITY
+CLAIMING AGES INCREASED?
+By Anqi Chen, Alicia H. Munnell and Nilufer Gok*
+
+
+
+Introduction
+Working longer – when possible – has been gener-               over time, one must look at cohort data. Such data
+ally accepted as good advice for a secure retirement.          show, of the potential claimants turning 62 in a given
+It directly increases current income; it allows people         year, the percentage who claim as soon as possible.
+to contribute more to their 401(k)s; it shortens the           This brief uses both sources of data to look at the
+period of retirement; and, importantly, delaying               short-term – pre- and post-COVID – and long-term
+claiming of Social Security results in a much higher           trends in claiming.
+monthly benefit. The good news is that people have                 The discussion proceeds as follows. The first
+responded; the long-term trend toward earlier retire-          section uses the annual claims data to document the
+ment came to a halt in the mid-1980s, labor force              change in claiming from 2019 to 2023 and the per-
+participation rates at older ages began to increase in         centage claiming at 62 from 1985-2023. The second
+the mid-1990s, and since then the average retirement           section describes the change beginning in the mid-
+age has increased by three years. The question is the          1990s in the number of people turning 62 each year
+extent to which working longer has translated into             and discusses how this “cohort effect” exaggerates the
+delayed claiming of Social Security benefits.                  number claiming at 62 in the published numbers. It
+     Some information can be gleaned from the claims           also notes that, recently, 62-year-olds have stabilized
+data published annually by the U.S. Social Security            as a share of the population so shifting sizes of age
+Administration (SSA). These data show, for all work-           groups is not distorting current comparisons going
+ers claiming benefits in a given year, the percentage who      forward. But birth-year data are essential for any
+are ages 62, 63, 64, etc., which is informative for any        historical comparisons, so the third section compares
+given year. But when the size of the group turning 62          from 1985 to 2023 the claim-age and birth-year data for
+is increasing substantially each year, the claims data         claiming at age 62 and the average claiming age using
+underestimate the trend toward later claiming. That            the two sources of data. The final section concludes
+is, the data will show age-62 claimants making up a            that, no matter what the data source, people are delay-
+larger portion of total new claimants in a given year          ing claiming, although the two-year increase in the av-
+even if a smaller percentage of those age 62 claim             erage claiming age from 63 to 65 falls slightly short of
+immediately. To accurately follow claiming behavior            the three-year increase in the average retirement age.
+
+
+
+* The authors are all with the Center for Retirement Research at Boston College. Anqi Chen is the associate director of
+savings and household finance. Alicia H. Munnell is a senior advisor. Nilufer Gok is the research manager.
+2                                                                                      Center for Retirement Research
+
+
+Data by Claim Year                                                  These same data can be used to create a historical
+                                                                 record of early claiming for the period 1985-2023 (see
+Much has been written about the impact of COVID                  Figure 2). Over that time, despite the bias created by
+on the work patterns of older adults. The consensus              rapidly increasing numbers of 62-year-olds, the per-
+was that while the pandemic pushed many older                    centage claiming early began to drop in 2005 – declin-
+adults out of work, it did not result in earlier self-           ing from around 60 percent to less than 30 percent.
+reported retirement or Social Security claiming.1
+Indeed, the distribution of both men and women
+by claiming age supports that early assessment. Of               Figure 2. Share of Individuals Claiming Retired-
+those claiming benefits in 2019 and 2023, a smaller              Worker Benefits at Age 62, 1985-2023
+share of both men and women claimed at age 62, and
+                                                                 75%
+a much larger share claimed at ages 67+ (see Figures
+                                                                                                                        Women
+1a and 1b).
+                                                                                                                        Men
+
+
+                                                                 50%
+Figure 1. Age Distribution of Claiming Retired-
+Worker Benefits, 2019 and 2023
+A. Men
+                                                                 25%
+40%
+                                                          2019
+                                                          2023
+       31%
+30%
+          26%                                             26%     0%
+                                           23%                         1985   1990   1995   2000   2005   2010   2015   2020
+
+20%                                                    19%       Source: Authors’ calculations from SSA (2024).
+                                     16%         17%
+                                 13%
+10%                                                                  The problem with this figure is that the pattern is
+                7% 7%    7% 8%
+                                                                 inconsistent with the fact that the uptick in work ef-
+                                                                 fort actually began in the mid-1990s not in 2005. The
+ 0%                                                              inconsistency arises because the number of people
+         62       63       64       65     66 (FRA)
+                                              (FRA)     67 +     turning age 62 started to increase dramatically in 1997,
+B. Women                                                         making the claim-year data look like many were opting
+                                                                 for early claiming – the so-called “cohort” effect.2
+40%
+       34%                                                2019
+
+30%
+                                                          2023
+                                                                 The “Cohort” Effect
+          27%
+                                                          25%
+                                                                 An example provides the intuition behind the “co-
+                                                       20%
+                                                                 hort” effect. Suppose that beneficiaries can only claim
+20%
+                                     16% 17%                     at age 62 or 63 and that 55 percent of all people born
+                                                 15%             in any given year will claim at age 62 and the other 45
+                                 13%
+                                                                 percent will claim the following year when they turn
+10%                      8% 8%
+                7% 8%                                            63. If the number of people who attain ages 62 and
+                                                                 63 remains constant from one year to the next, then
+                                                                 the SSA published data on claim year and the cohort
+ 0%
+         62       63       64       65     66 (FRA)
+                                              (FRA)     67 +     data will tell the same story. If, instead, the number
+                                                                 of people attaining age 62 grows by 10 percent in a
+Note: FRA = Full Retirement Age.                                 given year, then the SSA published data will show that
+Source: Authors’ calculations from U.S. Social Security          57 percent of people who claim benefits each year are
+Administration (SSA) (2024).
+Issue in Brief                                                                                                           3
+
+
+age 62 and that 43 percent are age 63.3 In this case,       Figure 4. Share of 62-year-olds among 62-70-year-
+the SSA published data will exceed the unchanged            olds, 1980-2060
+claiming rate at 62 for each cohort.                        16%
+    In fact, the number of individuals turning 62
+began to increase significantly around 1997. Between
+1997 and 2023, the annual flow more than doubled
+from 2.0 million to 4.3 million (see Figure 3). The
+                                                            14%
+increase dramatically altered the age structure of the
+population eligible for retirement benefits.
+
+
+                                                            12%
+Figure 3. Population of 62-year-olds in the
+United States in Millions, 1950-2060
+6
+                                                            10%
+                                                               1980 1990 2000 2010 2020 2030 2040 2050 2060
+                                     4.3
+                                                            Note: 2024-2060 are National Population Projections from
+4
+                                                            the U.S. Census Bureau.
+                                                            Sources: U.S. Census Bureau (2015, 2021b, 2025a, 2025b),
+                                                            and NBER (2014).
+                        2.0
+2
+
+                                                            Comparing Results by Claim
+0                                                           Year and Birth Year
+ 1950   1965   1980   1995    2010   2025   2040    2055
+                                                            Figure 5 compares the percentage of men claiming at
+Note: 2024-2060 are National Population Projections from
+                                                            age 62 on a claim-year and birth-year (cohort) basis.
+the U.S. Census Bureau.
+                                                            The two approaches provide very similar results until
+Sources: U.S. Census Bureau (2015, 2021a, 2021b, 2025a,
+2025b), and NBER (2014).                                    1997; afterward, the two series start to diverge. The co-
+
+
+
+    The only way to isolate the behavior of, say,           Figure 5. Percentage of Men Claiming at Age 62
+62-year-olds is to determine the percentage of all          (Claim Year) and Percentage of Men Turning 62
+individuals born in a given year who claimed retired        Who Claimed at 62 (Birth Year)
+worker benefits at 62. The calculation is possible                                 Birth year
+because SSA has unpublished data on the number                     1923 1928 1933 1938 1943 1948 1953 1958
+of people eligible for retired-worker benefits by birth     100%                                                    100%
+year. The task is then to allocate cohort totals among
+claiming ages based on SSA’s published data.4               75%                                                     75%
+    Before reporting the results by birth year, it should
+be noted that the “cohort effect” is only relevant for
+evaluating long-term trends. The share of 62-year-          50%                                                     50%
+olds among those 62-70 has now returned to roughly
+12 percent of the total (see Figure 4), which means         25%                                                     25%
+that, currently, the published data by claim age will                   Claim year
+                                                                        Birth year
+provide a meaningful depiction of claiming trends.           0%                                                     0%
+That is, the published data for claiming between                   1985 1990 1995 2000 2005 2010 2015 2020
+2019 and 2023 do not include any cohort effects. For                             Year turning 62
+a historical perspective, however, the birth-year data      Sources: Authors’ calculations from SSA (2024, 2025).
+remain essential.
+4                                                                                Center for Retirement Research
+
+
+hort data reflect the uptick in labor force activity begin-   Endnotes
+ning in the mid-1990s – with longer work lives leading
+to later claiming – and show a much larger decline            1 See Quinby, Rutledge, and Wettstein (2021) and
+over the last three decades than the claim-age data.          citations therein.
+    Figure 6 shows the trend from 1985-2023 in the
+average claiming age for men on a claim-year and              2 Fertility rates hit a low point in the mid-1930s and
+birth-year basis (those cohorts turning 62 after 2015         then began recovering. This pattern (which preceded
+do not reach age 70 by 2023). As one would expect,            the beginning of the baby boom era that started a
+the increase is larger using the birth-year data, but         decade later) led to the surge in people turning 62 in
+both support the contention that the delay in retire-         the late 1990s.
+ment has been accompanied by a delay in claiming.
+The delay in claiming, however – even using the birth-        3 The calculation is .57 = (1.1*.55)/(1.1*.55+1.0*.45).
+year data – is only about two years – slightly less than
+the three-year increase in the average retirement age.5       4 For example, the unpublished data show that
+                                                              863,753 men born in 1923 turned age 62 and became
+                                                              eligible for benefits in 1985. The published data
+Figure 6. Average Claiming Age for Men by Claim               show 448,630 men claimed benefits at 62 in 1985,
+Year and Birth Year                                           all of whom by definition must be 1923-cohort men.
+                      Birth year
+                                                              Similarly, the published data show that 82,900 men
+     1923 1928 1933 1938 1943 1948 1953 1958
+                                                              claimed benefits at 63 in 1986, 110,580 claimed at 64
+66                                                      66    in 1987, etc., so the published data allow one to follow
+          Claim year                                          the claiming activity of the 1923 birth cohort over
+          Birth year                                          time. When the process is complete, it is possible to
+65                                                      65
+                                                              calculate the percentage of each cohort claiming at
+                                                              each age.
+64                                                      64
+                                                              5 The average retirement age is measured as the age
+63                                                      63    at which 50 percent of the male population is out of
+                                                              the labor force (see Munnell 2025). The pattern show-
+                                                              ing that the change in delayed claiming is slightly
+62                                                      62
+                                                              lower than the change in the average retirement age
+     1985 1990 1995 2000 2005 2010 2015 2020
+                    Year turning 62                           is not surprising because some people claim benefits
+                                                              before they stop working.
+Source: Authors’ calculations from SSA (2024).
+
+
+
+Conclusion
+The good news is that, prior to COVID, the trend over
+the last 20 years showed a dramatic decline in the
+percentage of 62-year-olds claiming benefits as soon
+as they became eligible, and that trend continued
+through COVID. As a result, the average claiming
+age has increased, although both the birth-year data
+and claim-age data show an increase that falls short of
+the three-year increase in the average retirement age.
+Issue in Brief                                         5
+
+
+References
+Munnell, Alicia H. 2025. “Will the Average Retire-
+  ment Age Keep Rising?” Issue in Brief 25-8. Chest-
+  nut Hill, MA: Center for Retirement Research at
+  Boston College.
+
+National Bureau of Economic Research. 2014. “U.S.
+   Census Intercensal Population Estimates.” Cam-
+   bridge, MA.
+
+Quinby, Laura D., Matthew S. Rutledge, and Gal
+  Wettstein. 2021. “How Has COVID-19 Affected
+  the Labor Force Participation of Older Workers?”
+  Working Paper 2021-13. Chestnut Hill, MA: Cen-
+  ter for Retirement Research at Boston College.
+
+U.S. Census Bureau. 2025a. “National Population
+   Characteristics: 2010-2019.” Washington, DC.
+
+__________. 2025b. “National Population Characteris-
+   tics: 2020-2024.” Washington, DC.
+
+__________. 2021a. “National Intercensal Tables:
+   1900-1990.” Washington, DC.
+
+__________. 2021b. “National Intercensal Tables:
+   2000-2010.” Washington, DC.
+
+__________. 2015. “National Population Projections:
+   United States by Age, Sex, Ethnicity and Race
+   for Years 2014-2060” on CDC WONDER Online
+   Database. Washington, DC.
+
+U.S. Social Security Administration. 2025. Unpub-
+   lished Data on Initial Social Security Benefit
+   Awards and Eligibility Status. Baltimore, MD.
+
+__________. 2024. Annual Statistical Supplement,
+   2024. SSA Publication No. 13-11700. Baltimore,
+   MD.
+RETIREMENT
+RESEARCH
+
+
+About the Center                                                Affiliated Institutions
+The mission of the Center for Retirement Research               Mathematica – Center for Studying Disability Policy
+at Boston College is to produce first-class research            Syracuse University
+and educational tools and forge a strong link between           University of Massachusetts Boston
+the academic community and decision-makers in                   Urban Institute
+the public and private sectors around an issue of
+critical importance to the nation’s future. To achieve
+this mission, the Center conducts a wide variety
+                                                                Contact Information
+                                                                Center for Retirement Research
+of research projects, transmits new findings to a
+                                                                Boston College
+broad audience, trains new scholars, and broadens
+                                                                Haley House
+access to valuable data sources. Since its inception
+                                                                140 Commonwealth Avenue
+in 1998, the Center has established a reputation as
+                                                                Chestnut Hill, MA 02467-3808
+an authoritative source of information on all major
+                                                                Phone: (617) 552-1762
+aspects of the retirement income debate.
+                                                                Fax: (617) 552-0191
+                                                                E-mail: crr@bc.edu
+                                                                Website: https://crr.bc.edu/
+
+
+
+
+  The Center for Retirement Research thanks Allianz Life Insurance Company of North America, Bank of America,
+ Capitalize®, Cheiron, First Eagle Investments, Great Gray Trust Company, Guideline, Manulife® | John Hancock®,
+         The Pew Charitable Trusts, TIAA Institute, and Wells Fargo Bank, N.A. for support of this project.
+
+
+
+
+© 2025, by Trustees of Boston College, Center for Retirement Research. All rights reserved. Short sections of text, not to
+exceed two paragraphs, may be quoted without explicit permission provided that the authors are identified and full credit,
+including copyright notice, is given to Trustees of Boston College, Center for Retirement Research.
+
+The research reported herein was supported by the Center’s Partnership Program. The findings and conclusions expressed
+are solely those of the authors and do not represent the views or policy of the partners, Boston College, or the Center for
+Retirement Research.
+

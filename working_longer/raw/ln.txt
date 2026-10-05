@@ -1,0 +1,286 @@
+LABOR FORCE STATISTICS FROM THE CURRENT POPULATION SURVEY (LN database)
+				ln.txt
+
+Section Listing
+
+1. Survey definition
+2. Flat files listed in the survey directory
+3. Series file, data file, mapping file, and aspect file definitions and relationships
+4. Series file format 
+5. Data file format and field definitions
+6. Mapping file formats and field definitions
+7. Aspect file format and field definitions
+
+
+================================================================================
+Section 1 - Survey definition
+================================================================================
+
+Survey description:
+
+The labor force statistics (LN) database provides information from the Current Population Survey (CPS), 
+frequently referred to as the household survey, that provides information on the labor force status, demographics, 
+and other characteristics of the nation's civilian noninstitutional population age 16 and over. The survey is 
+conducted monthly for the Bureau of Labor Statistics (BLS) by the U.S. Census Bureau from a scientifically 
+selected national sample of about 60,000 eligible households in the 50 states and the District of Columbia. 
+Data generally refer a person’s status in the survey reference week, usually the 7-day calendar week (Sunday–Saturday)
+that includes the 12th of the month.
+
+Summary data available: CPS data are available for the civilian noninstitutional population age 16 
+and older and various detailed groups, with estimates available by age, race, sex, Hispanic or Latino
+ethnicity, employment status, occupation, industry, class of worker (self-employment status), educational attainment,
+telework status, and other characteristics.
+
+Frequency of observations: LN series are produced as monthly, quarterly average, and annual average series. 
+There are many related series that differ only by periodicity. Some monthly data series are seasonally adjusted; 
+when a seasonally adjusted series exists in the database, a not seasonally adjusted series also is present. 
+Annual averages are stored with monthly not seasonally adjusted series. Nearly all monthly series also have a related
+series with quarterly averages. About 40 percent of the series in the LN database are series with only annual averages
+
+Data characteristics: Data include counts of people (presented in thousands) and rates such as the unemployment rate,
+labor force participation rate, and employment-population ratio. (Rates and ratios are expressed as percents with 
+one decimal place.) Information is also available on hours worked for the employed and the duration of unemployment.
+
+Updating schedule: The LN database is updated monthly with the issuance of the monthly 
+Employment Situation news release. (The schedule is online at https://www.bls.gov/schedule/news_release/empsit.htm.) 
+Quarterly estimates are available with the publication of the last month in the quarter. 
+Annual averages are available with the December estimates.
+
+Most CPS estimates are considered final when published and are not subject to routine revision. A small portion of CPS 
+times series are seasonally adjusted. At the end of each calendar year, BLS reestimates the seasonal factors for the 
+CPS series by including another full year of data in the estimation process. Following this annual reestimation, 
+BLS revises the historical seasonally adjusted data for the previous 5 years. Not seasonally adjusted data are 
+considered final when published. (Learn more about seasonal adjustment at https://www.bls.gov/cps/documentation.htm#sa.)
+
+Additional information about the CPS is available at https://www.bls.gov/cps/documentation.htm.
+
+The LN database is one of several databases containing information from the CPS. Other databases have information on 
+earnings, union membership, and other topics. Learn more at https://www.bls.gov/cps/data.htm.
+
+If you have questions about these data, please contact staff via email at CPSInfo@bls.gov
+
+
+================================================================================
+Section 2 - Flat files listed in the survey directory
+================================================================================
+
+The following CPS labor force files are on the BLS internet in the 
+sub-directory https://download.bls.gov/pub/time.series/ln/:
+
+       ln.absn			- Absence codes 					mapping file
+       ln.activity		- Activity (school enrollment) codes 			mapping file
+       ln.ages			- Age group codes 					mapping file
+       ln.aspect		- Standard errors for data				data file
+       ln.born			- Native/foreign born codes 				mapping file
+       ln.cert			- Certification/licensing codes 			mapping file
+       ln.chld			- Presence of children codes 				mapping file
+       ln.class			- Class of worker codes 				mapping file
+       ln.data.1.AllData	- All data						data file
+       ln.disa			- Disability codes 					mapping file
+       ln.duration 		- Duration codes 					mapping file
+       ln.education 		- Education codes 					mapping file
+       ln.entr 			- Unemployed new entrants/reentrants codes 		mapping file
+       ln.expr	 		- Experienced unemployed codes 				mapping file
+       ln.footnote 		- Footnote codes 					mapping file
+       ln.hheader 		- Women who maintain families (family heads) codes 	mapping file
+       ln.hour	 		- Hours worked codes 					mapping file
+       ln.indy	 		- Industry codes 					mapping file
+       ln.jdes	 		- Want a job codes 					mapping file
+       ln.lfst	 		- Labor force status codes 				mapping file
+       ln.look	 		- Job seeker codes 					mapping file
+       ln.mari	 		- Marital status codes 					mapping file
+       ln.mjhs	 		- Multiple jobholder codes 				mapping file
+       ln.occupation 		- Occupation codes 					mapping file
+       ln.orig	 		- Hispanic or Latino ethnicity codes 			mapping file
+       ln.pcts	 		- Percentage codes 					mapping file
+       ln.periodicity 		- Periodicity codes 					mapping file
+       ln.race	 		- Race codes 						mapping file
+       ln.rjnw	 		- Absence reason codes 					mapping file
+       ln.rnlf	 		- NLF job search and reason codes 			mapping file
+       ln.rwns	 		- Part time reason codes 				mapping file
+       ln.seasonal 		- Seasonal adjustment codes 				mapping file
+       ln.seek	 		- Job seeker codes 					mapping file
+       ln.series		- All series with titles and beginning and end dates
+       ln.sexs	 		- Sex codes 						mapping file
+       ln.tdat	 		- Data type codes 					mapping file
+       ln.tlwk	 		- Telework codes 					mapping file
+       ln.txt			- General information
+       ln.vets	 		- Veteran status codes 					mapping file
+       ln.wkst	 		- Work status codes 					mapping file
+
+================================================================================
+Section 3 - Series file, data file, mapping file, and aspect file definitions and relationships
+================================================================================
+
+The flat files are organized such that data users are provided with the following
+set of files to use in their efforts to interpret data files:
+
+a) a series file (only one series file per database)
+b) mapping files
+c) a data file
+d) an aspect file
+
+The series file contains series identification codes that serve to uniquely identify 
+time series within the database, along with their titles and attributes (age, sex, race, 
+occupation, industry, etc.). The series file contains the following 
+series-level information:
+
+a) a series identification code
+b) a series title
+c) characteristics of the series corresponding to values in the mapping files
+d) the period and year corresponding to the first data observation 
+e) the period and year corresponding to the most recent data observation 
+
+The mapping files are definition files that contain explanatory text 
+descriptions that correspond to each of the various attributes associated with 
+the database and referenced in the series file.
+
+The data file contains one line of data for each observation period pertaining
+to a specific time series. Each line contains a reference to the following:
+
+a) a series identification code
+b) the year in which data is observed
+c) the period for which data is observed (M01 to M12 indicate monthly data, 
+A01 and M13 indicate annual averages, and Q01, Q01, Q03, Q04 indicate quarterly averages)
+d) a value
+e) footnote codes (if available)
+
+The aspect file contains one line of data (standard error) for each observation period pertaining to 
+a specific time series. Each line contains a reference to the following:
+
+a) a series identification code
+b) the year in which the standard error is observed
+c) the period for which the standard error is observed
+d) aspect type (E indicates standard error)
+d) a value of the standard error
+e) footnote codes (if applicable)
+
+For series that have monthly data, M13 indicates annual averages. For series that do
+not have monthly data, A01 indicates annual averages. The quarterly series in the LN database 
+do not contain annual averages; the annual average is stored with the equivalent monthly series.
+
+================================================================================
+Section 4 - Series file format
+================================================================================
+File Structure and Format: The following represents the file format used to 
+define ln.series. Data files are in ASCII text format. Data elements 
+are separated by tabs; the first record of each file contains the column headers 
+for the data elements stored in each field. Each record ends with a new line 
+character. 
+
+The series file contains series identification codes that serve to uniquely identify 
+time series within the database, along with their titles and attributes (age, sex, race, 
+occupation, industry, etc.). The series file contains the following series-level information:
+
+a) a series identification code
+b) a series title
+c) characteristics of the series corresponding to values in the attribute mapping files
+d) the period and year corresponding to the first data observation 
+e) the period and year corresponding to the most recent data observation 
+
+Series ID Structure and Format:
+In the LN database, series ID codes cannot be decoded to refer to specific data types by looking at 
+the value of different components of the series code. The LN database has too many attributes 
+to assign each position of the series ID code to a specific attribute value. The only meaningful 
+values are the initial positions where LNS identifies a seasonally adjusted series and LNU identifies a not 
+seasonally adjusted series. The other values in the series ID code cannot be broken down into meaningful 
+components. You must use the ln.series file (which includes descriptive titles) to determine the attributes 
+that define a specific series.
+
+
+================================================================================
+Section 5 - Data file format and field definitions
+================================================================================
+Data File Structure and Format: The following represents the file format used to 
+define the data file. Note that the field numbers are for reference only; they 
+do not exist in the database. Data files are in ASCII text format. Data 
+elements are separated by tabs; the first record of each file contains the 
+column headers for the data elements stored in each field. Each record ends 
+with a new line character.
+
+The ln.data file is stored in one file: ln.data.1.AllData
+The data file contains one line of data for each observation period pertaining 
+to a specific time series. Each line contains a reference to the following:
+
+a) a series identification code
+b) the year in which data is observed
+c) the period for which data is observed (M01 to M12 indicate monthly data, 
+A01 and M13 indicate annual averages, and Q01, Q01, Q03, Q04 indicate quarterly averages)
+d) a value
+e) footnote codes (if available)
+
+Field #/Data Element		Length		Value (Example)	
+
+1. series_id			varies		LNU04000000
+
+2. year				4		2026	
+
+3. period			3		M04	
+
+4. value			12		4.0	
+
+5. footnote_code (if available)	2		(blank)	
+
+
+=================================================================================
+Section 6 - Mapping file formats and field definitions
+=================================================================================
+Mapping File Structure and Format: The following represents the file format used to 
+define each mapping file. Note that the field numbers are for reference only; they 
+do not exist in the database. Mapping files are in ASCII text format. Data elements 
+are separated by tabs. The first record of each file contains the column headers 
+for the data elements stored in each field. Each record ends with a new line character. 
+
+Each mapping file follows a similar format:
+
+Field #/Data Element		Length		Value 
+
+1. characteristic code 		varies		typically a numeric value
+
+2. characteristic text		varies		typically a text description
+
+
+For example, the ln.ages mapping file contains one header row and 35 rows of value entries. 
+The ages_code of 00 represents people 16 years and over.
+
+Field #/Data Element		Length		Value (Example)
+1. ages_code			2		00
+
+2. ages_text			17		16 years and over
+
+==================================================================================
+Section 7 - Aspect file format and field definitions
+==================================================================================
+
+Aspect File Structure and Format: The following represents the file format used to 
+define the aspect file. Note that the field numbers are for reference only; they do 
+not exist in the database. The aspect file is in ASCII text format. Data elements are 
+separated by tabs. The first record of each file contains the column headers for 
+the data elements stored in each field. Each record ends with a new line character.
+
+
+The aspect file has the following format:
+
+Field #/Data Element			Length		Value (Example)	
+
+1. series_id				varies		LNU04000000
+
+2. year					4		2026	
+
+3. period				3		M04	
+
+4. value				12		0.11	
+
+5. footnote_codes (if available)	2		(blank)
+
+
+The aspect file contains standard errors for values in the data file. These standard errors 
+provide measures of precision for CPS labor force estimates and facilitate comparisons 
+with other estimates representative of the same time period. They should not be used 
+to determine whether 1-, 3-, 6-, or 12-month changes are statistically significant.
+Standard errors are available for most series in the LN database. The aspect file 
+standard errors are available beginning with data for 2026.
+
+Learn more about when it is appropriate to use these standard errors and the reliability 
+of CPS estimates at https://www.bls.gov/cps/methods/reliability-of-cps-estimates.htm
+

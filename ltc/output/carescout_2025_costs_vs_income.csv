@@ -1,0 +1,5 @@
+service,annual_median_2025_$,annual_median_2024_$ (monthly/hourly x),pct_of_median_65plus_household_income_2025,pct_of_median_75plus_household_income_2025
+"Nursing home, private room",129575,127752,217.0,255.0
+"Nursing home, semi-private room",114975,111324,193.0,226.0
+Assisted living,74400,70800,125.0,146.0
+"Home care, non-medical, 44 hrs/wk",80080,77792,134.0,157.0

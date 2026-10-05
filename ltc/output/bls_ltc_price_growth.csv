@@ -1,0 +1,22 @@
+window,series,cum_change_%,annual_%,annual_minus_CPI_%
+1997-2025,CPI-U all items,100.6,2.52,0.0
+1997-2025,CPI-U medical care,147.3,3.29,0.77
+1997-2025,CPI-U nursing homes & adult day services,192.9,3.91,1.4
+1997-2025,PPI nursing care facilities,150.3,3.33,0.81
+1997-2025,PPI home health care services,65.2,1.81,-0.71
+2006-2025,CPI-U all items,59.7,2.49,0.0
+2006-2025,CPI-U medical care,72.5,2.91,0.42
+2006-2025,CPI-U nursing homes & adult day services,98.4,3.67,1.18
+2006-2025,CPI-U home health care,76.5,3.04,0.54
+2006-2025,PPI nursing care facilities,72.7,2.92,0.42
+2006-2025,PPI nursing care facilities: Medicare & Medicaid patients,72.4,2.91,0.41
+2006-2025,PPI nursing care facilities: private insurance & other patients,71.3,2.87,0.38
+2006-2025,PPI home health care services,40.0,1.79,-0.71
+2015-2025,CPI-U all items,35.8,3.11,0.0
+2015-2025,CPI-U medical care,29.8,2.65,-0.46
+2015-2025,CPI-U nursing homes & adult day services,45.2,3.8,0.69
+2015-2025,CPI-U home health care,52.5,4.31,1.2
+2015-2025,PPI nursing care facilities,39.4,3.37,0.26
+2015-2025,PPI nursing care facilities: Medicare & Medicaid patients,44.4,3.74,0.63
+2015-2025,PPI nursing care facilities: private insurance & other patients,30.0,2.66,-0.45
+2015-2025,PPI home health care services,28.3,2.53,-0.58

@@ -52,3 +52,6 @@ New Section 11 "Staying in the plan: evidence beyond recordkeepers" from dc_stay
 
 ## 2026-10-05 v9
 New Sections 12 "Do the laws work?" (Table 10 scorecard, Fig 26 AE spread vs NCS participation, Fig 27 IRS early-withdrawal penalty 1996-2023), 13 "Where retirees' income comes from, and how they spend it" (Fig 28 CPS income shares, exclRINT; Fig 29 CE spending vs 55-64), 14 "How long the money has to last" (Fig 30 e65 by sex, Table 11 period vs cohort, income/education gaps). Summary findings 10-12, two watch items, three data notes. Watch/notes/sources renumbered 15-17. 107 refs. Line renderer: per-series connect. Published v9.
+
+## 2026-10-05 v10
+New Sections 15 Working longer (Fig 31 LFPR by age), 16 Health care costs (Fig 32 Medicare premiums vs SS benefit, Fig 33 MEPS OOP burden, Table 12 lifetime cost estimates), 17 Long-term care (Fig 34 nursing-home payer shares), 18 Social Security's finances (Fig 35 years to depletion by report, Table 13 cut vs income). Summary findings 13-15, one watch item, three data notes. Watch/notes/sources renumbered 19-21. 127 refs. Published v10.

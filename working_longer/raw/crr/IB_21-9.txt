@@ -1,0 +1,270 @@
+                                                                                               RETIREMENT
+                                                                                               RESEARCH
+May 2021, Number 21-9
+
+
+
+
+PRE-COVID TRENDS IN SOCIAL SECURITY
+CLAIMING
+By Anqi Chen and Alicia H. Munnell*
+
+
+
+Introduction
+A major question is how COVID-19 has affected the              and gradually increased to 66 for workers turning 65
+claiming of Social Security benefits. Preliminary re-          in 2008. Thirty percent of women and 36 percent
+ports indicate that some older workers who lost their          of men claimed benefits at the FRA.1 The other age
+jobs or were fearful of the virus did turn to Social           groups individually account for a much smaller per-
+Security, but an official accounting will not be avail-        centage of the initial benefit awards.
+able for a year. The purpose of this brief is to provide
+a baseline against which to assess COVID’s impact.
+    The discussion proceeds as follows. The first sec-         Figure 1. Age Distribution of Individuals
+tion describes the claim-year data published annually          Claiming Retired-Worker Benefits, 2019
+by the U.S. Social Security Administration (SSA) and
+the birth cohort data used in this analysis. The second        45%
+section presents claiming ages by cohort. The final                                                                 Women
+section concludes that the share of people claiming So-                                             36%             Men
+                                                                      34%
+cial Security retired-worker benefits when they reach                    31%                     30%
+                                                               30%
+age 62 has been falling since the mid-1990s, with only
+a brief upward tick during the Great Recession.
+
+                                                               15%                                            13%
+Data by Claim Year                                                                       8% 7%
+                                                                                                           11%
+                                                                                                                    9%
+                                                                               7% 7%                                     6%
+According to Social Security’s Annual Statistical Sup-
+plement, 34 percent of women and 31 percent of men              0%
+who claimed retired-worker benefits in 2019 were age                    62       63       64       FRA
+                                                                                                  FRA      FRA to    70+
+                                                                                                 (65-66)
+                                                                                                 (65-66)     69
+62, after excluding beneficiaries who switched from
+disability benefits to retired-worker benefits at 66 (see      Source: Authors’ calculations from U.S. Social Security
+Figure 1). The other popular claiming age was the              Administration (SSA) (2021).
+Full Retirement Age (FRA), which was 65 until 2003
+
+
+
+* Anqi Chen is a research economist and assistant director for savings research at the the Center for Retirement Research
+at Boston College (CRR ). Alicia H. Munnell is director of the CRR and the Peter F. Drucker Professor of Management
+Sciences at Boston College’s Carroll School of Management.
+2                                                                               Center for Retirement Research
+
+
+    These same data can be used to create a histori-       number of people reaching age 62 grows by 10 per-
+cal record for the period 1985-2019. Figure 2 shows        cent in a given year, then the SSA published data will
+the percentage of retirees claiming retired-worker         show that 57 percent of people who claim benefits
+benefits at age 62 during this period. The proportion      each year are 62, and that 43 percent are 63.4 That
+of women claiming at 62 hovered around 60 percent          is, with increasing numbers of 62-year-olds, the SSA
+until 2005 and then dropped gradually to 34 percent        published data will exceed the unchanged claiming
+by 2019.2 The fraction of men claiming at 62 hovered       rate for each cohort.
+around 55 percent, and then dropped gradually to
+31 percent by 2019.3 Note that the downward trend
+reverses itself slightly during the Great Recession,       “Cohort” Claiming Data
+before continuing its downward journey.
+                                                           The way to get at the underlying trend in claiming
+                                                           behavior is to determine the percentage of all indi-
+Figure 2. Percentage of Individuals Claiming               viduals born in a given year who claim retired-worker
+Retired-Worker Benefits at Age 62, 1985-2019               benefits at each age.5 This calculation is possible be-
+                                                           cause SSA provided unpublished data on the number
+80%                                                        of people eligible for retired-worker benefits by birth
+                                                 Women     year.6 The task is then to allocate cohort totals among
+                                                 Men       claiming ages based on SSA’s published data, which
+60%                                                        allows one to follow the claiming activity of each birth
+                                                           cohort over time. For example, the unpublished data
+                                                           show that 864,596 men born in 1923 turned 62 and
+40%                                                        became eligible for benefits in 1985.7 The published
+                                                           data show 448,630 men claimed benefits at 62 in
+                                                           1985, all of whom by definition must be 1923-cohort
+20%                                                        men. Similarly, the published data show that 82,900
+                                                           of the 1923-cohort men claimed at 63 in 1986, 110,580
+                                                           claimed at 64 in 1987, etc. When the process is
+ 0%                                                        complete, it is possible to calculate the percentage of
+      1985   1990   1995   2000    2005   2010   2015      each cohort claiming at each age. Figure 3 shows the
+                                                           percentages of men and women in each cohort who
+Source: Authors’ calculations from SSA (2021).             claimed retired-worker benefits at age 62.
+
+
+    The problem with the SSA claim-year data is that
+                                                           Figure 3. Percentage of Individuals Turning 62
+the number of eligible participants turning 62 began
+                                                           Who Claimed at 62, by Birth Year
+to rise around 1997. The overall increase over the
+past two decades, which incorporates the influx of                               Birth year
+the baby boomers, is significant – the annual num-                1923 1928 1933 1938 1943 1948 1953
+ber of men turning 62 more than doubled, from              100%                                                    100%
+829,000 in 1997 to around 1.7 million in 2019. The
+growing number of 62-year-olds makes it look like          75%                                                     75%
+age-62 claiming is more prevalent than it actually is.
+The number we are after is the percentage of people
+reaching age 62 each year who claim at that age. We        50%                                                     50%
+refer to this measure as “cohort” data.
+    An example might help. Suppose that beneficia-
+ries can only claim at age 62 or 63 and that 55 percent    25%                                                     25%
+                                                                       Women
+of all people born in any given year will claim at age
+                                                                       Men
+62 and the other 45 percent will claim the following        0%                                                     0%
+year when they turn 63. If the number of people who               1985 1990 1995 2000 2005 2010 2015
+reach ages 62 and 63 remains constant from one year                            Year turning 62
+to the next, then the SSA published data on claim year
+                                                           Sources: Authors’ calculations from SSA (2020, 2021).
+and the cohort data will tell the same story. But if the
+Issue in Brief                                                                                                                 3
+
+
+    As evident in Figure 4, which compares the                 Figure 5. Percentage-Point Change in Claiming by
+percentage of men claiming at 62 on a claim-year               Age Between Cohorts Turning 62 in 1985 and 2015
+and cohort (or birth-year) basis, the two approaches
+                                                               30%
+provide very similar results until 1997; afterward the
+                                                                          Women
+two series start to diverge. The cohort data show a                       Men                                        19% 18%
+much larger decline between 1997 and 2019 than the             15%                                        12% 13%
+claim-age data.
+
+                                                                 0%
+                                                                                  -1%
+Figure 4. Percentage of Men Claiming at 62                                              -4%   -3%
+                                                                                                    -7%
+(Claim Year) and Percentage of Men Turning 62
+                                                               -15%
+Who Claimed at 62 (Birth Year)
+                                                                           -21%
+                      Birth year
+       1923 1928 1933 1938 1943 1948 1953                      -30%    -27%
+100%                                                    100%              62        63          64        FRA
+                                                                                                            FRA(65- FRA
+                                                                                                                     FRAtoto70+
+                                                                                                             66)
+                                                                                                           (65-66)    70+
+
+                                                               Sources: Authors’ calculations from SSA (2020, 2021).
+ 75%                                                    75%
+
+
+ 50%                                                    50%    Conclusion
+                                                               The good news is that, prior to COVID, the trend over
+ 25%                                                    25%
+            Claim year
+                                                               the last 20 years showed a dramatic decline in the
+            Birth year                                         percentage of 62-year-olds claiming benefits as soon
+  0%                                                    0%     as they became eligible. Claiming later will lead to a
+       1985 1990 1995 2000 2005 2010 2015                      higher monthly benefit check and generally improve
+                    Year turning 62                            retirement income security. In 2019, based on the
+Sources: Authors’ calculations from SSA (2020, 2021).          cohort data, only about one-quarter of 62-year-olds
+                                                               claimed benefits at that age. The persistent down-
+                                                               ward trend was interrupted only slightly by the Great
+    Figure 5 shows the overall shifts in cohort claim-         Recession, when the percentage of 62-years-olds
+ing behavior at every age – not just at 62. The big            claiming immediately rose about 4 percentage points.
+news here is that not only has the percentage of                   Our reading of the early evidence is that COVID
+62-year-olds claiming at 62 declined dramatically, but         and the ensuing recession have not pushed large
+those who forgo early claiming appear to wait to the           numbers into early retirement – perhaps because
+full retirement age to claim their benefits.8                  those most affected cannot afford to stop working.
+                                                               Regardless of the ultimate impact, COVID is not
+                                                               likely to permanently reverse the trend towards later
+                                                               claiming.
+4                                                                             Center for Retirement Research
+
+
+Endnotes                                                   References
+1 The FRA increased by two months for workers              Muldoon, Dan and Richard W. Kopcke. 2008. “Are
+turning 65 in 2003 and continued to rise at this pace        People Claiming Social Security Benefits Later?”
+each year until 66. As a result of the shift in the FRA,     Issue in Brief 8-7. Chestnut Hill, MA: Center for
+Table 6.B5 in the Annual Statistical Supplement reports      Retirement Research at Boston College.
+distributions from age 65 up to the FRA and at the
+FRA. Figure 1 combines these two claiming groups           U.S. Social Security Administration. 2021. Annual
+into one group: FRA (65-66).                                  Statistical Supplement, 2020. Washington, DC: U.S.
+                                                              Government Printing Office.
+2 The dip in 1997 occurred because Social Security
+examined the earnings and benefit records of women         U.S. Social Security Administration. 2020. Unpub-
+and men receiving widow(er)’s benefits to determine           lished Data on Initial Social Security Benefit
+if they would be better off receiving retired-worker          Awards and Eligibility Status. Baltimore, MD.
+benefits. This assessment resulted in retired-worker
+benefit awards for a large number of women over age        U.S. Social Security Administration. 2008. Personal
+65, and particularly over age 70, which caused the            Communication with Barbara Lingg. Baltimore,
+one-year decline in the percentage of women claim-            MD.
+ing benefits at age 62. This explanation was provided
+through a personal communication with SSA staff
+(U.S. Social Security Administration 2008).
+
+3 For men, the drop in 2000 was caused by the
+elimination of the retirement earnings test between
+ages 65 (which was the FRA at the time) and 69. The
+elimination of the test led to a large number of retired
+worker benefit awards for men 65 and older in 2000,
+which in turn lowered the percentage claiming at 62.
+This change was most pronounced in 2000, and the
+percentage of men claiming benefits at age 62 in 2001
+readjusted toward the 1999 level. This explanation
+was provided through a personal communication with
+SSA staff (U.S. Social Security Administration 2008).
+
+4 57 percent comes from the following calculation:
+(1.1 * .55) / (1.1 * .55 + 1.0 * .45) = .5735
+
+5 The approach taken in this analysis follows Mul-
+doon and Kopcke (2008).
+
+6 U.S. Social Security Administration (2020).
+
+7 These data exclude individuals receiving Social
+Security disability or survivor benefits.
+
+8 Figure 5 shows the change in the percentage of
+individuals claiming at any given age between the co-
+hort that turned 62 in 1985 and the cohort that turned
+62 in 2015. The underlying data for this calculation
+– the percentage of individuals in each cohort who
+claim at each age – do not add to 100 percent primar-
+ily because some people die during the period.
+RETIREMENT
+RESEARCH
+
+
+About the Center                                                Affiliated Institutions
+The mission of the Center for Retirement Research               The Brookings Institution
+at Boston College is to produce first-class research            Mathematica – Center for Studying Disability Policy
+and educational tools and forge a strong link between           Syracuse University
+the academic community and decision-makers in                   Urban Institute
+the public and private sectors around an issue of
+critical importance to the nation’s future. To achieve
+this mission, the Center conducts a wide variety
+                                                                Contact Information
+                                                                Center for Retirement Research
+of research projects, transmits new findings to a
+                                                                Boston College
+broad audience, trains new scholars, and broadens
+                                                                Hovey House
+access to valuable data sources. Since its inception
+                                                                140 Commonwealth Avenue
+in 1998, the Center has established a reputation as
+                                                                Chestnut Hill, MA 02467-3808
+an authoritative source of information on all major
+                                                                Phone: (617) 552-1762
+aspects of the retirement income debate.
+                                                                Fax: (617) 552-0191
+                                                                E-mail: crr@bc.edu
+                                                                Website: https://crr.bc.edu/
+
+
+
+
+       The Center for Retirement Research thanks AARP, Bank of America, The Capital Group Companies, Inc.,
+        Capitalize, Prudential Financial, TIAA Institute, and Transamerica Institute for support of this project.
+
+
+
+
+© 2021, by Trustees of Boston College, Center for Retirement Research. All rights reserved. Short sections of text, not to
+exceed two paragraphs, may be quoted without explicit permission provided that the authors are identified and full credit,
+including copyright notice, is given to Trustees of Boston College, Center for Retirement Research.
+
+The research reported herein was supported by the Center’s Partnership Program. The findings and conclusions expressed
+are solely those of the authors and do not represent the views or policy of the partners, Boston College, or the Center for
+Retirement Research.
+

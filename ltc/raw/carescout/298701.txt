@@ -1,0 +1,267 @@
+    Cost of Care
+    Survey 2025
+    Ranked Median Costs by State Data Tables
+
+
+
+
+© 2026 CareScout Holdings, Inc. All rights reserved.
+298701 03/06/26
+                                        Non-Medical Caregiver (In-Home Care)
+
+Rank       LOCATION                 Annual1      Monthly2   Daily3   Hourly4   Rank   LOCATION          Annual1   Monthly2   Daily3   Hourly4
+
+1          Wyoming               $105,248         $8,771    $288       $46     26     Delaware         $80,080    $6,673     $219       $35
+2          Vermont               $102,960         $8,580    $282       $45     26     Indiana          $80,080    $6,673     $219       $35
+2          Washington            $102,960         $8,580    $282       $45     26     Virginia         $80,080    $6,673     $219       $35
+4          Maine                  $101,816        $8,485    $279       $44     26     New York         $80,080    $6,673     $219       $35
+5          South Dakota           $101,244        $8,437    $277       $44     26     Maryland         $80,080    $6,673     $219       $35
+6          Minnesota             $100,672         $8,389    $276       $44     31     Michigan         $79,508    $6,626     $218       $35
+7          Colorado               $94,952         $7,913    $260       $42     32     North Dakota     $77,792    $6,483     $213       $34
+8          Iowa                   $94,037         $7,836    $258        $41    32     Pennsylvania     $77,792    $6,483     $213       $34
+9          Hawaii                 $93,808          $7,817   $257        $41    32     Ohio             $77,792    $6,483     $213       $34
+10         Massachusetts          $91,520         $7,627    $251       $40     35     Kansas           $77,220    $6,435     $212       $34
+10         California             $91,520         $7,627    $251       $40     36     Missouri         $75,504    $6,292     $207       $33
+10         Rhode Island           $91,520         $7,627    $251       $40     36     Oklahoma         $75,504    $6,292     $207       $33
+10         New Hampshire          $91,520         $7,627    $251       $40     38     Kentucky         $74,360     $6,197    $204       $32
+10         Oregon                 $91,520         $7,627    $251       $40     39     Florida          $73,216     $6,101    $201       $32
+15         Utah                   $89,804         $7,484    $246       $39     39     Georgia          $73,216     $6,101    $201       $32
+16         Idaho                  $88,088          $7,341   $241       $38     41     South Carolina   $71,786    $5,982     $197        $31
+17         New Jersey             $86,944         $7,245    $238       $38     42     Tennessee        $70,928     $5,911    $194        $31
+17         Arizona                $86,944         $7,245    $238       $38     43     Texas            $68,640    $5,720     $188       $30
+17         Alaska                 $86,944         $7,245    $238       $38     43     North Carolina   $68,640    $5,720     $188       $30
+17         Montana                $86,944         $7,245    $238       $38     43     West Virginia    $68,640    $5,720     $188       $30
+21         Nevada                 $84,656         $7,055    $232       $37     43     New Mexico       $68,640    $5,720     $188       $30
+22         Wisconsin              $82,940         $6,912    $227       $36     47     Alabama          $61,776     $5,148    $169       $27
+23         Illinois               $82,368        $6,864     $226       $36     48     Louisiana        $59,488    $4,957     $163       $26
+23         Nebraska               $82,368        $6,864     $226       $36     49     Arkansas         $57,200    $4,767     $157       $25
+23         Connecticut            $82,368        $6,864     $226       $36     50     Mississippi      $54,912    $4,576     $150       $24
+
+
+
+       Cost of Care Survey, July through November 2025
+       1
+         Based on 44 hours per week by 52 weeks
+       2
+         Based on annual rate divided by 12 months
+       3
+         Based on annual rate divided by 365 days
+       4
+         As reported, hourly rate
+       ––––– = National Median
+                              Skilled Nursing in the Home (Private Duty Nurse)
+
+Rank         LOCATION                       Annual1          Monthly2   Hourly3   Rank   LOCATION         Annual1   Monthly2   Hourly3
+
+1            Wyoming                      $10,779              $898      $207     25     Virginia         $4,680      $390       $90
+2            New Hampshire                $10,140              $845      $195     25     Wisconsin        $4,680      $390       $90
+3            Iowa                          $9,360              $780      $180     28     Oklahoma         $4,462      $372       $86
+4            Arizona                       $8,398              $700      $162     29     North Dakota     $4,420      $368       $85
+5            Vermont                       $7,930              $661      $152     29     Maryland         $4,420      $368       $85
+6            Kentucky                      $7,800              $650      $150     31     Florida          $4,160      $347       $80
+7            Colorado                      $7,280              $607      $140     32     Tennessee        $4,108      $342       $79
+8            Utah                          $7,020              $585      $135     33     Rhode Island     $4,030      $336       $78
+9            North Carolina                $6,760              $563      $130     34     Illinois         $3,952      $329       $76
+10           West Virginia                 $6,500              $542      $125     35     Montana          $3,848      $321       $74
+10           Maine                         $6,500              $542      $125     36     Washington       $3,770      $314       $72
+12           Minnesota                     $6,448              $537      $124     36     South Carolina   $3,770      $314       $72
+13           New York                      $6,240              $520      $120     38     Pennsylvania     $3,692      $308        $71
+13           Alabama                       $6,240              $520      $120     39     Idaho            $3,640      $303       $70
+15           California                    $5,720              $477       $110    39     Indiana          $3,640      $303       $70
+15           Massachusetts                 $5,720              $477       $110    41     Kansas           $3,481      $290       $67
+17           New Jersey                    $5,460              $455      $105     42     Delaware         $3,380      $282       $65
+17           New Mexico                    $5,460              $455      $105     42     Hawaii           $3,380      $282       $65
+17           Oregon                        $5,460              $455      $105     44     Michigan         $3,302      $275       $64
+20           Ohio                          $5,200              $433      $100     45     Nebraska         $3,243      $270       $62
+20           Nevada                        $5,200              $433      $100     46     Mississippi      $2,210      $184       $42
+22           Georgia                       $5,096              $425       $98            Alaska             N/A*       N/A*     N/A*
+
+23           Missouri                      $4,914               $410      $94            Arkansas           N/A*       N/A*     N/A*
+
+24           South Dakota                  $4,778              $398       $92            Connecticut        N/A*       N/A*     N/A*
+
+25           Texas                         $4,680              $390       $90            Louisiana          N/A*       N/A*     N/A*
+
+
+
+     Cost of Care Survey, July through November 2025
+     1
+       Based on 1 hour per week by 52 weeks
+     2
+       Based on annual rate divided by 12 months
+     3
+       As reported, hourly rate
+     * There was insufficient data in this state for this care type
+     ––––– = National Median
+                                                     Assisted Living Community*
+
+Rank        LOCATION                       Annual1         Monthly2   Daily3   Rank   LOCATION          Annual1   Monthly2   Daily3
+
+1           Hawaii                       $145,155          $12,096    $398     26     Illinois         $74,628    $6,219     $204
+2           Alaska                        $118,578          $9,882    $325     27     Oklahoma         $73,800    $6,150     $202
+3           Massachusetts                $115,200          $9,600     $316     28     Ohio             $73,230    $6,102     $201
+4           Connecticut                  $109,410            $9,118   $300     29     Montana          $72,900    $6,075     $200
+5           New Jersey                   $104,520           $8,710    $286     30     Kansas           $71,700    $5,975     $196
+6           Vermont                      $103,167           $8,597    $283     31     New Mexico       $71,400    $5,950     $196
+7           Maine                        $98,460            $8,205    $270     32     Tennessee        $70,140    $5,845     $192
+
+8           New Hampshire                 $96,300           $8,025    $264     33     Michigan         $69,816    $5,818     $191
+9           Rhode Island                  $93,366           $7,780    $256     34     Texas            $67,992    $5,666     $186
+10          Washington                    $91,200           $7,600    $250     35     Indiana          $67,665    $5,639     $185
+11          Delaware                      $91,200           $7,600    $250     36     Florida          $67,320    $5,610     $184
+12          Maryland                      $86,070            $7,172   $236     37     Kentucky         $66,330    $5,528     $182
+13          New York                      $85,320            $7,110   $234     38     Utah             $65,700    $5,475     $180
+14          California                    $84,000           $7,000    $230     39     Missouri         $64,800    $5,400     $178
+15          Virginia                      $83,340           $6,945    $228     40     Iowa             $64,566    $5,380     $177
+
+16          Oregon                        $82,494           $6,874    $226     41     South Carolina   $64,200    $5,350     $176
+17          Colorado                      $79,005           $6,584    $216     42     Wyoming          $63,900    $5,325     $175
+18          Minnesota                     $78,870           $6,572    $216     43     Georgia          $63,600    $5,300     $174
+
+19          Wisconsin                     $78,480           $6,540    $215     44     Idaho            $62,100     $5,175    $170
+20          North Carolina                $77,955           $6,496    $214     45     Louisana         $61,950    $5,162     $170
+21          Pennsylvania                  $77,760           $6,480    $213     46     South Dakota     $58,800    $4,900     $161
+22          Nebraska                      $76,200           $6,350    $209     47     North Dakota     $56,745    $4,729     $155
+
+23          West Virginia                 $76,080           $6,340    $208     48     Arkansas         $55,644    $4,637     $152
+24          Arizona                       $75,000           $6,250    $205     49     Alabama          $53,100    $4,425     $145
+25          Nevada                        $74,895           $6,241    $205     50     Mississippi      $52,425    $4,369     $144
+
+
+
+
+       Cost of Care Survey, July through November 2025
+       1
+         Based on 12 months of care private, one bedroom
+       2
+         As reported, monthly rate, private, one bedroom
+       3
+         Based on annual rate divided by 365, private, one bedroom
+       ––––– = National Median
+       * Referred to as Residential Care Facility in California
+                                             Nursing Home - Semi-Private Room
+
+Rank        LOCATION                       Annual1          Monthly2   Daily3    Rank      LOCATION                        Annual1        Monthly2          Daily3
+
+1           Alaska                      $333,975            $27,831    $915      27        Wyoming                      $118,990           $9,916          $326
+2           Oregon                        $201,115          $16,760    $551      28        North Carolina               $116,800           $9,733          $320
+3           New York                     $186,332           $15,528    $510      29        Kentucky                      $116,618           $9,718         $320
+4           Hawaii                       $185,679           $15,473    $509      30         Mississippi                  $114,975           $9,581          $315
+                                                                                ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+5           Connecticut                 $182,500            $15,208    $500      31         South Dakota                 $113,332          $9,444           $310
+6           Delaware                     $173,922           $14,494    $476      32        Tennessee                     $113,150          $9,429           $310
+7           Massachusetts                $173,375           $14,448    $475      33        Iowa                          $111,325          $9,277          $305
+8           Vermont                     $169,360             $14,113   $464      34        Ohio                         $110,230           $9,186          $302
+9           Maine                         $167,718          $13,976    $460      35        New Mexico                   $109,500            $9,125         $300
+10          Washington                   $157,859           $13,155    $432      36        South Carolina               $108,405           $9,034           $297
+11          Maryland                     $155,125           $12,927    $425      37        Montana                       $107,675          $8,973          $295
+12          West Virginia               $154,030            $12,836    $422      38        Indiana                       $107,310          $8,942          $294
+13          New Jersey                  $153,300            $12,775    $420      39        Georgia                      $105,850           $8,821          $290
+14          New Hampshire                $146,912           $12,243    $402      40        Kansas                       $104,025           $8,669          $285
+15          California                  $146,000            $12,167    $400      40        Utah                         $104,025           $8,669          $285
+16          Rhode Island                 $145,270           $12,106    $398      42        Nebraska                     $100,521           $8,377           $275
+17          Pennsylvania                $143,445            $11,954    $393      43        Arizona                      $100,375           $8,365           $275
+18          Nevada                       $141,438           $11,786    $388      44        Alabama                      $100,010           $8,334           $274
+19          North Dakota                 $138,335           $11,528    $379      45        Illinois                      $99,645           $8,304           $273
+20          Michigan                    $135,050            $11,254    $370      46        Louisiana                     $91,250           $7,604          $250
+21          Minnesota                    $127,750           $10,646    $350      47        Arkansas                      $89,425           $7,452           $245
+21          Wisconsin                    $127,750           $10,646    $350      48        Oklahoma                      $84,315           $7,026           $231
+23          Idaho                        $125,925           $10,494    $345      49        Missouri                      $80,893            $6,741          $222
+24          Florida                      $124,100           $10,342    $340      50        Texas                         $67,525           $5,627           $185
+25          Virginia                     $123,005           $10,250    $337
+26          Colorado                     $121,910           $10,159    $334
+
+
+       Cost of Care Survey, July through November 2025
+       1
+         Based on 12 months of care private, one bedroom
+       2
+         As reported, monthly rate, semi-private, one bedroom
+       3
+         Based on annual rate divided by 365, private, one bedroom
+       ––––– = National Median
+                                                         Nursing Home - Private Room
+
+Rank         LOCATION                          Annual1          Monthly2   Daily3   Rank   LOCATION           Annual1   Monthly2   Daily3
+
+1            Oregon                         $221,372            $18,448    $606     27     Kentucky         $135,050    $11,254    $370
+2            Connecticut                    $200,750            $16,729    $550     28     Wyoming          $131,081    $10,923    $359
+2            New York                       $200,750            $16,729    $550     29     North Carolina   $129,575    $10,798    $355
+4            Hawaii                         $196,735            $16,395    $539     30     Utah             $127,750    $10,646    $350
+5            Washington                     $191,625            $15,969    $525     31     New Mexico       $127,597    $10,633    $350
+6            Massachusetts                  $189,800             $15,817   $520     32     Ohio             $124,666    $10,389    $342
+7            Vermont                        $186,332            $15,528    $510     33     Indiana          $123,918    $10,326    $340
+8            California                      $182,135            $15,178   $499     34     South Dakota     $122,275    $10,190    $335
+9            Delaware                       $181,588             $15,132   $498     35     Tennessee        $120,450    $10,038    $330
+10           Maine                          $178,850            $14,904    $490     35     Iowa             $120,450    $10,038    $330
+11           Nevada                         $173,558            $14,463    $476     37     Mississippi      $118,625    $9,885     $325
+12           New Jersey                     $173,375            $14,448    $475     38     South Carolina   $115,340     $9,612    $316
+12           Maryland                       $173,375            $14,448    $475     39     Montana          $114,975     $9,581    $315
+14           Minnesota                      $166,440            $13,870    $456     40     Georgia           $113,150   $9,429     $310
+15           Pennsylvania                   $164,250            $13,688    $450     41     Illinois         $110,595     $9,216    $303
+16           New Hampshire                  $161,330            $13,444    $442     41     Nebraska         $110,595     $9,216    $303
+17           Rhode Island                   $160,600            $13,383    $440     43     Kansas           $108,770    $9,064     $298
+18           West Virginia                  $159,140            $13,262    $436     44     Alabama          $105,441     $8,787    $289
+19           Wisconsin                      $147,825            $12,319    $405     45     Louisiana        $96,908     $8,076     $266
+20           North Dakota                   $147,642            $12,304    $404     46     Arkansas         $96,725     $8,060     $265
+21           Colorado                        $146,182            $12,182   $400     47     Oklahoma          $93,075     $7,756    $255
+22           Idaho                          $146,000             $12,167   $400     48     Missouri          $91,250     $7,604    $250
+22           Florida                        $146,000             $12,167   $400     48     Texas             $91,250     $7,604    $250
+24           Michigan                       $143,628            $11,969    $394            Alaska               N/A*       N/A*    N/A*
+25           Virginia                       $140,160            $11,680    $384
+26           Arizona                        $137,240             $11,437   $376
+
+       Cost of Care Survey, July through November 2025
+       1
+         Based on 44 hours per week by 52 weeks
+       2
+         Based on annual rate divided by 12 months
+       3
+         Based on annual rate divided by 365 days
+       4
+         As reported, hourly rate
+       * There was insufficient data in this state for this care type
+       ––––– = National Median
+                                                      Adult Day Health Care Services
+
+Rank         LOCATION                           Annual1          Monthly2            Daily3    Rank   LOCATION          Annual1   Monthly2   Daily3
+
+1            Montana                          $69,395            $5,783             $267       26     New Hampshire    $24,180    $2,015      $93
+2            North Dakota                     $66,300            $5,525             $255       27     Oklahoma         $23,920    $1,993      $92
+3            Washington                       $64,740            $5,395             $249       28     Illinois         $23,725     $1,977     $91
+4            New Mexico                       $52,000            $4,333             $200       29     Georgia          $23,400    $1,950     $90
+4            Kansas                           $52,000            $4,333             $200       29     Texas            $23,400    $1,950     $90
+4            Oregon                           $52,000            $4,333             $200       31     Louisiana        $22,958     $1,913     $88
+7            Alaska                           $45,500             $3,792             $175      32     Kentucky         $22,880     $1,907     $88
+8            Nebraska                         $42,250             $3,521             $162      33     North Carolina   $21,970     $1,831     $84
+9            Wyoming                          $39,437            $3,286              $152      34     Ohio             $21,580     $1,798     $83
+10           Michigan                         $39,000            $3,250              $150      35     Virginia         $20,995     $17,50     $81
+11           New York                         $37,440             $3,120             $144      36     Tennessee        $20,800     $1,733    $80
+12           Utah                             $36,400            $3,033             $140       36     Nevada           $20,800     $1,733    $80
+13           Indiana                          $33,020             $2,752             $127      38     Arkansas         $19,760     $1,647     $76
+14           Minnesota                        $31,200            $2,600              $120      39     Florida          $19,500    $1,625      $75
+15           Hawaii                           $30,615             $2,551             $118      40     Iowa             $19,370     $1,614     $74
+16           Pennsylvania                     $30,420            $2,535              $117      41     South Carolina   $18,720    $1,560      $72
+17           Maryland                         $30,313            $2,526              $117      42     Wisconsin        $18,200     $1,517     $70
+18           Maine                            $29,900            $2,492              $115      43     Rhode Island     $16,900    $1,408      $65
+19           Massachusetts                     $29,120           $2,427              $112      44     Mississippi      $16,380    $1,365      $63
+20           Connecticut                      $28,340            $2,362             $109       45     Alabama          $14,950     $1,246     $58
+21           Colorado                         $27,300             $2,275             $105             Delaware            N/A*       N/A*    N/A*
+22           New Jersey                       $26,000             $2,167            $100              Idaho               N/A*       N/A*    N/A*
+23           Missouri                         $24,700            $2,058               $95             South Dakota        N/A*       N/A*    N/A*
+23           Arizona                          $24,700            $2,058               $95             Vermont             N/A*       N/A*    N/A*
+25           California                       $24,440            $2,037              $94              West Virginia       N/A*       N/A*    N/A*
+
+
+
+
+       Cost of Care Survey, July through November 2025
+       1
+         Based on 5 days a week for 52 weeks
+       2
+         Based on annual rate divided by 12 months
+       3
+         As reported daily rate
+       * Due to less prevalence of this care type, there was insufficient data in this state
+       ––––– = National Median
+

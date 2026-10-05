@@ -1,0 +1,47 @@
+Average Retirement Age for                                                RETIREMENT
+Men and Women, 1962-2025                                                  RESEARCH
+
+
+
+70
+                                                                                Age
+                                                                   Year
+                                                           64.8           Men         Women
+65
+                                                                   1962    66          53
+                                                           63.3    1965    66          56
+60                                                                 1968    66          56
+                                                                   1971    65          56
+
+55                                                                 1974    64          56
+                                            Men                    1977    64          55
+                                            Women                  1980    64          56
+50
+                                                                   1983    63          56
+                                                                   1986    62          57
+45                                                                 1989    62          59
+  1962    1972     1982     1992     2002     2012     2022        1992    62          59
+                                                                   1995    62          60
+Source: Center for Retirement Reserach at Boston College cal-      1998    63          60
+culations from U.S. Census Bureau. Current Population Survey,
+                                                                   2001    63          60
+1962-2025.
+                                                                   2004    63          61
+                                                                   2007    63          62
+                                                                   2010    64          62
+                                                                   2013    64          63
+                                                                   2016    65          62
+                                                                   2017    65          63
+                                                                   2018    64          62
+                                                                   2019    65          63
+                                                                   2020    65          62
+                                                                   2021    65          62
+                                                                   2022    65          63
+                                                                   2023    65          62
+                                                                   2024    65          63
+                                                                   2025    65          63
+
+
+                                     For additional data, visit:
+                                         crr.bc.edu/data/
+

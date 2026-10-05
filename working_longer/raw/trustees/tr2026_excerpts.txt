@@ -1,0 +1,132 @@
+Source: 2026 OASDI Trustees Report, House Doc 119-163, https://www.govinfo.gov/content/pkg/CDOC-119hdoc163/pdf/CDOC-119hdoc163.pdf (pdftotext -layout excerpts)
+== pp.120-121 labor force participation ==
+mediate assumptions, the labor force is projected to increase by an average
+of 0.1 percent per year from 2035 to 2100.
+Labor force participation rates are projected with a model that uses demo-
+graphic and economic assumptions specific to each alternative. More favor-
+able economic assumptions in the low-cost alternative are consistent with
+higher labor force participation rates, while the less favorable demographic
+assumptions in the low-cost alternative (such as slower improvement in lon-
+gevity) are consistent with lower labor force participation rates. These eco-
+nomic and demographic influences have largely offsetting effects. Therefore,
+the projected labor force participation rates do not vary substantially across
+alternatives.
+Historically, labor force participation rates reflect trends in demographics
+and pensions. Between the mid-1960s and the mid-1980s, labor force partici-
+pation rates at ages 55 and over declined for men but were fairly stable for
+women. During this period, the baby-boom generation reached working age
+and more women entered the labor force. This increasing supply of labor
+allowed employers to offer attractive early retirement options. Between the
+mid-1980s and the mid-1990s, participation rates at ages 55 and over roughly
+stabilized for men and increased for women. Since the mid-1990s, however,
+participation rates for both sexes at ages 55 and over have generally risen.
+Many economic and demographic factors, including longevity, disabled-
+worker prevalence, the business cycle, incentives for retirement in Social
+Security and private pensions, education, and marriage patterns, will influ-
+ence future labor force participation rates. Actuarial Services models some of
+these factors explicitly. To model the effects of other factors related to
+increases in life expectancy, projected participation rates are adjusted upward
+for mid-career and older ages to reflect projected increases in life expec-
+tancy. For the intermediate projections, this adjustment increases the total
+labor force by 3.0 percent for 2100.
+
+
+
+120
+                                                         Economic Assumptions and Methods
+
+
+For men and boys age 16 and over, the projected age-adjusted labor force
+participation rate 1 for 2100 is 70.5, 70.2, and 69.7 percent for the low-cost,
+intermediate, and high-cost assumptions, respectively. For women and girls
+age 16 and over, the projected age-adjusted labor force participation rate for
+2100 is 60.9, 60.7, and 60.3 percent for the low-cost, intermediate, and high-
+cost assumptions, respectively. These age-adjusted labor force participation
+rates for 2100 are higher under all three alternatives than the age-adjusted
+rates for 2024 of 68.8 percent for men and boys and 58.2 percent for women
+and girls (based on actual age-specific rates published by the Bureau of
+Labor Statistics), primarily due to the Trustees’ projected increases in life
+expectancy, as well as the rise in educational attainment for women.
+The aggregate civilian unemployment rates are presented in table V.B2. For
+years through 2035, the table presents aggregate civilian rates without adjust-
+ment for the changing age-sex distribution of the population. For years after
+2035, the table presents age-sex-adjusted rates, using the age-sex distribution
+== p.134 Table V.C3 ==
+benefits, there are certain legislated changes that affect current and future
+benefit amounts. Two such changes are the scheduled increases in the normal
+retirement age and in the delayed retirement credits. Table V.C3 shows the
+
+
+
+134
+                                                                      Program Assumptions and Methods
+
+
+scheduled changes in these parameters and the resulting effects on benefit
+levels expressed as a percentage of PIA.
+
+    Table V.C3.—Legislated Changes in Normal Retirement Age and Delayed Retirement
+             Credits for Persons Attaining Age 62 in Each Year 1986 and Later
+                                               Credit for each                    Benefit, as a percentage of PIA,
+                         Year of     Normal year of delayed                            beginning at age —
+                      attainment of retirement retirement after
+ Year of birth            age 62    age (NRA) NRA (percent)                62         65        66        67         70
+1924 . . . . . . . . 1986. . . . . . . . 65 . . . . . . . .   3          80         100      103       106       115
+1925 . . . . . . . . 1987. . . . . . . . 65 . . . . . . . .   3 1/2      80         100      103 1/2   107       117 1/2
+1926 . . . . . . . . 1988. . . . . . . . 65 . . . . . . . .   3 1/2      80         100      103 1/2   107       117 1/2
+1927 . . . . . . . . 1989. . . . . . . . 65 . . . . . . . .   4          80         100      104       108       120
+1928 . . . . . . . . 1990. . . . . . . . 65 . . . . . . . .   4          80         100      104       108       120
+1929 . . . . . . . . 1991. . . . . . . . 65 . . . . . . . .   4 1/2      80         100      104 1/2   109       122 1/2
+1930 . . . . . . . . 1992. . . . . . . . 65 . . . . . . . .   4 1/2      80         100      104 1/2   109       122 1/2
+1931 . . . . . . . . 1993. . . . . . . . 65 . . . . . . . .   5          80         100      105      110       125
+1932 . . . . . . . . 1994. . . . . . . . 65 . . . . . . . .   5          80         100      105      110       125
+1933 . . . . . . . . 1995. . . . . . . . 65 . . . . . . . .   5 1/2      80         100          1
+                                                                                             105 /2 111         127 1/2
+1934 . . . . . . . . 1996. . . . . . . . 65 . . . . . . . .   5 1/2      80         100      105 1/2 111        127 1/2
+1935 . . . . . . . . 1997. . . . . . . . 65 . . . . . . . .   6          80         100      106      112       130
+1936 . . . . . . . . 1998. . . . . . . . 65 . . . . . . . .   6          80         100      106      112       130
+1937 . . . . . . . . 1999. . . . . . . . 65 . . . . . . . .   6 1/2      80         100      106 1/2 113        132 1/2
+1938 . . . . . . . . 2000. . . . . . . . 65, 2 mo . . .       6 1/2      79 1/6     98 8/9   105 5/12 111 11/12 131 5/12
+1939 . . . . . . . . 2001. . . . . . . . 65, 4 mo . . .       7          78 1/3     97 7/9   104 2/3 111 2/3 132 2/3
+1940 . . . . . . . . 2002. . . . . . . . 65, 6 mo . . .       7          77 1/2     96 2/3   103 1/2 110 1/2 131 1/2
+1941 . . . . . . . . 2003. . . . . . . . 65, 8 mo . . .       7 1/2      76 2/3     95 5/9   102 1/2   110       132 1/2
+1942 . . . . . . . . 2004. . . . . . . . 65, 10 mo . .        7 1/2      75 5/6     94 4/9   101 1/4   108 3/4   131 1/4
+1943-54 . . . . . 2005-16 . . . . . 66 . . . . . . . .        8          75         93 1/3   100       108       132
+1955 . . . . . . . . 2017. . . . . . . . 66, 2 mo . . .       8          74 1/6     92 2/9   98 8/9    106 2/3   130 2/3
+1956 . . . . . . . . 2018. . . . . . . . 66, 4 mo . . .       8          73 1/3     91 1/9   97 7/9    105 1/3   129 1/3
+1957 . . . . . . . . 2019. . . . . . . . 66, 6 mo . . .       8          72 1/2     90       96 2/3    104       128
+1958 . . . . . . . . 2020. . . . . . . . 66, 8 mo . . .       8          71 2/3     88 8/9   95 5/9    102 2/3   126 2/3
+1959 . . . . . . . . 2021. . . . . . . . 66, 10 mo . .        8          70 5/6     87 7/9   94 4/9    101 1/3   125 1/3
+1960 & later . . 2022 & later . 67 . . . . . . . .            8          70         86 2/3   93 1/3    100       124
+
+
+2. Covered Employment
+Projections of the total U.S. civilian labor force and unemployment rate (see
+table V.B2) are based on Bureau of Labor Statistics definitions from the Cur-
+== p.139 retired-worker award model ==
+by applying award rates to the aged fully insured population, excluding those
+already receiving retired-worker, disabled-worker, aged-widow(er), or aged-
+spouse benefits, and by applying termination rates to the number of retired-
+worker beneficiaries.
+The long-range model projects the number of retired-worker beneficiaries
+who were not previously converted from disabled-worker beneficiary status
+as a percentage of the exposed population. 1 For age 62, the model projects
+this percentage by using a linear regression based on the historical relation-
+ship between this percentage, the employment rate 2 at age 62, and the num-
+
+ 1 The exposed population is the fully insured population age 62 and over, excluding persons entitled to or
+converted from disabled-worker benefits and fully insured persons entitled only to widow(er) benefits.
+2 The employment rate is the ratio of U.S. civilian employment to the civilian noninstitutional population.
+
+
+
+
+                                                                                                       139
+Assumptions and Methods
+
+
+ber of months from age 62 to normal retirement age. The percentage for ages
+70 and over is nearly 100 because delayed retirement credits cannot be
+earned after age 70. The long-range model projects the percentage for each
+age 63 through 69 based on historical experience with an adjustment for
+changes in the portion of the primary insurance amount that is payable at

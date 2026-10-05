@@ -1,0 +1,372 @@
+                                                                                           RETIREMENT
+                                                                                           RESEARCH
+May 2015, Number 15-8
+
+
+
+
+TRENDS IN SOCIAL SECURITY CLAIMING
+
+By Alicia H. Munnell and Anqi Chen*
+
+
+
+Introduction
+With lower Social Security replacement rates, vanish-        look at cohort data. Such data show, of the potential
+ing traditional pensions, and longer lifespans, many         claimants turning 62 in a given year, the percentage
+people will need to work longer to ensure a secure           who claim benefits as soon as possible. This brief
+retirement. Working longer directly increases current        presents cohort patterns based on unpublished SSA
+income; it avoids the actuarial reduction in Social          data on people eligible to claim retired-worker ben-
+Security benefits; it allows people to contribute more       efits by birth year.
+to their 401(k) plans; and it shortens the period of             The discussion proceeds as follows. The first sec-
+retirement. The good news is that people have begun          tion describes the claim-year data published annually
+to respond; the average retirement age has increased         by SSA. The second section shows the change in the
+by about two years over the last 25 years.                   number of people turning 62 and discusses the im-
+    The challenge is to reconcile this increase in work      pact of this “cohort effect” on claiming patterns. The
+effort with the benefit claiming data published by the       third section presents claiming age by cohort. The
+Social Security Administration (SSA). These data,            final section concludes that the cohort (or birth-year)
+which are released annually, show, of all workers claim-     data, unlike the claim-year data, show that the share
+ing benefits in a given year, the percentage who are age     of people claiming Social Security retired-worker ben-
+62, 63, 64, etc. These data suggest that the proportion      efits when they attain age 62 has been falling since
+of older men who claim benefits as early as possible         the mid-1990s. This decline in people claiming early
+did not change at all over the 1985-2005 period and          benefits is fully consistent with the increase in the
+has only begun to decline in the last decade. This           average retirement age.
+pattern is not consistent with the rise in the average
+retirement age. The problem is that when the size of
+the group turning age 62 is increasing, as it has over       Data by Claim Year
+the last two decades, the data will show that 62-year-
+old claimants make up a larger portion of total new          According to Social Security’s Annual Statistical Sup-
+claimants in a given year even if a smaller percentage       plement, 48 percent of women and 42 percent of men
+of 62-year-old workers claim immediately. To accu-           who claimed retired-worker benefits in 2013 were age
+rately follow claiming behavior over time, one must          62, after excluding beneficiaries who switched from
+                                                             disability benefits to retired-worker benefits at age 66
+
+
+* Alicia H. Munnell is director of the Center for Retirement Research at Boston College (CRR) and the Peter F. Drucker
+Professor of Management Sciences at Boston College’s Carroll School of Management. Anqi Chen is a research associate
+at the CRR. The authors thank Stephen Goss and Beth Hima of the Social Security Administration for providing data and
+helpful comments.
+2                                                                                               Center for Retirement Research
+
+
+(see Figure 1). The next most popular claiming age                         around 55 percent, and then drops gradually to 42
+was the Full Retirement Age (FRA), which was 65                            percent by 2013.3 This way of measuring claiming
+until 2003 and gradually increased to 66 for workers                       behavior suggests little movement during the years
+turning 65 in 2008. Twenty-seven percent of women                          1990-2005, a period during which the average retire-
+and 34 percent of men claimed benefits at the FRA.1                        ment age was rising.
+The other age groups individually account for a much
+smaller percentage of initial benefit awards.
+                                                                           The “Cohort” Effect
+Figure 1. Age Distribution of Individuals                                  The problem with the SSA claim-year data is that the
+Claiming Retired-Worker Benefits, 2013                                     number of eligible participants turning 62 began to
+                                                                           increase around 1997. The increase is significant,
+60%                                                                        with the annual number of men turning 62 rising
+                                                              Women        from 829,000 in 1997 to around 1.4 million in 2013.
+        48%
+                                                              Men
+           42%                                                                 For readers who are surprised, like we were, that
+40%
+                                                 34%
+                                                                           the increase in numbers began before the retirement
+                                                                           of the baby boomers, we include Figure 3. As the
+                                           27%
+                                                                           Figure shows, births declined sharply from the 1920s
+20%                                                                        through the trough of the Great Depression, and then
+                                                                           started to increase in 1935. This reversal shows up
+                    8% 7%       8% 7%
+                                                         6% 7%     4% 2%
+                                                                           62 years later with the number of people eligible for
+                                                                           benefits beginning to rise in 1997. This increase in
+ 0%
+                                                                           the number of participants turning 62 – or “cohort
+             62          63          64    FRA
+                                             FRA(65 - FRA
+                                                        FRAto 69    70+
+                                              66)
+                                            (65-66)     to 69              effect” – distorts the trend in claiming patterns.
+
+Source: Authors’ calculations from U.S. Social Security
+Administration (2015a).                                                    Figure 3. Births in Millions, 1910-2013
+
+                                                                           6
+                                                                                        Great                         Baby
+    Figure 2 shows the percentage of retirees claim-                                  Depression                     Boomlet
+ing retired-worker benefits at age 62 from 1985-2013.                                 1929-1941                     1979-1990
+The proportion of women claiming benefits at age 62                        4
+hovers around 60 percent until 2005 and then drops
+gradually to 48 percent by 2013.2 The fraction of men                                                                                 Great
+                                                                                                   Baby Boom                       Recession
+claiming retired-worker benefits at age 62 hovers                                                  1946-1964
+                                                                           2
+                                                                                                               Baby
+                                                                                                               Bust
+Figure 2. Percentage of Individuals Claiming                                                                 1964-1979
+Retired-Worker Benefits At Age 62, 1985-2013                               0
+80%
+                                                                           10
+
+                                                                                20
+
+                                                                                      30
+
+                                                                                           40
+
+                                                                                                   50
+
+                                                                                                        60
+
+                                                                                                              70
+
+                                                                                                                   80
+
+                                                                                                                         90
+
+                                                                                                                                00
+
+                                                                                                                                     10
+                                                                           19
+
+                                                                                19
+
+                                                                                     19
+
+                                                                                           19
+
+                                                                                                19
+
+                                                                                                        19
+
+                                                                                                             19
+
+                                                                                                                   19
+
+                                                                                                                         19
+
+                                                                                                                              20
+
+                                                                                                                                     20
+
+
+
+
+60%                                                                        Source: Centers for Disease Control and Prevention, Na-
+                                                                           tional Center for Health Statistics (2015).
+
+40%
+                                                                               The intuition behind the cohort effect is some-
+                                                                           what complicated, so an example might help. Sup-
+20%                                                                        pose that beneficiaries can only claim at age 62 or 63
+                                                              Women        and that 55 percent of all people born in any given
+                                                              Men          year will claim at age 62 and the other 45 percent will
+ 0%                                                                        claim the following year when they turn 63. If the
+      1985        1990        1995        2000         2005      2010
+                                                                           number of people who attain ages 62 and 63 remains
+Source: Authors’ calculations from U.S. Social Security                    constant from one year to the next, then the SSA
+Administration (2015a).                                                    published data on claim year and the cohort data will
+Issue in Brief                                                                                                                         3
+
+
+tell the same story. If the number of people attain-                As evident in Figure 5, which compares the
+ing age 62 grows by 10 percent in a given year, then            percentage of men claiming at 62 on a claim-year
+the SSA published data will show that 57 percent of             and cohort (or birth-year) basis, the two approaches
+people who claim benefits each year are 62 (.5735 =             provide very similar results until 1997; afterward the
+(1.1*.55)/(1.1*.55+1.0*.45)), and that 43 percent are           two series start to diverge. The cohort data show a
+63. In this case, the SSA published data will exceed            much greater decline over the 29-year period than the
+the unchanged claiming rate for each cohort.                    claim-age data published annually.
+
+
+Data by Birth Year                                              Figure 5. Percentage of Male Claimants Claim-
+                                                                ing at 62 (Claim Year) and Percentage of Insured
+The way to get at the underlying trend in claiming              Males Turning 62 Who Claimed at 62 (Birth Year)
+behavior is to determine the percentage of all indi-                                           Birth year
+viduals born in a given year who claim retired-worker                  1923   1928      1933    1938      1943          1948
+benefits at each age.4 This calculation is possible             80%                                                               80%
+because SSA provided unpublished data on the num-
+ber of people eligible for retired-worker benefits by           60%                                                               60%
+birth year.5 The task is then to allocate cohort totals
+among claiming ages based on SSA’s published data.              40%                                                               40%
+For example, the unpublished data show that 863,753
+men born in 1923 turned 62 and became eligible for              20%                                                               20%
+                                                                                                             Claim year
+benefits in 1985.6 The published data show 448,630
+                                                                                                             Birth year
+men claimed benefits at 62 in 1985, all of whom by               0%                                                               0%
+definition must be 1923-cohort men. Similarly, the                     1985   1990      1995     2000      2005         2010
+published data show that 82,900 men claimed ben-                                           Year turning 62
+efits at 63 in 1986, 110,580 claimed at 64 in 1987, etc.,
+                                                                Source: Authors’ calculations from U.S. Social Security
+so the published data allow one to follow the claiming
+                                                                Administration (2015a and 2015b).
+activity of the 1923 birth cohort over time. When the
+process is complete, it is possible to calculate the per-
+centage of each cohort claiming at each age. Figure
+                                                                    Table 1 below tells the same story in numbers. As
+4 shows the percentage of men and women in each
+                                                                shown above, the claim-year data and birth-year data
+cohort who claimed retired-worker benefits at age 62.
+                                                                are virtually identical through 1996. Since that time,
+                                                                the claim-year data understate the decline in early
+Figure 4. Percentage of Insured Individuals
+Turning 62 Who Claimed at 62, by Birth Year
+                                                                Table 1. Percentage Claiming at 62 by Claim Year
+                         Birth year                             and Birth Year, 1985, 1996, and 2013
+      1923   1928    1933     1938    1943      1948
+80%                                                       80%
+                                                                                        Men                      Women
+                                                                Year              Claim     Birth            Claim    Birth
+60%                                                       60%
+                                                                                   year     year              year     year
+                                                                1985              52.4 %    51.9 %           63.7 %   63.6 %
+40%                                                       40%
+                                                                1996                 57.1       56.0         63.9              62.8
+                                                                2013                 41.9       35.6          47.5             39.5
+20%                                                       20%
+                                              Women                       Percentage-point change in claiming at 62
+                                              Men
+ 0%                                                       0%    1985-1996             4.7         4.1             0.2           -0.8
+      1985   1990    1995     2000     2005     2010            1996-2013         -15.2        -20.5         -16.4             -23.2
+                       Year turning 62
+                                                                Source: Authors’ calculations from U.S. Social Security
+Source: Authors’ calculations from U.S. Social Security         Administration (2014a).
+Administration (2015a and 2015b).
+4                                                                                       Center for Retirement Research
+
+
+claiming, a decline that is picked up by the cohort                  Conclusion
+data. As predicted by the decline in the average retire-
+ment age, the cohort data reveal that the claiming                   In the past, both claim-year and cohort data provided
+picture has really changed. No longer do the majority                reasonable estimates of the proportion of beneficia-
+of people reaching 62 claim benefits. By 2013, the                   ries who claim retired-worker benefits at any given
+claiming rate at 62 had declined to 36 percent for men               age, because the birth cohorts approaching retirement
+and 40 percent for women.7                                           were similar in size and the patterns between cohorts
+    One final chart underscores the message that over-               remained relatively static. Recently, however, grow-
+all shifts in cohort claiming behavior – not just claim-             ing cohorts and changes among cohorts have caused
+ing at age 62 – have led to a higher average retirement              claim-year analysis to overstate the proportion of re-
+age. Figure 6 shows the change in the percentage                     tirees claiming benefits at 62, masking the trend away
+of individuals claiming at any given age between the                 from early claiming evident in cohort data.
+cohort that turned 62 in 1985 and the cohort that                        The good news is that more people are claiming
+turned 62 in 2010.8 For both women and men, claim-                   retired-worker benefits at later ages, and this pattern
+ing before the FRA has dropped, while claiming at or                 is consistent with increased labor force participation
+above the FRA has increased.                                         at older ages and the rise in the average retirement
+                                                                     age. Nevertheless, in 2013 more than a third of
+                                                                     insured workers still claimed Social Security benefits
+Figure 6. Percentage-Point Change in Claiming                        as soon as they became eligible.9 The question is
+by Age Between Cohorts Turning 62 in 1985 and                        whether this decision appropriately reflects the indi-
+2010                                                                 vidual and family circumstances of these individuals
+ 15%                                            12.5%                or whether they are making a mistake.
+                                           10.9%
+                                                          8.9%
+                                                              5.0%
+
+    0%
+                     -0.8%
+                         -2.5% -2.6%
+                                       -5.8%
+             -8.2%
+-15%
+         -16.6%
+                                                         Women
+                                                         Men
+-30%
+           62           63        64            FRA        FRA –
+                                               (65-66)      70+
+
+Source: Authors’ calculations from U.S. Social Security
+Administration (2015a and 2015b).
+Issue in Brief                                                                                                   5
+
+
+Endnotes
+1 The FRA increased by 2 months for workers turn-         8 The underlying data used in this calculation – the
+ing 65 in 2003 and continued to rise at this pace each    percentage of individuals in each cohort who claim
+year until reaching 66. As a result of the shift in the   at each age – do not add to 100 percent primarily
+FRA, Table 6.B5 in the Annual Statistical Supplement      because some people die during the period.
+reports distributions from age 65 to the FRA and
+at the FRA. Figure 1 combines these two claiming          9 Authors’ calculations from U.S. Social Security
+groups into one group: FRA (65-66).                       Administration (2015a and 2015b).
+
+2 The dip in 1997 occurred because Social Security
+examined the earnings and benefit records of women
+and men receiving widow(er)’s benefits to determine       References
+if these beneficiaries would be better off receiving
+retired-worker benefits. This assessment resulted         Centers for Disease Control and Prevention, National
+in retired-worker benefit awards for a large number          Center for Health Statistics. 2015. VitalStats, Na-
+of women over age 65, and particularly over age 70,          tional Birth Tables. Atlanta, GA.
+which caused the one-year decline in the percentage
+of women claiming benefits at age 62. This explana-       Muldoon, Dan and Richard W. Kopcke. 2008. “Are
+tion was provided through a personal communication          People Claiming Social Security Benefits Later?”
+(U.S. Social Security Administration, 2008).                Issue in Brief 8-7. Chestnut Hill, MA: Center for
+                                                            Retirement Research at Boston College.
+3 For men, the drop in 2000 was caused by the elimi-
+nation of the retirement earnings test between ages       U.S. Social Security Administration. 2015a. Annual
+65 (which was the FRA at the time) and 69. The elim-         Statistical Supplement, 2014. Washington, DC: U.S.
+ination of the test led to a large number of retired-        Government Printing Office.
+worker benefit awards for men age 65 and older in
+2000, which in turn lowered the percentage claiming       U.S. Social Security Administration. 2015b. “Un-
+at age 62. This change was most pronounced in 2000           published Data on Initial Social Security Benefit
+and the percentage of men claiming benefits at age           Awards and Eligibility Status.” Baltimore, MD.
+62 in 2001 readjusted towards the 1999 level. This
+explanation was provided through a personal commu-        U.S. Social Security Administration. 2015c. Personal
+nication (U.S. Social Security Administration, 2008).        Communication with Beth Hima. Baltimore, MD.
+
+4 The approach taken in the analysis follows Mul-         U.S. Social Security Administration. 2008. Personal
+doon and Kopcke (2008).                                      Communication with Barbara Lingg. Washington,
+                                                             DC.
+5 U.S. Social Security Administration (2015b, 2015c).
+
+6 These data exclude individuals receving Social
+Security disability or survivor benefits.
+
+7 A portion of this decline – as much as 13 percent for
+men and 25 percent for women during the 1985-2013
+period – may be due to the rising percentage of indi-
+viduals receiving Social Security disability benefits.
+RETIREMENT
+RESEARCH
+
+
+
+
+About the Center                                                 Affiliated Institutions
+The mission of the Center for Retirement Research                The Brookings Institution
+at Boston College is to produce first-class research             Massachusetts Institute of Technology
+and educational tools and forge a strong link between            Syracuse University
+the academic community and decision-makers in the                Urban Institute
+public and private sectors around an issue of criti-
+cal importance to the nation’s future. To achieve
+this mission, the Center sponsors a wide variety of
+                                                                 Contact Information
+                                                                 Center for Retirement Research
+research projects, transmits new findings to a broad
+                                                                 Boston College
+audience, trains new scholars, and broadens access to
+                                                                 Hovey House
+valuable data sources. Since its inception in 1998, the
+                                                                 140 Commonwealth Avenue
+Center has established a reputation as an authorita-
+                                                                 Chestnut Hill, MA 02467-3808
+tive source of information on all major aspects of the
+                                                                 Phone: (617) 552-1762
+retirement income debate.
+                                                                 Fax: (617) 552-0191
+                                                                 E-mail: crr@bc.edu
+                                                                 Website: http://crr.bc.edu
+
+
+
+
+ The Center for Retirement Research thanks BlackRock, Charles Schwab & Co. Inc., Citigroup, Fidelity &
+ Guaranty Life, Goldman Sachs, Mercer, National Association of Retirement Plan Participants, Prudential
+ Financial, State Street, and TIAA-CREF Institute for support of this project.
+
+
+
+
+© 2015, by Trustees of Boston College, Center for Retirement Research. All rights reserved. Short sections of text, not to
+exceed two paragraphs, may be quoted without explicit permission provided that the authors are identified and full credit,
+including copyright notice, is given to Trustees of Boston College, Center for Retirement Research.
+
+The research reported herein was supported by the Center’s Partnership Program. The findings and conclusions expressed
+are solely those of the author and do not represent the views or policy of the partners or the Center for Retirement Research
+at Boston College.
+

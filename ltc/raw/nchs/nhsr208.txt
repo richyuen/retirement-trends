@@ -1,0 +1,1139 @@
+National Health Statistics Reports
+Number 208  August 27, 2024                              This report was revised on October 16, 2024, to correct errors in the text and in
+                                                          Figure 3 regarding the number of people served by residential care communities.
+                                                          The notes for Figure 3 were also updated with more accurate language.
+
+
+
+
+  Overview of Post-acute and Long-term Care Providers
+     and Services Users in the United States, 2020
+         by Jessica P. Lendon, Ph.D., Christine Caffrey, Ph.D., Amanuel Melekin, Ph.D., Priyanka Singh, M.P.H.,
+                                   Zhaohui Lu, M.S., and Manisha Sengupta, Ph.D.
+
+
+
+
+Abstract                                                                                       Introduction
+     Objective—This report presents national results from the National Post-acute and               Paid long-term care services and
+Long-term Care Study to describe providers and services users in seven major settings          supports include a broad range of health,
+of paid, regulated post-acute and long-term care services in the United States.                personal care, and supportive services
+     Methods—Data are from the 2020 National Post-acute and Long-term Care Study,              that meet the needs of adults whose
+which includes surveys of adult day services centers and residential care communities          capacity for self-care is limited because
+and administrative data from the Centers for Medicare and Medicaid Services on home            of chronic illness; injury; physical,
+health agencies, hospices, inpatient rehabilitation facilities, long-term care hospitals,      cognitive, or mental disability; or other
+and nursing homes.                                                                             health-related conditions (1). Post-acute
+     Results—The findings show variation in characteristics of the seven post-acute            care provides short-term rehabilitative
+and long-term care settings. About 68,150 providers served roughly 7.3 million                 or other healthcare services to patients
+people in the United States; about one-half of these providers were residential care           typically following a stay in an acute care
+communities, and about one-quarter were nursing homes. The Northeast had a higher              hospital, a medical facility that provides
+percentage of adult day services centers than other settings, the Midwest had a higher         short-term treatment and care for medical
+percentage of nursing homes, the South had a higher percentage of long-term care               conditions and injuries. Depending on
+hospitals, and the West had a higher percentage of residential care communities.               the intensity of care the patient requires,
+Among the settings, more registered nurses were employed in inpatient rehabilitation           post-acute care may include a stay in a
+facilities and long-term care hospitals, and more licensed practical nurses in home            facility, outpatient services, or home care
+health agencies and long-term care hospitals. The most common services were skilled            (2). People may receive post-acute care
+nursing and therapeutic services. Adult day services centers had the highest percentage        services from providers that also provide
+of users younger than age 65, while nearly one-half of hospice and nursing home users          long-term care, such as adult day services
+were age 85 and older. Adult day services centers had the highest percentage of other          centers, home health agencies, and
+non-Hispanic and Hispanic users among the settings. The percentage of users with               nursing homes. Both long-term and post-
+selected diagnoses and activities of daily living difficulties varied by setting.              acute care may be home- and community-
+     Conclusion—The providers described in this report comprise a large share of               based or provided in institutional settings
+the U.S. post-acute and long-term care industry. This report provides the most recent          (1–4).
+nationally representative information on these providers and services users and                     Long-term care services include
+updates findings from previous National Center for Health Statistics reports.                  assistance with activities of daily living
+                                                                                               (such as dressing, bathing, and toileting),
+Keywords: aging • disability • home- and community-based services • chronic
+                                                                                               instrumental activities of daily living
+conditions • National Post-acute and Long-term Care Study
+                                                                                               (such as medication management and
+                                                                                               housework), and health maintenance
+
+
+
+
+                                                                                                NCHS reports can be downloaded from:
+                                                                                                https://www.cdc.gov/nchs/products/index.htm.
+Page 2                                                    National Health Statistics Reports  Number 208  August 27, 2024
+
+tasks (3). The need for long-term care          home health agencies, inpatient              services center and residential care
+services is generally based on functional       rehabilitation facilities, hospices, long-   community directors. Data included
+status (the need for assistance with or         term care hospitals, nursing homes,          1,780 eligible adult day services centers
+supervision in activities of daily living       and residential care communities, and        from a frame of 5,466 (weighted response
+and instrumental activities of daily            compares characteristics across these        rate of 43%) and 4,312 residential
+living) regardless of cause, age, location,     services.                                    care communities from a sampling
+whether the assistance is human or                                                           frame of 11,618 (weighted response
+mechanical, and whether the assistance is                                                    rate of 45%). A survey methodology
+paid or unpaid. Long-term care settings         Methods                                      report (14), survey-specific technical
+include adult day services centers, home                                                     documentation (15,16), and examples of
+health agencies, hospices, inpatient            Data sources                                 the questionnaires (17,18) are available
+rehabilitation facilities, long-term care                                                    from: https://www.cdc.gov/nchs/npals/
+hospitals, nursing homes, and residential             This report uses multiple NCHS
+                                                                                             questionnaires/#cdc_listing_res4-2020.
+care communities. However, these                survey data and CMS administrative
+                                                                                                  CMS data are used for five settings:
+settings do not represent the entire picture    data sources, collectively referred to as
+                                                                                             home health agencies, hospices, inpatient
+of long-term care in the United States,         the National Post-acute and Long-term
+                                                                                             rehabilitation facilities, long-term care
+as care provided by informal or unpaid          Care Study (NPALS). The surveys are
+                                                                                             hospitals, and nursing homes. These
+caregivers, such as family, friends, and        designed to collect information about the
+                                                                                             CMS data sources are from calendar
+neighbors (5), and all paid home care or        characteristics of the adult day services
+                                                                                             year 2020 and represent all Medicare
+personal care services are not included         center or residential care community
+                                                                                             and Medicaid certified providers and
+in long-term care data collected by the         and its users, such as size, ownership,
+                                                                                             services users who received care in 2020
+National Center for Health Statistics           computerized capabilities, services
+                                                                                             (19). Certification and Survey Provider
+(NCHS) (6,7).                                   provided, user demographics and health
+                                                                                             Enhanced Reports data for each setting
+     The Centers for Medicare &                 and physical functioning, and numbers
+                                                                                             included provider-level information
+Medicaid Services (CMS) requires                and types of staff. The surveys collect
+                                                                                             and claims or assessment data sources
+specific criteria to cover beneficiaries in     provider-level information and data on
+                                                                                             provided information about the services
+the post-acute care settings. For home          services users that were combined at
+                                                                                             users. Services user information
+health care, patients must be physician         the provider level. Similarly, estimates
+                                                                                             was obtained from the Outcome and
+certified as needing at least part-time         from administrative CMS data were
+                                                                                             Assessment Information Set and
+care and must have difficulty leaving           provider-level, and services user data
+                                                                                             Institutional Provider Based Summary
+the home (2). Skilled nursing facilities        were aggregated to create analytic data
+                                                                                             for home health agency patients;
+are typically covered by Medicare, and          files as comparable to the survey data as
+                                                                                             Institutional Provider Based Summary
+CMS certifies them to offer short-term,         possible. The purpose of NPALS is to
+                                                                                             for hospice and long-term care hospital
+post-acute nursing and rehabilitation           provide reliable, accurate, relevant, and
+                                                                                             patients; Institutional Provider Based
+care. Inpatient rehabilitation facilities       timely statistical information to support
+                                                                                             Summary and the Inpatient Rehabilitation
+must qualify for Medicare’s inpatient           and inform post-acute and long-term care
+                                                                                             Facility-Patient Assessment Inventory
+rehabilitation facility prospective             services policy, research, and practice
+                                                                                             for inpatient rehabilitation facility
+payment system and patients are enrolled        (11). Federal CMS data are routinely
+                                                                                             patients; and Medicare Provider Analysis
+in Medicare Part A fee-for-service. These       collected for five of the settings (home
+                                                                                             and Review and Minimum Data Set
+facilities offer physical, occupational, and    health agencies, hospices, inpatient
+                                                                                             Active Resident Table for nursing home
+speech therapies and nursing services for       rehabilitation facilities, long-term care
+                                                                                             residents. Data include about 11,400
+patient rehabilitation after illness, injury,   hospitals, and nursing homes), and
+                                                                                             home health agencies, 5,200 hospices,
+or surgery, usually following a hospital        NCHS collects data on the two settings
+                                                                                             1,200 inpatient rehabilitation facilities,
+stay (2,8,9). Long-term care hospitals          for which other national data sources
+                                                                                             350 long-term care hospitals, and
+(freestanding or hospital-based) are for        do not exist (adult day services centers
+                                                                                             15,300 nursing homes. Technical notes
+people with complex conditions that need        and residential care communities). U.S.
+                                                                                             describing the CMS administrative data
+hospital-level care for longer periods of       Census Bureau population estimates
+                                                                                             sources and methodology in more detail
+time (typically more than 25 days) (10).        (12,13) were used to calculate rates
+                                                                                             are available (19).
+Like inpatient rehabilitation facilities,       shown in Figures 2 and 8 (12).
+long-term care hospitals participate in the           The 2020 surveys of adult day
+Medicare prospective payment system             services centers and residential care        Measures
+and serve Medicare fee-for-service              communities used a multimode data                 In 2020, NCHS collected survey data
+beneficiaries.                                  collection (mail, web, or telephone) of a    about the operations, practices, services
+     This report provides an overview           census of adult day services centers and     offered, staffing profile, services user
+of the characteristics of seven paid,           a stratified random sample of residential    demographics, services user health and
+regulated long-term and post-acute care         care communities, conducted by NCHS          physical functioning status, and services
+services providers in the United States,        from November 2020 to July 2021.             user adverse events among adult day
+including adult day services centers,           The target respondents were adult day        services centers and residential care
+National Health Statistics Reports  Number 208  August 27, 2024                                                                  Page 3
+
+
+communities. The survey questionnaires         nonresponse variability (14–16), and            Survey Provider Enhanced Reports.
+consist of core topics common or               subsetting techniques were used to              Table 3 describes the percentage missing
+comparable across all seven settings, as       ensure proper variance calculation.             for each setting. The administrative
+well as selected topics that are specific to   The CMS data represent 100% of the              data technical notes contain more
+a particular setting. To make comparisons      Medicare- and Medicaid-regulated                detailed information about how data file
+across settings easier, the topics for the     providers and beneficiaries of those            management may lead to higher levels
+adult day services center and residential      providers at the specific time that the data    of missing data for aggregated user-level
+care community surveys were designed           were collected and were not subject to          data after merging to the Certification
+to be as similar as possible to the core       sampling variability (19). However, due         and Survey Provider Enhanced Reports
+topics and wording available in the CMS        to the possibility of random variability        provider-level data files (19).
+data sources. This report compares each        associated with different time frames,
+setting by a variety of provider and           potential data entry errors, and reporting
+user characteristics, where available or       errors, the estimates from CMS data             Results
+applicable to the setting. The measures        sources were treated as a simple random
+include provider characteristics, such         sample. All estimates from all sources          Supply of providers by
+as U.S. Census Bureau region, number           meet NCHS guidelines for reliability of         region
+of beds, number of people served daily         proportions (21) and confidentiality.
+and annually, staffing (registered nurses,          All figures show percentages or                 In 2020, about 68,150 paid and
+licensed practical or vocational nurses,       rates. Table 1 shows the total number of        regulated post-acute and long-term
+aides, and social workers), and services       providers, services users, and staff types      care services providers existed across
+provided by employees or through               by setting. The 95% confidence intervals        the United States (Table 1). Of these,
+arrangement with outside providers             for estimates in Figure 2 are shown in          6.0% were adult day services centers,
+(dietary and nutritional, hospice, mental      Table 2. For the estimates shown in all         16.7% were home health agencies, 7.6%
+health or counseling, pharmacy, skilled        other figures, 95% confidence intervals         were hospices, 1.8% were inpatient
+nursing, social work, and therapeutic).        can be found in previously published            rehabilitation facilities, 0.5% were long-
+Services user characteristics include:         tables for the corresponding estimates          term care hospitals, 22.5% were nursing
+                                               (22). Statements in this report describing      homes, and 44.9% were residential
+●   Age groups: Younger than 65, 65–74,                                                        care communities (percentages derived
+                                               differences indicate that statistical testing
+    75–84, and 85 and older                                                                    from number of providers shown in
+                                               was performed and the differences
+●   Race and Hispanic-origin groups:                                                           Table 1). The type of providers varied
+                                               between two estimates were determined
+    Black non-Hispanic (subsequently,                                                          in their geographic distribution. The
+                                               to be statistically significant using two-
+    Black); White non-Hispanic                                                                 Northeast had a higher percentage of
+                                               sided t tests at the p < 0.05 level, unless
+    (subsequently, White); a combined                                                          adult day services centers (18.4%),
+                                               otherwise specified. Lack of comment
+    other non-Hispanic race category                                                           compared with other provider types
+                                               regarding the difference between any
+    (subsequently, other races) that                                                           (Figure 1). The Midwest had a higher
+                                               two statistics does not necessarily mean
+    includes American Indian and                                                               percentage of nursing homes (32.7%)
+                                               that the difference was tested and found
+    Alaskan Native, Asian, Native                                                              than other settings. The South had a
+                                               not to be statistically significant. Data
+    Hawaiian or Other Pacific Islander,                                                        higher percentage of long-term care
+                                               analyses were performed using SAS-
+    two or more races, unknown, and                                                            hospitals (54.0%), followed by home
+                                               callable SUDAAN (23) and Stata (24)
+    categories not in the provider’s                                                           health agencies (42.1%) and inpatient
+                                               statistical packages. Individual estimates
+    system; and Hispanic                                                                       rehabilitation facilities (42.4%). The West
+                                               in distributions may not sum to totals
+●   Selected diagnosed conditions:                                                             had a higher percentage of residential
+                                               because estimates were rounded.
+    Alzheimer disease or other                                                                 care communities (39.7%) than other
+                                                    Cases with missing data were
+    dementias, depression, diabetes,                                                           settings.
+                                               excluded from analyses on a variable-
+    heart disease, and hypertension                                                                 Adult day services centers’
+                                               by-variable basis. For adult day services
+●   Difficulties with activities of daily                                                      capacity and the availability of beds
+                                               centers and residential care communities,
+    living: bathing and eating                                                                 in other residential settings per 1,000
+                                               missing data for age, sex, and race and
+     Details about how the variables in        ethnicity were imputed (14–16). Missing         people age 65 and older also varied
+this report and accompanying online data       data for categorical variables in all files     by region (Figure 2, Table 2). Overall,
+tables are measured across each of the         was less than 10%; however, for some            the United States had a larger number
+seven settings are available (20).             aggregated services user-level data,            of certified nursing home beds per
+                                               10–61% of the data was missing. This            population age 65 and older (30.0 per
+                                               was mainly due to the loss of information       1,000 people age 65 and older) compared
+Data analysis                                                                                  with licensed residential care community
+                                               that occurred when merging data from the
+     For the adult day care services           Institutional Provider Based Summary,           beds (22.0 per 1,000), certified inpatient
+center and residential care community          the Outcome and Assessment Information          rehabilitation facility beds (6.2 per
+survey data, estimates were weighted           Set, and the Minimum Data Set Active            1,000), adult day services center
+to account for complex sampling and            Resident Table files to Certification and       maximum participants allowed (5.4 per
+Page 4                                                                             National Health Statistics Reports  Number 208  August 27, 2024
+
+Figure 1. Percent distribution of post-acute and long-term care services providers, by setting and region:
+United States, 2020
+
+                            Adult day                  Home                    Hospice               Inpatient                      Long-term                     Nursing                Residential
+                            services                   health                  (5,200)               rehabilitation                 care hospital                  home                  care
+                            center                     agency                                        facility (1,200)               (350)                         (15,300)               community
+                            (4,100)                    (11,400)                                                                                                                          (30,600)
+            60
+
+                                                                                                                                    54.0
+
+            50
+
+                                                                                                                    42.1       42.4
+                                                                                                                                                                                               39.7
+            40
+                                                                                                                         36.9                                           36.1
+                                                                                                                                          35.4
+                                                                                                             34.2                                          33.2
+                                                                                            32.7
+  Percent
+
+
+
+
+            30                                                                                                                                   28.0
+                                                                    25.4         25.2             24.5                                                           23.5
+                                                                                      20.4
+            20   18.4                                                     18.7                                                                                               18.2
+                                             16.5
+                                  14.2                        14.2                                                                                                                 14.715.5
+                                      10.9
+            10          9.0 8.3
+                                                    7.8
+
+
+
+             0
+                             Northeast1                                     Midwest2                                         South3                                         West4
+   1
+     Statistically significant differences in the Northeast between adult day services and all settings (p < 0.05); home health agencies and most settings except for hospice and long-term care
+   hospitals; hospice and most settings except home health, long-term care hospitals, and residential care communities; inpatient rehabilitation facilities and all settings except long-term care
+   hospitals; long-term care hospitals and adult day services centers and nursing homes; nursing homes and all settings; residential care communities and all settings except long-term care
+   hospitals.
+   2
+     Statistically significant differences in the Midwest between adult day services and all settings (p < 0.05); home health agencies and most settings except for inpatient rehabilitation facilities;
+   hospices and all settings except for long-term care hospitals; inpatient rehabilitation facilities and some settings except for home health agencies, long-term care hospitals, and residential
+   care communities; long-term care hospitals and some settings except hospices, inpatient rehabilitation facilities, and residential care communities; nursing homes and all settings; residential
+   care communities and some settings except inpatient rehabilitation facilities and long-term care hospitals.
+   3
+     Statistically significant differences in the South between all settings except between home health agencies and inpatient rehabilitation facilities (p < 0.05) .
+   4
+     Statistically significant differences in the West between all settings except between long-term care hospitals and inpatient rehabilitation facilities and nursing homes (p < 0.05).
+   NOTES: Region is based on U.S. Census regions. Statistically significant differences were present within regions between all settings (p < 0.05). The number in parentheses is the number of
+   service providers, which are rounded to the nearest 100, except for long-term care hospitals, which are rounded to the nearest 10. Percentages are based on unrounded estimates. Percent
+   distributions may not add to 100 due to rounding.
+   SOURCE: National Center for Health Statistics, 2020 National Post-acute and Long-term Care Study.
+
+
+
+
+1,000), and certified long-term care                                 showed significant variation within and                               compared with the larger categories.
+hospital beds (0.4 per 1,000). This pattern                          across settings (Figure 3). Most adult day                            A larger percentage of inpatient
+was similar in the Northeast, Midwest,                               services centers served 1–25 participants                             rehabilitation facilities (47.9%) and
+and South. The West had a larger rate of                             (52.1%) daily, most nursing homes                                     most long-term care hospitals (61.3%)
+residential care community beds (27.5                                served 26–100 residents (66.5%), and                                  served 101–300 patients compared with
+per 1,000), followed by nursing home                                 most residential care communities served                              the other participant number categories.
+beds (18.7 per 1,000), compared with                                 1–25 residents (64.7%). As such, adult                                A higher percentage of home health
+capacity in the other settings.                                      day services centers and residential care                             agencies (42.9%) and hospices (40.0%)
+                                                                     communities served fewer people than                                  served 1–100 patients than inpatient
+                                                                     nursing homes. A greater percentage of                                rehabilitation facilities (16.6%) and long-
+Number of people served                                              nursing homes served 101 or more people                               term care hospitals (14.5%), while more
+     The number of people served by                                  daily, 28.5%, compared with 8.2% of                                   long-term care hospitals (61.3%) and
+the providers was measured either daily                              adult day services centers and 2.9% of                                47.9% of inpatient rehabilitation facilities
+for adult day services centers, nursing                              residential care communities.                                         served 101–300 patients. A higher
+homes, and residential care communities                                   The number of people served                                      percentage of inpatient rehabilitation
+annually for home health agencies,                                   per year was categorized as 1–100,                                    facilities than other settings served 301 or
+hospices, inpatient rehabilitation                                   101–300, or 301 or more, and significant                              more patients (35.6%).
+facilities, and long-term care hospitals.                            differences were found within and
+The number of people served on any                                   across settings (Figure 4). More home
+given day was categorized as 1–25,                                   health agencies (42.9%) and hospices
+26–100, and 101 or more people and                                   (40.0%) served 1–100 patients annually
+National Health Statistics Reports  Number 208  August 27, 2024                                                                                                                               Page 5
+
+
+Figure 2. Post-acute and long-term care services provider capacity per 1,000 people age 65 and older, by setting and
+region: United States, 2020
+
+                  Adult day services                 Certified inpatient                           Certified long-term               Certified nursing                  Licensed residential
+                  center maximum                     rehabilitation facility beds                  care hospital beds                home beds                          care community beds
+                  participants allowed
+            40                                                                                                  39.6
+
+
+                                                                             34.7
+
+
+                                       30.0
+            30                                                                                                         29.2                        29.0
+                                                                                                                                                                                            27.5
+
+
+                                              22.0
+  Rate
+
+
+
+
+            20                                                                                                                                                                       18.7
+                                                                                                                                                          18.1
+
+                                                                                    14.9
+
+
+
+            10                                                                                                                                                    8.6
+                                                                                                    7.7
+                           6.2                                                                                                        6.7
+                     5.4                                  5.9
+                                                                 5.2                                                           5.0                                       4.6
+                                                                                             2.4
+                                 0.4                                   0.6                                0.4                                0.5                               0.3
+             0
+                           United States                          Northeast                           Midwest                               South                              West
+  NOTES: Statistically significant differences in capacity were present between regions for each setting (p < 0.05). Capacity refers to number of certified nursing home, inpatient rehabilitation
+  facility, and long-term care hospital beds; number of licensed residential care community beds; and maximum number of adult day services center participants allowed. Capacity for home
+  health agencies and hospices was not examined because licensed maximum capacity or a similar metric was not available. Rates are based on unrounded estimates.
+  SOURCES: National Center for Health Statistics, 2020 National Post-acute and Long-term Care Study; U.S. Census Bureau, Population Division, Population Estimates, July 1, 2020.
+
+
+
+
+Figure 3. Percent distribution of number of people served daily by post-acute                                                           Staffing and services
+and long-term care services providers, by setting: United States, 2020
+                                                                                                                                             All settings employed full-time
+                                                                                                                                        equivalent (FTE) nursing staff, including
+            100                                                          2.9                         101 people or more
+                                 8.2                                                                                                    registered nurses and licensed practical
+                                                          28.5                                                                          nurses or licensed vocational nurses;
+             80                                                                       32.5            26–100 people                     adult day services centers, home health
+                                 39.7                                                                                                   agencies, hospices, and residential care
+                                                                                                                                        communities also employed aides,
+             60
+                                                                                                                                        nursing assistants, and social workers.
+  Percent
+
+
+
+
+                                                                                                                                        Data on employees in nursing homes
+             40                                                                                                                         were not available. About 884,500
+                                                          66.5
+                                                                                      64.7           1–25 people                        nursing and social work FTEs worked
+                                 52.1                                                                                                   across all of the settings where data were
+             20                                                                                                                         available (Table 1).
+                                                                                                                                             Inpatient rehabilitation facilities
+                                                           5.1                                                                          (92.7%) and long-term care hospitals
+             0
+                              Adult day              Nursing home              Residential care                                         (81.7%) had significantly higher
+                           services center                                       community                                              percentages of registered nurses than
+   NOTES: Statistically significant differences in number of people served between all settings (p < 0.05). This figure
+                                                                                                                                        the other settings (Figure 5). However,
+   contains the settings where the number of people served by the providers was measured on a daily basis. Number of                    home health agencies (21.7%) had the
+   people served is categorized by the number of current residents (nursing homes, residential care communities) or the
+   average number of participants in attendance (adult day services centers) on a given day into three categories: 1–25                 highest percentage of licensed practical
+   people, 26–100 people, and 101 people or more. Percentages are based on the unrounded estimates. Percent
+   distributions may not add to 100 due to rounding.                                                                                    nurses or licensed vocational nurse FTEs
+   SOURCE: National Center for Health Statistics, 2020 National Post-acute and Long-term Care Study.                                    among the settings. Residential care
+                                                                                                                                        communities (75.4%), followed by adult
+                                                                                                                                        day services centers (53.0%), had higher
+Page 6                                                                               National Health Statistics Reports  Number 208  August 27, 2024
+
+Figure 4. Percent distribution of number of people served annually by post-                                                                 percentages of aide FTEs than other
+acute and long-term care services providers, by setting: United States, 2020                                                                settings. Hospices (11.6%), followed by
+                                                                                                                                            adult day services centers (10.6%), had
+             100                                                                                                                            higher percentages of social work FTEs
+                                                                                                                       301                  than other settings.
+                                                                                                         24.3          people
+                          31.3                      29.9                      35.6                                     or more1                  Many different services were
+             80
+                                                                                                                                            offered in each of the settings and were
+                                                                                                                                            provided in a variety of ways: by paid
+             60                                                                                                                             employees, arrangement with outside
+   Percent
+
+
+
+
+                          25.8                      30.1
+                                                                                                                       101–300              providers, or referral to outside services
+                                                                                                         61.3
+             40                                                               47.9                                     people1              providers. Some providers did not
+                                                                                                                                            provide the selected services by any of
+                          42.9                                                                                                              these means. Data on services in nursing
+             20                                     40.0
+                                                                                                                                            homes were not available. Figure 6
+                                                                              16.6                                     1–100
+                                                                                                         14.5
+                                                                                                                       people2              shows the percentages of providers who
+              0                                                                                                                             offered services by paid employee or
+                        Home                     Hospice                  Inpatient                Long-term
+                    health agency                                       rehabilitation            care hospital                             by arrangement with outside providers.
+                                                                           facility                                                         Social work and therapeutic services,
+    1Statistically significant differences in number of people served between all settings (p < 0.05).
+    2Statistically significant differences in number of people served between settings, except between inpatient rehabilitation
+                                                                                                                                            including occupational, physical, and
+    facilities and long-term care hospitals (p < 0.05).                                                                                     speech therapies, were provided by the
+    NOTES: This figure contains the settings where the number of people served by the providers was measured on an
+    annual basis. The number of people served was categorized by the number of home health patients whose episode of                        six settings with available data, while
+    care ended at any time in 2020 and the number of hospice, inpatient rehabilitation facility, and long-term care hospital
+    patients receiving care at any time in 2020, respectively, into: 1–100 people, 101–300 people, and 301 people or more.
+                                                                                                                                            pharmacy services were offered in all
+    Percentages are based on unrounded estimates. Percent distributions may not add to 100 due to rounding.                                 settings but hospice, and skilled nursing
+    SOURCE: National Center for Health Statistics, 2020 National Post-acute and Long-term Care Study.
+                                                                                                                                            services were offered in all settings but
+
+
+Figure 5. Number and percent distribution of nursing and social work full-time equivalent employees, by setting and
+staff type: United States, 2020
+
+                                                            Registered nurse1                    Licensed practical or vocational nurse2                          Aide1              Social worker1
+
+        Adult day services center
+                    (FTE 17,600)                            27.0                          9.4                                              53.0                                             10.6
+
+              Home health agency
+                  (FTE 135,300)                                                51.0                                                     21.7                                24.8                   2.6
+
+                          Hospice
+                      (FTE 90,500)                                           48.2                                         8.6                            31.6                             11.6
+
+             Inpatient rehabilitation
+              facility (FTE 252,200)                                                                            92.7                                                                           8.2
+
+         Long-term care hospital
+                  (FTE 12,500)                                                                           81.7                                                                        18.3
+                                                                                                                                                                                                     0.5
+            Residential care
+    community (FTE 376,400)                      12.5               11.6                                                                75.4
+
+
+                                         0                              20                               40                           60                             80                              100
+                                                                                                                  Percent
+    1
+     Statistically significant differences in staff type between settings (p < 0.05). Statistical comparisons between settings with inpatient rehabilitation facilities and long-term care hospitals were
+    not assessed for aide and social worker.
+    2
+     Statistically significant differences in staff type between settings, except between hospices and inpatient rehabilitation facilities (p < 0.05).
+    NOTES: Number in parentheses is the number of each employee type, rounded to nearest 100. FTE is full-time equivalent. Only employees are included for all staff types; contract staff are
+    not included. For adult day services centers and residential care communities, aides refer to certified nursing assistants, home health aides, home care aides, personal care aides, personal
+    care assistants, and medication technicians or medication aides. For home health agencies and hospices, aides refer to home health aides. Social workers include licensed social workers or
+    persons with a bachelor's or master's degree in social work in adult day services centers and residential care communities; and medical social workers in home health agencies and hospices.
+    Percentages are based on unrounded estimates. Percent distributions may not add to 100 due to rounding.
+    SOURCE: National Center for Health Statistics, 2020 National Post-acute and Long-term Care Study.
+National Health Statistics Reports  Number 208  August 27, 2024                                                                                                                                    Page 7
+
+
+Figure 6. Percentage of post-acute and long-term care services providers that offer selected services, by setting:
+United States, 2020
+
+                       Adult day                        Home                            Hospice                Inpatient                              Long-term                     Residential
+                       services center                  health agency                                          rehabilitation facility                care hospital                 care community
+                                                                      100.0 100.0                                                                                             1100.0 1100.0
+                                          98.9 98.0                                                                          99.9
+            100                                                                                                                     97.2                                 97.4
+                                                                                                                                                                 95.7
+
+                                                       86.3                                                                                87.1
+                                                                                                                      81.0
+             80
+                                                                                                                                                                                             74.8
+
+
+                                                                                                     64.6
+
+             60
+                                                                  55.8
+  Percent
+
+
+
+
+                                                                                                                                                  50.6
+                                                                                                               45.3
+
+             40                                                                                                                                             36.0
+
+                      28.5
+
+
+             20
+                             4.3
+
+                                    ---                                                 ---    ---
+             0
+                        Pharmacy or pharmacist2                            Skilled nursing3                               Social work4                                 Therapeutic5
+
+   --- Data not available.
+   1
+     Exact estimate is greater than 90.0%, but is not presented due to disclosure risk.
+   2
+     Statistically significant differences in pharmacy services offered between settings, except between inpatient rehabilitation facilities and long-term care hospitals (p < 0.05).
+   3
+     Statistically significant differences in skilled nursing services offered between settings, except between home health and hospices (p < 0.05). Statistical comparisons with inpatient
+   rehabilitation facilities and long-term care hospitals was not applicable.
+   4
+     Statistically significant differences in social work services offered between all settings (p < 0.05).
+   5
+     Statistically significant differences in therapeutic services offered between settings (p < 0.05). Statistical comparisons with inpatient rehabilitation facilities and long-term care communities
+   were not applicable.
+   NOTES: Offered services were provided by paid employee or arrangement with outside providers. Percentages are based on the unrounded numbers.
+   SOURCE: National Center for Health Statistics, 2020 National Post-acute and Long-term Care Study.
+
+
+
+
+inpatient rehabilitation facilities and                              (over 90%), and long-term care hospitals                               one-half of residential care community
+long-term care hospitals.                                            (over 90%) offered therapeutic services,                               (49.9%) and hospice (47.0%) users were
+     For pharmacy or pharmacist services,                            compared with 74.8% of residential care                                age 85 and older.
+almost all inpatient rehabilitation                                  communities and 36.0% of adult day                                          The race and Hispanic origin of
+facilities (98.9%), long-term care                                   services centers.                                                      services users varied within and across
+hospitals (98.0%), and residential care                                                                                                     settings (Figure 8). Adult day services
+communities (86.3%) offered these                                                                                                           center users were the most diverse in
+                                                                     Services user demographic
+services, compared with 28.5% of adult                                                                                                      race and Hispanic origin across the
+day services centers and 4.3% of home                                characteristics                                                        seven settings. This setting had the
+health agencies. All home health agencies                                 In 2020, the seven settings had                                   lowest percentage of White participants
+and hospices offered skilled nursing or                              about 7,289,700 services users in total                                (40.1%) and the highest percentages of
+nursing services, and most residential                               (Table 1). The age composition of                                      other race (23.1%) and Hispanic (21.8%)
+care communities (64.6%) and adult day                               services users varied within each setting,                             participants, compared with the other
+services centers (55.8%) provided skilled                            with most users being age 65 and older.                                settings. Long-term care hospitals had
+nursing services. Nearly all hospices                                Age groups were significantly different                                the highest percentage of Black services
+(99.9%) and inpatient rehabilitation                                 between settings, except for ages 75–84                                users (19.9%) among the settings. Most
+facilities (97.2%) offered social work                               between hospices and residential care                                  users of residential care communities
+services, compared with 50.6% of                                     communities and between long-term                                      (88.0%), followed by hospices (81.5%),
+residential care communities and 45.3%                               care hospitals and nursing homes. Adult                                inpatient rehabilitation facilities (80.2%),
+of adult day services centers. Almost all                            day services centers had the largest                                   and home health agencies (79.2%)
+hospices (97.4%), home health agencies                               percentage of users younger than age                                   were White.
+(95.7%), inpatient rehabilitation facilities                         65 (36.7%) among the settings. Nearly
+Page 8                                                                          National Health Statistics Reports  Number 208  August 27, 2024
+
+Figure 7. Number and percent distribution of post-acute and long-term care services users, by setting and age group:
+United States, 2020
+
+                                                                                                   Younger than 651                  65–741                75–842              85 and older1
+
+           Adult day services
+            center (237,400)                                  36.7                                          23.7                                  24.9                         14.6
+
+        Home health agency
+               (2,977,900)               10.3                          27.9                                          32.5                                            29.3
+
+                       Hospice
+                   (1,534,600)         4.8             18.0                                 30.2                                                       47.0
+
+       Inpatient rehabilitation
+             facility (345,200)           10.7                             33.0                                                34.6                                        21.7
+
+   Long-term care hospital
+                 (81,000)                          22.8                                           37.6                                              27.7                          11.9
+
+               Nursing home
+                 (1,294,800)                   17.9                           22.0                                  27.3                                           32.8
+
+          Residential care
+       community (818,800)             5.8           13.4                              30.9                                                          49.9
+
+
+                                   0                             20                             40                             60                             80                            100
+                                                                                                            Percent
+   1
+    Statistically significant differences in age group between all settings (p < 0.05).
+   2
+    Statistically significant differences in age group between settings, except between hospices and residential care communities and between long-term care hospitals and nursing homes
+   at (p < 0.05).
+   NOTES: The total number of services users is 7,289,700 and statistically significant differences in number of users were present between all settings (p < 0.05). Number of services users is
+   shown in parentheses and rounded to nearest 100. Percentages for adult day services centers, nursing homes, and residential care communities were based on the number of users on a
+   given day in 2020. Percentages for home health agencies, hospices, inpatient rehabilitation facilities, and long-term care hospitals are based on number of patients who received care at any
+   time in 2020. Percentages are based on unrounded estimates. Percentage distributions may not add to 100 due to rounding.
+   SOURCE: National Center for Health Statistics, 2020 National Post-acute and Long-term Care Study.
+
+
+
+
+Services user health                                              assistance with bathing was in nursing                              adult day services centers, 1,294,800
+conditions and functional                                         homes (96.5%), followed by inpatient                                people were residing in nursing homes,
+                                                                  rehabilitation facilities (95.1%) and                               and 818,800 people were living in
+status characteristics
+                                                                  home health agencies (94.9%). Needing                               residential care communities. About
+     Figure 9 displays the variation across                       assistance with eating was most common                              2,977,900 patients received care and were
+settings in the percentage of services                            among services users in inpatient                                   discharged from home health agencies,
+users diagnosed with five selected health                         rehabilitation facilities (76.5%), followed                         1,534,600 patients received services
+conditions. A similar percentage of                               by home health agencies (67.9%).                                    from hospices, 345,200 patients received
+services users with Alzheimer disease                                                                                                 services from inpatient rehabilitation
+or other dementias were in hospices                                                                                                   facilities, and 81,000 patients received
+(45.2%), long-term care hospitals                                 Discussion                                                          services from long-term care hospitals.
+(45.4%), and nursing homes (45.6%),                                                                                                        Post-acute and long-term care
+                                                                       This report provides an overview
+followed by residential care communities                                                                                              services users varied by sector in their
+                                                                  of the scope of use and characteristics
+(42.1%). Diabetes was most common in                                                                                                  demographic, health characteristics, and
+                                                                  of seven major post-acute and long-
+long-term care hospital patients (64.5%),                                                                                             functional status. A higher percentage
+                                                                  term care settings in the United States.
+followed by nearly one-half of inpatient                                                                                              of adult day services center participants
+                                                                  In 2020, about 68,150 paid, regulated
+rehabilitation facility patients (49.4%).                                                                                             were younger than age 65 compared with
+                                                                  post-acute and long-term care services
+Heart disease was most common in long-                                                                                                the other settings. Adult day services
+                                                                  providers in these sectors served
+term care hospitals (67.1%), followed by                                                                                              center users were also the most diverse
+                                                                  more than 7.3 million people in the
+inpatient rehabilitation facilities (60.4%).                                                                                          in race and Hispanic origin among the
+                                                                  United States. Post-acute and long-
+Similarly, high blood pressure was most                                                                                               seven settings. Among the five chronic
+                                                                  term care services were provided by
+common in inpatient rehabilitation                                                                                                    conditions examined, hypertension was
+                                                                  4,100 adult day services centers, 11,400
+facilities (94.0%) and long-term care                                                                                                 the most common diagnosis among
+                                                                  home health agencies, 5,200 hospices,
+hospitals (93.4%).                                                                                                                    services users across all settings, while
+                                                                  15,300 nursing homes, 1,200 inpatient
+     Functional status or needing                                                                                                     Alzheimer disease or other dementias
+                                                                  rehabilitation facilities, 350 long-term
+assistance with the selected activities                                                                                               were present in nearly one-half of
+                                                                  care hospitals, and 30,600 residential
+of daily living of bathing and eating                                                                                                 services users in hospice, long-term
+                                                                  care communities. On a given day,
+varied by setting (Figure 10). The highest                                                                                            care hospitals, nursing homes, and
+                                                                  about 237,400 people were enrolled in
+percentage of services users who needed                                                                                               residential care communities. However,
+National Health Statistics Reports  Number 208  August 27, 2024                                                                                                                                 Page 9
+
+
+Figure 8. Percent distribution of post-acute and long-term care services users, by setting and race and Hispanic
+origin: United States, 2020
+
+            100                                                                                                                                                                     Black,
+                                                                                         8.9                                                                            4.9
+                       9.4                                          11.4                                    10.4                                                                    non-Hispanic1
+                                                 15.0                                                                                              15.7
+                                                                                                                                19.9
+
+
+             80
+
+
+
+                                                 40.1
+             60
+
+                       75.5
+  Percent
+
+
+
+
+                                                                                                                                                                                    White,
+                                                                                        81.5                80.2                                                       88.0
+                                                                    79.2                                                        65.0                                                non-Hispanic2
+                                                                                                                                                   73.7
+
+             40
+                                                 23.1
+
+
+
+             20
+
+                       6.2                                                                                                       5.1                                                Other race,
+                                                 21.8
+                                                                     3.8                 3.3                 4.0                                    5.6                             non-Hispanic3
+                       8.9                                                                                                      10.0                                    4.2
+                                                                     5.7                 6.4                 5.5                                    5.0                 2.9         Hispanic4
+             0
+                  Population                 Adult day        Home health            Hospice            Inpatient          Long-term             Nursing          Residential
+                  age 65 and                 services           agency                                rehabilitation         care                 home              care
+                     older                    center                                                     facility           hospital                              community
+   1
+     Statistically significant differences in race and ethnicity between settings, except between adult day services centers and nursing homes (p < 0.05).
+   2
+     Statistically significant differences in race and ethnicity between settings, except between home health agencies and inpatient rehabilitation hospitals and between hospices and inpatient
+   rehabilitation facilities (p < 0.05).
+   3
+     Statistically significant differences in race and ethnicity between settings, except between home health agencies and inpatient rehabilitation facilities and residential care communities;
+   between inpatient rehabilitation facilities and residential care communities; between long-term care hospitals and nursing homes and residential care communities (p < 0.05).
+   4
+     Statistically significant differences in race and ethnicity between settings, except between home health agencies, hospices, inpatient rehabilitation facilities, and nursing homes (p < 0.05).
+   People of Hispanic origin may be of any race.
+   NOTES: Percentages for adult day services centers, nursing homes, and residential care communities were based on the number of users on a given day in 2020. Percentages for home
+   health agencies, hospices, inpatient rehabilitation facilities, and long-term care hospitals are based on number of patients who ended care at any time in 2020. Percentages are based on
+   unrounded estimates. Percent distributions may not add to 100 due to rounding.
+   SOURCES: National Center for Health Statistics, National Post-acute and Long-term Care Study, 2020; U.S. Census Bureau, Population Division, Population Estimates, July 1, 2020.
+
+
+
+
+the prevalence of these and other reported                          Impact of COVID-19                                                    report did not include the COVID-19
+diagnosed chronic conditions varied                                                                                                       results, as information about COVID-19
+across settings. Difficulty with bathing                                 Post-acute and long-term care                                    in adult day services centers and
+was more common than eating difficulties                            settings were greatly impacted by the                                 residential care communities collected by
+across all settings.                                                COVID-19 pandemic. Services users,                                    NPALS is already available online (28).
+      Additional results from the NPALS                             who are typically adults age 65 and                                        Because COVID-19 affected survey
+surveys and CMS administrative data can                             older, faced greater risk of severe illness                           and administrative data collection,
+be found in a series of interactive online                          and death and may have experienced                                    estimates in this report may not be
+tables (22). These tables display estimates                         isolation (25,26). Providers faced staffing                           directly comparable with those in
+for organizational characteristics, staffing,                       shortages due to staff illness and death,                             previous waves of NPALS. These
+services, and user characteristics for                              personal protection equipment shortages,                              estimates represent an overview of
+each of the seven settings and include                              and concerns about working in these                                   post-acute and long-term care during
+additional measures not included                                    high-risk environments (25,26). Providers                             an unprecedented public health event
+here, such as ownership status, chain                               also had to quickly begin mitigation                                  that may have impacted trends among
+affiliation, Medicaid use, other staffing                           practices to control infections, handle                               these settings. The COVID-19 pandemic
+measures, and adverse events. These                                 deaths among residents, and adapt to new                              impacted NCHS’s ability to collect
+interactive tables can be accessed                                  regulations and reporting requirements                                survey data, including a delay in
+here: https://www.cdc.gov/nchs/npals/                               (26). NCHS needed to adapt the survey                                 fielding the 2020 surveys to allow for
+webtables/overview.htm.                                             to reduce response burden for providers                               the development and inclusion of new
+                                                                    during this challenging time and add                                  questions about COVID-19 (27). It also
+                                                                    items related to COVID-19 (27). This                                  impacted the reporting requirements
+Page 10                                                                                                                                                  National Health Statistics Reports  Number 208  August 27, 2024
+
+Figure 9. Percentage of post-acute and long-term care services users with selected health conditions, by setting: United States, 2020
+
+                                                               Adult day                       Home                        Hospice                 Inpatient                            Long-term                       Nursing home               Residential
+                                                               services center                 health agency                                       rehabilitation facility              care hospital                                              care community
+            100
+                                                                                                                                                                                                                                           94.0 93.4
+
+                                                                                                                                                                                                                                89.5
+
+
+
+            80
+
+                                                                                                                                                                                                                                                       73.9
+
+
+                                                                                                                                                                                                   67.1
+                                                                                                                                                  64.5
+                                                                                                                                                                                            60.4
+            60
+                                                                                                                                                                              54.5
+                                                                                             50.7 49.9 49.6
+  Percent
+
+
+
+
+                                                                                                                                           49.4
+                                                                                                                                                                                                                                       46.8                   47.9
+                                     45.2       45.4 45.6                                                                    45.0                                                                         45.6
+                                                                                42.5                                                                                                                                     43.2
+                                                               42.1
+            40
+                              35.6          36.7
+                                                                                                                                                         34.5                        35.1
+                                                                                                                                                                                                                 31.1
+                                                                                                             28.6     29.6
+
+                       24.7                                              25.3                                                       25.6
+                                                                                       23.7
+                                                                                                                                                                       22.1
+            20
+                                                                                                                                                                16.9
+
+
+
+
+             0
+                               Alzheimer disease                                          Depression2                                 Diabetes3                                    Heart disease3                                      Hypertension4
+                               or other dementias1
+   1Statistically significant differences in diagnosis between settings, except between hospices, long-term care hospitals, and nursing homes (p < 0.05).
+   2Statistically significant differences in diagnosis between settings, except between adult day services centers and hospices; between inpatient rehabilitation facilities and long-term care hospitals; and between long-term care hospitals and nursing
+
+   homes (p < 0.05).
+   3Statistically significant differences in diagnosis between all settings (p < 0.05).
+   4Statistically significant differences in diagnosis between settings, except between hospices and residential care communities; and between inpatient rehabilitation facilities and long-term care hospitals
+                                                                                                                                                                                                        (p < 0.05).
+   NOTES: Percentages for adult day services centers, nursing homes, and residential care communities were based on the number of users on a given day in 2020. Percentages for home health agencies, hospices, inpatient rehabilitation facilities, and
+   long-term care hospitals were based on the number of patients who ended care at any time in 2020. Available data for nursing homes could not produce estimates for asthma, chronic kidney disease, and chronic obstructive pulmonary disease, because
+   asthma and chronic obstructive pulmonary disease were grouped together and only end-stage renal disease was available. Percentages are based on unrounded estimates.
+   SOURCE: National Center for Health Statistics, 2020 National Post-acute and Long-term Care Study.
+National Health Statistics Reports  Number 208  August 27, 2024                                                                                                                         Page 11
+
+
+Figure 10. Percentage of post-acute and long-term care services users needing assistance with bathing and eating,
+by setting: United States, 2020
+
+                                            Adult day                         Home                       Inpatient                            Nursing home                  Residential
+                                            services center                   health agency              rehabilitation facility                                            care community
+            100                                                             96.5
+                                                 94.9          95.1
+
+
+
+
+            80
+                                                                                                                                              76.5
+
+                                                                                                                                 67.9
+                                                                                          64.3
+            60                                                                                                                                             60.2
+  Percent
+
+
+
+
+            40                     36.8
+
+
+
+
+                                                                                                                    22.3                                                  21.5
+            20
+
+
+
+
+             0
+                                                            Bathing1                                                                        Eating2
+  1Statistically significant differences in needing assistance between all settings at (p < 0.05).
+  2Statistically significant differences in needing assistance between settings, except between adult day services centers and residential care communities (p < 0.05).
+
+  NOTES: Percentages for adult day services centers, nursing homes, and residential care communities were based on the number of users in 2020. Percentages for home health agencies and
+  inpatient rehabilitation facilities were based on the number of patients whose episode of care ended at any time in 2020. Users were considered needing any assistance with a given activity if
+  they needed help or supervision from another person, or used special equipment to perform the activity. Data on needing any assistance with activities of daily living were not available for
+  hospice and long-term care hospital patients. Percentages are based on unrounded estimates.
+  SOURCE: National Center for Health Statistics, 2020 National Post-acute and Long-term Care Study.
+
+
+
+
+for some CMS data. CMS waived some                                    also temporarily waived certain criteria                          Limitations
+reporting requirements and changed                                    for inpatient rehabilitation facilities and
+requirements for admitting or discharging                             long-term care hospitals, which means                                  Every effort was made to match
+users for certain providers. For example,                             that the characteristics of their patients                        question wording in the NPALS surveys
+in the first two quarters of 2020, nursing                            may be different from those of inpatient                          to the administrative data available
+homes did not have to report certification                            rehabilitation facilities and long-term                           through CMS; however, some differences
+data, including staffing (29). As a result,                           care hospitals in previous years (29).                            remain and may affect comparisons
+information on staffing and services in                               Further, estimates in 2020 of services                            between these settings. Due to the
+nursing homes is incomplete (missing                                  user characteristics may differ from                              differences in the nature of the healthcare
+for nearly 99% of providers in the                                    previous waves due to atypical number                             settings and the different data sources,
+nursing home Certification and Survey                                 of deaths; early discharges to home;                              estimates on some topics could not
+Provider Enhanced Reports file) and                                   hospitalizations among nursing home,                              be provided for all seven settings. For
+were excluded from this report. Because                               inpatient rehabilitation facility, and long-                      example, home health agencies and
+the number of nursing and social work                                 term care hospital patients; or potential                         hospices did not provide care in a group
+staff in nursing homes is not presented,                              services users delaying or forgoing                               residential setting like residential care
+the total number of FTEs in all settings                              care at these settings due to COVID-19                            communities or inpatient rehabilitation
+should not be compared with previous                                  concerns and regulations. Even with                               facilities, so it was not applicable to
+NPALS estimates (11). However, the                                    these considerations, these estimates are                         discuss the number of beds. Additionally,
+percent distribution of staffing for the six                          useful in providing an overview of post-                          administrative data sources used for
+settings that are presented in Figure 5 is                            acute and long-term care settings in the                          home health agencies, hospices, inpatient
+similar to the 2018 NPALS results. CMS                                United States in 2020.                                            rehabilitation facilities, long-term care
+                                                                                                                                        hospitals, and nursing homes did not
+Page 12                                                   National Health Statistics Reports  Number 208  August 27, 2024
+
+contain all of the same variables. For               Projections estimate that the number              Available from: https://www.govinfo.gov/
+example, the Certification and Survey           of older adults using paid long-term                   content/pkg/CFR-2011-title42-vol2/pdf/
+Provider Enhanced Reports data did not          and post-acute care services will grow                 CFR-2011-title42-vol2-sec412-29.pdf.
+include information on whether home             considerably in the coming years (30,31).          9. American Hospital Association. Fact
+                                                                                                       sheet: Inpatient rehabilitation facilities—A
+health agencies offered mental health or        These sectors vary in the types of services
+                                                                                                       unique and critical service. 2019.
+counseling services, but they did include       they provide and in the characteristics of
+                                                                                                       Available from: https://www.aha.org/
+this information for nursing homes and          the populations they serve. The findings               system/files/media/file/2019/07/fact-sheet-
+hospices.                                       in this report provide a current national              irf-0719.pdf.
+     Another limitation is that the adult       picture of providers and users of seven            10. Buczko W, Kennell and Associates,
+day services center and residential care        major post-acute and long-term care                    RTI International. Determining medical
+community components of NPALS                   settings in the United States. Findings on             necessity and appropriateness of care
+have evolved over the waves of the              differences and similarities in supply and             for Medicare long term care hospitals.
+study by including new questions,               use and the characteristics of providers               Baltimore, MD: Centers for Medicare &
+changing question wording and response          and users of long-term care services may               Medicaid Services. 2011. Available from:
+categories, and editing data. As such,          inform policymakers, providers, and                    https://www.cms.gov/Research-Statistics-
+                                                                                                       Data-and-Systems/Statistics-Trends-and-
+direct comparisons among estimates from         researchers as they plan to meet the needs
+                                                                                                       Reports/Reports/Research-Reports-Items/
+the 2020 NPALS and previous years may           of an aging population.
+                                                                                                       CMS1247454.
+not be appropriate given some of the                                                               11. Sengupta M, Lendon JP, Caffrey C,
+revisions to measures over time.                                                                       Melekin A, Singh P. Post-acute and long-
+     Different data sources had different       References                                             term care providers and services users in
+data collection time frames or data             1. Association for Community Living.                   the United States, 2017–2018. National
+reference periods. For instance, user-level        LongTermCare.gov. 2021. Available from:             Center for Health Statistics. Vital Health
+data from the Institutional Provider Based         https://acl.gov/ltc/basic-needs/.                   Stat 3(47). 2022. DOI: https://dx.doi.
+Summary for home health agencies,               2. Medicare Payment Advisory Commission                org/10.15620/cdc:115346.
+hospices, inpatient rehabilitation                 (MedPAC). March 2020 report to the              12. U.S. Census Bureau. State population
+facilities, and long-term care hospitals           Congress: Medicare payment policy.                  by characteristics: 2020–2022. Annual
+                                                   2020. Available from: https://www.                  estimates of the civilian population by
+were from Medicare patients who
+                                                   medpac.gov/document/http-www-                       single year of age and sex for the United
+received services at any time during the
+                                                   medpac-gov-docs-default-source-reports-             States and states: April 1, 2020 to July
+2020 calendar year, and Outcome and                                                                    1, 2022 (SC-EST2022-AGESEX-CIV.
+                                                   mar20_entirereport_sec-pdf/.
+Assessment Information Set home health                                                                 csv). Available from: https://www2.
+                                                3. Goldberg TH. The long-term and
+agency and Inpatient Rehabilitation                                                                    census.gov/programs-surveys/popest/
+                                                   post-acute care continuum. W V Med
+Facility-Patient Assessment Inventory              J 112(3):68–74. 2016. Available from:               datasets/2020-2022/state/asrh/.
+data are based on any users discharged             https://www.ncbi.nlm.nih.gov/pmc/               13. U.S. Census Bureau. State population by
+during the 2020 calendar year. In                  articles/PMC4476054/.                               characteristics: 2020–2022. Annual state
+contrast, survey data on residential care       4. Genworth. Cost of Care Survey: Summary              resident population estimates for 6 race
+community residents and adult day                  and methodology. 2024. Available from:              groups (5 race alone groups and two or
+services center participants, and CMS              https://pro.genworth.com/riiproweb/                 more races) by age, sex, and Hispanic
+                                                   productinfo/pdf/131168.pdf.                         origin: April 1, 2020 to July 1, 2022 (SC-
+data on nursing home residents, were
+                                                5. AARP, National Alliance for Caregiving.             EST2022-ALLDATA6.csv). Available
+from current services users on a given
+                                                   Caregiving in the United States 2020.               from: https://www2.census.gov/programs-
+day during the survey data collection                                                                  surveys/popest/datasets/2020-2022/state/
+                                                   Washington, DC: AARP. 2020. DOI:
+period of November 2020 through                                                                        asrh/
+                                                   https://doi.org/10.26419/ppi.00103.001.
+mid-July 2021. Current participants                                                                14. National Center for Health Statistics. 2020
+                                                6. Doty P. Private pay home care: New
+or residents refer to those participants           models of access and service delivery.              National Post-acute and Long-term Care
+enrolled in adult day services centers             Public Policy Aging Rep 27(3):111–20.               Study survey methodology for the adult
+or residents living in residential care            2017. DOI: https://doi.org/10.1093/ppar/            day services center and residential care
+communities on the day of data collection          prx021.                                             community components. 2022. Available
+in 2020, rather than the total number           7. Harrington C, Wiener JM, Ross L,                    from: https://www.cdc.gov/nchs/data/
+of participants ever enrolled in the               Musumeci M. Key issues in long-term                 npals/2020-NPALS-methodology-
+                                                   services and supports quality. Kaiser               documentation-508.pdf.
+center or residents ever living in the
+                                                   Family Foundation. 2017. Available from:        15. National Center for Health Statistics. 2020
+residential care community at any time
+                                                   https://www.kff.org/medicaid/issue-brief/           National Post-acute and Long-term Care
+throughout 2020. Similarly, nursing home                                                               Study adult day services center restricted
+                                                   key-issues-in-long-term-services-and-
+data represent current nursing home                                                                    data file: Data description and usage.
+                                                   supports-quality/.
+residents at the time of the certification or                                                          2022. Available from: https://www.cdc.
+                                                8. Centers for Medicare & Medicaid
+assessment during the 2020 calendar year.          Services. 412.29: Classification criteria for       gov/nchs/data/npals/2020-NPALS-Adult-
+Given these differences in denominator,            payment under the inpatient rehabilitation          Day-Services-Provider-ReadMe.pdf.
+comparisons among services users across            facility prospective payment system.            16. National Center for Health Statistics.
+all seven sectors were not feasible for                                                                2020 National Post-acute and Long-term
+some variables.                                                                                        Care Study residential care community
+National Health Statistics Reports  Number 208  August 27, 2024                                  Page 13
+
+
+    restricted data file: Data description and       Available from: https://pdxscholar.
+    usage. 2022. Available from: https://www.        library.pdx.edu/cgi/viewcontent.
+    cdc.gov/nchs/data/npals/2020-NPALS-              cgi?article=1055&context=aging_pub.
+    Residential-Care-Community-Provider-         27. Ward BW, Sengupta M, DeFrances CJ,
+    ReadMe.pdf.                                      Lau DT. COVID-19 pandemic impact
+17. National Center for Health Statistics.           on the National Health Care Surveys.
+    National Post-acute and Long-term Care           Am J Public Health 111(12):2141–8.
+    Study 2020 adult day services center             2021. DOI: https://doi.org/10.2105/
+    questionnaire. Available from:                   AJPH.2021.306514.
+    https://www.cdc.gov/nchs/data/npals/         28. National Center for Health Statistics.
+    2020-NPALS-ADSC-Questionnaire-                   Long-term care and COVID-19 data
+    Center.pdf.                                      tables. 2022. Available from: https://www.
+18. National Center for Health Statistics.           cdc.gov/nchs/covid19/npals.htm.
+    National Post-acute and Long-term Care       29. Centers for Medicare and Medicaid
+    Study 2020 residential care community            Services. COVID-19 emergency
+    questionnaire. Available from:                   declaration blanket waivers for health care
+    https://www.cdc.gov/nchs/data/npals/             providers. 2022. Available from: https://
+    2020-NPALS-RCC-Questionnaire-                    www.cms.gov/files/document/covid-19-
+    Community.pdf.                                   emergency-declaration-waivers.pdf.
+19. National Center for Health Statistics.       30. White HK. Post-acute care: Current
+    Administrative data technical notes: 2020        state and future directions. J Am
+    National Post-acute and Long-term Care           Med Dir Assoc 20(4):392–5. 2019.
+    Study. 2023. Available from: https://www.        Available from: https://www.
+    cdc.gov/nchs/data/npals/2020-NPALS-              sciencedirect.com/science/article/pii/
+    Admin-Data-Tech-Notes-508.pdf.                   S1525861019302622?via%3Dihub.
+20. National Center for Health Statistics.       31. Favreault MM, Johnson RW. Projections
+    Biennial overview variable crosswalk:            of risk of needing long-term services and
+    2020 National Post-acute and Long-term           supports at ages 65 and older. Office of
+    Care Study. 2023. Available from: https://       Behavioral Health, Disability, and Aging
+    www.cdc.gov/nchs/data/npals/2020-                Policy. 2021. Available from:
+    NPALS-Variable-Crosswalk-508.pdf.                https://aspe.hhs.gov/sites/default/files/
+21. Parker JD, Talih M, Malec DJ,                    private/pdf/265136/LTSSRisk.pdf.
+    Beresovsky V, Carroll M,
+    Gonzalez JF Jr, et al. National Center
+    for Health Statistics data presentation
+    standards for proportions. National Center
+    for Health Statistics. Vital Health Stat
+    2(175). 2017. Available from: https://
+    www.cdc.gov/nchs/data/series/sr_02/
+    sr02_175.pdf.
+22. National Center for Health Statistics.
+    Biennial overview of post-acute and
+    long-term care in the United States: Data
+    from the 2020 National Post-acute and
+    Long-term Care Study. 2023. Available
+    from: https://www.cdc.gov/nchs/npals/
+    webtables/overview.htm.
+23. RTI International. SAS-callable SUDAAN
+    (Release 11.0) [computer software]. 2012.
+24. StataCorp LP. Stata (Release 17.0)
+    [computer software]. 2021.
+25. Doty P, Blanco M. Long-term care and
+    the impact of COVID-19: A first look
+    at comparative cross-national statistics.
+    ASPE Issue Brief. 2020. Available
+    from: https://aspe.hhs.gov/reports/long-
+    term-care-impact-covid-19-first-look-
+    comparative-cross-national-statistics.
+26. Van Houtven CH, Boucher NA,
+    Dawson WD. Impact of the COVID-19
+    outbreak on long-term care in the
+    United States. International Long-
+    Term Care Policy Network. 2020.
+Page 14                                                                              National Health Statistics Reports  Number 208  August 27, 2024
+
+Table 1. Number of providers, users, and employees, by post-acute and long-term care setting: United States, 2020
+                                                                    Adult day                                                    Inpatient                               Residential
+                                                                    services          Home health                              rehabilitation Long-term                    care
+            Characteristic                    All settings           center             agency               Hospice              facility    care hospital Nursing home community
+
+Number of providers . . . . . . . . .             68,150              4,100                11,400               5,200               1,200                 350               15,300              30,600
+Number of services users . . . . .             7,289,700            237,400             2,977,900           1,534,600             345,200              81,000            1,294,800             818,800
+Number of full-time
+ equivalent employees . . . . . . .              884,500              17,600              135,300               90,500            252,200              12,500                       ---        376,400
+
+--- Data not available.
+NOTE: Numbers are rounded to the nearest 100, except for the number of long-term care hospital providers, which were rounded to the nearest 10.
+SOURCE: National Center for Heatlh Statistics, 2020 National Post-acute and Long-term Care Study.
+
+
+
+
+Table 2. Post-acute and long-term care services provider capacity per 1,000 people age 65 and older, by setting and
+region: United States, 2020
+                          Characteristic                                   National                   Northeast                    Midwest                      South                        West
+
+                                                                                                                Estimate (95% confidence interval)
+Adult day services center maximum
+ participants allowed . . . . . . . . . . . . . . . . . . . . .          5.4 (5.3–5.6)               5.9 (5.5–6.2)               2.4 (2.2–2.6)               5.0 (4.7–5.2)               8.6 (8.2–9.0)
+Certified inpatient rehabilitation facility beds. . . .                  6.2 (5.8–6.5)               5.2 (4.1–6.3)               7.7 (6.6–8.7)               6.7 (5.9–7.5)               4.6 (3.9–5.3)
+Certified long-term care hospital beds . . . . . . . .                   0.4 (0.4–0.5)               0.6 (0.3–0.8)               0.4 (0.1–0.5)               0.5 (0.4–0.6)               0.3 (0.2–0.4)
+Certified nursing home beds. . . . . . . . . . . . . . . .           30.0 (29.7–30.3)             34.7(33.2–36.2)            39.6 (38.5–40.7)            29.0 (28.3–29.7)            18.7 (17.9–19.5)
+Licensed residential care community beds. . . . .                    22.0 (21.2–22.8)            14.9 (14.3–15.5)            29.2 (28.2–30.3)            18.1 (17.5–18.8)            27.5 (24.4–30.7)
+
+NOTES: Statistically significant differences between regions for each setting (p < 0.05). Capacity refers to number of certified nursing home, inpatient rehabilitation facility, and long-term care hospital
+beds; number of licensed residential care community beds; and maximum number of adult day services center participants allowed. Capacity for home health agencies and hospices was not
+examined because licensed maximum capacity or a similar metric was not available. Rates are based on unrounded estimates.
+SOURCES: National Center for Health Statistics, 2020 National Post-acute and Long-term Care Study; U.S. Census Bureau, Population Division, Population Estimates, July 1, 2020.
+
+
+
+
+Table 3. Percentage of missing data in the 2020 National Post-acute and Long-term Care Study, by setting
+                Characteristic                                       Provider-level data                                                              User-level data
+
+Adult day services centers                        1.1% for ownership and Medicaid licensure                      8.4% for health conditions
+                                                   status
+Home health agencies                              4.0% for staffing variables                                    30.2% for all user-level data in IPBS after merging to CASPER;
+                                                                                                                  61.0% ADL variables in OASIS after merging to CASPER
+Hospices                                          No missing                                                     15.2% for all aggregated services user-level data in IPBS after
+                                                                                                                  merging IPBS to CASPER
+Inpatient rehabilitation facilities               7.7% for staffing variables                                    6.6% for all user-level data in IPBS after merging to CASPER
+Long-term care hospitals                          No missing                                                     0.6% for all user-level data in IPBS after merging to CASPER
+Nursing homes                                     All staffing and services variables are                        12.5% for user-level data in MARET after merging to CASPER;
+                                                   excluded because nearly 100% were                              18.5% for health conditions in MARET because providers had
+                                                   missing data                                                   20% or more missing
+Residential care communities                      0.5% for chain status                                          11.3% for health conditions
+
+NOTES: IPBS is Institutional Provider-Based Summary, which provides user-level characteristics for Medicare beneficiaries of the respective setting in 2020. CASPER is Certification and Survey
+Provider Enhanced Reports, which supplies provider-level data for each active provider in 2020; all user-level data is merged to it. OASIS is Outcome and Assessment Information Set, which provides
+user-level data on all home health patients who started and ended care in 2020. MARET is Minimum Data Set Active Resident Table of most recent assessments of current nursing home residents
+in 2020.
+SOURCE: National Center for Health Statistics, 2020 National Post-acute and Long-term Care Study.
+U.S. DEPARTMENT OF
+                                                                                                                         FIRST CLASS MAIL
+HEALTH & HUMAN SERVICES                                                                                                 POSTAGE & FEES PAID
+                                                                                                                             CDC/NCHS
+Centers for Disease Control and Prevention                                                                                PERMIT NO. G-284
+National Center for Health Statistics
+3311 Toledo Road, Room 4551, MS P08
+Hyattsville, MD 20782–2064
+
+OFFICIAL BUSINESS
+PENALTY FOR PRIVATE USE, $300
+
+
+
+For more NCHS NHSRs, visit:
+https://www.cdc.gov/nchs/products/nhsr.htm.
+
+
+
+
+                               National Health Statistics Reports  Number 208  August 27, 2024
+
+
+
+
+Suggested citation:                                 Copyright information                              National Center for Health Statistics
+Lendon JP, Caffrey C, Melekin A, Singh P, Lu Z,     All material appearing in this report is in           Brian C. Moyer, Ph.D., Director
+Sengupta M. Overview of post-acute and long-        the public domain and may be reproduced         Amy M. Branum, Ph.D., Associate Director for
+term care providers and services users in the       or copied without permission; citation as to                     Science
+United States, 2020. National Health Statistics     source, however, is appreciated.
+Reports; no 208. Hyattsville, MD: National                                                               Division of Health Care Statistics
+Center for Health Statistics. 2024. DOI: https://                                                        Carol J. DeFrances, Ph.D., Director
+dx.doi.org/10.15620/cdc/158328.                                                                     Alexander Strashny, Ph.D., Associate Director
+                                                                                                                     for Science
+
+
+                 For e-mail updates on NCHS publication releases, subscribe online at: https://www.cdc.gov/nchs/email-updates.htm.
+                For questions or general information about NCHS: Tel: 1–800–CDC–INFO (1–800–232–4636) • TTY: 1–888–232–6348
+                            Internet: https://www.cdc.gov/nchs • Online request form: https://www.cdc.gov/info • CS350909
+

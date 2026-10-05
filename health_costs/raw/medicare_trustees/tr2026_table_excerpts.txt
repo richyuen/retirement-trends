@@ -1,0 +1,207 @@
+# Excerpts (pdftotext -layout) from the 2026 Medicare Trustees Report, https://www.cms.gov/oact/tr/2026 (full PDF saved as tr2026.pdf). Report pp. 40-41, 83-84, 189-190, 207-209.
+## Figure II.F2 text
+
+
+
+Most SMI enrollees have other income in addition to Social Security
+benefits. Other possible sources include earnings from employment,
+employer-sponsored pension benefits, and investment earnings. In
+addition, most draw down their accumulated assets to supplement
+their income in retirement.
+
+For simplicity, the comparisons in figure II.F2 apply to Social Security
+benefits only. A comparison of average SMI premiums and cost-sharing
+amounts to average total beneficiary income would likely lead to
+similar conclusions.
+
+The Trustees estimate that the average Part B plus Part D premium
+would equal about 12 percent of the average Social Security benefit in
+2026 but would increase to almost 21 percent in 2100. Similarly, an
+average cost-sharing amount in 2026 would be equivalent to about
+15 percent of the Social Security benefit but would increase to about
+20 percent in 2100. The combination of premium and cost-sharing
+amounts for Parts B and D would equal about 27 percent of the average
+Social Security benefit in 2026 and would increase to an estimated
+41 percent in 2100.
+## Table III.C2
+        Table III.C2.—Standard Part B Monthly Premium Rates, Actuarial Rates,
+                   and Premium Rates as a Percentage of Part B Cost
+                                                                          Premium rates as a
+                                             Monthly actuarial rate    percentage of Part B cost
+                              Standard                      Disabled                  Disabled
+                               monthly    Enrollees aged   enrollees Enrollees aged   enrollees
+                                        1
+                            premium rate 65 and over under age 65 65 and over under age 65
+  July 1966–March 1968          $3.00               —               —            50.0%              —
+  April 1968–June 1970            4.00              —               —            50.0               —
+  12-month period ending June 30 of
+        1975                  6.70               $6.70          $18.00           50.0            18.6%
+        1980                  8.70               13.40           25.00           32.5            17.4
+       Calendar year
+          1985                     15.50          31.00            52.70           25.0            14.7
+          1990                     28.60          57.20            44.10           25.0            32.4
+          1991                     29.90          62.60            56.00           23.9            26.7
+          1992                     31.80          60.80            80.80           26.2            19.7
+          1993                     36.60          70.50            82.90           26.0            22.1
+          1994                     41.10          61.80            76.10           33.3            27.0
+          1995                     46.10          73.10           105.80           31.5            21.8
+          1996                     42.50          84.90           105.10           25.0            20.2
+          1997                     43.80          87.60           110.40           25.0            19.8
+          1998                     43.80          87.90            97.10           24.9            22.6
+          1999                     45.50          92.30           103.00           24.6            22.1
+          2000                     45.50          91.90           121.10           24.8            18.8
+          2001                     50.00        101.00            132.20           24.8            18.9
+          2002                     54.00        109.30            123.10           24.7            21.9
+          2003                     58.70        118.70            141.00           24.7            20.8
+          2004                     66.60        133.20            175.50           25.0            19.0
+          2005                     78.20        156.40            191.80           25.0            20.4
+          2006                     88.50        176.90            203.70           25.0            21.7
+          2007                     93.50        187.00            197.30           25.0            23.7
+          2008                     96.40        192.70            209.70           25.0            23.0
+          2009                     96.40        192.70            224.20           25.0            21.5
+          2010                   110.50         221.00            270.40           25.0            20.4
+          2011                   115.40         230.70            266.30           25.0            21.7
+          2012                     99.90        199.80            192.50           25.0            25.9
+          2013                   104.90         209.80            235.50           25.0            22.3
+          2014                   104.90         209.80            218.90           25.0            24.0
+          2015                   104.90         209.80            254.80           25.0            20.6
+          2016                   121.80         237.60            282.60           25.6            21.5
+          2017                   134.00         261.90            254.20           25.6            26.4
+          2018                   134.00         261.90            295.00           25.6            22.7
+          2019                   135.50         264.90            315.40           25.6            21.5
+          2020                   144.60         283.20            343.60           25.5            21.0
+          2021                   148.50         291.00            349.90           25.5            21.2
+          2022                   170.10         334.20            368.90           25.4            23.1
+          2023                   164.90         323.70            357.90           25.4            22.9
+          2024                   174.70         343.40            427.20           25.0            20.1
+          2025                   185.00         368.10            487.80           25.0            18.9
+          2026                   202.90         405.40            548.60           25.0            18.5
+1
+ The amount shown for each year represents the standard Part B premium paid by, or on behalf of, most
+Part B enrollees. It does not reflect other amounts that certain beneficiaries must pay, such as the income-
+related monthly adjustment amount for beneficiaries with high incomes and the premium surcharge for
+
+
+                                                                                                         83
+Actuarial Analysis
+## Table V.B3
+                                  Table V.B3.—Medicare Enrollment
+                                             [In thousands]
+                             HI                     SMI
+                                                                         Private health
+   Calendar year           Part A         Part B              Part D         plans1          Total2
+Historical data:
+        1970               20,104          19,496                 —           —              20,398
+        1975               24,481          23,744                 —           —              24,864
+        1980               28,002          27,278                 —           —              28,433
+        1985               30,621          29,869                 —         1,271            31,081
+        1990               33,747          32,567                 —         2,017            34,251
+        1995               37,175          35,641                 —         3,467            37,594
+        2000               39,257          37,335                 —         6,856            39,688
+        2005               42,233          39,752              1,841        5,794            42,606
+        2010               47,365          43,882             34,772        11,693           47,720
+        2015               55,246          50,756             41,786        17,495           55,589
+        2016               56,729          52,094             43,198        18,393           57,073
+        2017               58,344          53,446             44,475        19,817           58,683
+        2018               59,677          54,679             45,798        21,338           60,020
+        2019               61,188          56,019             47,179        22,949           61,535
+        2020               62,544          57,320             48,696        25,074           62,887
+        2021               63,643          58,393             49,976        27,546           63,980
+        2022               64,822          59,502             51,386        29,838           65,166
+        2023               66,265          60,803             52,893        32,159           66,606
+        2024               67,725          62,106             55,249        34,103           68,066
+        2025               69,100          63,448             56,754        35,359           69,289
+Intermediate estimates:
+        2026               70,351            64,802            57,973          36,171         70,743
+        2027               71,910            66,399            59,700          37,327         72,322
+        2028               73,596            68,110            61,448          38,719         74,026
+        2029               74,989            69,537            62,975          39,983         75,436
+## Table V.E2
+                    Table V.E2.—SMI Cost-Sharing and Premium Amounts
+                            Part B                                     Part D
+                   Standard                        Base
+                    monthly         Annual      beneficiary                Initial benefit Catastrophic
+Calendar year      premium1       deductible2    premium      Deductible        limit3      threshold3
+Historical data:
+     1970            $4.00             $50           —            —              —              —
+     1975             6.70              60           —            —              —              —
+     1980             8.70              60           —            —              —              —
+     1985            15.50              75           —            —              —              —
+     1990            28.60              75           —            —              —              —
+     1995            46.10             100           —            —              —              —
+     2000            45.50             100           —            —              —              —
+     2005            78.20             110           —            —              —              —
+     2010           110.50             155        $31.94        $310         $2,830         $4,550
+     2015           104.90             147         33.13         320          2,960          4,700
+     2016           121.80             166         34.10         360          3,310          4,850
+     2017           134.00             183         35.63         400          3,700          4,950
+     2018           134.00             183         35.02         405          3,750          5,000
+     2019           135.50             185         33.19         415          3,820          5,100
+     2020           144.60             198         32.74         435          4,020          6,350
+     2021           148.50             203         33.06         445          4,130          6,550
+     2022           170.10             233         33.37         480          4,430          7,050
+     2023           164.90             226         32.74         505          4,660          7,400
+     2024           174.70             240         34.70         545          5,030          8,000
+     2025           185.00             257         36.78         590             —           2,000
+     2026           202.90             283         38.99         615             —           2,100
+Intermediate estimates:
+     2027            209.50       292         41.33          7004           —         2,4004
+     2028            224.50       313         43.81          685            —         2,350
+     2029            238.50       332         46.44          690            —         2,350
+     2030            255.50       356         68.93          710            —         2,400
+     2031            272.10       379         71.27          740            —         2,500
+     2032            290.20       404         71.59          765            —         2,600
+     2033            313.60       437         74.01          760            —         2,600
+     2034            338.50       472         75.48          760            —         2,600
+     2035            360.60       503         77.81          775            —         2,650
+## Table V.E3
+                Table V.E3.—Part B Income-Related Premium Information
+                       Income-related monthly adjustment amount1              Beneficiaries Aggregate
+  Calendar                                                                      affected    premiums2
+    year         35%          50%          65%          80%          85%       (millions)    (billions)
+Historical data:
+    2007         $12.30      $30.90       $49.40       $67.90           —          1.7         $0.7
+    2008          25.80       64.50       103.30       142.00           —          2.0          1.8
+    2009          38.50       96.30       154.10       211.90           —          2.2          2.9
+    2010          44.20      110.50       176.80       243.10           —          1.9          2.7
+    2011          46.10      115.30       184.50       253.70           —          1.6          2.3
+    2012          40.00       99.90       159.80       219.80           —          1.9          2.4
+    2013          42.00      104.90       167.80       230.80           —          2.2          2.9
+    2014          42.00      104.90       167.80       230.80           —          2.6          3.4
+    2015          42.00      104.90       167.80       230.80           —          2.9          3.8
+    2016          48.70      121.80       194.90       268.00           —          3.3          5.2
+    2017          53.50      133.90       214.30       294.60           —          3.5          6.0
+    2018          53.50      133.90       214.30       294.60           —          3.7          7.0
+    2019          54.10      135.40       216.70       297.90      $325.00         4.3          8.4
+    2020          57.80      144.60       231.40       318.10       347.00         4.7         10.0
+    2021          59.40      148.50       237.60       326.70       356.40         4.8         10.5
+    2022          68.00      170.10       272.20       374.20       408.20         4.4         11.1
+    2023          65.90      164.80       263.70       362.60       395.60         5.3         13.4
+    2024          69.90      174.70       279.50       384.30       419.30         4.8         12.8
+    2025          74.00      184.90       295.80       406.90       443.90         5.1         14.1
+    2026          81.20      202.90       324.60       446.30       487.00         6.1         18.8
+Intermediate estimates:
+     2027          83.70       209.40         335.10      460.70      502.60         6.6        20.9
+     2028          89.80       224.50         359.20      493.90      538.80         7.0        24.1
+     2029          95.30       238.40         381.50      524.50      572.20         7.5        27.1
+     2030        102.10        255.40         408.70      561.90      613.00         8.0        30.8
+     2031        108.80        272.10         435.40      598.60      653.00         8.4        34.6
+     2032        116.00        290.10         464.20      638.30      696.30         8.8        38.8
+     2033        125.40        313.60         501.80      689.90      752.60         9.3        44.0
+     2034        135.30        338.40         541.50      744.50      812.20         9.7        49.9
+     2035        144.40        360.90         577.40      794.00      866.20       10.2         55.8
+1
+ Amount is based on the applicable percentage of program cost represented by the premium and also
+reflects the impact of the 3-year transition in 2007 and 2008. The Bipartisan Budget Act of 2018 created
+an additional premium level for 2019 and later.
+2
+ Represents the total amount paid by affected beneficiaries in excess of the Part B standard premium.
+
+
+In 2026 the initial threshold is $109,000 for an individual tax return
+and $218,000 for a joint return. The thresholds were not indexed to
+inflation in the years 2011 through 2019 but are indexed thereafter.
+Individuals exceeding the threshold will pay premiums covering 35, 50,
+65, 80, or, beginning in 2019, 85 percent of the average program cost
+for aged beneficiaries, depending on their income level, compared with
+the standard premium covering 25 percent.

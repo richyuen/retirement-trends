@@ -1,0 +1,227 @@
+report_year,program,measure,value,text_file,quote,note
+1995,DI,depletion_year,2016,oasdi_1995_ocr.txt.gz,year of exhaustion ... 2031 2016 2030,OCR
+1996,DI,depletion_year,2015,oasdi_1996_ocr.txt.gz,year of exhaustion ... 2031 2015 2029,OCR
+1997,DI,depletion_year,2015,oasdi_1997_ocr.txt.gz,year of exhaustion ... 2031 2015 2029,OCR
+1998,DI,depletion_year,2019,oasdi_1998_ocr.txt.gz,year of exhaustion ... 2034 2019 2032,OCR
+1999,DI,depletion_year,2020,oasdi_2000_ocr.txt.gz,"decline steadily until its assets are exhausted in 2023, 3 years later than estimated in last year's report","OCR; 2023 minus 3, from the 2000 report"
+2000,DI,depletion_year,2023,oasdi_2000_ocr.txt.gz,"decline steadily until its assets are exhausted in 2023, 3 years later than estimated in last year's report",OCR
+2001,DI,depletion_year,2026,oasdi_2001.txt.gz,year of exhaustion 2040 2026 2038,
+2002,DI,depletion_year,2028,oasdi_2002.txt.gz,year of exhaustion 2043 2028 2041,
+2004,DI,depletion_year,2029,oasdi_2004.txt.gz,year of trust fund exhaustion 2044 2029 2042,
+2005,DI,depletion_year,2027,oasdi_2005.txt.gz,year of trust fund exhaustion 2043 2027 2041,
+2006,DI,depletion_year,2025,oasdi_2006.txt.gz,year of trust fund exhaustion 2042 2025 2040,
+2010,DI,depletion_year,2018,oasdi_2010.txt.gz,year of trust fund exhaustion 2040 2018 2037,
+2011,DI,depletion_year,2018,oasdi_2011.txt.gz,year of trust fund exhaustion 2038 2018 2036,
+2012,DI,depletion_year,2016,oasdi_2013.txt.gz,"until reserves are depleted in 2033. considered separately, the di trust fund reserves become depleted in 2016 and the oasi trust fund reserves become depleted in 2035. the projected reserve depletion years are unchanged from last year's report",from the 2013 report; the 2012 OASDI report is not on govinfo
+2013,DI,depletion_year,2016,oasdi_2013.txt.gz,year of trust fund reserve depletion 2035 2016 2033,
+2013,DI,payable_pct_at_depletion,80,oasdi_2013.txt.gz,sufficient to pay 80 percent of scheduled di benefits,
+2014,DI,depletion_year,2016,oasdi_2014.txt.gz,year of trust fund reserve depletion 2034 2016 2033,
+2014,DI,payable_pct_at_depletion,81,oasdi_2014.txt.gz,sufficient to pay 81 percent of scheduled di benefits,
+2015,DI,depletion_year,2016,oasdi_2015.txt.gz,year of trust fund reserve depletion 2035 2016 2034,
+2015,DI,payable_pct_at_depletion,81,oasdi_2015.txt.gz,sufficient to pay 81 percent of scheduled di benefits,
+2016,DI,depletion_year,2023,oasdi_2016.txt.gz,projected year of trust fund reserve depletion 2035 2023 2034,
+2016,DI,payable_pct_at_depletion,89,oasdi_2016.txt.gz,sufficient to pay 89 percent of scheduled di benefits,
+2017,DI,depletion_year,2028,oasdi_2017.txt.gz,projected year of trust fund reserve depletion 2035 2028 2034,
+2017,DI,payable_pct_at_depletion,93,oasdi_2017.txt.gz,sufficient to pay 93 percent of di scheduled benefits,
+2018,DI,depletion_year,2032,oasdi_2018_ocr.txt.gz,projected year of trust fund reserve depletion ... 2034 2032 2034,OCR
+2018,DI,payable_pct_at_depletion,96,oasdi_2018_ocr.txt.gz,di trust fund would be sufficient to pay 96 percent of di scheduled benefits,OCR
+2019,DI,depletion_year,2052,oasdi_2019.txt.gz,projected year of trust fund reserve depletion 2034 2052 2035,
+2019,DI,payable_pct_at_depletion,91,oasdi_2019.txt.gz,sufficient to pay 91 percent of di scheduled benefits,
+2020,DI,depletion_year,2065,oasdi_2020.txt.gz,projected year of trust fund reserve depletion 2034 2065 2035,
+2020,DI,payable_pct_at_depletion,92,oasdi_2020.txt.gz,sufficient to pay 92 percent of di scheduled benefits,
+2021,DI,depletion_year,2057,oasdi_2021.txt.gz,projected year of trust fund reserve depletion 2033 2057 2034,
+2021,DI,payable_pct_at_depletion,91,oasdi_2021.txt.gz,sufficient to pay 91 percent of di scheduled benefits,
+2022,DI,depletion_year,none,oasdi_2022.txt.gz,projected year of trust fund reserve depletion 2034 a 2035,DI 'a' = reserves positive through the 75-year period
+2023,DI,depletion_year,none,oasdi_2023.txt.gz,projected year of trust fund reserve depletion 2033 a 2034,DI 'a' = reserves positive through the 75-year period
+2024,DI,depletion_year,none,oasdi_2024.txt.gz,projected year of trust fund reserve depletion 2033 a 2035,DI 'a' = reserves positive through the 75-year period
+2025,DI,depletion_year,none,oasdi_2025.txt.gz,projected year of trust fund reserve depletion 2033 a 2034,DI 'a' = reserves positive through the 75-year period
+2026,DI,depletion_year,none,oasdi_2026.txt.gz,year of projected trust fund reserve depletion 2032 a 2034,DI 'a' = reserves positive through the 75-year period
+1996,HI,depletion_year,2001,hi_1996_ocr.txt.gz,the hi trust fund is estimated to be depleted early in 2001,OCR
+1997,HI,depletion_year,2001,hi_1997_ocr.txt.gz,the hi trust fund is estimated to be depleted in 2001,OCR
+1998,HI,depletion_year,2008,hi_1998_ocr.txt.gz,the hi trust fund is estimated to be depleted in 2008,OCR; after the Balanced Budget Act of 1997
+2000,HI,depletion_year,2025,hi_2000_ocr.txt.gz,the hi trust fund is estimated to be depleted in 2025,"OCR (corrected 2000 report, H. Doc. 106-262); the 2001 report also gives 2025 for last year"
+2001,HI,depletion_year,2029,hi_2001.txt.gz,the hi trust fund is estimated to be depleted in 2029,
+2002,HI,depletion_year,2030,hi_2002.txt.gz,the hi trust fund is estimated to be depleted in 2030,
+2003,HI,depletion_year,2026,hi_2004.txt.gz,asset exhaustion projected to occur in 2019 under current law compared to 2026 in last year's report,from the 2004 report
+2004,HI,depletion_year,2019,hi_2004.txt.gz,the hi trust fund is projected to be exhausted in 2019,
+2005,HI,depletion_year,2020,hi_2005.txt.gz,the hi trust fund is projected to be exhausted in 2020,
+2006,HI,depletion_year,2018,hi_2006.txt.gz,the hi trust fund is projected to be exhausted in 2018,
+2009,HI,depletion_year,2017,hi_2010.txt.gz,postpone the exhaustion of the trust fund by about 12 years from 2017 as shown in last year's report to 2029,from the 2010 report
+2010,HI,depletion_year,2029,hi_2010.txt.gz,postpone the exhaustion of the trust fund by about 12 years from 2017 as shown in last year's report to 2029,
+2011,HI,depletion_year,2024,hi_2011.txt.gz,the hi trust fund is now estimated to be exhausted in 2024,
+2012,HI,depletion_year,2024,hi_2012.txt.gz,the projected trust fund exhaustion date is 2024,
+2013,HI,depletion_year,2026,hi_2013.txt.gz,the estimated depletion date for the hi trust fund is 2026,
+2014,HI,depletion_year,2030,hi_2014.txt.gz,the estimated depletion date for the hi trust fund is 2030,
+2015,HI,depletion_year,2030,hi_2015.txt.gz,the estimated depletion date for the hi trust fund is 2030,
+2016,HI,depletion_year,2028,hi_2016.txt.gz,the estimated depletion date for the hi trust fund is 2028,
+2017,HI,depletion_year,2029,hi_2017.txt.gz,the estimated depletion date for the hi trust fund is 2029,
+2018,HI,depletion_year,2026,hi_2018.txt.gz,the estimated depletion date for the hi trust fund is 2026,
+2019,HI,depletion_year,2026,hi_2019.txt.gz,the estimated depletion date for the hi trust fund is 2026,
+2020,HI,depletion_year,2026,hi_2020.txt.gz,the estimated depletion date for the hi trust fund is 2026,
+2021,HI,depletion_year,2026,hi_2021.txt.gz,the estimated depletion date for the hi trust fund is 2026,
+2022,HI,depletion_year,2028,hi_2022.txt.gz,the estimated depletion date for the hi trust fund is 2028,
+2023,HI,depletion_year,2031,hi_2023.txt.gz,the estimated depletion date for the hi trust fund is 2031,
+2024,HI,depletion_year,2036,hi_2024.txt.gz,the estimated depletion date for the hi trust fund is 2036,
+2025,HI,depletion_year,2033,hi_2025.txt.gz,the estimated depletion date for the hi trust fund is 2033,
+2025,HI,actuarial_balance,-0.42,hi_2026.txt.gz,"in last year's report, the hi actuarial deficit was 0.42 percent",from the 2026 report
+2026,HI,depletion_year,2033,hi_2026.txt.gz,the hi trust fund is projected to become depleted in the second quarter of 2033,
+2026,HI,payable_pct_at_depletion,89,hi_2026.txt.gz,"upon reserve depletion in 2033, projected income is sufficient to pay 89 percent of scheduled benefits",
+2026,HI,payable_pct_end,93,hi_2026.txt.gz,this percentage increases gradually to 93 percent by 2100,
+2026,HI,actuarial_balance,-0.56,hi_2026.txt.gz,the hi actuarial deficit for the 75-year projection period (2026-2100) is 0.56 percent of taxable payroll,
+2026,HI,medicare_cost_pct_gdp_now,3.9,hi_2026.txt.gz,medicare expenditures as a percentage of gdp would increase from the current 3.9 percent to a projected 7.5 percent by 2100,
+2026,HI,medicare_cost_pct_gdp_2100,7.5,hi_2026.txt.gz,medicare expenditures as a percentage of gdp would increase from the current 3.9 percent to a projected 7.5 percent by 2100,
+1995,OASDI,depletion_year,2030,oasdi_1995_ocr.txt.gz,are estimated to be depleted under present law in 2030,OCR
+1995,OASDI,actuarial_balance,-2.17,oasdi_1995_ocr.txt.gz,actuarial deficit of 2.17 percent is projected,OCR
+1996,OASDI,depletion_year,2029,oasdi_1996_ocr.txt.gz,year of exhaustion ... 2031 2015 2029,OCR
+1996,OASDI,payable_pct_at_depletion,77,oasdi_1996_ocr.txt.gz,annual tax revenues would be sufficient to cover 77 percent of annual expenditures,OCR
+1996,OASDI,payable_pct_end,71,oasdi_1996_ocr.txt.gz,sufficient to cover only 71 percent of annual expenditures at the end of the 75-year period,OCR
+1996,OASDI,actuarial_balance,-2.19,oasdi_1996_ocr.txt.gz,actuarial deficit of 2.19 percent is projected,OCR
+1997,OASDI,depletion_year,2029,oasdi_1997_ocr.txt.gz,year of exhaustion ... 2031 2015 2029,OCR
+1997,OASDI,payable_pct_at_depletion,75,oasdi_1997_ocr.txt.gz,"depleted under present law in ... 2029 based on the intermediate assumptions. at that time, the estimates indicate that annual tax revenues would be sufficient to cover about","OCR; printed as fractions 'about 3/4' and 'about 2/3' (checked on the page image, PDF p. 22); OCR renders them as '34'/'23'"
+1997,OASDI,payable_pct_end,67,oasdi_1997_ocr.txt.gz,would be sufficient to ... cover only about,"OCR; printed as fractions 'about 3/4' and 'about 2/3' (checked on the page image, PDF p. 22); OCR renders them as '34'/'23'"
+1997,OASDI,actuarial_balance,-2.23,oasdi_1997_ocr.txt.gz,actuarial deficit of 2.23 percent is projected,OCR
+1998,OASDI,depletion_year,2032,oasdi_1998_ocr.txt.gz,year of exhaustion ... 2034 2019 2032,OCR
+1998,OASDI,payable_pct_at_depletion,75,oasdi_1998_ocr.txt.gz,"trust fund assets would be exhausted by the end of 2032. at that time, the annual tax revenues of the combined trust funds would be sufficient to cover about 3/4 of annual expenditures",OCR; stated as a fraction: 'about 3/4' (p. 25 text) and 'almost 3/4' (Highlights)
+1998,OASDI,actuarial_balance,-2.19,oasdi_1998_ocr.txt.gz,actuarial deficit of 2.19 percent is projected,OCR
+1999,OASDI,depletion_year,2034,oasdi_2000_ocr.txt.gz,"of the combined funds are exhausted in 2037, 3 years later than estimated in last year's report","OCR; 2037 minus 3, from the 2000 report"
+2000,OASDI,depletion_year,2037,oasdi_2000_ocr.txt.gz,"of the combined funds are exhausted in 2037, 3 years later than estimated in last year's report",OCR
+2000,OASDI,payable_pct_at_depletion,72,oasdi_2000_ocr.txt.gz,annual tax revenues would be sufficient to cover 72 percent of annual expenditures,OCR
+2000,OASDI,payable_pct_end,67,oasdi_2000_ocr.txt.gz,sufficient to cover only about 2/3 of annual expenditures at the end of the 75-year period,OCR; fraction 'about 2/3'
+2000,OASDI,actuarial_balance,-1.89,oasdi_2000_ocr.txt.gz,a deficit of 1.89 percent of taxable payroll,OCR
+2001,OASDI,depletion_year,2038,oasdi_2001.txt.gz,year of exhaustion 2040 2026 2038,
+2001,OASDI,payable_pct_at_depletion,73,oasdi_2001.txt.gz,2038 73% 38% 2075 67 49,Table II.D3: tax revenues as % of expenditures
+2001,OASDI,payable_pct_end,67,oasdi_2001.txt.gz,2038 73% 38% 2075 67 49,Table II.D3: tax revenues as % of expenditures
+2001,OASDI,actuarial_balance,-1.86,oasdi_2001.txt.gz,the projected actuarial deficit is 1.86 percent of taxable payroll,
+2002,OASDI,depletion_year,2041,oasdi_2002.txt.gz,year of exhaustion 2043 2028 2041,
+2002,OASDI,payable_pct_at_depletion,73,oasdi_2002.txt.gz,2041 73% 37% 2076 66 52,Table II.D3: tax revenues as % of expenditures
+2002,OASDI,payable_pct_end,66,oasdi_2002.txt.gz,2041 73% 37% 2076 66 52,Table II.D3: tax revenues as % of expenditures
+2002,OASDI,actuarial_balance,-1.87,oasdi_2002.txt.gz,the projected actuarial deficit is 1.87 percent of taxable payroll,
+2003,OASDI,actuarial_balance,-1.92,oasdi_2004.txt.gz,shown in last year's report: ... actuarial balance -1.56 -.35 -1.92,from the 2004 report Table II.D2; the 2003 report is not on govinfo
+2004,OASDI,depletion_year,2042,oasdi_2004.txt.gz,year of trust fund exhaustion 2044 2029 2042,
+2004,OASDI,payable_pct_at_depletion,73,oasdi_2004.txt.gz,present tax rates would be sufficient to pay 73 percent of scheduled benefits after trust fund exhaustion in 2042,
+2004,OASDI,payable_pct_end,68,oasdi_2004.txt.gz,and 68 percent of scheduled benefits in 2078,
+2004,OASDI,actuarial_balance,-1.89,oasdi_2004.txt.gz,actuarial deficit is 1.89 percent of taxable payroll,
+2005,OASDI,depletion_year,2041,oasdi_2005.txt.gz,year of trust fund exhaustion 2043 2027 2041,
+2005,OASDI,payable_pct_at_depletion,74,oasdi_2005.txt.gz,present tax rates would be sufficient to pay 74 percent of scheduled benefits after trust fund exhaustion in 2041,
+2005,OASDI,payable_pct_end,68,oasdi_2005.txt.gz,and 68 percent of scheduled benefits in 2079,
+2005,OASDI,actuarial_balance,-1.92,oasdi_2005.txt.gz,actuarial deficit is 1.92 percent of taxable payroll,
+2006,OASDI,depletion_year,2040,oasdi_2006.txt.gz,year of trust fund exhaustion 2042 2025 2040,
+2006,OASDI,payable_pct_at_depletion,74,oasdi_2006.txt.gz,present tax rates would be sufficient to pay 74 percent of scheduled benefits after trust fund exhaustion in 2040,
+2006,OASDI,payable_pct_end,70,oasdi_2006.txt.gz,and 70 percent of scheduled benefits in 2080,
+2006,OASDI,actuarial_balance,-2.02,oasdi_2006.txt.gz,actuarial deficit is 2.02 percent of taxable payroll,
+2010,OASDI,depletion_year,2037,oasdi_2010.txt.gz,year of trust fund exhaustion 2040 2018 2037,
+2010,OASDI,payable_pct_at_depletion,78,oasdi_2010.txt.gz,sufficient to support expenditures at a level of 78 percent of scheduled benefits after trust fund exhaustion in 2037,
+2010,OASDI,payable_pct_end,75,oasdi_2010.txt.gz,declining to 75 percent of scheduled benefits in 2084,
+2010,OASDI,actuarial_balance,-1.92,oasdi_2010.txt.gz,actuarial deficit is 1.92 percent of taxable payroll,
+2011,OASDI,depletion_year,2036,oasdi_2011.txt.gz,year of trust fund exhaustion 2038 2018 2036,
+2011,OASDI,payable_pct_at_depletion,77,oasdi_2011.txt.gz,sufficient to support expenditures at a level of 77 percent of scheduled benefits after trust fund exhaustion in 2036,
+2011,OASDI,payable_pct_end,74,oasdi_2011.txt.gz,to decline to 74 percent of scheduled benefits in 2085,
+2011,OASDI,actuarial_balance,-2.22,oasdi_2011.txt.gz,actuarial deficit is 2.22 percent of taxable payroll,
+2012,OASDI,depletion_year,2033,oasdi_2013.txt.gz,"until reserves are depleted in 2033. considered separately, the di trust fund reserves become depleted in 2016 and the oasi trust fund reserves become depleted in 2035. the projected reserve depletion years are unchanged from last year's report",from the 2013 report; the 2012 OASDI report is not on govinfo
+2013,OASDI,depletion_year,2033,oasdi_2013.txt.gz,year of trust fund reserve depletion 2035 2016 2033,
+2013,OASDI,payable_pct_at_depletion,77,oasdi_2013.txt.gz,"sufficient to support expenditures at a level of 77 percent of program cost for the rest of 2033, declining to 72 percent for 2087",
+2013,OASDI,payable_pct_end,72,oasdi_2013.txt.gz,"sufficient to support expenditures at a level of 77 percent of program cost for the rest of 2033, declining to 72 percent for 2087",
+2013,OASDI,actuarial_balance,-2.72,oasdi_2013.txt.gz,actuarial deficit is 2.72 percent of taxable payroll,
+2014,OASDI,depletion_year,2033,oasdi_2014.txt.gz,year of trust fund reserve depletion 2034 2016 2033,
+2014,OASDI,payable_pct_at_depletion,77,oasdi_2014.txt.gz,"sufficient to support expenditures at a level of 77 percent of program cost for the rest of 2033, declining to 72 percent for 2088",
+2014,OASDI,payable_pct_end,72,oasdi_2014.txt.gz,"sufficient to support expenditures at a level of 77 percent of program cost for the rest of 2033, declining to 72 percent for 2088",
+2014,OASDI,actuarial_balance,-2.88,oasdi_2014.txt.gz,actuarial deficit is 2.88 percent of taxable payroll,
+2015,OASDI,depletion_year,2034,oasdi_2015.txt.gz,year of trust fund reserve depletion 2035 2016 2034,
+2015,OASDI,payable_pct_at_depletion,79,oasdi_2015.txt.gz,"sufficient to support expenditures at a level of 79 percent of program cost for the rest of 2034, declining to 73 percent for 2089",
+2015,OASDI,payable_pct_end,73,oasdi_2015.txt.gz,"sufficient to support expenditures at a level of 79 percent of program cost for the rest of 2034, declining to 73 percent for 2089",
+2015,OASDI,actuarial_balance,-2.68,oasdi_2015.txt.gz,actuarial deficit is 2.68 percent of taxable payroll,
+2016,OASDI,depletion_year,2034,oasdi_2016.txt.gz,projected year of trust fund reserve depletion 2035 2023 2034,
+2016,OASDI,payable_pct_at_depletion,79,oasdi_2016.txt.gz,"sufficient to support expenditures at a level of 79 percent of program cost for the rest of 2034, declining to 74 percent for 2090",
+2016,OASDI,payable_pct_end,74,oasdi_2016.txt.gz,"sufficient to support expenditures at a level of 79 percent of program cost for the rest of 2034, declining to 74 percent for 2090",
+2016,OASDI,actuarial_balance,-2.66,oasdi_2016.txt.gz,actuarial deficit is 2.66 percent of taxable payroll,
+2017,OASDI,depletion_year,2034,oasdi_2017.txt.gz,projected year of trust fund reserve depletion 2035 2028 2034,
+2017,OASDI,payable_pct_at_depletion,77,oasdi_2017.txt.gz,"sufficient to support expenditures at a level of 77 percent of program cost for the rest of 2034, declining to 73 percent for 2091",
+2017,OASDI,payable_pct_end,73,oasdi_2017.txt.gz,"sufficient to support expenditures at a level of 77 percent of program cost for the rest of 2034, declining to 73 percent for 2091",
+2017,OASDI,actuarial_balance,-2.83,oasdi_2017.txt.gz,actuarial deficit is 2.83 percent of taxable payroll,
+2018,OASDI,depletion_year,2034,oasdi_2018_ocr.txt.gz,projected year of trust fund reserve depletion ... 2034 2032 2034,OCR
+2018,OASDI,payable_pct_at_depletion,79,oasdi_2018_ocr.txt.gz,"sufficient to support expenditures at a level of 79 percent of program cost for the rest of 2034, declining to 74 percent for 2092",OCR
+2018,OASDI,payable_pct_end,74,oasdi_2018_ocr.txt.gz,"sufficient to support expenditures at a level of 79 percent of program cost for the rest of 2034, declining to 74 percent for 2092",OCR
+2018,OASDI,actuarial_balance,-2.84,oasdi_2018_ocr.txt.gz,the actuarial deficit is 2.84 percent of taxable payroll,OCR
+2019,OASDI,depletion_year,2035,oasdi_2019.txt.gz,projected year of trust fund reserve depletion 2034 2052 2035,
+2019,OASDI,payable_pct_at_depletion,80,oasdi_2019.txt.gz,"sufficient to support expenditures at a level of 80 percent of program cost for the rest of 2035, declining to 75 percent for 2093",
+2019,OASDI,payable_pct_end,75,oasdi_2019.txt.gz,"sufficient to support expenditures at a level of 80 percent of program cost for the rest of 2035, declining to 75 percent for 2093",
+2019,OASDI,actuarial_balance,-2.78,oasdi_2019.txt.gz,actuarial deficit is 2.78 percent of taxable payroll,
+2020,OASDI,depletion_year,2035,oasdi_2020.txt.gz,projected year of trust fund reserve depletion 2034 2065 2035,
+2020,OASDI,payable_pct_at_depletion,79,oasdi_2020.txt.gz,"sufficient to support expenditures at a level of 79 percent of program cost for the rest of 2035, declining to 73 percent for 2094",
+2020,OASDI,payable_pct_end,73,oasdi_2020.txt.gz,"sufficient to support expenditures at a level of 79 percent of program cost for the rest of 2035, declining to 73 percent for 2094",
+2020,OASDI,actuarial_balance,-3.21,oasdi_2020.txt.gz,actuarial deficit is 3.21 percent of taxable payroll,
+2021,OASDI,depletion_year,2034,oasdi_2021.txt.gz,projected year of trust fund reserve depletion 2033 2057 2034,
+2021,OASDI,payable_pct_at_depletion,78,oasdi_2021.txt.gz,"sufficient to support expenditures at a level of 78 percent of program cost for the rest of 2034, declining to 74 percent for 2095",
+2021,OASDI,payable_pct_end,74,oasdi_2021.txt.gz,"sufficient to support expenditures at a level of 78 percent of program cost for the rest of 2034, declining to 74 percent for 2095",
+2021,OASDI,actuarial_balance,-3.54,oasdi_2021.txt.gz,actuarial deficit is 3.54 percent of taxable payroll,
+2022,OASDI,depletion_year,2035,oasdi_2022.txt.gz,projected year of trust fund reserve depletion 2034 a 2035,
+2022,OASDI,payable_pct_at_depletion,80,oasdi_2022.txt.gz,"sufficient to support expenditures at a level of 80 percent of program cost for the rest of 2035, declining to 74 percent for 2096",
+2022,OASDI,payable_pct_end,74,oasdi_2022.txt.gz,"sufficient to support expenditures at a level of 80 percent of program cost for the rest of 2035, declining to 74 percent for 2096",
+2022,OASDI,actuarial_balance,-3.42,oasdi_2022.txt.gz,actuarial deficit is 3.42 percent of taxable payroll,
+2023,OASDI,depletion_year,2034,oasdi_2023.txt.gz,projected year of trust fund reserve depletion 2033 a 2034,
+2023,OASDI,payable_pct_at_depletion,80,oasdi_2023.txt.gz,"sufficient to support expenditures at a level of 80 percent of program cost for the rest of 2034, declining to 74 percent for 2097",
+2023,OASDI,payable_pct_end,74,oasdi_2023.txt.gz,"sufficient to support expenditures at a level of 80 percent of program cost for the rest of 2034, declining to 74 percent for 2097",
+2023,OASDI,actuarial_balance,-3.61,oasdi_2023.txt.gz,actuarial deficit is 3.61 percent of taxable payroll,
+2024,OASDI,depletion_year,2035,oasdi_2024.txt.gz,projected year of trust fund reserve depletion 2033 a 2035,
+2024,OASDI,payable_pct_at_depletion,83,oasdi_2024.txt.gz,"sufficient to support expenditures at a level of 83 percent of program cost for the rest of 2035, declining to 73 percent for 2098",
+2024,OASDI,payable_pct_end,73,oasdi_2024.txt.gz,"sufficient to support expenditures at a level of 83 percent of program cost for the rest of 2035, declining to 73 percent for 2098",
+2024,OASDI,actuarial_balance,-3.50,oasdi_2024.txt.gz,actuarial deficit is 3.50 percent of taxable payroll,
+2025,OASDI,depletion_year,2034,oasdi_2025.txt.gz,projected year of trust fund reserve depletion 2033 a 2034,
+2025,OASDI,payable_pct_at_depletion,81,oasdi_2025.txt.gz,"sufficient to support expenditures at a level of 81 percent of program cost for the rest of 2034, declining to 72 percent for 2099",
+2025,OASDI,payable_pct_end,72,oasdi_2025.txt.gz,"sufficient to support expenditures at a level of 81 percent of program cost for the rest of 2034, declining to 72 percent for 2099",
+2025,OASDI,actuarial_balance,-3.82,oasdi_2025.txt.gz,actuarial deficit is 3.82 percent of taxable payroll,
+2026,OASDI,depletion_year,2034,oasdi_2026.txt.gz,year of projected trust fund reserve depletion 2032 a 2034,
+2026,OASDI,payable_pct_at_depletion,83,oasdi_2026.txt.gz,"continuing income is sufficient to pay 83 percent of oasdi scheduled benefits for the rest of 2034, declining to 65 percent for 2100",
+2026,OASDI,payable_pct_end,65,oasdi_2026.txt.gz,"continuing income is sufficient to pay 83 percent of oasdi scheduled benefits for the rest of 2034, declining to 65 percent for 2100",
+2026,OASDI,actuarial_balance,-4.42,oasdi_2026.txt.gz,the oasdi actuarial deficit for the 75-year projection period (2026-2100) is 4.42 percent of taxable payroll,
+2026,OASDI,solvency_payroll_tax_rate_if_2026,16.65,oasdi_2026.txt.gz,increase the payroll tax rate from 12.40 percent to 16.65 percent starting in january 2026,from 12.40%
+2026,OASDI,solvency_benefit_cut_all_if_2026,25.2,oasdi_2026.txt.gz,reduce scheduled benefits by 25.2 percent for all current and future beneficiaries starting in january 2026,
+2026,OASDI,solvency_benefit_cut_new_only_if_2026,30.3,oasdi_2026.txt.gz,reduce scheduled benefits by 30.3 percent for only those who become eligible for benefits in 2026 and later,
+2026,OASDI,solvency_payroll_tax_rate_if_2034,17.3,oasdi_2026.txt.gz,increase the payroll tax rate from 12.40 percent to 17.30 percent starting in 2034,
+2026,OASDI,solvency_benefit_cut_all_if_2034,28.5,oasdi_2026.txt.gz,reduce scheduled benefits for all current and future beneficiaries by 28.5 percent starting in 2034,
+2026,OASDI,cost_pct_gdp_2026,5.3,oasdi_2026.txt.gz,oasdi cost generally rises from 5.3 percent of gdp for 2026 to a peak of about 6.9 percent for 2084,
+2026,OASDI,cost_pct_gdp_peak_2084,6.9,oasdi_2026.txt.gz,oasdi cost generally rises from 5.3 percent of gdp for 2026 to a peak of about 6.9 percent for 2084,
+2026,OASDI,income_pct_gdp_2026,4.4,oasdi_2026.txt.gz,oasdi non-interest income is 4.4 percent of gdp in 2026 and rises gradually to a peak of about 4.8 percent for 2035,
+2026,OASDI,actuarial_deficit_pct_gdp,1.5,oasdi_2026.txt.gz,"is 4.42 percent of taxable payroll, or about 1.5 percent of gdp",
+2026,OASDI,cost_exceeds_noninterest_income_since,2010,oasdi_2026.txt.gz,total cost has exceeded non-interest income since 2010,
+2026,OASDI,ultimate_fertility_assumption,1.75,oasdi_2026.txt.gz,the ultimate total fertility rate is 1.75 children per woman for this report. this rate is lower than the rate of 1.90,
+1995,OASI,depletion_year,2031,oasdi_1995_ocr.txt.gz,year of exhaustion ... 2031 2016 2030,OCR
+1996,OASI,depletion_year,2031,oasdi_1996_ocr.txt.gz,year of exhaustion ... 2031 2015 2029,OCR
+1997,OASI,depletion_year,2031,oasdi_1997_ocr.txt.gz,year of exhaustion ... 2031 2015 2029,OCR
+1998,OASI,depletion_year,2034,oasdi_1998_ocr.txt.gz,year of exhaustion ... 2034 2019 2032,OCR
+1999,OASI,depletion_year,2036,oasdi_2000_ocr.txt.gz,"decline until they are exhausted in 2039, 3 years later than estimated in last year's report","OCR; 2039 minus 3, from the 2000 report (1999 report not on govinfo)"
+2000,OASI,depletion_year,2039,oasdi_2000_ocr.txt.gz,"decline until they are exhausted in 2039, 3 years later than estimated in last year's report",OCR
+2001,OASI,depletion_year,2040,oasdi_2001.txt.gz,year of exhaustion 2040 2026 2038,
+2002,OASI,depletion_year,2043,oasdi_2002.txt.gz,year of exhaustion 2043 2028 2041,
+2004,OASI,depletion_year,2044,oasdi_2004.txt.gz,year of trust fund exhaustion 2044 2029 2042,
+2005,OASI,depletion_year,2043,oasdi_2005.txt.gz,year of trust fund exhaustion 2043 2027 2041,
+2006,OASI,depletion_year,2042,oasdi_2006.txt.gz,year of trust fund exhaustion 2042 2025 2040,
+2010,OASI,depletion_year,2040,oasdi_2010.txt.gz,year of trust fund exhaustion 2040 2018 2037,
+2011,OASI,depletion_year,2038,oasdi_2011.txt.gz,year of trust fund exhaustion 2038 2018 2036,
+2012,OASI,depletion_year,2035,oasdi_2013.txt.gz,"until reserves are depleted in 2033. considered separately, the di trust fund reserves become depleted in 2016 and the oasi trust fund reserves become depleted in 2035. the projected reserve depletion years are unchanged from last year's report",from the 2013 report; the 2012 OASDI report is not on govinfo
+2013,OASI,depletion_year,2035,oasdi_2013.txt.gz,year of trust fund reserve depletion 2035 2016 2033,
+2014,OASI,depletion_year,2034,oasdi_2014.txt.gz,year of trust fund reserve depletion 2034 2016 2033,
+2015,OASI,depletion_year,2035,oasdi_2015.txt.gz,year of trust fund reserve depletion 2035 2016 2034,
+2016,OASI,depletion_year,2035,oasdi_2016.txt.gz,projected year of trust fund reserve depletion 2035 2023 2034,
+2016,OASI,payable_pct_at_depletion,77,oasdi_2016.txt.gz,at which time oasi income would be sufficient to pay 77 percent of oasi scheduled benefits,
+2017,OASI,depletion_year,2035,oasdi_2017.txt.gz,projected year of trust fund reserve depletion 2035 2028 2034,
+2017,OASI,payable_pct_at_depletion,75,oasdi_2017.txt.gz,at which time oasi income would be sufficient to pay 75 percent of oasi scheduled benefits,
+2018,OASI,depletion_year,2034,oasdi_2018_ocr.txt.gz,projected year of trust fund reserve depletion ... 2034 2032 2034,OCR (2018 text layer unreadable)
+2018,OASI,payable_pct_at_depletion,77,oasdi_2018_ocr.txt.gz,at which time oasi income would be sufficient to pay 77 percent of oasi scheduled benefits,OCR
+2019,OASI,depletion_year,2034,oasdi_2019.txt.gz,projected year of trust fund reserve depletion 2034 2052 2035,
+2019,OASI,payable_pct_at_depletion,77,oasdi_2019.txt.gz,at which time oasi income would be sufficient to pay 77 percent of oasi scheduled benefits,
+2020,OASI,depletion_year,2034,oasdi_2020.txt.gz,projected year of trust fund reserve depletion 2034 2065 2035,
+2020,OASI,payable_pct_at_depletion,76,oasdi_2020.txt.gz,at which time oasi income would be sufficient to pay 76 percent of oasi scheduled benefits,
+2021,OASI,depletion_year,2033,oasdi_2021.txt.gz,projected year of trust fund reserve depletion 2033 2057 2034,
+2021,OASI,payable_pct_at_depletion,76,oasdi_2021.txt.gz,at which time oasi income would be sufficient to pay 76 percent of oasi scheduled benefits,
+2022,OASI,depletion_year,2034,oasdi_2022.txt.gz,projected year of trust fund reserve depletion 2034 a 2035,
+2022,OASI,payable_pct_at_depletion,77,oasdi_2022.txt.gz,at which time oasi income would be sufficient to pay 77 percent of oasi scheduled benefits,
+2023,OASI,depletion_year,2033,oasdi_2023.txt.gz,projected year of trust fund reserve depletion 2033 a 2034,
+2023,OASI,payable_pct_at_depletion,77,oasdi_2023.txt.gz,at which time oasi income would be sufficient to pay 77 percent of oasi scheduled benefits,
+2024,OASI,depletion_year,2033,oasdi_2024.txt.gz,projected year of trust fund reserve depletion 2033 a 2035,
+2024,OASI,payable_pct_at_depletion,79,oasdi_2024.txt.gz,at which time oasi income would be sufficient to pay 79 percent of oasi scheduled benefits,
+2025,OASI,depletion_year,2033,oasdi_2025.txt.gz,projected year of trust fund reserve depletion 2033 a 2034,
+2025,OASI,payable_pct_at_depletion,77,oasdi_2025.txt.gz,at which time oasi income would be sufficient to pay 77 percent of oasi scheduled benefits,
+2026,OASI,depletion_year,2032,oasdi_2026.txt.gz,year of projected trust fund reserve depletion 2032 a 2034,
+2026,OASI,payable_pct_at_depletion,78,oasdi_2026.txt.gz,"projected oasi income is sufficient to pay 78 percent of scheduled oasi benefits for the rest of 2032, declining to 62 percent for 2100",
+2026,OASI,payable_pct_end,62,oasdi_2026.txt.gz,"projected oasi income is sufficient to pay 78 percent of scheduled oasi benefits for the rest of 2032, declining to 62 percent for 2100",

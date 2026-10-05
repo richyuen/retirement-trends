@@ -1,0 +1,1246 @@
+                                                                                April 2019
+
+
+            ASPE RESEARCH BRIEF
+  HHS OFFICE OF THE ASSISTANT SECRETARY FOR PLANNING AND EVALUATION
+        OFFICE OF DISABILITY, AGING AND LONG-TERM CARE POLICY
+
+
+ WHAT IS THE LIFETIME RISK OF NEEDING AND RECEIVING
+        LONG-TERM SERVICES AND SUPPORTS?
+      The prospect of becoming disabled and needing long-term services and supports
+(LTSS) is perhaps the most significant risk facing older Americans. Older adults with
+health problems tend to have less wealth than healthier older adults, and wealth tends
+to fall when people develop health problems (Johnson 2016a; Poterba, Venti, and Wise
+2010, 2012). One study, for example, found that over a nine-year period median
+household wealth grew 20 percent for married people ages 70 and older who did not
+receive nursing home care, but fell 21 percent for their counterparts who received
+nursing home care; for single people who received nursing home care, median
+household wealth fell 74 percent (Johnson, Mermin, and Uccello 2006). Home equity
+does not decline much at older ages, except when homeowners become widowed or
+enter a nursing home (Venti and Wise 2004).
+
+     LTSS needs often lead to financial hardship because paid care is expensive,
+public programs like Medicare do not generally cover LTSS costs, and relatively few
+people have private insurance coverage that can help defray expenses (Cohen 2014;
+Johnson 2016b). Medicaid covers LTSS costs for people with limited income and
+assets, but many people incur substantial out-of-pocket costs until they deplete their
+financial resources and qualify for benefits (Wiener et al. 2013). Medicaid covers many
+nursing homes residents (Spillman and Waidmann 2015), but very few recipients of
+residential care or home care (National Center for Health Statistics 2016). Relatively few
+home care recipients receive Medicaid benefits because there are long waiting lists for
+Medicaid home and community-based services (HCBS), especially in such states as
+Texas, Florida, Ohio, and Louisiana (Ng et al. 2015; Peterson et al. 2014). Moreover,
+the Medicaid income allowances for HCBS enrollees are often too low to cover
+reasonable living expenses (Johnson and Lindner 2016). Inadequate reimbursement
+rates may also make residential care communities reluctant to admit Medicaid
+beneficiaries (O’Keeffe, O’Keeffe, and Bernard 2003).
+
+      Better information about the risk of receiving LTSS could inform efforts to formulate
+alternative financing options for these services and supports, an increasingly important
+policy objective as the population ages. Kemper, Komisar, and Alecxih (2005/2006)
+projected that 69 percent of adults turning 65 in 2005 would need LTSS before they
+died. They defined LTSS needs as limitations with two or more activities of daily living
+(ADLs), such as bathing, dressing, and getting up and down, limitations with four or
+more instrumental activities of daily living (IADLs), such as preparing meals, completing
+
+                                    ASPE RESEARCH BRIEF | 1
+household chores, and taking medication, or receipt of paid LTSS. 1 Kemper and
+colleagues also projected that 35 percent of adults turning 65 in 2005 would eventually
+enter a nursing home, 13 percent would spend at least some time in a residential care
+setting, and 42 percent would receive paid home care. These projections, however, are
+based on data mostly from the 1980s and 1990s, and the delivery of LTSS has changed
+significantly over the past two decades. Nursing home care has fallen dramatically, for
+example, and residential care options have proliferated (Bishop 1999; Freedman and
+Spillman 2014; National Center for Health Statistics 2016; Spillman and Black 2006).
+
+       More recent studies provide an updated but incomplete picture of the lifetime risk
+of receiving LTSS. Using longitudinal data through 2010, Hurd, Michaud, and
+Rohwedder (2014) estimate that 58 percent of adults receive nursing home care after
+age 50. However, the study includes short-term stays that generally involve
+rehabilitative care following an acute episode, such as a broken hip, and thus overstates
+the lifetime risk of receiving long-term nursing home care. Moreover, we are not aware
+of any study that uses recent data to estimate the lifetime risk of receiving home care or
+residential care. An updated, comprehensive analysis of the lifetime risk of needing and
+receiving LTSS can help inform ongoing development of LTSS projection models
+(Favreault and Dey 2015).
+
+       This brief provides new evidence on the lifetime risk that older adults will need
+LTSS and receive paid services and supports. Using longitudinal household survey data
+from 1995 to 2014 from the Health and Retirement Study (HRS), we estimated the
+likelihood that adults ever develop disabilities after age 65 and receive paid care,
+including paid home care, residential care (such as assisted living), nursing home care,
+and Medicaid-financed nursing home care, and the duration of need and care spells.
+The study focused on severe LTSS needs, defined as: (1) having difficulty with two or
+more ADLs expected to last at least 90 days or severe cognitive impairment (SCI); and
+(2) receiving unpaid care from family or friends or paid LTSS. We considered only those
+nursing home stays that lasted at least 90 days, which we describe as long-term nursing
+home care, because shorter stays usually involve rehabilitative care following an acute
+episode, not long-term care. The analysis incorporated data from exit interviews of close
+family members of recently deceased HRS respondents, who provided information on
+LTSS needs and care in the final months of life, when LTSS is most common.
+
+     Estimates of the lifetime risk of needing and receiving LTSS after age 65 and the
+duration of LTSS spells were based on statistical techniques that accounted for the
+absence of lifetime data for surviving respondents. We also tracked a subset of older
+Americans from the onset of severe LTSS needs until death. This part of the analysis
+measured LTSS needs and care for HRS respondents ages 70-79 in 1993 who did not
+have severe LTSS needs at that time and who died by 2014 (when they were ages 91-
+100) with a completed HRS exit interview by a family member providing information on
+LTSS in the last months of life. This sample is not representative of all older adults,
+because it excludes people who developed disabilities in their 60s or at younger ages,
+died before ages 70-79, or who survived to very advanced ages. However, this sample
+allowed us to analyze lifetime LTSS experience without having to make assumptions
+about future LTSS use by respondents who survived beyond the 2014 survey interview.
+See the Technical Appendix for more information on our data and methods.
+
+                                   ASPE RESEARCH BRIEF | 2
+     Our results show that 70 percent of adults who survive to age 65 develop severe
+LTSS needs before they die and 48 percent receive some paid care over their lifetime.
+Many older people with severe LTSS needs rely exclusively on family and unpaid
+caregivers, and most paid care episodes are relatively short. Only 24 percent of older
+adults receive more than two years of paid LTSS care, and only 15 percent spend more
+than two years in a nursing home. However, the lifetime risk of receiving paid care is not
+evenly distributed across the population. Lengthy spells of severe LTSS needs and paid
+care are much more common among older adults with few financial resources than their
+wealthier counterparts.
+
+
+Severe LTSS Needs Varies by Demographic Group
+
+      In 2014, 16 percent of adults ages 65 and older had severe LTSS needs and
+       8 percent received paid LTSS (Table 1). Five percent received paid home
+       care, 1 percent received residential care, and 4 percent received at least 90 days
+       of nursing home care, including 2 percent who received Medicaid-financed
+       nursing home care.
+
+      Severe LTSS needs and receipt of paid LTSS increases with age and are
+       relatively common among women, people of color, and older adults with
+       limited education.
+
+      In 2014, 40 percent of adults ages 85 and older had severe LTSS needs,
+       compared with 8 percent of those ages 65-74. Adults ages 85 and older were
+       also much more likely than younger adults to receive all types of paid LTSS; 13
+       percent of the oldest-old received long-term nursing home care, compared with
+       only 1 percent of those ages 65-74.
+
+      Older adults who did not complete high school were three times as likely
+       as older adults with at least a bachelor’s degree to have severe LTSS
+       needs.
+
+      Differences in the use of paid care across population groups may reflect
+       differences in the availability of informal care by families and friends, as
+       well as differences in the affordability of paid care.
+
+      Among older adults with severe LTSS needs in 2014, 52 percent received
+       some paid LTSS (Table 2). Thirty percent received paid home care, 6 percent
+       received residential care, and 24 percent received long-term nursing home care,
+       including 10 percent who received Medicaid-financed long-term nursing home
+       care. Between 2002 and 2014, the share of older adults with severe LTSS needs
+       receiving paid home care and residential care increased, while the share
+       receiving long-term nursing home care fell.
+
+
+
+
+                                   ASPE RESEARCH BRIEF | 3
+Lifetime Risk of Service LTSS Needs and Paid LTSS
+
+     The chances of ever developing severe LTSS needs and receiving paid
+      LTSS after age 65 are much greater than the chances of having such needs
+      and receiving such services in a single year. We estimate that 70 percent of
+      adults who survive to age 65 develop severe LTSS needs before they die and 48
+      percent receive some paid LTSS over their lifetime (Table 3). After age 65, 29
+      percent of adults develop severe LTSS needs and receive paid home care, 5
+      percent receive residential care, and 28 percent receive at least 90 days of
+      nursing home care, including 13 percent who receive long-term Medicaid-
+      financed nursing home care.
+
+     Lifetime risk depends on life expectancy and the chances of needing or
+      using LTSS at every age. For example, we estimate that 28 percent of older
+      adults who did not graduate from high school had severe LTSS needs in 2014,
+      compared with only 9 percent of those with at least a bachelor’s degree.
+      However, because better-educated adults tend to live longer and LTSS needs
+      increase with age, differences in lifetime risk are much narrower. We estimate
+      that 72 percent of older adults who did not graduate from high school have
+      severe LTSS needs during their lifetime, compared with 66 percent of those with
+      at least a bachelor’s degree.
+
+     Those who survive to older ages are more likely to develop severe LTSS
+      needs and receive paid LTSS over their lifetime than those who die at
+      younger ages. For example, 54 percent of people who survive to age 85
+      receive some paid LTSS and 34 percent will receive long-term nursing home
+      care, whereas only 23 percent of those who die between ages 65 and 74 receive
+      any paid LTSS and only 9 percent receive long-term nursing home care.
+
+     Women are more likely than men to develop severe LTSS needs after age
+      65 and receive paid LTSS. We estimate that 75 percent of 65-year-old women
+      develop severe LTSS needs before they die, compared with 64 percent of their
+      male counterparts; 55 percent of women and 38 percent of men receive some
+      paid LTSS over their lifetime. Women are also about two-thirds more likely than
+      men to receive long-term nursing home care over their lifetime (34 percent
+      versus 20 percent), and about twice as likely to receive long-term Medicaid-
+      financed nursing home care (17 percent versus 8 percent).
+
+     Socioeconomic differences in the lifetime risk of developing severe LTSS
+      and receiving paid LTSS are relatively small. People of color are only 3
+      percentage points more likely than nonHispanic Whites to develop severe LTSS
+      needs, and nonHispanic Blacks are only 1 point more likely than nonHispanic
+      Whites to receive any paid LTSS. Older adults with a bachelor’s degree are 6
+      percentage points less likely than those who did not complete high school to
+      develop severe LTSS needs but only 1 point less likely to receive any paid LTSS.
+
+
+
+
+                                 ASPE RESEARCH BRIEF | 4
+Duration of Severe LTSS Needs and Paid LTSS
+
+     Most spells of severe LTSS needs are relatively short. Forty percent of
+      adults who develop severe LTSS needs experience such disability for no more
+      than two years, and another 22 percent have severe LTSS needs for only 2-4
+      years (Table 4). Severe LTSS needs last more than four years for only 38
+      percent of older adults with severe LTSS needs and only 26 percent of all adults
+      who survive to age 65. Nonetheless, a small portion of older adults are severely
+      disabled for a long time; severe needs last more than ten years for 9 percent of
+      older adults with severe needs and 6 percent of all older adults.
+
+     Paid LTSS does not generally last nearly as long as severe LTSS needs.
+      Only 28 percent of older adults who receive paid LTSS care, only 13 percent of
+      all older adults, obtain these paid services and support for more than for four
+      years. Only 5 percent of users and 2 percent of all older adults receive paid
+      LTSS care for more than ten years. Nearly half (49 percent) of users receive paid
+      LTSS for no more than two years. Nursing home care lasts somewhat longer
+      than paid home care; 22 percent of paid home care recipients and 25 percent of
+      nursing home care recipients obtain those services for more than four years. Fifty
+      percent of nursing home residents receive no more than two years of nursing
+      home care after age 65, and only 15 percent of all older adults receive more than
+      two years of nursing home care. Similarly, 58 percent of paid home care
+      recipients and receive no more than two years of paid home care and only 13
+      percent of all older adults receive more than two years of paid home care.
+
+     Relatively long disability and paid care spells are common among people
+      of color, women, and people with limited income and wealth. Fifty percent of
+      older nonHispanic Blacks and 57 percent of older Hispanics who develop severe
+      LTSS needs experience those needs for more than four years, compared with
+      only 35 percent of nonHispanic Whites (Table 5). Severe LTSS needs last more
+      than four years for 47 percent of older adults who had no more than $5,000 in
+      nonhousing wealth when they developed severe LTSS needs, but lasted that
+      long for only 35 percent of those with more than $200,000 in nonhousing wealth.
+      Older adults with limited financial resources likely receive paid LTSS for a
+      relatively long time (Table 6), because many qualify for Medicaid-financed care.
+
+
+Incidence and Duration of LTSS after Ages 70-79
+
+     Seventy-two percent of adults with no more than one ADL limitation at ages
+      70-79 develop severe LTSS needs before they die (Table 7). Thirty-seven
+      percent have severe LTSS needs for more than two years, and 9 percent have
+      severe needs for more than six years. On average, severe LTSS needs last 2.2
+      years overall and 3.0 years among those who develop LTSS needs.
+
+     Nearly half (48 percent) of adults in our sample receive some paid LTSS
+      before they die and 21 percent receive paid LTSS for more than two years.
+
+                                  ASPE RESEARCH BRIEF | 5
+    Only 3 percent receive paid LTSS for more than six years. For this subset of
+    older adults, paid LTSS lasts 1.2 years overall, on average, and 1.6 years among
+    people with severe LTSS needs and 2.4 years among people who receive paid
+    LTSS.
+
+   Nursing home care is slightly more common than paid home care and
+    tends to last longer. Thirty-two percent of adults with no more than one ADL
+    limitation at ages 70-79 receive at least 90 days of nursing home care before
+    they die, including 13 percent who receive Medicaid-financed long-term nursing
+    home care, 28 percent receive paid home care, and 4 percent receive residential
+    care. Among users, nursing home care lasts 2.3 years on average, paid home
+    care lasts 1.8 years, and residential care lasts 2.5 years. Only 2 percent of our
+    sample receive more than six years of nursing home care before they die,
+    including only 8 percent of those who ever receive at least 90 days of nursing
+    home care.
+
+   Women are more likely than men to develop severe LTSS needs after age
+    70, and women’s severe LTSS needs generally last longer. Among adults
+    who report no more than one ADL limitation at ages 70-79, 78 percent of women
+    develop severe LTSS needs before they die, compared with 65 percent of men
+    (Table 8); 44 percent of women, but only 28 percent of men, have severe LTSS
+    needs lasting more than two years. The incidence of severe LTSS needs varies
+    with other personal characteristics, but the differences are relatively small.
+
+   The duration of LTSS needs differs significantly among groups, with
+    people of color--especially nonHispanic Blacks--and people with limited
+    financial resources before developing disabilities experiencing much
+    longer spells of severe LTSS needs than other people. For example, 43
+    percent of those without any financial wealth (or with negative wealth) have
+    severe LTSS needs for more than two years, compared with 28 percent of those
+    with more than $100,000 of financial wealth; 15 percent of those without any
+    financial wealth and only 4 percent of those with more than $100,000 have
+    severe LTSS needs for more than six years.
+
+   People with little income or wealth before developing LTSS needs are much
+    more likely to receive some paid LTSS by age 85 and are more likely to
+    receive paid LTSS for a long time than those with more financial resources.
+    Among adults who report no more than one ADL limitation at ages 70-79, 31
+    percent of those with no more than $5,000 in nonhousing wealth receive some
+    paid LTSS by age 85 and 23 percent receive paid LTSS for more than two years
+    (Table 9). By contrast, only 19 percent of those with more than $200,000 in
+    nonhousing wealth receive some paid LTSS by age 85 and only 17 percent
+    receive some paid LTSS for more than two years.
+
+   Paid LTSS is especially common among women and single adults.
+    NonHispanic Blacks are also more likely to receive more than two years of paid
+    LTSS than nonHispanic Whites.
+
+
+                                ASPE RESEARCH BRIEF | 6
+      Fourteen percent of our sample receives more than two years of nursing
+       home care and 15 percent receive at least 90 days of care by age 85 (Table
+       10). Women are more likely to receive at least 90 days of nursing home care
+       than men, and people who were single before they developed LTSS needs are
+       more likely to receive nursing home care than people who were married. People
+       with less income and wealth before they became disabled are more likely to
+       spend more than two years in a nursing home than people with more income and
+       wealth, and they tend to enter nursing homes earlier.
+
+      Thirteen percent of adults with no more than one ADL limitation at ages 70-
+       79 receive at least 90 days of Medicaid-financed nursing home care before
+       they die, and 5 percent receive more than two years of Medicaid-financed
+       care. Medicaid-financed nursing home care is relatively common among
+       women, African Americans, and people who were unmarried and had little
+       income and wealth before they developed LTSS needs. For example, 23 percent
+       of adults with no more than $5,000 in nonhousing wealth receive at least 90 days
+       of Medicaid-financed nursing home care, compared with only 3 percent of people
+       with more than $200,000 in nonhousing wealth.
+
+      People who receive Medicaid-financed nursing home care tend to spend
+       more time in nursing homes than those who self-finance their care or have
+       private long-term care insurance (LTCI). Among adults ages with no more
+       than one ADL limitation at ages 70-79 who subsequently receive at least 90 days
+       of nursing home care, the average amount of lifetime nursing home care is 3.2
+       years for people who obtain some Medicaid-financed care and 1.7 years for
+       people whose stay is never covered by Medicaid (Table 11). Three in ten nursing
+       home care recipients who receive some Medicaid-financed care spend more
+       than four years in a nursing home, compared with only one in ten nursing home
+       care recipients whose care is never covered by Medicaid.
+
+
+Conclusions
+     Although only 16 percent of adults ages 65 and older had severe LTSS needs in
+2014 and only 8 percent received paid LTSS care, the lifetime risk of ever needing and
+receiving LTSS is much higher. Seventy percent of adults who survive to age 65
+develop severe LTSS needs before they die and 48 percent receive some paid LTSS
+over their lifetime. After age 65, nearly three out of ten adults develop severe LTSS
+needs and receive paid home care, and about the same number receive at least 90
+days of nursing home care. However, only 13 percent of older adults receive long-term
+Medicaid-financed nursing home care.
+
+     Most spells of severe LTSS needs and paid care are relatively short. Four out of
+ten adults who develop severe LTSS needs experience such disability for no more than
+two years, and only about one in four of all 65-year-olds experience more than four
+years of severe LTSS needs before they die. Lengthy spells of paid LTSS care are even
+
+                                  ASPE RESEARCH BRIEF | 7
+less common. Only 24 percent of older adults receive more than two years of paid LTSS
+care, and only 15 percent spend more than two years in a nursing home.
+
+      The lifetime risk of receiving paid care is not evenly distributed across the
+population. People with limited education and relatively few financial resources are
+more likely to have severe LTSS needs and receive paid care in a year than people with
+more education and resources. Over a lifetime, however, socioeconomic differentials in
+LTSS risks narrow because well-educated, wealthy adults tend to live longer than other
+people. Nonetheless, older adults with limited education and little income and wealth
+tend to develop severe LTSS needs and receive paid care at much younger ages than
+their wealthier counterparts, and thus are more likely to experience long spells of severe
+LTSS needs and paid care than their wealthier counterparts.
+
+     Many older people with LTSS needs rely exclusively on unpaid care from family
+and friends, even when their disabilities are severe, perhaps because relatively few
+people can afford paid care and private and public LTSS insurance is limited (Johnson
+and Wang 2017). In 2014, only one-half of adults ages 65 and older with severe LTSS
+needs received any paid LTSS. Only about two-thirds of older adults who eventually
+develop severe LTSS needs receive any paid care over their lifetime, and severe LTSS
+needs last about twice as long as spells of paid care. This reliance on unpaid care
+substantially reduces spending on LTSS but often creates significant burdens for
+informal caregivers (Eden and Schulz 2016; Kasper et al. 2015; Wolff et al. 2016).
+
+
+Technical Appendix
+      Our estimates are based on data from the HRS, a longitudinal survey of older
+Americans conducted by the Survey Research Center at the University of Michigan. It
+collects data on a wide range of topics, including health and disability status, receipt of
+LTSS, financial status, number of adult children, and basic demographics. The survey’s
+sampling frame is complex. The HRS began interviewing a sample of 12,652
+respondents in 1992, consisting of adults ages 51-61 and their spouses, with follow-up
+interviews in 1994 and 1996. In 1993, it began interviewing another sample of 8,222
+respondents, consisting of adults ages 70 and older and their spouses, with a follow-up
+interview in 1995. The HRS merged the two samples in 1998 and added new samples
+of respondents ages 51-56 and ages 67-74, so that the 1998 sampling frame consisted
+of adults ages 51 and older. HRS respondents have been interviewed every other year
+since 1998, and the survey adds a new sample of respondents ages 51-56 every six
+years (most recently in 2016, although those data are not yet available). In 2014, HRS
+interviewed 18,748 respondents, including 18,172 who were older than age 50 and
+10,386 who were ages 65 or older.
+
+      All HRS respondents live in the community, not in nursing homes, when first
+interviewed, but the HRS follows them into nursing homes as necessary. Proxy
+responses are solicited from spouses and other close relatives when respondents are
+living in nursing homes or otherwise unable to respond themselves. The HRS also
+collects information from next of kin after respondents die, providing information about
+disability and care received in the last months of life.
+
+                                    ASPE RESEARCH BRIEF | 8
+     Our study used data from 1995 through 2014, the most recent year available, and
+included information about recently deceased respondents from the exit interviews. 2
+We restricted our sample to respondents ages 65 and older. The analysis excluded data
+from the 1992, 1993, and 1994 HRS waves because many HRS questions about
+disability and LTSS in those years differed from questions in later years.
+
+Disability
+
+      The HRS collects detailed information about disability status. Each wave, the HRS
+asks respondents if they have any difficulty because of a physical, mental, emotional, or
+memory problem with ADLs or IADLs that is expected to last at least three months.
+ADLs include getting in and out of bed, dressing, walking across a room, bathing or
+showering, eating, and using the toilet. IADLs include using a map, preparing a hot
+meal, shopping for groceries, making a phone call, and taking medication. We classified
+respondents who reported that they did not engage in a particular IADL as having a
+limitation only if they said that they did not perform that activity because of a health
+problem. Exit interviews ask the next of kin if recently deceased respondents received
+any help with ADLs or IADLs over the last three months of their lives; it does not ask if
+they had any difficulty with these activities.
+
+       The survey assesses cognitive impairment by administering a cognitive test to self-
+respondents. The test measures episodic memory and mental status. Interviewers read
+a list of ten nouns and ask respondents to recall as many words as possible. After about
+five minutes of questions on other topics, interviewers again ask respondents to recall
+as many words as possible from the original list of ten nouns. The test measures mental
+status by asking respondents to subtract 7 from 100 five successive times; count
+backwards ten times; report the month, day, year, and day of the week when
+interviewed; name an object they “usually used to cut paper” and the “kind of prickly
+plant that grows in the desert;” and name the United States president and vice
+president. HRS uses these responses to create a cognitive score, assigning one point
+for each correct word recalled (for a maximum score of 20 points), one point for each
+successful subtraction of seven (for a maximum score of 5), two points for successfully
+counting backwards (one point if successful on the second try but not the first), and one
+point for correctly naming each object, the president, the vice president, and each
+element of the date (for a maximum score of 8). The total possible score, then, is 35
+points. The HRS imputed missing cognition data for self-respondents, based on
+demographic, health, and economic variables, as well as cognitive variables from the
+current and prior waves (Fisher et al. 2015).3
+
+      Respondents who provide survey information through proxies are more likely than
+self-respondents to have cognitive impairments, yet the HRS cannot administer a
+cognitive test to them. Instead, the survey asks proxies about several behaviors that are
+often symptomatic of SCI--whether respondents ever get lost in a familiar environment,
+ever wander off and do not return by themselves, or ever see or hear things that are not
+really there. The HRS also asks proxies to rate respondents’ memory, from excellent to
+poor. Exit interviews administered to deceased respondents’ next of kin include these
+questions about memory and behaviors associated with cognitive impairment.
+
+                                   ASPE RESEARCH BRIEF | 9
+     We classified respondents as having SCI if they scored 7 points or less on the
+cognitive test or if their proxy respondents (or next of kin) reported that they had poor
+memory or ever exhibited symptoms of SCI. The 7-point threshold is the average of the
+8-point threshold used by Herzog and Wallace (1997) to define cognitive impairment
+and the 6-point threshold used by Langa, Kabeto, and Weir (2009).
+
+       The analysis measured the lifetime risk of developing severe LTSS needs and the
+lifetime risk that adults with severe LTSS needs receive paid LTSS. We classified
+individuals as having severe LTSS needs if they received paid or unpaid LTSS and had
+two or more ADL limitations or SCI, a disability threshold similar to that specified in the
+Health Insurance Portability and Accountability Act (HIPAA) for collecting tax-free
+benefits from private LTCI.4
+
+LTSS Use
+
+     The HRS collects data on respondents’ use of various types of LTSS.
+Respondents who report receiving help with ADLs or IADLs are asked how much
+assistance they received from each helper over the past month and whether each
+helper was paid. Exit interviews collect information about help received in a “typical
+month” over the last three months of a respondent’s life. The HRS also asks
+respondents (and next of kin) about nursing home care, including the number of nights
+spent in a nursing home over the past two years or since the previous wave and
+whether Medicaid covered any of the costs. The analysis considered only nursing home
+care that lasted at least 90 days because people with shorter stays most likely entered a
+nursing home for rehabilitative care and may not need long-term care. We used hotdeck
+techniques to impute missing responses on length of nursing home stays.
+
+      We also identified respondents who received Medicaid-financed nursing home
+care, including both those who explicitly reported that Medicaid paid for at least some of
+their nursing home care and those receiving nursing home care who reported having
+Medicaid coverage. Because household surveys generally undercount Medicaid
+coverage (Call et al. 2008), we also assigned Medicaid to HRS respondents who
+reported receiving Supplemental Security Income (SSI) payments, which generally
+qualifies people for Medicaid.
+
+      Finally, the HRS collects data on residential care. The survey identifies
+respondents whose home is part of a retirement community, senior housing, or another
+type of housing that provides services for older adults and asks them about the various
+services offered. We classified respondents as receiving residential care if they lived in
+a senior housing complex that offered group meals, transportation services, nursing
+care or an on-site nurse, help with housekeeping chores, or help with bathing, dressing,
+or eating and if they used any of these services. Exit interviews do not collect
+information on deceased respondents’ living situations, so we could not identify
+respondents who received residential care in the final months of their life. Although it is
+difficult to measure residential care and many alternative definitions are possible, our
+estimate of the overall prevalence of such care using this measure is similar to the
+
+
+                                    ASPE RESEARCH BRIEF | 10
+recent prevalence estimate published by the National Center for Health Statistics
+(2016).
+
+Financial Status
+
+      We constructed measures of household income and wealth, reported in inflation-
+adjusted 2015 dollars (based on changes in the consumer price index) and adjusted for
+differences in household size. Annual household income included earnings (from both
+wage and salary employment and self-employment); pensions and annuities; SSI and
+Social Security benefits (including disability insurance benefits); business or farm
+income; rent; dividend and interest income; trust funds; royalties; unemployment and
+worker’s compensation benefits; veteran’s benefits; welfare; benefits from the
+supplemental nutrition assistance program (formerly known as food stamps); alimony;
+and lump sums from insurance, pensions, and inheritances received by a respondent or
+spouse. Our total household wealth measure consisted of housing wealth, financial
+wealth, and other household wealth. Housing wealth included the value of first and
+second homes, net of any housing debt (including outstanding mortgages, home loans,
+and home equity lines of credit).5 Financial wealth included the value of IRAs; Keoghs;
+stocks; mutual funds; investment trusts; bonds; bond funds; CDs; government savings
+bonds; treasury bills; checking, savings, and money market accounts; and other
+savings, net of nonhousing debt. Other household wealth included the net value of
+businesses, vehicles, and real estate (except for primary and secondary residences).
+We used imputed financial values when respondents did not report complete
+information.
+
+      Our analysis adjusted the measures of household wealth and income for
+differences in household size. For married adults, whose resources must cover two
+spouses, we divided household wealth by 1.41--the square root of 2. We did not simply
+divide income and wealth in half because married couples generally have lower living
+expenses than two single adults living alone (Citro and Michael 1995).
+
+Methods
+
+     We began by computing the share of adults ages 65 and older with severe LTSS
+needs and the share who received paid LTSS, by type of service. We show how these
+shares varied by personal characteristics and how they changed between 2002 and
+2014.
+
+     The study then estimated the likelihood that adults ever developed severe LTSS
+needs after age 65 and received paid LTSS, including paid home care, residential care
+(such as assisted living), nursing home care, and Medicaid-financed nursing home care.
+Through 2014, the latest available interview, the HRS was unable to follow some
+respondents until death because they were still surviving or they dropped out of the
+survey over time. Considering only observed LTSS needs and use for these
+respondents would lead us to understate their lifetime experience, and considering only
+cases observed from disability onset until death would bias our estimates, because the
+sample would overrepresent people who died at relatively young ages or who
+developed LTSS needs at relatively old ages. Instead, we accounted for censoring by
+
+                                  ASPE RESEARCH BRIEF | 11
+basing our estimates of lifetime LTSS on Kaplan-Meier survivor functions that started at
+age 65 and showed at every subsequent age the share of respondents who had not yet
+experienced each outcome.6 Respondents remained in the sample until they
+experienced the outcome or dropped out of the survey.7 To show how probabilities vary
+by personal characteristics, we also estimated separate functions for men and women
+and for various groups defined by race and ethnicity, educational attainment, and age at
+death. Our estimates of lifetime outcomes were based on the share that experienced
+the outcome by age 95; we excluded outcomes at older ages because our sample
+included too few respondents older than 95 to generate reliable estimates. 8 The sample
+included 248,232 observations on 25,055 respondents.
+
+     To estimate the duration of severe LTSS needs and use of LTSS, we estimated
+hazard models of time to cessation of severe needs (through recovery or, more
+commonly, death) or paid care for those respondents with severe LTSS needs and
+those receiving LTSS. Our duration models were estimated on a sample of 9,787
+respondents with severe LTSS, 5,792 respondents receiving any paid LTSS, 3,625
+respondents receiving paid home care, 3,082 respondents receiving long-term nursing
+home care, and 1,510 respondents receiving Medicaid-financed nursing home care.
+
+       We also measured the incidence and duration of LTSS needs and care for a
+sample of 3,236 HRS respondents ages 70-79 in 1993 who did not have severe LTSS
+needs at that time and who died by 2014 (when they were ages 91 to 100) with a
+completed HRS exit interview, which provided information on LTSS in the last months of
+life. This sample is not representative of all older adults, because it excludes people
+who developed disabilities in their 60s or at younger ages, died before ages 70 to 79, or
+who survived to very advanced ages. However, this sample allowed us to analyze
+lifetime LTSS experience without having to make assumptions about future LTSS use
+by respondents who survived beyond the 2014 survey interview.
+
+
+Endnotes
+1.   Stallard (2011) and Brown and Warshawsky (2013) also present estimates of
+     lifetime disability and disability transitions, respectively, using somewhat different
+     measures.
+
+2.   The 2014 data were preliminary when we completed the analysis. RAND has
+     produced a cleaned version of a subset of the HRS data, which we used whenever
+     possible. When we completed our analysis, the latest release of the RAND
+     dataset, version O, included information through the 2012 interview (Chien et al.
+     2015). It does not include data from the exit interviews.
+
+3.   We did not impute missing cognitive scores in the 2014 wave, however. For more
+     information about the cognitive measures in the HRS, see McArdle, Fisher, and
+     Kadlec (2007) and Ofstedal et al. (2005).
+
+4.   HIPAA stipulates that an individual must be unable to perform two or more ADLs
+     for at least 90 days without substantial assistance from someone else or must
+
+                                    ASPE RESEARCH BRIEF | 12
+     require substantial supervision because of SCI. However, the HRS does not ask
+     respondents if they need assistance with various ADLs; it only asks if they have
+     any difficulty with ADLs. To create a threshold more consistent with HIPAA, we
+     added the requirement that individuals must also receive some LTSS.
+
+5.   Information about the value of second homes is not available in the 1993, 1994,
+     and 1995 waves, because of problems with the way the HRS collected the data in
+     those years.
+
+6.   We subtract this estimate from one to report the share that experienced each
+     outcome.
+
+7.   Respondents who died before they experienced the event remained in the sample
+     indefinitely, because unlike respondents who dropped out of the survey they could
+     never subsequently experience the event.
+
+8.   For more information on survival curves, see Kiefer (1988).
+
+
+
+
+                                  ASPE RESEARCH BRIEF | 13
+References
+Bishop, Christine E. 1999. “Where Are the Missing Elders? The Decline in Nursing Home Use,
+   1985 and 1995.” Health Affairs, 18(4): 146-55.
+
+Brown, Jason and Mark Warshawsky. 2013. “The Life Care Annuity: A New Empirical
+   Examination of an Insurance Innovation That Addresses Problems in the Markets for Life
+   Annuities and Long-Term Care Insurance.” Journal of Risk and Insurance, 80(3): 677-703.
+
+Call, Kathleen Thiede, Gestur Davidson, Michael Davern, and Rebecca Nyman. 2008.
+    “Medicaid Undercount and Bias to Estimates of Uninsurance: New Estimates and Existing
+    Evidence.” Health Services Research, 43(3): 901-14.
+
+Chien, Sandy, Nancy Campbell, Chris Chan, Orla Hayden, Michael Hurd, Regan Main, Joshua
+   Mallett, Craig Martin, Colleen McCullough, Erik Meijer, Michael Moldoff, Philip Pantoja,
+   Susann Rohwedder, and Patricia St. Clair. 2015. RAND HRS Data Documentation, Version
+   O. Santa Monica, CA: RAND.
+   http://hrsonline.isr.umich.edu/modules/meta/rand/randhrso/randhrs_O.pdf.
+
+Citro, Constance F., and Robert T. Michael, editors. 1995. “Measuring Poverty: A New
+    Approach.” Washington, DC: National Academy Press.
+
+Cohen, Marc A. 2014. “The Current State of the Long-Term Care Insurance Market.” Paper
+   presented at the 14th Annual Intercompany Long-Term Care Insurance Conference,
+   Orlando. http://iltciconf.org/2014/index_htm_files/44-Cohen.pdf.
+
+Eden, Jill, and Richard Schulz, editors. 2016. “Families Caring for an Aging America.”
+   Washington, DC: National Academies Press.
+
+Favreault, Melissa, and Judith Dey. 2015. “Long-Term Services and Supports for Older
+   Americans: Risks and Financing.” Washington, DC: US Department of Health and Human
+   Services, Office of the Assistant Secretary for Planning and Evaluation.
+   http://aspe.hhs.gov/basic-report/long-term-services-and-supports-older-americans-risks-and-
+   financing-research-brief.
+
+Fisher, Gwenith, Halimah Hassan, Jessica D. Faul, Willard L. Rodgers, and David R. Weir.
+    2015. “Health and Retirement Study Imputation of Cognitive Functioning Measures: 1992-
+    2012.” Ann Arbor, MI: Survey Research Center, University of Michigan.
+    http://hrsonline.isr.umich.edu/modules/meta/xyear/cogimp/desc/COGIMPdd.pdf.
+
+Freedman, Vicki A., and Brenda C. Spillman. 2014. “The Residential Continuum from Home to
+   Nursing Home: Size, Characteristics, and Unmet Needs of Older Adults.” Journals of
+   Gerontology Series B: Psychological Sciences and Social Sciences, 69(Suppl 1): S42-S50.
+
+Herzog, A. Regula, and Robert B. Wallace. 1997. “Measures of Cognitive Functioning in the
+   AHEAD Study.” Journals of Gerontology, Series B: Psychological Sciences and Social
+   Sciences, 52: 37-48.
+
+Hurd, Michael D., Pierre-Carl Michaud, and Susann Rohwedder. 2014. “The Lifetime Risk of
+   Nursing Home Use.” In Discoveries in the Economics of Aging, edited by David A. Wise (81-
+   109). Chicago, IL: University of Chicago Press.
+
+
+                                      ASPE RESEARCH BRIEF | 14
+Johnson, Richard W. 2016a. “Later-Life Household Wealth before and after Disability Onset.”
+   Washington, DC: Urban Institute. https://aspe.hhs.gov/basic-report/later-life-household-
+   wealth-and-after-disability-onset.
+
+Johnson, Richard W. 2016b. “Who Is Covered by Private Long-Term Care Insurance?”
+   Washington, DC: Urban Institute. http://www.urban.org/research/publication/who-covered-
+   private-long-term-care-insurance.
+
+Johnson, Richard W., and Stephan Lindner. 2016. “Older Adults’ Living Expenses and the
+   Adequacy of Income Allowances for Medicaid Home and Community-Based Services.”
+   Washington, DC: U.S. Department of Health and Human Services, Office of the Assistant
+   Secretary for Planning and Evaluation. https://aspe.hhs.gov/basic-report/older-adults-living-
+   expenses-and-adequacy-income-allowances-medicaid-home-and-community-based-
+   services.
+
+Johnson, Richard W., and Claire Xiaozhi Wang. 2017. “How Many Older Adults Can Afford to
+   Purchase Home Care?” Washington, DC: U.S. Department of Health and Human Services,
+   Office of the Assistant Secretary for Planning and Evaluation. Forthcoming at
+   http://aspe.hhs.gov.
+
+Johnson, Richard W., Gordon B.T. Mermin, and Cori E. Uccello. 2006. “When the Nest Egg
+   Cracks: Financial Consequences of Health Problems, Marital Status Changes, and Job
+   Layoffs at Older Ages.” Washington, DC: Urban Institute.
+   http://www.urban.org/research/publication/when-nest-egg-cracks.
+
+Kasper, Judith D., Vicki A. Freedman, Brenda C. Spillman, and Jennifer L. Wolff. 2015. “The
+   Disproportionate Impact of Dementia on Family and Unpaid Caregiving to Older Adults.”
+   Health Affairs, 34(10): 1642-49.
+
+Kemper, Peter, Harriet L. Komisar, and Lisa Alecxih. 2005/2006. “Long-Term Care Over an
+  Uncertain Future: What Can Current Retirees Expect?” Inquiry, 42: 335-50.
+
+Kiefer, Nicholas M. 1988. “Economic Duration Data and Hazard Functions.” Journal of
+    Economic Literature, 26:646-79.
+
+Langa, Kenneth M., Mohammed Kabeto, and David Weir. 2009. “Report on Race and Cognitive
+   Impairment Using HRS.” In 2010 Alzheimer’s Disease Facts and Figures. Chicago, IL:
+   Alzheimer’s Association.
+   http://www.alz.org/documents_custom/report_alzfactsfigures2010.pdf.
+
+McArdle, John J., Gwenith G. Fisher, and Kelly M. Kadlec. 2007. “Latent Variable Analyses of
+  Age Trends of Cognition in the Health and Retirement Study, 1992-2004.” Psychology and
+  Aging, 22(3): 525-45.
+
+National Center for Health Statistics. 2016. “Long-Term Care Providers and Services Users in
+   the United States: Data from the National Study of Long-Term Care Providers, 2013-2014.”
+   Vital and National Health Statistics, 3(38). Hyattsville, MD: National Center for Health
+   Statistics. http://www.cdc.gov/nchs/data/series/sr_03/sr03_038.pdf.
+
+Ng, Terence, Charlene Harrington, MaryBeth Musumeci, and Erica L. Reaves. 2015. “Medicaid
+   Home and Community-Based Services Programs: 2012 Data Update.” Washington, DC:
+
+
+                                      ASPE RESEARCH BRIEF | 15
+   Kaiser Commission on Medicaid and the Uninsured. http://kff.org/medicaid/report/medicaid-
+   home-and-community-based-services-programs-2012-data-update/.
+
+Peterson, Greg, Randy Brown, Allison Barrett, Beny Wu, and Christal Stone Valenzano. 2014.
+   “Impacts of Waiting Periods for Home and Community-Based Services on Consumers and
+   Medicaid Long-Term Care Costs in Iowa.” Washington, DC: U.S. Department of Health and
+   Human Services, Office of the Assistant Secretary of Planning and Evaluation.
+   https://aspe.hhs.gov/basic-report/impacts-waiting-periods-home-and-community-based-
+   services-consumers-and-medicaid-long-term-care-costs-iowa.
+
+Ofstedal, Mary Beth, Gwenith G. Fisher, and A. Regula Herzog. 2005. “Documentation of
+   Cognitive Functioning Measures in the Health and Retirement Study.” Ann Arbor, MI: Survey
+   Research Center, University of Michigan. http://hrsonline.isr.umich.edu/sitedocs/userg/dr-
+   006.pdf.
+
+O’Keeffe, Janet, Chrstine O’Keeffe, and Shulamit Bernard. 2003. “Using Medicaid to Cover
+   Services for Elderly Persons in Residential Care Settings: State Policy Maker and
+   Stakeholder Views in Six States.” Research Triangle Park, NC: RTI International.
+   https://aspe.hhs.gov/execsum/using-medicaid-cover-services-elderly-persons-residential-
+   care-settings-state-policy-maker-and-stakeholder-views-six-states.
+
+Poterba, James M., Steven F. Venti, and David A. Wise. 2010. “The Asset Cost of Poor Health.”
+   NBER Working Paper 16389. Cambridge, MA: National Bureau of Economic Research.
+   http://www.nber.org/papers/w16389.pdf.
+
+Poterba, James M., Steven F. Venti, and David A. Wise. 2012. “Were They Prepared for
+   Retirement? Financial Status at Advanced Ages in the HRS and AHEAD Cohorts.” NBER
+   Working Paper 17824. Cambridge, MA: National Bureau of Economic Research.
+   http://www.nber.org/papers/w17824.pdf.
+
+Spillman, Brenda C., and Kirsten J. Black. 2006. “The Size and Characteristics of the
+    Residential Care Population: Evidence from Three National Surveys.” Washington, DC: U.S.
+    Department of Health and Human Services, Office of the Assistant Secretary for Planning
+    and Evaluation. https://aspe.hhs.gov/execsum/size-and-characteristics-residential-care-
+    population-evidence-three-national-surveys.
+
+Spillman, Brenda, and Timothy Waidmann. 2015. “Beyond Spend-Down: The Prevalence and
+    Process of Transitions to Medicaid.” Paper presented at the ASPE LTC Financing
+    Colloquium, July 30. Washington, DC: U.S. Department of Health and Human Services,
+    Office of the Assistant Secretary for Planning and Evaluation.
+    https://aspe.hhs.gov/report/beyond-spend-down-prevalence-and-process-transitions-
+    medicaid.
+
+Stallard, Eric. 2011. “Estimates of the Incidence, Prevalence, Duration, Intensity and Cost of
+    Chronic Disability among the U.S. Elderly.” North American Actuarial Journal, 15(1): 32–58.
+
+Venti, Steven F., and David A. Wise. 2004. “Aging and Housing Equity: Another Look.” In
+   Perspectives on the Economics of Aging, edited by David A. Wise (127-80). Chicago, IL:
+   University of Chicago Press.
+
+
+
+
+                                     ASPE RESEARCH BRIEF | 16
+Wiener Joshua M., Wayne L. Anderson, Galina Khatutsky, Yevgeniya Kaganova, and Janet
+   O’Keeffe. 2013. “Medicaid Spend Down: New Estimates and Implications for Long-Term
+   Services and Supports Financing Reform.” Long Beach, CA: SCAN Foundation.
+   http://www.thescanfoundation.org/rti-international-medicaid-spend-down-newestimates-and-
+   implications-long-term-services-and-supports.
+
+Wolff, Jennifer L., Brenda C. Spillman, Vicki A. Freedman, and Judith D. Kasper. 2016. “A
+   National Profile of Family and Unpaid Caregivers Who Assist Older Adults With Health Care
+   Activities.” JAMA Internal Medicine, 176(3): 372-79.
+
+
+
+
+                                    ASPE RESEARCH BRIEF | 17
+Tables
+                 TABLE 1. Prevalence of Severe LTSS Needs and Receipt of Paid LTSS,
+                                 Adults Ages 65 and Older, 2014 (%)
+                             (by LTSS type and personal characteristics)
+                                                                                                            Long-Term
+                                   Severe             Any             Paid           Residential        Nursing Home Care
+                                 LTSS Needs        Paid LTSS        Home Care           Care                      Medicaid-
+                                                                                                        Any
+                                                                                                                  Financed
+All                                      16               8                5                 1           4            2
+Age
+  65-74                                  8                3                2                <1               1              <1
+  75-84                                  17               8                4                 1               4               1
+  85 and older                           40              26               14                 4              13               6
+Sex
+  Men                                    14               6                3                 1               2               1
+  Women                                  17              10                6                 1               5               2
+Race and Ethnicity
+  NonHispanic White                      14               8                4                 1               4               1
+  NonHispanic Black                      22              10                7                <1               4               2
+  Hispanic                               23              11                9                 1               2               2
+Education
+  Not high school graduate               28              13                8                 1               6               3
+  High school graduate only
+                                         15               8                4                 1               4               2
+  or some college
+  Bachelor’s degree or more              9                5                3                 1               2               0
+SOURCE: Author’s estimates from the HRS.
+NOTES: Estimates were based on a sample of 11,469 respondents ages 65 and older. The analysis classified individuals as
+having severe LTSS needs if they received paid or unpaid LTSS and had 2 or more ADL limitations or SCI. ADLs included
+getting in and out of bed, dressing, walking across a room, bathing or showering, eating, and using the toilet. The analysis
+counted only LTSS received by adults with severe LTSS needs and only those nursing home stays that lasted at least 90 days.
+Health problems and residential care were measured at the time of the survey interview, receipt of home care was measured
+over the 30 days preceding the interview, and nursing home care was measured over the 2 years preceding the interview.
+Consequently, some respondents were classified as receiving both home care and nursing home care.
+
+
+
+                                  TABLE 2. Prevalence of Paid LTSS,
+                      Adults Ages 65 and Older with Severe LTSS Needs, 2002-2014
+                                        (by LTSS type and year)
+                                                                                                        Long-Term Nursing
+                                  Number of         Any Paid        Paid Home        Residential          Home Care (%)
+                                 Observations       LTSS (%)         Care (%)         Care (%)                   Medicaid-
+                                                                                                        Any
+                                                                                                                  Financed
+2002                                   2,052              52              25                4            29          13
+2006                                   2,061              51              26                5            27          12
+2010                                   2,317              52              30                5            25          11
+2014                                   2,172              52              30                6            24          10
+SOURCE: Author’s estimates from the HRS.
+NOTES: The analysis classified individuals as having severe LTSS needs if they received paid or unpaid LTSS and had 2 or
+more ADL limitations or SCI. ADLs included getting in and out of bed, dressing, walking across a room, bathing or showering,
+eating, and using the toilet. The analysis counted only paid LTSS received by adults with severe LTSS needs and only those
+nursing home stays that lasted at least 90 days. Health problems and residential care were measured at the time of the survey
+interview, receipt of home care was measured over the 30 days preceding the interview, and nursing home care was measured
+over the 2 years preceding the interview. Consequently, the analysis classified some respondents as receiving both home care
+and nursing home care.
+
+
+
+
+                                                  ASPE RESEARCH BRIEF | 18
+                     TABLE 3. Probability that Adults Will Ever Develop Severe LTSS
+                            Needs and Receive Paid LTSS after Age 65 (%)
+                              (by LTSS type and personal characteristics)
+                                                                                                              Long-Term
+                                   Severe              Any             Paid           Residential        Nursing Home Care
+                                 LTSS Needs         Paid LTSS        Home Care           Care                       Medicaid-
+                                                                                                          Any
+                                                                                                                     Financed
+All                                      70              48               29                 5             28           13
+Age at Death
+  65-74                                  51              23               17                <1                9               5
+  75-84                                  63              36               24                 1               19               9
+  85 and older                           75              54               31                 5               34              15
+Sex
+  Men                                    64              38               24                 3               20               8
+  Women                                  75              55               33                 6               34              17
+Race and Ethnicity
+  NonHispanic White                      70              48               28                 5               29              12
+  NonHispanic Black                      73              49               32                 2               26              18
+  Hispanic                               73              47               39                 2               17              13
+Education
+  Not high school graduate               72              49               30                 3               29              17
+  High school graduate only
+                                         70              48               28                 6               29              12
+  or some college
+  Bachelor’s degree or more              66              48               34                 7               25               5
+SOURCE: Author’s estimates from the HRS.
+NOTES: Probabilities were derived from hazard functions estimated for each outcome. The analysis classified individuals as
+having severe LTSS needs if they received paid or unpaid LTSS and had 2 or more ADL limitations or SCI. ADLs included
+getting in and out of bed, dressing, walking across a room, bathing or showering, eating, and using the toilet. The analysis
+counted only LTSS received by adults with severe LTSS needs and only those nursing home stays that lasted at least 90 days.
+
+
+
+                         TABLE 4. Distribution of Duration in Years of Severe LTSS
+                                   Needs and Paid LTSS after Age 65 (%)
+                       (older adults with severe LTSS needs or receiving paid LTSS)
+                                       No More                                                    More                     More
+                                                    2 to 4      4 to 6      6 to 8    8 to 10                   All
+                                        Than 2                                                   Than 10                 Than 4
+Older Adults with Severe LTSS Needs or Receiving Paid LTSS
+Severe LTSS needs                         40          22          14           9         5           9         100          38
+Any paid LTSS                             49          23          12           7         4           5         100          28
+Paid home care                            58          20           8           6         2           6         100          22
+Long-term nursing home care
+   All                                    50          25          13           7         3           2         100          25
+   Medicaid-financed                      53          24          10           8         3           2         100          23
+All Adults Surviving to Age 65
+Severe LTSS needs                         28          15          10           6         4           6          70          26
+Any paid LTSS                             24          11           6           3         2           2          48          13
+Paid home care                            17           6           2           2         1           2          29           7
+Long-term nursing home care
+   All                                    14           7           4           2         1           1          28           8
+   Medicaid-financed                       7           3           1           1         0           0          13           2
+SOURCE: Author’s estimates from the HRS.
+NOTES: Estimates were restricted to adults with derived from hazard functions of time to the end of severe LTSS needs
+(through permanent recovery or death) or receipt of services. The duration of LTSS needs estimates were restricted to adults
+with severe needs, and duration of paid LTSS estimates were restricted to users of those services and supports. The analysis
+classified individuals as having severe LTSS needs if they received paid or unpaid LTSS and had 2 or more ADL limitations or
+SCI. ADLs include getting in and out of bed, dressing, walking across a room, bathing or showering, eating, and using the toilet.
+Paid LTSS included nursing home care that lasted at least 90 days, paid home care, and residential care. The analysis counted
+only LTSS received by adults with severe LTSS needs.
+
+
+
+
+                                                  ASPE RESEARCH BRIEF | 19
+                        TABLE 5. Distribution of Duration in Years of Severe LTSS
+                           Needs after Age 65, by Personal Characteristics (%)
+                      (older adults with severe LTSS needs or receiving paid LTSS)
+                                     No More                                                   More                    More
+                                                  2 to 4      4 to 6     6 to 8    8 to 10                   All
+                                      Than 2                                                  Than 10                 Than 4
+Sex
+  Men                                      47          22         13           7          5           7         100         32
+  Women                                    35          21         16          10          6          11         100         43
+Race and Ethnicity
+  NonHispanic White                        42          22         14           9          5           7         100         35
+  NonHispanic Black                        33          19         16          10          8          16         100         50
+  Hispanic                                 28          15         11          12          6          28         100         57
+Education
+  Not high school graduate                 36          22         15          10          6          11         100         42
+  High school graduate only or
+                                           43          20         14           9          5           9         100         37
+  some college
+  Bachelor’s degree or more                41          25         14           6          6           8         100         34
+Financial Wealth
+  Negative or zero                         34          19         15           8          7          17         100         47
+  $1-$20,000                               39          23         14          10          5           9         100         37
+  $20,001-$100,000                         42          22         17          10          5           5         100         37
+  More than $100,000                       45          22         14           9          5           6         100         34
+Nonhousing Wealth
+  No more than $5,000                      34          19         15          10          7          15         100         47
+  $5,001-$50,000                           38          23         14           9          5          10         100         38
+  $50,001-$200,000                         43          21         15          10          4           7         100         36
+  More than $200,000                       43          22         14           9          5           7         100         35
+Household Income
+  No more than $13,500                     38          20         14          10          7          12         100         43
+  $12,5001-$20,000                         38          22         17           9          5          10         100         41
+  $20,001-$40,000                          41          24         14           9          5           7         100         35
+  More than $40,000                        45          20         12           9          5           8         100         34
+SOURCE: Author’s estimates from the HRS.
+NOTES: Estimates were derived from hazard functions of time to the end of severe LTSS needs through permanent recovery or
+death. The analysis classified individuals as having severe LTSS needs if they received paid or unpaid LTSS and had 2 or more
+ADL limitations or SCI. ADLs include getting in and out of bed, dressing, walking across a room, bathing or showering, eating,
+and using the toilet. Wealth and income were measured in constant 2014 dollars in the wave preceding the onset of severe LTSS
+needs. We also adjusted household wealth and income for family size by dividing those measures by 1.41 when respondents
+were married.
+
+
+
+
+                                                 ASPE RESEARCH BRIEF | 20
+               TABLE 6. Distribution of Duration in Years of Paid LTSS after Age 65 (%)
+                   (by personal characteristics, older adults receiving paid LTSS)
+                                     No More                                                    More                    More
+                                                   2 to 4     4 to 6     6 to 8     8 to 10                   All
+                                      Than 2                                                   Than 10                 Than 4
+Sex
+   Men                                    59          22           9          5          2           3          100         19
+   Women                                  44          24          13          8          5           6          100         32
+Race and Ethnicity
+   NonHispanic White                      51          23          12          7          4           4          100         27
+   NonHispanic Black                      44          22          15          8          4           8          100         35
+   Hispanic                               32          17          10         13          6          22          100         51
+Education
+   Not high school graduate               48          23          12          8          4           6          100         30
+   High school graduate only or
+                                          50          22          12          7          5           4          100         28
+   some college
+   Bachelor’s degree or more              47          25          13          5          3           7          100         28
+Financial Wealth
+   Negative or zero                       44          22          10          7          6          10          100         33
+   $1-$20,000                             48          22          13          8          3           7          100         31
+   $20,001-$100,000                       52          24          12          6          3           2          100         23
+   More than $100,000                     50          24          11          7          5           3          100         26
+Nonhousing Wealth
+   No more than $5,000                    42          23          11          8          5          11          100         35
+   $5,001-$50,000                         47          23          13          8          4           6          100         31
+   $50,001-$200,000                       53          23          11          7          4           2          100         24
+   More than $200,000                     51          24          11          6          5           3          100         25
+Household Income
+   No more than $13,500                   46          22          11          8          5           8          100         32
+   $12,5001-$20,000                       48          24          12          7          4           5          100         28
+   $20,001-$40,000                        51          23          13          6          4           3          100         26
+   More than $40,000                      52          33          11          7          4           4          100         26
+SOURCE: Author’s estimates from the HRS.
+NOTES: Paid LTSS included nursing home care that lasted at least 90 days, paid home care, and residential care. Estimates
+were derived from hazard functions of time to the end of paid LTSS (often because of death) for adults ages 65 and older
+receiving paid LTSS. The analysis counted only LTSS received by adults with severe LTSS needs (2 or more ADL limitations or
+SCI). ADLs included getting in and out of bed, dressing, walking across a room, bathing or showering, eating, and using the
+toilet. Wealth and income were measured in constant 2014 dollars in the wave preceding the onset of severe LTSS needs. We
+also adjusted household wealth and income for family size by dividing those measures by 1.41 when respondents were married.
+
+
+
+
+                                                 ASPE RESEARCH BRIEF | 21
+          TABLE 7. Incidence and Duration of Severe LTSS Needs and Paid LTSS by Type (%)
+             (adults ages 70-79 in 1993 who report no more than 1 ADL limitation in 1993)
+                                                            More                                             Duration in Years (%)
+                                                                        Mean
+                                                           Than 2                                Some, But
+                                              Any (%)                  Number                                                             More
+                                                           Years                      None        No More        2 to 4       4 to 6                   All
+                                                                       of Years                                                          Than 6
+                                                             (%)                                   Than 2
+All Adults
+Severe LTSS needs                                 72          37          2.2          28            35             18          11            9         100
+Any paid LTSS                                     48          21          1.2          52            27             12           6            3         100
+Paid home care                                    28           8          0.5          72            20              5           2            1         100
+Residential care                                   4           2          0.1          96             3              1           0            0         100
+Long-term nursing home care                       32          14          0.7          68             7              8           3            2         100
+Long-term Medicaid-financed nursing
+                                                  13           5          0.3          87             4              3           1            1         100
+home care
+Adults with Severe LTSS Needs
+Severe LTSS needs                                100          52          3.0           0            48             25          15           12         100
+Any paid LTSS                                     66          28          1.6          34            38             16           8            4         100
+Paid home care                                    39          11          0.7          61            28              7           3            1         100
+Residential care                                   6           2          0.1          94             4              1           0            1         100
+Long-term nursing home care                       42          19          1.0          58             9             11           5            3         100
+Long-term Medicaid-financed nursing
+                                                  17           6          0.4          83             5              4           1            1         100
+home care
+Services Users
+Any paid LTSS                                    100          43          2.4           0            57             25          12            6         100
+Paid home care                                   100          28          1.8           0            72             19           7            2         100
+Residential care                                 100          38          2.5           0            62             21           8           10         100
+Long-term nursing home care                      100          43          2.3           0            21             25          10            8         100
+Long-term Medicaid-financed nursing
+                                                 100          38          2.1           0            28             25           9            4         100
+home care
+SOURCE: Author’s estimates from the HRS.
+NOTES: The analysis followed HRS respondents from 1993 to 2014. The sample was restricted to adults ages 70-79 in 1993 who reported no more than 1
+ADL limitation in 1993 and were followed until death. Paid LTSS included nursing home stays of at least 90 days, paid home care, and residential care. The
+analysis counted only LTSS received by adults with 2 or more ADL limitations or SCI. ADLs included getting in and out of bed, dressing, walking across a
+room, bathing or showering, eating, and using the toilet.
+
+
+
+
+                                                             ASPE RESEARCH BRIEF | 22
+      TABLE 8. Incidence and Duration of Severe LTSS Needs by Personal Characteristics (%)
+          (adults ages 70-79 in 1993 who report no more than 1 ADL limitation in 1993)
+                                                           More                                             Duration in Years (%)
+                                                                        Mean
+                                                          Than 2                                Some, But
+                                              Any (%)                  Number                                                             More
+                                                          Years                      None        No More         2 to 4      4 to 6                   All
+                                                                       of Years                                                          Than 6
+                                                            (%)                                   Than 2
+Sex
+   Men                                            65          28            1.6            35           36          16            8            4        100
+   Women                                          78          44            2.6            22           34          19           13           12        100
+Marital Status in 1993
+   Not married                                    77          42            2.5            23           34          19           13           10        100
+   Married                                        70          33            1.9            30           36          17            9            7        100
+Race and Ethnicity
+   NonHispanic White                              72          36            2.0            28           36          18           11            7        100
+   NonHispanic Black                              80          52            3.3            20           27          18           13           21        100
+   Hispanic                                       77          44            2.8            23           32          16           10           18        100
+Education
+   Not high school graduate                       73          41            2.5            27           31          19           11           11        100
+   High school graduate only or some
+                                                  73          34            2.0            27           38          17           11            6        100
+   college
+   Bachelor’s degree or more                      68          34            1.8            32           34          19           10            5        100
+Financial Wealth
+   Negative or zero                               74          43            2.7            26           30          19            9           15        100
+   $1-$20,000                                     74          40            2.3            26           34          18           13            9        100
+   $20,001-$100,000                               72          37            2.0            28           35          20           11            6        100
+   More than $100,000                             70          28            1.7            30           41          15            9            4        100
+Nonhousing Wealth
+   No more than $5,000                            76          46            2.9            24           30          19           11           16        100
+   $5,001-$50,000                                 73          40            2.2            27           33          19           13            8        100
+   $50,001-$200,000                               71          33            1.9            29           37          18           10            5        100
+   More than $200,000                             70          30            1.8            30           39          16            9            5        100
+Household Income
+   No more than $13,500                           76          44            2.8            24           31          16           13           15        100
+   $12,5001-$20,000                               72          40            2.2            28           32          20           12            8        100
+   $20,001-$40,000                                73          35            2.0            27           38          18           10            7        100
+   More than $40,000                              68          29            1.7            32           38          16            9            4        100
+SOURCE: Author’s estimates from the HRS.
+NOTES: The analysis followed HRS respondents from 1993 to 2014. The sample was restricted to adults ages 70-79 in 1993 who reported no more than 1
+ADL limitation in 1993 and were followed until death. The analysis classified individuals as having severe LTSS needs if they received paid or unpaid LTSS
+and had 2 or more ADL limitations or SCI. The analysis counted only those nursing home stays that lasted at least 90 days. Wealth and income were
+measured in constant 2014 dollars at the baseline 1993 interview. We also adjusted household wealth and income for family size by dividing those measures
+by 1.41 when respondents were married.
+
+
+
+
+                                                            ASPE RESEARCH BRIEF | 23
+                TABLE 9. Probability of Receiving Any Paid LTSS before and after
+                              Age 85 by Personal Characteristics (%)
+           (adults ages 70-79 in 1993 who report no more than 1 ADL limitation in 1993)
+                                                                                      More Than 2 Years
+                                                          Any Paid LTSS
+                                                                                         of Paid LTSS
+                                                         Ever        By Age 85        Ever        By Age 85
+All                                                       48             23            21             7
+Sex
+  Men                                                     37             19               11              4
+  Women                                                   57             27               28             10
+Marital Status in 1993
+  Not married                                             55             28               26             10
+  Married                                                 43             20               18              5
+Race and Ethnicity
+  NonHispanic White                                       48             22               19              7
+  NonHispanic Black                                       53             32               30             12
+  Hispanic                                                48             26               24             12
+Education
+  Not high school graduate                                47             26               21              9
+  High school graduate only or some college               49             22               21              6
+  Bachelor’s degree or more                               48             22               20              6
+Financial Wealth
+  Negative or zero                                        46             27               22              8
+  $1-$20,000                                              48             26               22             10
+  $20,001-$100,000                                        50             20               21              6
+  More than $100,000                                      48             20               16              4
+Nonhousing Wealth
+  No more than $5,000                                     49             31               23             12
+  $5,001-$50,000                                          48             24               21              7
+  $50,001-$200,000                                        48             19               21              6
+  More than $200,000                                      47             19               17              5
+Household Income
+  No more than $13,500                                    47             29               23             12
+  $12,5001-$20,000                                        48             23               22              8
+  $20,001-$40,000                                         49             22               20              6
+  More than $40,000                                       47             20               18              5
+SOURCE: Author’s estimates from the HRS.
+NOTES: The analysis followed HRS respondents from 1993 to 2014. The sample was restricted to adults ages
+70-79 in 1993 who reported no more than 1 ADL limitation in 1993 and were followed until death. See note to
+Table 8 for more details.
+
+
+
+
+                                           ASPE RESEARCH BRIEF | 24
+     TABLE 10. Probability of Receiving Nursing Home Care by Personal Characteristics (%)
+         (adults ages 70-79 in 1993 who report no more than 1 ADL limitations in 1993)
+                                                                                               At Least         More Than
+                                                      At Least 90
+                                   At Least 90                           More Than 2          90 Days of        2 Years of
+                                                     Days of Care
+                                  Days of Care                           Years of Care        Medicaid-         Medicaid-
+                                                      by Age 85
+                                                                                            Financed Care     Financed Care
+All                                    32                 15                    14                13                5
+Sex
+  Men                                  23                 12                    7                   6                   2
+  Women                                40                 17                    19                 17                   7
+Marital Status in 1993
+  Not married                          39                 19                    19                 19                   7
+  Married                              28                 12                    11                  9                   3
+Race and Ethnicity
+  NonHispanic White                    33                 15                    14                 12                   4
+  NonHispanic Black                    32                 19                    16                 21                   9
+  Hispanic                             22                 10                    12                 13                   6
+Education
+  Not high school graduate             30                 16                    13                 17                   6
+  High school graduate only
+                                       35                 14                    15                 12                   4
+  or some college
+  Bachelor’s degree or more            29                 14                    11                  4                   3
+Financial Wealth
+  Negative or zero                     31                 17                    14                 18                   7
+  $1-$20,000                           36                 18                    16                 16                   6
+  $20,001-$100,000                     33                 11                    14                 12                   4
+  More than $100,000                   29                 12                    11                  3                   1
+Nonhousing Wealth
+  No more than $5,000                  33                 21                    16                 23                   10
+  $5,001-$50,000                       36                 16                    15                 17                   6
+  $50,001-$200,000                     32                 12                    14                  9                   3
+  More than $200,000                   28                 11                    11                  3                   1
+Household Income
+  No more than $13,500                 31                 17                    15                 20                   9
+  $12,5001-$20,000                     35                 16                    15                 18                   6
+  $20,001-$40,000                      33                 14                    14                  9                   3
+  More than $40,000                    28                 12                    12                  5                   2
+SOURCE: Author’s estimates from the HRS.
+NOTES: The analysis followed HRS respondents from 1993 to 2014. The sample was restricted to adults ages 70-79 in 1993
+who reported no more than 1 ADL limitation in 1993 and were followed until death. See note to Table 8 for more details.
+
+
+
+         TABLE 11. Duration of Nursing Home Care by Receipt of Medicaid-Financed Care
+              (adults ages 70-79 in 1993 who report no more than 1 ADL limitation
+                             in 1993 and later enter a nursing home)
+                                                             Distribution of Duration of Nursing Home Care
+                                   Mean                                         More Than       More Than
+                                 Number of                                       1 Year, No     2 Years, No       More Than
+                                                 90-180 Days  181-365 Days
+                                   Years                                        More Than       More Than          4 Years
+                                                                                  2 Years         4 Years
+All                                 2.3               21            16               21              25               18
+Any Medicaid-Financed Nursing Home Care
+  Yes                               3.2               8               11                23             28             30
+  No                                1.7              29               18                19             23             10
+SOURCE; Author’s estimates from the HRS.
+NOTES: The analysis followed HRS respondents from 1993 to 2014. The sample was restricted to adults ages 70-79 in 1993
+who reported no more than 1 ADL limitation in 1993 and were followed until death. Paid LTSS included nursing home stays of at
+least 90 days.
+
+
+
+
+                                                 ASPE RESEARCH BRIEF | 25
+This Research Brief, written by Richard W. Johnson from Urban Institute, provides new evidence on the
+lifetime risk that older adults will need LTSS and receive paid services and supports. Using longitudinal
+household survey data from 1995 to 2014 from the Health and Retirement Study, we estimated the
+likelihood that adults ever development disabilities after age 65 and receive paid care, including paid
+home care, residential care (such as assisted living), nursing home care, and Medicaid-financed nursing
+home care, and the duration of need and care spells. Our results show that 70% of adults who survive to
+age 65 develop severe LTSS needs before they die and 48% receive some paid care over their lifetime.
+Many older people with severe LTSS needs rely exclusively on family and unpaid caregivers, and most
+paid care episodes are relatively short. Only 24% of older adults receive more than 2 years of paid LTSS
+care, and only 15% spend more than 2 years in a nursing home. However, the lifetime risk of receiving
+paid care is not evenly distributed across the population. Lengthy spells of severe LTSS needs and paid
+care are much more common among older adults with few financial resources than their wealthier
+counterparts.
+
+The opinions and views expressed in this report are those of the authors. They do not reflect the views of
+the Department of Health and Human Services, the contractor or any other funding organization. This
+report was completed and submitted on April 2017.
+
+This brief was prepared under contract #HHSP23320100025W1 between the U.S. Department of Health
+and Human Services, Office of the Assistant Secretary for Planning and Evaluation, Office of Disability,
+Aging and Long-Term Care Policy (DALTCP) and the Urban Institute. For additional information about
+this subject, you can visit https://aspe.hhs.gov/ or contact the ASPE/DALTCP Project Officers, John
+Drabek and Pamela Doty, at HHS/ASPE/DALTCP, Room 424E, H.H. Humphrey Building, 200
+Independence Avenue, S.W., Washington, D.C. 20201, John.Drabek@hhs.gov, Pamela.Doty@hhs.gov.
+
+
+
+                                         ASPE RESEARCH BRIEF | 26
+

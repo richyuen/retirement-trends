@@ -1,0 +1,1313 @@
+The Older Population: 2020
+2020 Census Briefs
+
+Zoe Caplan and Megan Rabe
+C2020BR-07
+
+May 2023
+
+
+
+
+INTRODUCTION
+The older population in the United States grew rapidly                           Figure 1.
+this past decade. Between 2010 and 2020, the popu-                               Reproduction of the Question on Age
+lation 65 years and over saw the largest and fastest                             and Date of Birth From the 2020 Census
+growth in any decade since 1880 to 1890, reaching
+55.8 million or 16.8 percent of the total population in
+2020. This increase was largely driven by the aging
+of the baby boomers (those born between 1946 and
+1964), the first of whom turned 65 years old in 2011.1
+As the baby boomers continue to age, the older popu-
+lation will make up an increasing share of the total
+                                                                                 Source: U.S. Census Bureau, 2020 Census questionnaire.
+U.S. population.
+
+This report describes the older population of the
+United States in 2020, with comparisons to the 2000                        The decennial census has collected information on
+and 2010 Censuses. It provides information on the                          age from respondents since the first census in 1790.
+age structure of the population 65 years and over at                       The 2020 Census data on age were derived from a
+both national and subnational levels. It also provides                     two-part question that asked for both age and date of
+information on the older population’s sex distribu-                        birth. The question asked for age in complete years as
+tion, racial and ethnic makeup, and use of skilled                         well as month, day, and year of birth, and instructed
+nursing facilities. The data for this report are based                     respondents to report babies less than 1 year old as
+on the 2020 Census Demographic and Housing                                 age 0.
+Characteristics file.
+                                                                           THE 65 YEARS AND OVER POPULATION: A
+AGE QUESTION                                                               SNAPSHOT
+Data on the age composition of the United States are                       In 2020, the older population accounted for 55.8 mil-
+derived from the 2020 Census question on age and                           lion people, 16.8 percent of the total population of the
+date of birth (Figure 1).                                                  United States. Examining the number and percentage
+                                                                           of people in the older population since 1900 (Figure
+    ¹ The baby boom includes people born from mid-1946 to 1964.
+The baby boom is distinguished by a dramatic increase in birth rates
+                                                                           2), the decade between 2010 to 2020 saw the largest
+following World War II and is one of the largest generations in            increase in the older population in terms of number of
+U.S. history. For more information, refer to H. Hogan, D. Perez, and
+W. Bell, “Who (Really) Are the First Baby Boomers?” In Joint
+                                                                           people, share of the population, and rate of growth.
+Statistical Meetings Proceedings, Social Statistics Section, Alexandria,
+VA, American Statistical Association, 2008, pp. 1009–1016.
+Table 1a.
+Population 65 Years and Over by Sex and Age: 2000, 2010, and 2020
+                                                      2000                                   2010                                2020
+
+        Sex and age                                    Percent     Percent                    Percent     Percent                 Percent      Percent
+                                                      65 years    U.S. total                 65 years    U.S. total              65 years     U.S. total
+                                       Number         and over   population       Number     and over   population    Number     and over    population
+
+Both sexes, all ages. .  .  . 281,421,906                    X        100.0    308,745,538          X        100.0 331,449,281          X          100.0
+ 65 and over. . . . . . . . .  34,991,753                100.0         12.4     40,267,984      100.0         13.0  55,792,501      100.0           16.8
+ 65 to 74. . . . . . . . . . . .  18,390,986              52.6          6.5     21,713,429       53.9          7.0  33,111,965       59.3           10.0
+   65 to 69. . . . . . . . . .     9,533,545              27.2          3.4     12,435,263       30.9          4.0  18,288,727       32.8            5.5
+   70 to 74. . . . . . . . . .     8,857,441              25.3          3.1      9,278,166       23.0          3.0  14,823,238       26.6            4.5
+ 75 to 84. . . . . . . . . . . .  12,361,180              35.3          4.4     13,061,122       32.4          4.2  16,344,101       29.3            4.9
+   75 to 79 . . . . . . . . . .    7,415,813              21.2          2.6      7,317,795       18.2          2.4   9,955,322       17.8            3.0
+   80 to 84. . . . . . . . . .     4,945,367              14.1          1.8      5,743,327       14.3          1.9   6,388,779       11.5            1.9
+ 85 to 94. . . . . . . . . . . .   3,902,349              11.2          1.4      5,068,825       12.6          1.6   5,705,470       10.2            1.7
+   85 to 89. . . . . . . . . .     2,789,818               8.0          1.0      3,620,459        9.0          1.2   3,829,179        6.9            1.2
+   90 to 94. . . . . . . . . .     1,112,531               3.2          0.4      1,448,366        3.6          0.5   1,876,291        3.4            0.6
+ 95 and over. . . . . . . . .        337,238               1.0          0.1        424,608        1.1          0.1     630,965        1.1            0.2
+   95 to 99. . . . . . . . . .       286,784               0.8          0.1        371,244        0.9          0.1     550,826        1.0            0.2
+   100 and over. . . . . .            50,454               0.1            Z         53,364        0.1            Z      80,139        0.1              Z
+Male, all ages.  .  .  .  .  .  .  .  . 138,053,563          X         49.1    151,781,326          X         49.2 162,685,811          X           49.1
+ 65 and over. . . . . . . . .  14,409,625                 41.2          5.1     17,362,960       43.1          5.6  24,999,120       44.8            7.5
+ 65 to 74. . . . . . . . . . . .          8,303,274       23.7          3.0     10,096,519       25.1          3.3  15,516,471       27.8            4.7
+   65 to 69. . . . . . . . . .            4,400,362       12.6          1.6      5,852,547       14.5          1.9   8,634,739       15.5            2.6
+   70 to 74. . . . . . . . . .            3,902,912       11.2          1.4      4,243,972       10.5          1.4   6,881,732       12.3            2.1
+ 75 to 84. . . . . . . . . . . .          4,879,353       13.9          1.7      5,476,762       13.6          1.8   7,196,612       12.9            2.2
+   75 to 79 . . . . . . . . . .           3,044,456        8.7          1.1      3,182,388        7.9          1.0   4,475,564        8.0            1.4
+   80 to 84. . . . . . . . . .            1,834,897        5.2          0.7      2,294,374        5.7          0.7   2,721,048        4.9            0.8
+ 85 to 94. . . . . . . . . . . .          1,158,826        3.3          0.4      1,698,254        4.2          0.6   2,121,268        3.8            0.6
+   85 to 89. . . . . . . . . .              876,501        2.5          0.3      1,273,867        3.2          0.4   1,494,421        2.7            0.5
+   90 to 94. . . . . . . . . .              282,325        0.8          0.1        424,387        1.1          0.1     626,847        1.1            0.2
+ 95 and over. . . . . . . . .                68,172        0.2            Z         91,425        0.2            Z     164,769        0.3              Z
+   95 to 99. . . . . . . . . .               58,115        0.2            Z         82,263        0.2            Z     147,792        0.3              Z
+   100 and over. . . . . .                   10,057          Z            Z          9,162          Z            Z      16,977          Z              Z
+Female, all ages. .  .  .  .  .  . 143,368,343               X         50.9    156,964,212          X         50.8 168,763,470          X           50.9
+  65 and over. . . . . . . . .  20,582,128                58.8          7.3     22,905,024       56.9          7.4  30,793,381       55.2            9.3
+  65 to 74. . . . . . . . . . . .  10,087,712             28.8          3.6     11,616,910       28.8          3.8  17,595,494       31.5            5.3
+    65 to 69. . . . . . . . . .      5,133,183            14.7          1.8      6,582,716       16.3          2.1   9,653,988       17.3            2.9
+    70 to 74. . . . . . . . . .      4,954,529            14.2          1.8      5,034,194       12.5          1.6   7,941,506       14.2            2.4
+  75 to 84. . . . . . . . . . . .    7,481,827            21.4          2.7      7,584,360       18.8          2.5   9,147,489       16.4            2.8
+    75 to 79 . . . . . . . . . .     4,371,357            12.5          1.6      4,135,407       10.3          1.3   5,479,758        9.8            1.7
+    80 to 84. . . . . . . . . .      3,110,470             8.9          1.1      3,448,953        8.6          1.1   3,667,731        6.6            1.1
+  85 to 94. . . . . . . . . . . .    2,743,523             7.8          1.0      3,370,571        8.4          1.1   3,584,202        6.4            1.1
+    85 to 89. . . . . . . . . .      1,913,317             5.5          0.7      2,346,592        5.8          0.8   2,334,758        4.2            0.7
+    90 to 94. . . . . . . . . .        830,206             2.4          0.3      1,023,979        2.5          0.3   1,249,444        2.2            0.4
+  95 and over. . . . . . . . .         269,066             0.8          0.1        333,183        0.8          0.1     466,196        0.8            0.1
+    95 to 99. . . . . . . . . .        228,669             0.7          0.1        288,981        0.7          0.1     403,034        0.7            0.1
+    100 and over. . . . . .             40,397             0.1            Z         44,202        0.1            Z      63,162        0.1              Z
+
+    X Not applicable.
+    Z Rounds to zero.
+    Note: For information on data collection, confidentiality protection, nonsampling error, and definitions, refer to <https://www2.census.gov/
+ programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-characteristics-file-and-demo-
+ graphic-profile/2020census-demographic-and-housing-characteristics-file-and-demographic-profile-techdoc.pdf>.
+    Source: U.S. Census Bureau, 2000 Census Summary File 1, 2010 Census Summary File 1, and 2020 Census Demographic and Housing
+ Characteristics File (DHC).
+
+
+
+
+2                                                                                                                                       U.S. Census Bureau
+Table 1b.
+Change in Population 65 Years and Over by Sex and Age: 2000, 2010, and 2020
+                                                             Change, 2000 to 2010                          Change, 2010 to 2020
+                   Sex and age
+                                                               Number               Percent                  Number                      Percent
+Both sexes, all ages. .  .  .  .  .  .  .  .  .             27,323,632                   9.7             22,703,743                             7.4
+   65 and over. . . . . . . . . . . . . . . . . . .           5,276,231                 15.1               15,524,517                           38.6
+   65 to 74. . . . . . . . . . . . . . . . . . . . . .        3,322,443                 18.1               11,398,536                           52.5
+     65 to 69. . . . . . . . . . . . . . . . . . . .          2,901,718                 30.4                5,853,464                           47.1
+     70 to 74. . . . . . . . . . . . . . . . . . . .            420,725                  4.7                5,545,072                           59.8
+   75 to 84                                                     699,942                  5.7                3,282,979                           25.1
+     75 to 79 . . . . . . . . . . . . . . . . . . . .           –98,018                 –1.3                2,637,527                           36.0
+     80 to 84. . . . . . . . . . . . . . . . . . . .            797,960                 16.1                  645,452                           11.2
+   85 to 94. . . . . . . . . . . . . . . . . . . . . .        1,166,476                 29.9                  636,645                           12.6
+     85 to 89. . . . . . . . . . . . . . . . . . . .            830,641                 29.8                  208,720                            5.8
+     90 to 94. . . . . . . . . . . . . . . . . . . .            335,835                 30.2                  427,925                           29.5
+   95 and over. . . . . . . . . . . . . . . . . . .              87,370                 25.9                  206,357                           48.6
+     95 to 99. . . . . . . . . . . . . . . . . . . .             84,460                 29.5                  179,582                           48.4
+     100 and over. . . . . . . . . . . . . . . .                  2,910                  5.8                   26,775                           50.2
+Male, all ages.  .  .  .  .  .  .  .  .  .  .  .  .  .  .   13,727,763                   9.9             10,904,485                             7.2
+   65 and over. . . . . . . . . . . . . . . . . . .           2,953,335                 20.5                7,636,160                           44.0
+   65 to 74. . . . . . . . . . . . . . . . . . . . . .        1,793,245                 21.6                5,419,952                           53.7
+     65 to 69. . . . . . . . . . . . . . . . . . . .          1,452,185                 33.0                2,782,192                           47.5
+     70 to 74. . . . . . . . . . . . . . . . . . . .            341,060                  8.7                2,637,760                           62.2
+   75 to 84. . . . . . . . . . . . . . . . . . . . . .          597,409                 12.2                1,719,850                           31.4
+     75 to 79 . . . . . . . . . . . . . . . . . . . .           137,932                  4.5                1,293,176                           40.6
+     80 to 84. . . . . . . . . . . . . . . . . . . .            459,477                 25.0                  426,674                           18.6
+   85 to 94. . . . . . . . . . . . . . . . . . . . . .          539,428                 46.5                  423,014                           24.9
+     85 to 89. . . . . . . . . . . . . . . . . . . .            397,366                 45.3                  220,554                           17.3
+     90 to 94. . . . . . . . . . . . . . . . . . . .            142,062                 50.3                  202,460                           47.7
+   95 and over. . . . . . . . . . . . . . . . . . .              23,253                 34.1                   73,344                           80.2
+     95 to 99. . . . . . . . . . . . . . . . . . . .             24,148                 41.6                   65,529                           79.7
+     100 and over. . . . . . . . . . . . . . . .                   –895                 –8.9                    7,815                           85.3
+Female, all ages. .  .  .  .  .  .  .  .  .  .  .  .        13,595,869                   9.5             11,799,258                             7.5
+   65 and over. . . . . . . . . . . . . . . . . . .           2,322,896                 11.3                7,888,357                           34.4
+   65 to 74. . . . . . . . . . . . . . . . . . . . . .        1,529,198                 15.2                5,978,584                           51.5
+     65 to 69. . . . . . . . . . . . . . . . . . . .          1,449,533                 28.2                3,071,272                           46.7
+     70 to 74. . . . . . . . . . . . . . . . . . . .             79,665                  1.6                2,907,312                           57.8
+   75 to 84. . . . . . . . . . . . . . . . . . . . . .          102,533                  1.4                1,563,129                           20.6
+     75 to 79 . . . . . . . . . . . . . . . . . . . .          –235,950                 –5.4                1,344,351                           32.5
+     80 to 84. . . . . . . . . . . . . . . . . . . .            338,483                 10.9                  218,778                            6.3
+   85 to 94. . . . . . . . . . . . . . . . . . . . . .          627,048                 22.9                  213,631                            6.3
+     85 to 89. . . . . . . . . . . . . . . . . . . .            433,275                 22.6                  –11,834                           –0.5
+     90 to 94. . . . . . . . . . . . . . . . . . . .            193,773                 23.3                  225,465                           22.0
+   95 and over. . . . . . . . . . . . . . . . . . .              64,117                 23.8                  133,013                           39.9
+     95 to 99. . . . . . . . . . . . . . . . . . . .             60,312                 26.4                  114,053                           39.5
+     100 and over. . . . . . . . . . . . . . . .                  3,805                  9.4                   18,960                           42.9
+
+     Note: For information on data collection, confidentiality protection, nonsampling error, and definitions, refer to <https://www2.census.
+  gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-characteristics-file-and-
+  demographic-profile/2020census-demographic-and-housing-characteristics-file-and-demographic-profile-techdoc.pdf>.
+     Source: U.S. Census Bureau, Census 2000 Summary File 1, 2010 Census Summary File 1, and 2020 Census Demographic and Housing
+  Characteristics File (DHC).
+
+
+
+
+U.S. Census Bureau                                                                                                                                 3
+      Figure 2.
+      Population 65 Years and Over by Size and Percentage of Total Population: 1900 to 2020
+                  Millions
+                    60
+
+                    50
+
+                    40
+
+                    30
+
+                    20
+
+                    10
+
+                     0
+                         1900 1910 1920 1930 1940 1950 1960 1970 1980 1990 2000 2010 2020
+
+
+             Percent total
+             population
+                    20
+
+
+                    15
+
+
+                    10
+
+
+                     5
+
+
+                     0
+                         1900 1910 1920 1930 1940 1950 1960 1970 1980 1990 2000 2010 2020
+
+
+      Note: For information on data collection, confidentiality protection, nonsampling error, and definitions, refer to
+      <https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-
+      characteristics-file-and-demographic-profile/2020census-demographic-and-housing-characteristics-file-and-demographic-profile-
+      techdoc.pdf>.
+      Source: U.S. Census Bureau, Decennial Census of Population, 1900 to 2000; 2010 Census Summary File 1, and 2020 Census
+      Demographic and Housing Characteristics File (DHC).
+
+
+
+
+This spike in the older population between 2010 and                 population in 1900, and its share of the population
+2020 is due to the baby-boom generation aging into                  steadily increased across the decades, except for the
+the 65-and-over age group.                                          period between 1990 and 2000. In 2020, the percent
+                                                                    of the population aged 65 and over reached 16.8 per-
+Nationally, the number of people aged 65 and over
+                                                                    cent, larger than in any other decennial census.
+has increased over time. In 1900, there were 3.1 million
+people aged 65 and over in the United States (Figure                The aged 65 and over population grew by 38.6
+2) and this number has increased steadily across the                percent, from 40.3 million to 55.8 million, between
+following decades, reaching 55.8 million in 2020.                   2010 and 2020. This is the fastest growth rate of any
+From 2010 to 2020, the number of people in the older                decade since 1880 to 1890 and is over twice as fast
+population increased by 15.5 million people, the largest            as the previous decade, from 2000 to 2010, when the
+10-year numeric increase to date. The second-largest                older population grew by 15.1 percent. The 65 years
+10-year numeric increase was 5.7 million, between                   and over population also grew at a rate five times
+1980 and 1990.                                                      faster than the total population. Between 2010 and
+                                                                    2020, the older population grew by 38.6 percent while
+The older population’s share of the total population
+                                                                    the total population increased by 7.4 percent, from
+has also been trending upward. The population 65
+                                                                    308.7 million to 331.4 million.
+years and over made up just 4.1 percent of the total
+
+
+
+
+4                                                                                                                    U.S. Census Bureau
+Population Size and Growth Varied Among Older              There was notable growth in the older ages between
+Age Groups                                                 2010 and 2020 for both males and females. The
+                                                           age-sex pyramids are especially useful for visualizing
+Population size and growth varied among older age
+                                                           how the aging of the baby-boom generation affected
+groups. Tables 1a and 1b present data on the age
+                                                           the overall age distribution for the United States. In
+and sex distributions of the population for selected
+                                                           2010, the baby-boom population appears as a bulge
+older age groups. Looking at 10-year age groups, the
+                                                           in the middle of the pyramid at the ages of 46 to 64.
+largest group was aged 65 to 74, representing over
+                                                           In 2020, the bulge is higher up in the pyramid (at the
+one-half (33.1 million or 59.3 percent) of the 65-and-
+                                                           ages of 56 to 74), with about one-half of the baby
+over population, followed by the 75-to-84 age group
+                                                           boomers above the 65 year age line. By 2030, the
+(16.3 million or 29.3 percent), the 85-to-94 age group
+                                                           bulge will have moved completely into the 65 years
+(5.7 million or 10.2 percent), and the 95-and-over age
+                                                           and over range and the growth in the 65 years and
+group (about 631,000 or 1.1 percent). In the decade
+                                                           over population is projected to start to slow.
+between 2010 and 2020, the age groups 65 to 74 and
+95 and over saw larger growth (52.5 and 48.6 per-          The age-sex pyramid is also a useful tool for examin-
+cent, respectively) than the 75-to-84 (25.1 percent) or    ing the sex distribution across age. The bars at the
+85-to-94 (12.6 percent) age groups.                        topmost part of the age-sex pyramid display the
+                                                           differences that exist between the number of males
+Fast Growth in the 65-to-74 Age Group Reflects             and females at the older ages. In both 2010 and 2020,
+Aging of Baby Boomers                                      females outnumbered males for every single year of
+The effect of aging baby boomers on the older popu-        age in the older population. This is apparent by the
+lation is most apparent when examining 10- and 5-year      longer bars at the top of the pyramid for females
+age groups. The aging baby boomers, aged 56 to 74          when compared with males. However, the more sym-
+in 2020, drove the rapid growth in the 65-to-74 age        metrical peak at the top of the pyramid indicates that
+group. The number of 65- to 74-year-olds grew by 11.4      the two sexes were more similar for older ages in 2020
+million (52.5 percent), increasing from 21.7 million in    than they were in 2010. This illustrates one of the main
+2010 to 33.1 million in 2020. In 2020, one out of ten      trends for the older population between 2010 and
+Americans was aged 65 to 74. Within this age group,        2020: females continue to outnumber males in the
+65- to 69-year-olds increased by 47.1 percent and 70-      older ages, but that gap is narrowing as males experi-
+to 74-year-olds increased by 59.8 percent, which is the    enced a greater increase in life expectancy relative to
+fastest growth between 2010 and 2020 of any 5-year         females.2
+age group within the older population (Table 1b).
+
+The population 95 years and over also experienced              DATA VISUALIZATION
+a large rate of growth (48.6 percent) and increased
+from about 425,000 in 2010 to about 631,000 in                 Explore 2020, 2010, and 2000 age-sex pyramids
+2020. The 75-to-84 age group grew at about one-half            for the nation, states, counties, metropolitan
+that rate (25.1 percent) but is expected to grow more          areas, and micropolitan areas at <www.census.
+rapidly in the next decade, as baby boomers age into           gov/library/visualizations/interactive/how-has-
+this age group. The 85-to-94 age group experienced             our-nations-population-changed.html>.
+slower growth (12.6 percent) than the other older age
+groups, increasing from 5.1 million to 5.7 million.
+                                                           Older Females Outnumbered Older Males and Grew
+Figure 3 shows age-sex pyramids for the United States
+                                                           More Numerically
+in 2010 and 2020. Age-sex pyramids are key tools for
+illustrating a population’s age and sex composition        In 2020, there were more females (30.8 million) than
+and show the numeric distribution of males (on the         males (25.0 million) aged 65 and over (Table 1a), and
+left) and females (on the right) by single years of age.   females outnumbered males in every older age group.
+The 2010 and 2020 pyramids are shown together so           The older female population also increased by a larger
+that population shifts in the shape of the pyramid can     number than the older male population. Between 2010
+be more easily assessed. The baby-boom generation is
+shaded darker for easier identification and a reference       ² Elizabeth Arias, Betzaida Tejada-Vera, Farida Ahmad, and
+line is provided at the age of 65.                         Kenneth D. Kochanek, “Provisional life expectancy estimates for
+                                                           2020,” Vital Statistics Rapid Release, no 15., National Center for Health
+                                                           Statistics, Hyattsville, MD, July 2021, <https://dx.doi.org/10.15620/
+                                                           cdc:107201>.
+
+
+
+U.S. Census Bureau                                                                                                                5
+    Figure 3.
+    Population by Sex and Age: 2010 and 2020
+                                                    2010                                  2020                    Baby-Boom generation
+     Age
+                                                  Male                                                                         Female
+    100+
+
+        95
+
+        90
+
+        85
+
+        80
+
+        75
+
+        70
+
+        65
+
+        60
+
+        55
+
+        50
+
+        45
+
+        40
+
+        35
+
+        30
+
+        25
+
+        20
+
+        15
+
+        10
+
+          5
+
+          0
+              3                       2                         1                        0                          1                          2                        3
+                                                                                      Millions
+
+
+
+    Note: While generally accurate (refer to “2020 Census Data Quality” at <www.census.gov/programs-surveys/decennial-census/decade/2020/planning-
+    management/process/data-quality.html>), there was notable age heaping in the 2020 Census. This has been previously identified by demographers at the
+    Census Bureau (<www.census.gov/newsroom/blogs/random-samplings/2022/04/population-estimates-covid-19-impacts.html> and more recently
+    <www.census.gov/newsroom/blogs/random-samplings/2023/05/age-heaping-2020-census-dhc.html>) and work is under way to investigate modifying future
+    products based on the 2020 Census to address this phenomenon. For information on data collection, confidentiality protection, nonsampling error, and definitions,
+    refer to <https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-characteristics-
+    file-and-demographic-profile/2020census-demographic-and-housing-characteristics-file-and-demographic-profile-techdoc.pdf>.
+    Source: U.S. Census Bureau, 2010 Census Summary File 1 and 2020 Census Demographic and Housing Characteristics File (DHC).
+
+
+
+
+6                                                                                                                                                               U.S. Census Bureau
+        Figure 4.
+        Sex Ratio by Age: 2000, 2010, and 2020
+
+                                            2000                      2010                        2020
+          Ratio
+
+          100
+
+           90
+
+           80
+
+           70
+
+           60
+
+           50
+
+           40
+
+           30
+
+           20
+
+           10
+
+             0
+                  55       60          65          70         75          80          85          90         95         100+
+                                                                   Age
+
+
+        Note: For information on data collection, confidentiality protection, nonsampling error, and definitions, refer to
+        <https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-
+        characteristics-file-and-demographic-profile/2020census-demographic-and-housing-characteristics-file-and-demographic-profile-
+        techdoc.pdf>.
+        Source: U.S. Census Bureau, Census 2000 Summary File 1, 2010 Census Summary File 1, and 2020 Census Demographic and Housing
+        Characteristics File (DHC).
+
+
+
+
+and 2020, the number of females aged 65 and over                      in every 5- and 10-year age category for the 65 years
+grew by 7.9 million, while the number of males aged                   and over population. The largest sex differences
+65 and over grew by 7.6 million.                                      in growth rate occurred at the oldest ages, where
+                                                                      males aged 100 and over grew by 85.3 percent, while
+Females, however, did not outgrow males numerically
+                                                                      females of the same age grew by 42.9 percent.
+in every older age group. While females saw larger
+numeric increases for most 5-year age groups, males                   Among both males and females, the 10-year age
+increased by larger numbers in the 80-to-84 and                       group that experienced the largest percent growth
+85-to-89 age groups. In fact, the number of females                   was 65 to 74 (53.7 percent for males and 51.5 percent
+aged 85 to 89 decreased by about 11,800 between                       for females). Among females, the 5-year age group
+2010 and 2020, the only numeric decrease for a 5-year                 that experienced the largest percent growth was 70
+age group among older ages for either sex.                            to 74, which grew by 57.8 percent. For males, the
+                                                                      100-and-over age group had the highest growth rate
+Males Experienced More Rapid Growth Than Females                      at 85.3 percent.
+in the Older Ages
+                                                                      Another way to examine the sex distribution at older
+While females continued to outnumber males in the                     ages is to look at the sex ratio, a common measure
+older ages, the gap narrowed somewhat over the                        used to indicate the balance of males and females in
+decade with males increasing at a faster rate than                    a population. Defined as the number of males per 100
+females (Table 1b). The number of males aged 65 and                   females, a sex ratio of exactly 100 means there were
+over grew by 44.0 percent from 2010 to 2020, com-                     an equal number of males and females. A sex ratio
+pared to a growth rate of 34.4 percent for females. In                higher than 100 indicates there were more males than
+fact, males saw larger percent growth than females
+
+
+U.S. Census Bureau                                                                                                                      7
+     Figure 5.
+     Percent Distribution of the Oldest-Old Population by Age: 2000, 2010, and 2020
+
+                 85 to 89 years                  90 to 94 years                 95 to 99 years             100 years and over
+
+                    1.2           1.0          1.3                0.8            0.5          0.7           1.3          1.2          1.6
+           6.8             6.8                           4.7            4.6            6.5
+                                        8.7                                                         7.6           7.8          10.0
+
+                                                        23.0            23.7
+          26.2            26.4                                                         27.4         27.6          27.6
+                                        29.6                                                                                   30.8
+
+
+
+
+                                                        71.4            71.2
+          65.8            65.9                                                         65.4         63.5          63.4
+                                        60.4                                                                                   57.6
+
+
+
+
+          2000            2010          2020            2000            2010           2020         2000          2010         2020
+
+                          Total                                         Male                                  Female
+
+     Note: For information on data collection, confidentiality protection, nonsampling error, and definitions, refer to
+     <https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-
+     characteristics-file-and-demographic-profile/2020census-demographic-and-housing-characteristics-file-and-demographic-profile-
+     techdoc.pdf>.
+     Source: U.S. Census Bureau, Census 2000 Summary File 1, 2010 Census Summary File 1, and 2020 Census Demographic and Housing
+     Characteristics File (DHC).
+
+
+
+
+females in a population, whereas a sex ratio under 100                         Older Age Groups Made Up Increased Share of
+indicates fewer males than females.                                            Oldest-Old Population
+
+In general, the sex ratio for the older population                             Figure 5 displays the percent distribution of the
+decreased as age increased, meaning that there were                            population aged 85 and over (the oldest-old) by sex.
+fewer males per 100 females at older ages than at                              In 2020, 60.4 percent of the oldest-old were between
+younger ages (Figure 4). In 2020, there were 91 males                          the ages of 85 to 89, 29.6 percent were 90 to 94, 8.7
+per 100 females at the age of 65, 84 males per 100                             percent were 95 to 99, and 1.3 percent were 100 and
+females at 75, and 40 males per 100 females at 95. By                          over.
+92, females outnumbered males two-to-one.
+                                                                               Comparing the age distribution of the population
+While the sex ratio for those aged 65 and over had                             aged 85 and over by sex, the 85-to-89 age group
+increased over the past 2 decades, the increase in sex                         accounted for a larger share of the male oldest-old
+ratio occurred for older ages between 2010 and 2020                            population (65.4 percent) than the female oldest-old
+than it had in the earlier decade. The number of males                         population (57.6 percent), while the age groups 90
+per 100 females increased by at least one for those                            and over accounted for a larger share of the female
+aged 69 and over between 2010 and 2020, and for                                oldest-old (42.4 percent) than male oldest-old (34.6
+those aged 60 to 98 between 2000 and 2010.                                     percent).
+
+
+
+
+8                                                                                                                               U.S. Census Bureau
+The age distribution of the oldest-old changed more                    alone groups, increases were observed, ranging from
+from 2010 to 2020 than in the previous decade. Those                   0.02 percentage points for Native Hawaiian and Other
+aged 90 and over made up 39.6 percent of the oldest-                   Pacific Islander alone to 1.8 percentage points for
+old population in 2020, compared to 34.1 percent in                    Some Other Race alone. The Multiracial population
+2010, and 34.2 percent in 2000. Conversely, while the                  increased by 4.5 percentage points, from 1.0 percent
+age group of 85 to 89 made up the greatest share of                    to 5.5 percent of the older population.
+the oldest-old in the past three censuses, its share of
+                                                                       The younger population saw a similar pattern of
+the oldest-old population dropped over 5 percentage
+                                                                       change to the older population. However, the White
+points in 20 years (from 65.8 percent in 2000 and
+                                                                       alone population saw an even greater decrease in
+65.9 percent in 2010 to 60.4 percent in 2020).
+                                                                       the younger ages (–11.9 percentage points) than
+                                                                       the older ages (–8.2 percentage points). While the
+The Number of Centenarians3 Grew by 50 Percent
+                                                                       share who identified as Black or African American
+Between 2010 and 2020
+                                                                       alone decreased slightly for the younger population
+In the 2020 Census, there were 80,139 centenarians,                    (from 13.2 percent in 2010 to 13.1 percent in 2020), it
+defined as people 100 years and over (Table 1a). This is               increased for the older population (from 8.5 percent in
+a 50.2 percent increase from the 2010 Census, which                    2010 to 9.2 percent in 2020).
+reported 53,364 people who were at least 100 years
+old (Table 1b). As in all older-age groups, females                    In 2020, the Hispanic or Latino population made
+outnumbered males in the centenarian population. In                    up 8.8 percent of those aged 65 and over and 20.7
+2020, there were 63,162 females (78.8 percent) and                     percent of those under the age of 65. However, the
+16,977 males (21.2 percent) who were 100 years and                     Hispanic or Latino population made up an increased
+over.                                                                  share of the older population in 2020 (8.8 percent)
+                                                                       compared with 2010 (6.9 percent), a 1.9 percentage-
+RACE AND HISPANIC ORIGIN                                               point increase.
+
+Figure 6 examines the racial and ethnic composition of                 The observed changes in the racial and ethnic popu-
+the older (aged 65 and over) and younger (under the                    lation groups could be attributed to several factors,
+age of 65) populations in 2010 and 2020. In 2020, 76.6                 including demographic change since 2010. We expect
+percent of the population aged 65 and over identified                  that they were partially due to the improvements to
+as White alone, followed by Black or African American                  the design of the two separate questions for race and
+alone (9.2 percent), Two or More Races (5.5 percent),                  ethnicity, data processing, and coding, which enabled
+Asian alone (4.5 percent), Some Other Race alone (3.4                  a more thorough and accurate depiction of how
+percent), American Indian and Alaska Native alone                      people prefer to self-identify. More information can be
+(0.7 percent), and Native Hawaiian and Other Pacific                   found in this America Counts story: “Improved Race
+Islander alone (0.1 percent). The White alone popula-                  and Ethnicity Measures Reveal U.S. Population Is Much
+tion made up a larger proportion of the older popula-                  More Multiracial” (census.gov).
+tion (76.6 percent) than it did the younger population
+(58.6 percent). The converse is true for the other                     Nursing Facilities5
+race groups, which accounted for larger shares of the                  In 2020, 1.4 million people, or 2.5 percent of the
+younger than the older population. This contrast is                    population aged 65 and over lived in nursing facilities/
+most noticeable for the Some Other Race alone group,                   skilled nursing facilities. As age increased, the per-
+which made up 9.4 percent of the younger population,                   centage of people living in nursing facilities increased
+and 3.4 percent of the older population.                               (Figure 7); 0.9 percent of 65- to 74-year-olds, 2.7 per-
+Between 2010 and 2020, the White alone popula-                         cent of 75- to 84-year-olds, and 10.2 percent of people
+tion’s share of the older population declined from                     aged 85 and over lived in nursing facilities.
+84.8 percent to 76.6 percent.4 Among the other race                        ⁵ Includes facilities licensed to provide medical care with 7-day,
+                                                                       24-hour coverage for people requiring long-term nonacute care.
+    ³ The centenarian population can be affected by data quality
+                                                                       For more information on how the Census Bureau defines nursing
+issues such as age misreporting by respondents. For more information
+                                                                       facilities/skilled nursing facilities, refer to pages B10 to B13 at <https://
+about data quality at the extreme older ages, refer to <www.census.
+                                                                       www2.census.gov/programs-surveys/decennial/2020/technical-
+gov/library/publications/2012/dec/c2010sr-03.html>.
+                                                                       documentation/complete-tech-docs/summary-file/2020Census_
+    ⁴ Data users should use caution when comparing 2010 Census and
+                                                                       PL94_171Redistricting_StatesTechDoc_English.pdf>.
+2020 Census race and Hispanic Origin data because of improvements
+to the question design, data processing, and coding procedures for
+the 2020 Census.
+
+
+
+
+U.S. Census Bureau                                                                                                                                 9
+     Figure 6.
+     Percent Distribution of Race and Hispanic Origin for the Under 65 Years and
+     65 Years and Over Populations: 2010 and 2020
+
+                                               2010 Census            2020 Census
+                 Share of the under                                                   Share of the 65 years
+                 65 years population                           Race                   and over population
+            70.6                                            White alone                                           84.8
+               58.6                                                                                             76.6
+                              13.2              Black or African American alone           8.5
+                              13.1                                                        9.2
+                                      1.0             American Indian and              0.5
+                                      1.2              Alaska Native alone             0.7
+                                    4.9                     Asian alone                 3.4
+                                    6.3                                                 4.5
+                                       0.2         Native Hawaiian and other           0.1
+                                       0.2           Pacific Islander alone            0.1
+                                     6.9             Some other race alone             1.7
+                                    9.4                                                 3.4
+                                      3.2              Two or more races               1.0
+                                  11.2                                                  5.5
+
+
+                                                    Hispanic or Latino Origin
+                             17.8                      Hispanic or Latino                6.9
+                            20.7                                                          8.8
+      82.2                                                  Not Hispanic                                               93.1
+       79.3                                                  or Latino                                                 91.2
+
+     Note: For information on data collection, confidentiality protection, nonsampling error, and definitions, refer to
+     <https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-
+     characteristics-file-and-demographic-profile/2020census-demographic-and-housing-characteristics-file-and-demographic-profile-
+     techdoc.pdf>.
+     Source: 2010 Census Summary File 1 and 2020 Census Demographic and Housing Characteristics File (DHC).
+
+
+
+
+     Figure 7.
+     Percentage of Population 65 Years and Over in Nursing Facilities/Skilled Nursing Facilities
+     by Selected Age Groups and Sex: 2020
+                              65 to 74 years                75 to 84 years              85 and over
+                                                                                                              12.0
+
+                                       10.2
+
+
+
+                                                                           6.9
+
+
+
+                                                                                                    3.1
+                            2.7
+                                                                2.2
+                  0.9                                 0.9                                 0.9
+
+                           Total                               Male                              Female
+
+     Note: For information on data collection, confidentiality protection, nonsampling error, and definitions, refer to
+     <https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-
+     characteristics-file-and-demographic-profile/2020census-demographic-and-housing-characteristics-file-and-demographic-profile-
+     techdoc.pdf>.
+     Source: U.S. Census Bureau, 2020 Census Demographic and Housing Characteristics File (DHC).
+
+
+
+
+10                                                                                                                   U.S. Census Bureau
+  Table 2.
+  Population 65 Years and Over and Population 85 Years and Over for the United States, Regions, States, and Puerto
+  Rico: 2010 and 2020
+                                                                         2010                                                        2020
+                                                                                                                                                                    Percent change, 2010 to 2020
+                   Area                                      65 years and over        85 years and over                  65 years and over      85 years and over
+                                              Total popu-                                                 Total popu-                                               Total       65 years   85 years
+                                                    lation    Number Percent          Number Percent            lation    Number      Percent   Number Percent population       and over   and over
+UNITED STATES. .  .  .  .  .  .  .            308,745,538 40,267,984        13.0 5,493,433          1.8 331,449,281 55,792,501           16.8 6,336,435       1.9         7.4       38.6       15.3
+Region
+   Northeast. . . . . . . . . . . .            55,317,240    7,804,833      14.1 1,199,702          2.2   57,609,148 10,197,421          17.7 1,305,784       2.3         4.1       30.7        8.8
+   Midwest. . . . . . . . . . . . . .          66,927,001    9,022,334      13.5 1,320,640          2.0   68,985,454 11,890,650          17.2 1,417,894       2.1         3.1       31.8        7.4
+   South. . . . . . . . . . . . . . . . 114,555,744 14,893,985              13.0 1,821,982          1.6 126,266,107 21,145,925           16.7 2,223,985       1.8       10.2        42.0       22.1
+   West. . . . . . . . . . . . . . . . .       71,945,553    8,546,832      11.9 1,151,109          1.6   78,588,572 12,558,505          16.0 1,388,772       1.8         9.2       46.9       20.6
+State
+   Alabama . . . . . . . . . . . . .            4,779,736     657,792       13.8        75,684      1.6    5,024,279      884,723        17.6     90,745      1.8         5.1       34.5       19.9
+   Alaska . . . . . . . . . . . . . . .          710,231       54,938           7.7      4,711      0.7      733,391       95,185        13.0      6,519      0.9         3.3       73.3       38.4
+   Arizona . . . . . . . . . . . . . .          6,392,017     881,831       13.8      103,400       1.6    7,151,502     1,339,172       18.7    134,624      1.9       11.9        51.9       30.2
+   Arkansas. . . . . . . . . . . . .            2,915,918     419,981       14.4        51,402      1.8    3,011,524      528,867        17.6     54,934      1.8         3.3       25.9        6.9
+   California. . . . . . . . . . . . .         37,253,956    4,246,514      11.4      600,968       1.6   39,538,223     6,017,164       15.2    724,578      1.8         6.1       41.7       20.6
+   Colorado. . . . . . . . . . . . .            5,029,196     549,625       10.9        69,613      1.4    5,773,714      868,695        15.0     86,770      1.5       14.8        58.1       24.6
+   Connecticut. . . . . . . . . .               3,574,097     506,559       14.2        84,898      2.4    3,605,944      647,065        17.9     87,727      2.4         0.9       27.7        3.3
+   Delaware. . . . . . . . . . . . .             897,934      129,277       14.4        15,744      1.8      989,948      194,577        19.7     19,432      2.0       10.2        50.5       23.4
+   District of Columbia. . .                     601,723       68,809       11.4        10,315      1.7      689,545       86,776        12.6     10,485      1.5       14.6        26.1        1.6
+   Florida. . . . . . . . . . . . . . .        18,801,310    3,259,602      17.3      434,125       2.3   21,538,187     4,568,026       21.2    536,188      2.5       14.6        40.1       23.5
+   Georgia. . . . . . . . . . . . . .           9,687,653    1,032,035      10.7      113,823       1.2   10,711,908     1,579,289       14.7    147,329      1.4       10.6        53.0       29.4
+   Hawaii . . . . . . . . . . . . . . .         1,360,301     195,138       14.3        30,238      2.2    1,455,271      282,451        19.4     37,839      2.6         7.0       44.7       25.1
+   Idaho. . . . . . . . . . . . . . . .         1,567,582     194,668       12.4        25,242      1.6    1,839,106      309,683        16.8     30,977      1.7       17.3        59.1       22.7
+   Illinois. . . . . . . . . . . . . . . .     12,830,632    1,609,213      12.5      234,912       1.8   12,812,508     2,093,985       16.3    253,630      2.0        -0.1       30.1        8.0
+   Indiana. . . . . . . . . . . . . . .         6,483,802     841,108       13.0      115,272       1.8    6,785,528     1,118,880       16.5    125,210      1.8         4.7       33.0        8.6
+   Iowa. . . . . . . . . . . . . . . . .        3,046,355     452,888       14.9        74,658      2.5    3,190,369      574,453        18.0     76,253      2.4         4.7       26.8        2.1
+   Kansas. . . . . . . . . . . . . . .          2,853,118     376,116       13.2        59,318      2.1    2,937,880      490,390        16.7     60,797      2.1         3.0       30.4        2.5
+   Kentucky. . . . . . . . . . . . .            4,339,367     578,227       13.3        69,208      1.6    4,505,836      767,159        17.0     76,960      1.7         3.8       32.7       11.2
+   Louisiana. . . . . . . . . . . . .           4,533,372     557,857       12.3        65,686      1.4    4,657,757      763,143        16.4     78,148      1.7         2.7       36.8       19.0
+   Maine. . . . . . . . . . . . . . . .         1,328,361     211,080       15.9        29,136      2.2    1,362,359      297,029        21.8     33,289      2.4         2.6       40.7       14.3
+   Maryland. . . . . . . . . . . . .            5,773,552     707,642       12.3        98,126      1.7    6,177,224      986,315        16.0    112,252      1.8         7.0       39.4       14.4
+   Massachusetts. . . . . . . .                 6,547,629     902,724       13.8      145,199       2.2    7,029,917     1,231,788       17.5    157,291      2.2         7.4       36.5        8.3
+   Michigan. . . . . . . . . . . . .            9,883,640    1,361,530      13.8      191,881       1.9   10,077,331     1,805,780       17.9    207,517      2.1         2.0       32.6        8.1
+   Minnesota. . . . . . . . . . . .             5,303,925     683,121       12.9      106,664       2.0    5,706,494      949,293        16.6    116,658      2.0         7.6       39.0        9.4
+   Mississippi. . . . . . . . . . . .           2,967,297     380,407       12.8        44,359      1.5    2,961,279      509,561        17.2     51,854      1.8        -0.2       34.0       16.9
+   Missouri. . . . . . . . . . . . . .          5,988,927     838,294       14.0      113,779       1.9    6,154,913     1,077,757       17.5    123,460      2.0         2.8       28.6        8.5
+   Montana . . . . . . . . . . . . .             989,415      146,742       14.8        20,021      2.0    1,084,225      215,283        19.9     21,883      2.0         9.6       46.7        9.3
+   Nebraska. . . . . . . . . . . . .            1,826,341     246,677       13.5        39,308      2.2    1,961,504      321,347        16.4     40,602      2.1         7.4       30.3        3.3
+   Nevada. . . . . . . . . . . . . .            2,700,551     324,359       12.0        30,187      1.1    3,104,614      508,460        16.4     42,703      1.4       15.0        56.8       41.5
+   New Hampshire. . . . . . .                   1,316,470     178,268       13.5        24,761      1.9    1,377,529      265,954        19.3     28,594      2.1         4.6       49.2       15.5
+   New Jersey. . . . . . . . . . .              8,791,894    1,185,993      13.5      179,611       2.0    9,288,994     1,531,299       16.5    196,157      2.1         5.7       29.1        9.2
+   New Mexico . . . . . . . . . .               2,059,179     272,255       13.2        31,993      1.6    2,117,522      391,207        18.5     39,361      1.9         2.8       43.7       23.0
+   New York. . . . . . . . . . . . .           19,378,102    2,617,943      13.5      390,874       2.0   20,201,249     3,408,466       16.9    441,852      2.2         4.2       30.2       13.0
+   North Carolina. . . . . . . .                9,535,483    1,234,079      12.9      147,461       1.5   10,439,388     1,789,448       17.1    182,201      1.7         9.5       45.0       23.6
+   North Dakota. . . . . . . . .                 672,591       97,477       14.5        16,688      2.5      779,094      123,420        15.8     17,063      2.2       15.8        26.6        2.2
+   Ohio. . . . . . . . . . . . . . . . .       11,536,504    1,622,015      14.1      230,429       2.0   11,799,448     2,118,737       18.0    249,494      2.1         2.3       30.6        8.3
+   Oklahoma. . . . . . . . . . . .              3,751,351     506,714       13.5        61,912      1.7    3,959,353      653,078        16.5     70,562      1.8         5.5       28.9       14.0
+   Oregon. . . . . . . . . . . . . .            3,831,074     533,533       13.9        77,872      2.0    4,237,256      795,108        18.8     83,301      2.0       10.6        49.0        7.0
+   Pennsylvania . . . . . . . . .              12,702,379    1,959,307      15.4      305,676       2.4   13,002,700     2,483,054       19.1    319,900      2.5         2.4       26.7        4.7
+   Rhode Island . . . . . . . . .               1,052,567     151,881       14.4        26,750      2.5    1,097,379      200,461        18.3     26,783      2.4         4.3       32.0        0.1
+   South Carolina. . . . . . . .                4,625,364     631,874       13.7        70,717      1.5    5,118,425      971,951        19.0     90,380      1.8       10.7        53.8       27.8
+   South Dakota. . . . . . . . .                 814,180      116,581       14.3        19,226      2.4      886,667      156,591        17.7     20,397      2.3         8.9       34.3        6.1
+   Tennessee. . . . . . . . . . . .             6,346,105     853,462       13.4        99,917      1.6    6,910,840     1,179,571       17.1    116,918      1.7         8.9       38.2       17.0
+   Texas . . . . . . . . . . . . . . . .       25,145,561    2,601,886      10.3      305,179       1.2   29,145,505     3,921,135       13.5    397,545      1.4       15.9        50.7       30.3
+   Utah. . . . . . . . . . . . . . . . .        2,763,885     249,462           9.0     30,991      1.1    3,271,616      381,797        11.7     39,463      1.2       18.4        53.0       27.3
+   Vermont . . . . . . . . . . . . .             625,741       91,078       14.6        12,797      2.0      643,077      132,305        20.6     14,191      2.2         2.8       45.3       10.9
+   Virginia . . . . . . . . . . . . . .         8,001,024     976,937       12.2      122,403       1.5    8,631,393     1,395,291       16.2    150,104      1.7         7.9       42.8       22.6
+   Washington . . . . . . . . . .               6,724,540     827,677       12.3      117,271       1.7    7,705,281     1,252,428       16.3    130,958      1.7       14.6        51.3       11.7
+   West Virginia. . . . . . . . .               1,852,994     297,404       16.0        35,921      1.9    1,793,716      367,015        20.5     37,948      2.1        -3.2       23.4        5.6
+   Wisconsin. . . . . . . . . . . .             5,686,986     777,314       13.7      118,505       2.1    5,893,718     1,060,017       18.0    126,813      2.2         3.6       36.4        7.0
+   Wyoming. . . . . . . . . . . . .              563,626       70,090       12.4         8,602      1.5      576,851      101,872        17.7      9,796      1.7         2.3       45.3       13.9
+Puerto Rico .  .  .  .  .  .  .  .  .  .  .     3,725,789     541,998       14.5        62,596      1.7    3,285,874      731,899        22.3     85,114      2.6       -11.8       35.0       36.0
+     Note: For information on data collection, confidentiality protection, nonsampling error, and definitions, refer to <https://www2.census.gov/programs-surveys/
+  decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-characteristics-file-and-demographic-profile/2020census-demographic-and-
+  housing-characteristics-file-and-demographic-profile-techdoc.pdf>.
+     Source: U.S. Census Bureau, 2010 Census Summary File 1, and 2020 Census Demographic and Housing Characteristics File (DHC).
+
+
+
+U.S. Census Bureau                                                                                                                                                                              11
+Share of Oldest-Old Living in Nursing Facilities is                    percent) saw faster growth than the Northeast (4.1
+Almost Twice as Large for Females as for Males                         percent) and Midwest (3.1 percent).
+A larger percentage of females (3.0 percent) than
+                                                                       STATE
+males (1.8 percent) aged 65 and over lived in nursing
+facilities. This is especially apparent for the oldest-                Maine Had the Largest Percentage Aged 65 and
+old, where 12.0 percent of females and 6.9 percent of                  Over, While Utah Had the Smallest
+males aged 85 and over lived in nursing facilities.
+                                                                       States varied in what share of their total population
+GEOGRAPHIC DISTRIBUTION                                                was 65 years and over in 2020, from Utah with the
+                                                                       smallest share (11.7 percent) to Maine with the larg-
+In addition to providing national-level population sta-
+                                                                       est share (21.8 percent) (Table 2 and Figure 8). In
+tistics, the Census Bureau also provides data for lower
+                                                                       2020, at least one out of five people were 65 years or
+levels of geography. The following section contains
+                                                                       over in four states: Maine (21.8 percent), Florida (21.2
+information on the older population by regions, states,
+                                                                       percent), Vermont (20.6 percent), and West Virginia
+counties, and places with a total population of at least
+                                                                       (20.5 percent). No states had reached the threshold
+100,000, as well as urban or rural populations.6
+                                                                       of 20 percent 65 and over in 2010. In fact, in 2010, the
+                                                                       state with the largest percentage 65 years and over
+REGION
+                                                                       was Florida with 17.3 percent; 25 states and Puerto
+The Northeast Had the Largest Percentage of People                     Rico exceeded this percentage in 2020, meaning that
+in Older Ages, Followed by the Midwest                                 about one-half of the states had higher proportions in
+                                                                       the older population in 2020 than the state with the
+In 2020, the Northeast had the largest percentage of                   highest proportion in 2010.
+its population 65 years and over (17.7 percent), fol-
+lowed by the Midwest (17.2 percent), the South (16.7                   Three States Saw Their 65-and-Over Population
+percent), and the West (16.0 percent) (Table 2). The                   Increase by More Than 1 Million
+Northeast also contained the largest percentage of its
+                                                                       All states saw an increase in the number of people in
+population 85 years and over (2.3 percent), followed
+                                                                       the older population between 2010 and 2020, rang-
+by the Midwest (2.1 percent), and the West and South
+                                                                       ing from about 18,000 for the District of Columbia
+(each with 1.8 percent).
+                                                                       to about 1,771,000 for California. Three states saw a
+We can also look at the number of older people liv-                    numeric increase larger than 1,000,000: California
+ing in each region in 2020. The South had the largest                  (1,770,650), Texas (1,319,249), and Florida (1,308,424).
+number of people 65 years and over (21.1 million), fol-                The next largest numeric increase was New York,
+lowed by the West (12.6 million), the Midwest (11.9 mil-               whose 65 years and over population increased by
+lion), and the Northeast (10.2 million). The 85-years-                 about 791,000 between 2010 and 2020. Three other
+and-older population followed a similar pattern, with                  states (excluding New York) had increases of 500,000
+the South having the largest number (2.2 million),                     or more, while 30 other states had increases of at least
+followed by the Midwest (1.4 million), the West (1.4                   100,000.
+million), and the Northeast (1.3 million).
+                                                                       Eleven States Saw at Least 50 Percent Growth in
+The South and West Saw Faster Growth Than the                          Their 65-and-Over Population
+Northeast or Midwest in the Older Population
+                                                                       While the 65-and-over population increased in all
+The population 65 years and over saw faster growth                     states between 2010 and 2020, the percent change
+this past decade in the West (46.9 percent) and South                  varied. The older population saw the largest percent
+(42.0 percent) than in the Midwest (31.8 percent) and                  growth in Alaska, where it grew by 73.3 percent, from
+Northeast (30.7 percent). Similarly, the population                    54,938 in 2010 to 95,185 in 2020. Eleven states saw
+aged 85 and over grew faster in the South (22.1 per-                   at least a 50 percent growth in the older popula-
+cent) and West (20.6 percent) than in the Northeast                    tion between 2010 and 2020, from Delaware with a
+(8.8 percent) and Midwest (7.4 percent). This pat-                     50.5 percent increase to Alaska with a 73.3 percent
+tern follows the total population growth for the four                  increase. The smallest percent growth in the older
+regions, where the South (10.2 percent) and West (9.2                  population was in West Virginia, which grew by 23.4
+                                                                       percent from 297,404 to 367,015.
+    ⁶ The U.S. Census Bureau defines “places” as either incorporated
+cities, towns, villages, or unincorporated communities.
+
+
+
+
+12                                                                                                               U.S. Census Bureau
+Those aged 65 and over also made up a larger share
+of each state’s population in 2020 than they did in           DATA VISUALIZATION
+2010. Between 2010 and 2020, ten states saw at least
+                                                              Explore the geographic distribution for older
+a 5 percentage-point increase in the 65 and over
+                                                              age groups at <www.census.gov/library/
+shares of their populations. Vermont saw the largest
+                                                              visualizations/interactive/exploring-age-groups-
+percentage-point increase, from 14.6 percent in 2010
+                                                              in-the-2020-census.html>.
+to 20.6 percent in 2020. The District of Columbia
+and North Dakota had the smallest percentage-
+point increases, gaining 1.1 and 1.3 percentage points,
+respectively.                                              percentage aged 85 and over was larger in Puerto
+                                                           Rico (2.6 percent) than in all states except for Hawaii.
+Oldest-Old Made Up Largest Share of Population in          Puerto Rico also saw a larger increase in the share of
+Hawaii and the Smallest in Alaska                          its population in the older ages. Between 2010 and
+                                                           2020, Puerto Rico’s populations aged 65 and over
+Like the older population overall, states varied in the    and 85 and over increased by 35.0 and 36.0 percent,
+share of their population in the oldest-old ages (85       respectively. Meanwhile, Puerto Rico’s total popula-
+and over), from Alaska with the smallest share (0.9        tion declined by 11.8 percent, reflecting increased
+percent) to Hawaii with the largest share (2.6 percent).   outmigration from the Commonwealth. Because of
+Looking at Figure 8, we can determine that states in
+                                                           this, the older population made up a larger share of
+the Midwest and Northeast generally had 2.0 percent        Puerto Rico’s population in 2020 than it did in 2010. In
+or more of their populations aged 85 and over, while       2020, those aged 65 and over made up 22.3 percent
+those in the South and West generally had less than        of Puerto Rico’s population, up from 14.5 percent in
+2.0 percent. Florida was an exception to this pattern,     2010. Similarly, those aged 85 and over made up 2.6
+with one of the highest percentages (2.5 percent)          percent of Puerto Rico’s population in 2020, up from
+despite being in the South.                                1.7 percent in 2010.
+All states saw an increase in the number of people
+aged 85 and over, although the percent increases           COUNTIES
+varied widely. Rhode Island saw a slight 0.1 percent
+                                                           Over One-Half of the Residents of Sumter County,
+increase in the number of its residents aged 85 and
+                                                           Florida, Were Aged 65 and Over
+over, from 26,750 people in 2010 to 26,783 people
+in 2020. In contrast, Nevada saw the largest percent       Table 3 lists the top counties ranked by the share of
+change with an increase of 41.5 percent (from 30,187       their population aged 65 and over in 2020. Sumter
+in 2010 to 42,703 in 2020).                                County, Florida, had the highest ranking, with over
+                                                           one-half (58.9 percent) of its residents aged 65 and
+While the number of people aged 85 and over grew           over. The next “oldest” county was Catron County,
+in all states this past decade, faster growth in younger   New Mexico, with 43.3 percent of its population aged
+age groups meant that the 85 and over population’s         65 and over. Of the ten counties with the highest per-
+share of the total population decreased in nine states     centage 65 years and over, four were in Florida, with
+and the District of Columbia. North Dakota saw the         two each in Virginia and New Mexico, and one each in
+largest percentage-point decrease, from 2.5 percent        Washington and South Carolina.
+in 2010 to 2.2 percent in 2020. The oldest-old made
+up a larger share of the total population in 41 states.    While the counties in the top panel of Table 3 shared
+Hawaii was the state with the largest percentage-point     a higher proportion of older people, they represented
+increase (+0.4 percentage points) for the oldest-old,      two distinct demographic groups. The four counties
+increasing from 2.2 percent in 2010 to 2.6 percent in      in Florida made up the first group and were larger
+2020.                                                      counties whose older population was consistent with
+                                                           growing retirement communities. For example, Sumter
+Puerto Rico Had a Higher Percentage in Older Ages          County, Florida, had a total population of almost
+Than Any State or the District of Columbia                 130,000 and was home to The Villages, a large age-
+                                                           restricted retirement community. In contrast, the coun-
+In 2020, 22.3 percent of Puerto Rico’s residents were
+                                                           ties in New Mexico, Virginia, and South Carolina were
+aged 65 or over, a higher percentage than any of
+                                                           small, rural counties whose older population reflected
+the states or the District of Columbia. Similarly, the
+
+
+
+
+U.S. Census Bureau                                                                                               13
+     Figure 8.
+     Percentage of Population 65 Years and Over and 85 Years and Over by State: 2020
+
+
+
+                                                 65 years and over
+                              200 Miles
+
+
+
+
+                                                                                                            Percent
+                                                                                                                 20.0 or more
+                                                                                                                 18.0 to 19.9
+                                                                                                                 17.0 to 17.9
+                                                                                                                 16.0 to 16.9
+                                                                                                                 Less than 16.0
+                                                                                                            U.S. value: 16.8
+
+
+
+
+                 100 Miles
+
+                                                                            200 Miles
+
+
+                                                                                                           50 Miles
+
+
+
+
+                                                85 years and over
+
+                                200 Miles
+
+
+
+
+                                                                                                             Percent
+                                                                                                                     2.3 or more
+                                                                                                                     2.0 to 2.2
+                                                                                                                     1.8 to 1.9
+                                                                                                                     1.5 to 1.7
+                                                                                                                     Less than 1.5
+                                                                                                             U.S. value: 1.9
+
+
+                  100 Miles
+
+                                                                            200 Miles
+
+
+
+                                                                                                          50 Miles
+
+
+     Note: For information on data collection, confidentiality protection, nonsampling error, and definitions, refer to
+     <https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-
+     characteristics-file-and-demographic-profile/2020census-demographic-and-housing-characteristics-file-and-demographic-profile-
+     techdoc.pdf>.
+     Source: U.S. Census Bureau, 2020 Census Demographic and Housing Characteristics File (DHC).
+
+
+
+
+14                                                                                                                        U.S. Census Bureau
+Table 3.
+Ten Counties With the Highest and Lowest Percentage of Their Population 65 Years and Over: 2020
+                                                                        Total     65 years and over                 Rural population
+                          County
+                                                                   population     Number          Percent           Number         Percent
+Highest percentage 65 years and over
+Sumter County, Florida. . . . . . . . . . . . . . . . . . .          129,752        76,372            58.9            27,997                21.6
+Catron County, New Mexico. . . . . . . . . . . . . . .                 3,579         1,551            43.3             3,579               100.0
+Charlotte County, Florida. . . . . . . . . . . . . . . . .           186,847        75,400            40.4            12,145                 6.5
+Jefferson County, Washington. . . . . . . . . . . .                   32,977        12,851            39.0            17,563                53.3
+Lancaster County, Virginia. . . . . . . . . . . . . . . .             10,919         4,192            38.4            10,919               100.0
+Harding County, New Mexico. . . . . . . . . . . . . .                    657           251            38.2               657               100.0
+Sarasota County, Florida. . . . . . . . . . . . . . . . . .          434,006       163,151            37.6            10,462                 2.4
+Northumberland County, Virginia. . . . . . . . . .                    11,839         4,448            37.6            11,839               100.0
+McCormick County, South Carolina. . . . . . . .                        9,526         3,568            37.5             9,526               100.0
+Citrus County, Florida. . . . . . . . . . . . . . . . . . . .        153,843        57,403            37.3            38,421                25.0
+Lowest percentage 65 years and over
+Utah County, Utah . . . . . . . . . . . . . . . . . . . . . . .      659,399        53,593             8.1            27,887                 4.2
+Manassas Park city, Virginia. . . . . . . . . . . . . . .             17,219         1,343             7.8                 0                   Z
+Oglala Lakota County, South Dakota. . . . . . .                       13,672         1,029             7.5            13,672               100.0
+Northwest Arctic Borough, Alaska. . . . . . . . .                      7,793           576             7.4             7,793               100.0
+Aleutians East Borough, Alaska . . . . . . . . . . .                   3,420           235             6.9             3,420               100.0
+Kusilvak Census Area, Alaska . . . . . . . . . . . . .                 8,368           540             6.5             8,368               100.0
+Madison County, Idaho. . . . . . . . . . . . . . . . . . .            52,913         3,238             6.1            11,583                21.9
+North Slope Borough, Alaska . . . . . . . . . . . . .                 11,031           675             6.1            11,031               100.0
+Aleutians West Census Area, Alaska. . . . . . .                        5,232           303             5.8             5,232               100.0
+Chattahoochee County, Georgia . . . . . . . . . .                      9,565           459             4.8             3,834                40.1
+    Z Rounds to zero.
+    Note: For information on data collection, confidentiality protection, nonsampling error, and definitions, refer to <https://www2.census.
+ gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-characteristics-file-and-
+ demographic-profile/2020census-demographic-and-housing-characteristics-file-and-demographic-profile-techdoc.pdf>.
+    Source: U.S. Census Bureau, 2020 Census Demographic and Housing Characteristics File (DHC).
+
+
+the aging of rural America.7 For example, Harding                               Small, Rural Counties Make Up the Majority of Top
+County, New Mexico, was a rural county of 657 people,                           and Bottom Ten List for the 85 and Over Population
+38.2 percent of whom were aged 65 and over.
+                                                                                Similarly, Table 4 provides the counties with the high-
+On the other side of the distribution were counties                             est and lowest proportion of their residents aged
+with the smallest percentage of their population in the                         85 and over. McIntosh County, North Dakota, had
+older ages. Chattahoochee County, Georgia, had the                              the highest ranking, with 8.2 percent of its residents
+lowest ranking, with just 4.8 percent of its residents                          aged 85 and over. Of the ten counties with the high-
+aged 65 and over. Of the ten counties with the low-                             est percentage aged 85 and over, three were in South
+est percentage aged 65 and over, five were relatively                           Dakota, two in North Dakota, two in Montana, and one
+small, rural counties in Alaska. Some of the counties                           each in Hawaii, Texas, and New Mexico. All ten of the
+had smaller 65 and over populations because they                                counties with the highest proportion of residents aged
+housed institutions that tend to have younger popula-                           85 and over were small, rural counties and eight were
+tions. For example, Chattahoochee County, Georgia,                              in the Midwest. In fact, half of the top ten counties
+was home to the Army base Fort Benning, and 23 per-                             had populations smaller than 1,000 while the largest
+cent of residents reported residing in military quarters.                       county had just over 3,000 people. All ten had popula-
+Brigham Young University was associated with two                                tions that were entirely rural.
+counties on our bottom ten list: Utah County, Utah,
+                                                                                Looking at the counties with the smallest proportion
+was home to its main campus, while Madison County,
+                                                                                of their residents aged 85 and over, Aleutians East
+Idaho, was home to Brigham Young University-Idaho.
+                                                                                Borough, Alaska, had the lowest ranking, with just
+    ⁷ For more information on the older population in rural America,            0.2 percent of its residents aged 85 and over. Seven
+refer to <www.census.gov/content/dam/Census/library/publica-                    of the counties with the smallest percentage of their
+tions/2019/acs/acs-41.pdf>.
+
+
+
+
+U.S. Census Bureau                                                                                                                             15
+Table 4.
+Ten Counties With the Highest and Lowest Percentage of Their Population 85 Years and Over: 2020
+                                                                        Total     85 years and over                 Rural population
+                          County
+                                                                   population     Number          Percent           Number         Percent
+Highest percentage 85 years and over
+McIntosh County, North Dakota. . . . . . . . . . .                      2,530         208              8.2              2,530              100.0
+Kalawao County, Hawaii. . . . . . . . . . . . . . . . . .                  82           6              7.3                 82              100.0
+Petroleum County, Montana. . . . . . . . . . . . . . .                    496          35              7.1                496              100.0
+Kent County, Texas. . . . . . . . . . . . . . . . . . . . . . .           753          46              6.1                753              100.0
+Wibaux County, Montana. . . . . . . . . . . . . . . . .                   937          56              6.0                937              100.0
+McPherson County, South Dakota. . . . . . . . .                         2,411         143              5.9              2,411              100.0
+Hyde County, South Dakota. . . . . . . . . . . . . . .                  1,262          72              5.7              1,262              100.0
+Nelson County, North Dakota. . . . . . . . . . . . .                    3,015         172              5.7              3,015              100.0
+Faulk County, South Dakota. . . . . . . . . . . . . . .                 2,125         121              5.7              2,125              100.0
+Harding County, New Mexico. . . . . . . . . . . . . .                     657          37              5.6                657              100.0
+Lowest percentage 85 years and over
+Oglala Lakota County, South Dakota. . . . . . .                       13,672            66             0.5            13,672               100.0
+Lake and Peninsula Borough, Alaska. . . . . . .                        1,476             7             0.5             1,476               100.0
+Nome Census Area, Alaska. . . . . . . . . . . . . . . .               10,046            47             0.5            10,046               100.0
+Bethel Census Area, Alaska. . . . . . . . . . . . . . .               18,666            84             0.5            13,569                72.7
+Kusilvak Census Area, Alaska . . . . . . . . . . . . .                 8,368            36             0.4             8,368               100.0
+Ziebach County, South Dakota. . . . . . . . . . . .                    2,413            10             0.4             2,413               100.0
+Aleutians West Census Area, Alaska. . . . . . .                        5,232            19             0.4             5,232               100.0
+North Slope Borough, Alaska . . . . . . . . . . . . .                 11,031            39             0.4            11,031               100.0
+Summit County, Colorado . . . . . . . . . . . . . . . .               31,055            97             0.3             5,000                16.1
+Aleutians East Borough, Alaska . . . . . . . . . . .                   3,420             7             0.2             3,420               100.0
+    Note: For information on data collection, confidentiality protection, nonsampling error, and definitions, refer to <https://www2.census.
+ gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-characteristics-file-and-
+ demographic-profile/2020census-demographic-and-housing-characteristics-file-and-demographic-profile-techdoc.pdf>.
+    Source: U.S. Census Bureau, 2020 Census Demographic and Housing Characteristics File (DHC).
+
+
+population aged 85 and over were small, mostly rural                            Borough and Aleutians West Census area had lower
+counties in Alaska, while two more were small, rural                            fertility rates but were made up of younger residents
+counties in South Dakota. Summit County, Colorado,                              involved in the fishing and fish processing industry.
+which contained four ski resorts, was the only county
+on the list of lowest percent oldest-old that was not                           Many Counties in the Midwest and Northeast Had
+rural and had a population of more than 20,000.                                 Higher Percentages Aged 85 and Over
+Finally, one-half of the counties with the lowest per-                          Figure 9 maps the percentages aged 85 and over by
+cent aged 85 and over were also on the list of coun-                            county, with darker shading for counties with higher
+ties with the lowest percent aged 65 and over: Oglala                           percentages. Counties generally followed regional pat-
+Lakota County, South Dakota, and four counties in                               terns, with higher prevalence for the oldest-old in the
+Alaska.                                                                         Midwest and Northeast. Many counties in the southern
+                                                                                states generally had lower proportions aged 85 and
+Alaska Contains the Most Counties With the Lowest
+                                                                                over (Florida and Texas were notable exceptions).
+Percentages in Older and Oldest-Old Populations
+                                                                                Counties in Alaska had small percentages of residents
+Five of the counties with the smallest percentages                              aged 85 and over.
+of their populations aged 65 and over, and seven of
+those with the smallest percentages aged 85 and                                 PLACES
+over were small, largely rural counties in Alaska (four                         Among Large Places, Six of Ten With the Highest
+counties were on both lists). In counties like Kusilvak                         Percentages in Older Population Were in Florida
+Census Area, Northwest Arctic Borough, and Bethel
+Census Areas, a proportionally large Alaska Native                              Table 5 lists the ten places (of a population of 100,000
+population with high fertility rates drove the low                              or more) with the largest and smallest percentages
+percentages in older ages.8 In contrast, Aleutians East                         of their population aged 65 and over. Six out of the
+                                                                                ten places with the largest percentage aged 65 years
+    8
+      For more information on Alaska’s population, refer to <https://
+live.laborstats.alaska.gov/pop/projections/pub/popproj.pdf>.
+                                                                                and over were in Florida. In all ten places with the
+
+
+
+
+16                                                                                                                              U.S. Census Bureau
+        Figure 9.
+        Percentage of Population 85 Years and Over by County: 2020
+
+
+
+
+                                 200 Miles
+
+
+
+
+                                                                                                                    Percent
+                                                                                                                      2.7 or more
+                                                                                                                      2.3 to 2.6
+                                                                                                                      2.0 to 2.2
+                                                                                                                      1.7 to 1.9
+                                                                                                                      Less than 1.7
+                                                                                                                    U.S. value: 1.9
+
+
+
+
+                     100 Miles
+
+
+
+
+                                                                                       200 Miles
+
+
+                                                                                                                          50 Miles
+
+
+
+
+        Note: For information on data collection, confidentiality protection, nonsampling error, and definitions, refer to
+        <https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-
+        characteristics-file-and-demographic-profile/2020census-demographic-and-housing-characteristics-file-and-demographic-profile-
+        techdoc.pdf>.
+        Source: U.S. Census Bureau, 2020 Census Demographic and Housing Characteristics File (DHC).
+
+
+
+
+highest percentage of their population in older ages,                 Florida; Clearwater, Florida; and Pompano Beach city,
+at least one out of five residents was aged 65 and                    Florida. The place with the highest percentage of its
+over. Scottsdale, Arizona, had the highest percentage                 population in the 85-and-over age group was Urban
+of its population 65 years and over in both 2020 (26.6                Honolulu CDP, Hawaii, (3.6 percent), followed by
+percent) and 2010 (20.0 percent). In 2020, over 1 in 4                Scottsdale, Arizona, (3.5 percent), and Hialeah, Florida
+people in Scottsdale was aged 65 and over, up from 1                  (3.5 percent).
+in 5 in 2010.
+                                                                      Six of Ten Large Places With the Lowest Percentages
+The ten places (of a population of 100,000 or more)
+                                                                      in Older Population Were in Texas
+with the largest and smallest percentages of their
+population aged 85 and over are listed in Table 6.                    Six of the ten places (of a population of 100,000 or
+Five of the ten places with the highest percentage                    more) with the lowest percentages aged 65 and over
+of their population aged 85 and over were in Florida,                 were in Texas (Table 5). In all ten of the places with the
+and three were in California. Seven places were in                    lowest percentages aged 65 and over, less than one-
+both the top ten for the 85-and-over age group and                    tenth of the population was aged 65 and over. Among
+the 65-and-over age group: Urban Honolulu Census                      places with a population of 100,000 or more, College
+Designated Place (CDP), Hawaii; Scottsdale, Arizona;                  Station, Texas, had the lowest percentage of its popu-
+Hialeah, Florida; Thousand Oaks, California; Lakeland,                lation 65 years and over, at 6.5 percent.
+
+
+U.S. Census Bureau                                                                                                                      17
+Table 5.
+Ten Places With the Highest and Lowest Percentage of Their Population 65 Years and Over: 2020
+                                                                                                          65 years and over
+                               Place1
+                                                                          Total population                Number                     Percent
+Highest percentage 65 years and over
+Scottsdale city, Arizona . . . . . . . . . . . . . . . . . . . .                  241,361                  64,175                        26.6
+Surprise city, Arizona. . . . . . . . . . . . . . . . . . . . . . .               143,148                  34,991                        24.4
+Cape Coral city, Florida. . . . . . . . . . . . . . . . . . . . .                 194,016                  45,275                        23.3
+Clearwater city, Florida. . . . . . . . . . . . . . . . . . . . .                 117,292                  26,787                        22.8
+Hialeah city, Florida. . . . . . . . . . . . . . . . . . . . . . . .              223,109                  48,085                        21.6
+Lakeland city, Florida. . . . . . . . . . . . . . . . . . . . . . .               112,641                  24,270                        21.5
+Port St. Lucie city, Florida. . . . . . . . . . . . . . . . . . .                 204,851                  43,793                        21.4
+Urban Honolulu CDP, Hawaii. . . . . . . . . . . . . . . .                         350,964                  74,386                        21.2
+Thousand Oaks city, California. . . . . . . . . . . . . .                         126,966                  26,294                        20.7
+Pompano Beach city, Florida. . . . . . . . . . . . . . . .                        112,046                  22,767                        20.3
+Lowest percentage 65 years and over
+Edinburg city, Texas. . . . . . . . . . . . . . . . . . . . . . . .               100,243                   9,465                          9.4
+Fontana city, California. . . . . . . . . . . . . . . . . . . . .                 208,393                  19,483                          9.3
+Lewisville city, Texas . . . . . . . . . . . . . . . . . . . . . . .              111,822                  10,376                          9.3
+Frisco city, Texas. . . . . . . . . . . . . . . . . . . . . . . . . . .           200,509                  18,541                          9.2
+Clarksville city, Tennessee . . . . . . . . . . . . . . . . . .                   166,722                  15,271                          9.2
+West Jordan city, Utah . . . . . . . . . . . . . . . . . . . . .                  116,961                  10,367                          8.9
+Irving city, Texas. . . . . . . . . . . . . . . . . . . . . . . . . . .           256,684                  21,845                          8.5
+Killeen city, Texas. . . . . . . . . . . . . . . . . . . . . . . . . .            153,095                  12,387                          8.1
+Provo city, Utah. . . . . . . . . . . . . . . . . . . . . . . . . . . .           115,162                   8,233                          7.1
+College Station city, Texas. . . . . . . . . . . . . . . . . .                    120,511                   7,816                          6.5
+    1
+      Places of 100,000 or more population. The 2020 Census listed 322 places in the United States with a population of 100,000 or more. They
+included 321 incorporated places (including five consolidated cities) and one census designated place (Urban Honolulu CDP, Hawaii) that was not
+legally incorporated.
+    Note: For information on data collection, confidentiality protection, nonsampling error, and definitions, refer to <https://www2.census.
+gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-characteristics-file-and-
+demographic-profile/2020census-demographic-and-housing-characteristics-file-and-demographic-profile-techdoc.pdf>.
+    Source: U.S. Census Bureau, 2020 Census Demographic and Housing Characteristics File (DHC).
+
+While large retirement communities contributed to                                  The range of percentages found for those 85 years
+places with higher proportions in older ages in the                                and over (Table 6) is closer to 2010 than the range for
+top panel of Table 5, the places with lower propor-                                65 and over (Table 5). In 2010, the percentage aged
+tions in older ages were often associated with younger                             65 and over for places with a population of 100,000
+institutions such as universities and military bases, or                           or larger ranged from 4.6 percent to 20.0 percent. In
+fast-growing suburbs of larger cities. For example,                                2020, this range was from 6.5 percent to 26.6 percent.
+Killeen, Texas, is the location of Fort Hood military                              In fact, all ten of the places with the highest percent-
+base; College Station, Texas, houses the main campus                               aged 65 and over in 2020 had a higher percent-
+of Texas A&M university; and Provo, Utah, is home to                               age than the highest place in 2010 (20.0 percent in
+Brigham-Young University. Fast-growing suburbs of                                  Scottsdale, Arizona).
+larger cities also show up on our bottom ten list. For
+example, three places on the list (Irving, Lewisville,                             URBAN AND RURAL AREAS
+and Frisco, Texas) were rapidly growing suburbs in the                             A larger proportion of those aged 65 and over (24.0
+Dallas-Fort Worth metro area.                                                      percent) than the total population (20.0 percent) lived
+Four of the ten places (of a population of 100,000 or                              in rural areas. Among the population 65 years and
+more) with the lowest percentage aged 85 and over                                  over, the percentage living in rural areas was smaller
+were in Texas (Table 6). The place with the lowest                                 for older age groups than younger ones (Figure 10).
+percentage of its population in the 85-and-over age                                Those living in rural areas accounted for the largest
+group was Killeen, Texas, followed by West Jordan,                                 share of the 65-to-74 age group (24.9 percent), fol-
+Utah, and College Station, Texas (all with 0.6 percent).                           lowed by the 75-to-84 age group (23.9 percent), the
+Six places were in the bottom ten for both aged 85                                 85-to-94 age group (19.6 percent), and the 95-and-
+and over and aged 65 and over: Clarksville, Tennessee;                             over age group (17.2 percent).
+Fontana, California; Frisco, Texas; College Station,
+Texas; West Jordan, Utah; and Killeen, Texas.
+
+
+
+18                                                                                                                            U.S. Census Bureau
+Table 6.
+Ten Places With the Highest and Lowest Percentage of Their Population 85 Years and Over: 2020
+                                                                                                                      85 years and over
+                                  Place1
+                                                                                          Total population            Number               Percent
+Highest percentage 85 years and over
+Urban Honolulu CDP, Hawaii. . . . . . . . . . . . . . . . . . .                                   350,964              12,730                  3.6
+Scottsdale city, Arizona . . . . . . . . . . . . . . . . . . . . . . .                            241,361               8,424                  3.5
+Hialeah city, Florida. . . . . . . . . . . . . . . . . . . . . . . . . . .                        223,109               7,725                  3.5
+West Palm Beach city, Florida. . . . . . . . . . . . . . . . . .                                  117,415               3,615                  3.1
+Pompano Beach city, Florida. . . . . . . . . . . . . . . . . . .                                  112,046               3,372                  3.0
+Thousand Oaks city, California. . . . . . . . . . . . . . . . .                                   126,966               3,811                  3.0
+Lakeland city, Florida. . . . . . . . . . . . . . . . . . . . . . . . . .                         112,641               3,352                  3.0
+Torrance city, California . . . . . . . . . . . . . . . . . . . . . . .                           147,067               4,323                  2.9
+Clearwater city, Florida. . . . . . . . . . . . . . . . . . . . . . . .                           117,292               3,438                  2.9
+Glendale city, California . . . . . . . . . . . . . . . . . . . . . . .                           196,543               5,588                  2.8
+Lowest percentage 85 years and over
+Clarksville city, Tennessee . . . . . . . . . . . . . . . . . . . . .                             166,722               1,406                  0.8
+North Las Vegas city, Nevada. . . . . . . . . . . . . . . . . .                                   262,527               2,119                  0.8
+Grand Prairie city, Texas. . . . . . . . . . . . . . . . . . . . . . .                            196,100               1,553                  0.8
+Thornton city, Colorado . . . . . . . . . . . . . . . . . . . . . . .                             141,867               1,117                  0.8
+Fontana city, California. . . . . . . . . . . . . . . . . . . . . . . .                           208,393               1,589                  0.8
+Frisco city, Texas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     200,509               1,508                  0.8
+West Valley City city, Utah. . . . . . . . . . . . . . . . . . . . .                              140,230                 966                  0.7
+College Station city, Texas. . . . . . . . . . . . . . . . . . . . .                              120,511                 734                  0.6
+West Jordan city, Utah . . . . . . . . . . . . . . . . . . . . . . . .                            116,961                 711                  0.6
+Killeen city, Texas. . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      153,095                 889                  0.6
+    1
+      Places of 100,000 or more population. The 2020 Census listed 322 places in the United States with a population of 100,000 or more. They
+included 321 incorporated places (including five consolidated cities) and one census designated place (Urban Honolulu CDP, Hawaii) that was not
+legally incorporated.
+    Note: For information on data collection, confidentiality protection, nonsampling error, and definitions, refer to <https://www2.census.
+gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-characteristics-file-and-
+demographic-profile/2020census-demographic-and-housing-characteristics-file-and-demographic-profile-techdoc.pdf>.
+    Source: U.S. Census Bureau, 2020 Census Demographic and Housing Characteristics File (DHC).
+
+
+
+
+          Figure 10.
+          Percentage of Population Rural or Urban by Age Group: 2020
+                                                                                 Rural                     Urban
+
+                                                                                                               80.4               82.8
+                                           75.1                                    76.1
+
+
+
+
+                         24.9                                      23.9
+                                                                                                    19.6                 17.2
+
+
+
+                          65 to 74 years                           75 to 84 years                   85 to 94 years     95 years and over
+
+
+          Note: For information on data collection, confidentiality protection, nonsampling error, and definitions, refer to
+          <https://www2.census.gov/programs-surveys/decennial/2020/technical-documentation/complete-tech-docs/demographic-and-housing-
+          characteristics-file-and-demographic-profile/2020census-demographic-and-housing-characteristics-file-and-demographic-profile-
+          techdoc.pdf>.
+          Source: U.S. Census Bureau, 2020 Census Demographic and Housing Characteristics File (DHC).
+
+
+
+
+U.S. Census Bureau                                                                                                                              19
+ABOUT THE 2020 CENSUS                                        Census Bureau data can also be used by the private
+                                                             sector to determine business locations and advertis-
+Why Was the 2020 Census Conducted?                           ing for goods and services targeting older adults,
+The U.S. Constitution mandates that a census be taken        investment planning, employment opportunities, and
+in the United States every 10 years. This is required in     specialized consumer needs. Researchers can use
+order to determine the number of seats each state is         age data to project future population trends, assess
+to receive in the U.S. House of Representatives. Age         mortality patterns, evaluate shifts in the geographic
+data are used to determine the voting age population         distribution of the older population, and plan ways to
+(aged 18 and over) for use in the legislative redistrict-    better serve the needs of a given community.
+ing process.
+                                                             How Are Data Collected in the 2020 Census
+Why Did the 2020 Census Ask the Question on Age?             Protected From Disclosure?
+
+The Census Bureau collects data on age to support a          To protect respondent confidentiality, data have
+variety of legislative and program requirements. These       undergone disclosure avoidance methods that add
+data are also used to aid in the allocation of funds         “statistical noise”—small, random additions or subtrac­
+from federal programs, in particular to programs tar-        tions—to the data so that no one can reliably link the
+geting the older population. This includes planning for      published data to a specific person or household. The
+hospitals, roads, and housing assistance.                    Census Bureau encourages data users to aggregate
+                                                             small populations and geographies to improve accu­
+For example, the Department of Veterans Affairs uses         racy and diminish implausible results.
+census data to plan for nursing homes, hospitals,
+cemeteries, domiciliary services, and veterans ben-          For more information on the statistical methods used
+efits; the Department of Health and Human Services           to protect confidentiality, refer to <www.census.gov/
+uses age data as part of the formula used to allocate        programs-surveys/decennial-census/decade/2020/
+funds for services to seniors with low incomes under         planning-management/process/disclosure-avoidance.
+the Older Americans Act; and the Equal Employment            html>.
+Opportunity Commission uses age data to enforce
+equal employment opportunities. These data are also          FOR MORE INFORMATION
+used to forecast the number of people eligible for           For more information about the 2020 Census,
+Social Security and Medicare benefits.                       including data products, contact the Customer
+                                                             Services Center at 1-800-923-8282. Also visit the
+How Are Data on Age Beneficial?                              Census Bureau’s Question and Answer Center at
+Federal, state, and local governments need informa-          <ask.census.gov> to submit your questions online.
+tion on age to implement, evaluate, and aid programs         Data on age and sex from the 2020 Demographic and
+that plan and develop services for older adults. This        Housing Characteristics File are available at
+includes, but is not limited to, the Equal Employment        <https://data.census.gov>.
+Opportunity Act, the Older Americans Act, the
+Nutrition Education Program, the Rehabilitation Act,         For information on data collection, confiden­tiality
+the Long-Term Care Ombudsman Services for Older              protection, nonsampling error, and definitions, refer
+Americans Program, and the Supportive Housing for            to <https://www2.census.gov/programs-surveys/
+the Elderly Program.                                         decennial/2020/technical-documentation/complete-
+                                                             tech-docs/demographic-and-housing-characteristics-
+Other important uses for census data on age are in the       file-and-demographic-profile/2020census-
+planning and funding of services for the older popula-       demographic-and-housing-characteristics-file-and-
+tion, such as health service centers, retirement homes,      demographic-profile-techdoc.pdf>.
+assisted living or skilled-nursing facilities, transporta-
+tion availability, Social Security, and Medicare benefits.   For questions related to the contents of this report
+                                                             and the accompanying tables and figures, contact
+                                                             Zoe Caplan or Megan A. Rabe.
+
+
+
+
+20                                                                                                     U.S. Census Bureau
+

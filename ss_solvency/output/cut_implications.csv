@@ -1,0 +1,17 @@
+scenario,benefit_cut_pct,group,ss_share_of_income_pct,pct_of_beneficiary_units_in_group,income_loss_pct
+OASI reserves depleted (2032): OASI payable,22.0,"All persons 65+, aggregate income (CPS ASEC 2026, SS share of income)",32.3,,7.1
+OASI reserves depleted (2032): OASI payable,22.0,"Aged units with SS >= 50% of income (at threshold; 58.3% of beneficiary units, CPS)",50.0,58.3,11.0
+OASI reserves depleted (2032): OASI payable,22.0,"Aged units with SS >= 90% of income (at threshold; 31.9% of beneficiary units, CPS)",90.0,31.9,19.8
+OASI reserves depleted (2032): OASI payable,22.0,"Aged units with SS = 100% of income (19.7% of beneficiary units, CPS)",100.0,19.7,22.0
+Combined OASDI depleted (2034): payable,17.0,"All persons 65+, aggregate income (CPS ASEC 2026, SS share of income)",32.3,,5.5
+Combined OASDI depleted (2034): payable,17.0,"Aged units with SS >= 50% of income (at threshold; 58.3% of beneficiary units, CPS)",50.0,58.3,8.5
+Combined OASDI depleted (2034): payable,17.0,"Aged units with SS >= 90% of income (at threshold; 31.9% of beneficiary units, CPS)",90.0,31.9,15.3
+Combined OASDI depleted (2034): payable,17.0,"Aged units with SS = 100% of income (19.7% of beneficiary units, CPS)",100.0,19.7,17.0
+"Combined OASDI, 2100: payable",35.0,"All persons 65+, aggregate income (CPS ASEC 2026, SS share of income)",32.3,,11.3
+"Combined OASDI, 2100: payable",35.0,"Aged units with SS >= 50% of income (at threshold; 58.3% of beneficiary units, CPS)",50.0,58.3,17.5
+"Combined OASDI, 2100: payable",35.0,"Aged units with SS >= 90% of income (at threshold; 31.9% of beneficiary units, CPS)",90.0,31.9,31.5
+"Combined OASDI, 2100: payable",35.0,"Aged units with SS = 100% of income (19.7% of beneficiary units, CPS)",100.0,19.7,35.0
+"Immediate 75-year fix, all beneficiaries from 2026",25.2,"All persons 65+, aggregate income (CPS ASEC 2026, SS share of income)",32.3,,8.1
+"Immediate 75-year fix, all beneficiaries from 2026",25.2,"Aged units with SS >= 50% of income (at threshold; 58.3% of beneficiary units, CPS)",50.0,58.3,12.6
+"Immediate 75-year fix, all beneficiaries from 2026",25.2,"Aged units with SS >= 90% of income (at threshold; 31.9% of beneficiary units, CPS)",90.0,31.9,22.7
+"Immediate 75-year fix, all beneficiaries from 2026",25.2,"Aged units with SS = 100% of income (19.7% of beneficiary units, CPS)",100.0,19.7,25.2

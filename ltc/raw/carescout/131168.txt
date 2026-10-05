@@ -1,0 +1,464 @@
+Cost of Care
+Survey 2025
+Methodology
+
+
+
+
+© 2026 CareScout Holdings, Inc. All rights reserved.
+131168 03/02/26
+                                                                                                               2025 Cost of Care Survey | Methodology
+
+
+
+
+         Methodology
+
+         About                                                                              Non-Medical Caregiver and Private Duty
+         CareScout contacted 211,985 long-term care                                         Nurse (Home Care)1, 2
+         providers by phone and email to complete                                           Due to price convergence, CareScout has
+         approximately 16,000 surveys including nursing                                     streamlined its reporting; homemaker and home
+         homes, assisted living communities, adult day                                      health aide services are now collectively classified
+         health facilities and home care providers. Potential                               as “non-medical caregiver.”
+         respondents were selected from CareScout’s
+                                                                                            Surveyors polled home health care providers,
+         nationwide database of providers, supplemented
+                                                                                            resulting in 6,014 completed surveys. The agencies
+         with additional providers in each category of long-
+                                                                                            surveyed provided non-medical caregiver and
+         term care services. CareScout is a wholly owned
+                                                                                            private duty nurse services.
+         subsidiary of Genworth Financial, Inc. that helps
+         older adults and their families navigate the aging                                 Non-Medical Caregiver includes a home health
+         journey, find and fund quality care.                                               aide providing in-home assistance with performing
+                                                                                            activities of daily living, such as help with bathing,
+         Respondents representing all 50 states and the
+                                                                                            dressing, transferring and toileting that does not
+         District of Columbia completed the survey either
+                                                                                            require more specialized care. It can also include
+         by phone or online between July and November
+                                                                                            homemaker services, like providing ancillary
+         2025. Survey respondents were informed that the
+                                                                                            assistance with light house cleaning and meal
+         survey data provided would be included in the 2025
+                                                                                            planning and preparation.
+         Cost of Care Survey results. Current rates and
+         survey questions varied based on the type of care                                  Private duty nursing services are provided by a
+         provided.                                                                          Licensed Practical Nurse or a Registered Nurse
+                                                                                            and may include dressing changes, wound care,
+         One of the most comprehensive surveys of its kind,
+                                                                                            blood draws, injections, intravenous (IV) therapy,
+         the Cost of Care Survey publishes costs in 434
+                                                                                            catheters, feeding tubes, mediports, medication
+         regions based on 387 U.S. Metropolitan Statistical
+                                                                                            management, and training of family members to
+         Areas (MSAs). MSA definitions are established by
+                                                                                            perform some healthcare procedures” under the
+         the U.S. Office of Management and Budget. The
+                                                                                            non-medical caregiver services definition.
+         survey also includes some counties outside of the
+         MSA regions. Data collection was attempted for all                                 Annual rates for non-medical caregivers are based
+         provider types in all regions. The following results                               on 44 hours of care per week, multiplied by 52
+         in this document represent the number of regions                                   weeks. Annual rates for private duty nursing are
+         where data collection was successful.                                              based on 1 hour of care per week, multiplied by 52
+                                                                                            weeks. The survey excludes holiday rates.
+
+
+
+
+    1
+        Various provider categories used in the survey may not be the same as the definitions used in a long-term care insurance policy.
+    2
+        Not all states require a license for home care. Data includes certain states where unlicensed providers are included because the state does not offer or does not
+    have HH license requirements.
+
+
+
+2
+2025 Cost of Care Survey | Methodology
+
+
+
+          Adult Day Health Care (ADC)                                                consequence, states have instituted licensing
+          Surveyors polled adult day health care facilities,                         standards that vary from state to state. The
+          resulting in 608 completed surveys. ADC is                                 assisted living communities polled were licensed
+          designed to meet the needs of adults who are                               according to the licensure requirements of the state
+          functionally and/or severely cognitively impaired.                         in which the assisted living community was located.
+          Programs are intended to be structured and
+                                                                                     Currently, there are more than 70 different names
+          comprehensive, and to take place in a protective
+                                                                                     or designations for facilities licensed as some form
+          setting that promotes well-being through a variety
+                                                                                     of an assisted care community. Generally, fewer
+          of health, social and other support services. These
+                                                                                     than 40 percent of these care communities use
+          services are intended to help enable individuals live
+                                                                                     the term “assisted living” as a part of their formal
+          more independently in the community and may
+                                                                                     name or licensure designation. For example, some
+          also be used to provide relief for family caregivers.
+                                                                                     communities may be identified as “residential care.”
+          ADC facility rates are structured in a variety of                          Because of variations in licensing requirements
+          ways: Some charge by the hour, some by the                                 by state, both small group homes and large multi-
+          half-day and others for the full day, regardless of                        service communities qualified as assisted living
+          utilization. All rates reported in CareScout's survey                      communities for the purposes of this research.
+          were the reported daily rate from the agency.
+                                                                                     Surveyors collected the monthly private pay rates
+          ADC facility rates may be subsidized by the                                as they ranged from basic care to more substantial
+          government or the community. A government                                  care for a one-bedroom unit in an assisted living
+          subsidy is based on the individual’s ability to pay.                       communities. Where a rate range was provided, the
+          However, a community subsidy is available to                               average of the high and low was used in the annual
+          individuals regardless of their income level. This                         cost calculation.
+          survey captures the full private pay rates or, where
+                                                                                     Annual rates are based on the monthly fee
+          applicable, the community subsidy rates. This
+                                                                                     multiplied by 12 months.
+          survey does not capture the government subsidy
+          rates.
+                                                                                     Nursing Homes (NH)
+          Annual rates are based on the daily rate multiplied
+                                                                                     Surveyors polled certified and licensed nursing
+          by five days per week, then multiplied by 52 weeks.
+                                                                                     homes, resulting in 4,425 completed surveys.
+
+                                                                                     Surveyors collected the daily rates for private
+          Assisted Living Communities (ALC)3
+                                                                                     rooms (single occupancy) and semi-private rooms
+          Surveyors polled licensed assisted living
+                                                                                     (double occupancy) in nursing facilities. Medicare-
+          communities, resulting in 4,944 completed surveys.
+                                                                                     certified nursing homes represent nearly 98
+          Surveyors also determined whether the facility
+                                                                                     percent of all nursing homes in the U.S.4 The daily
+          charges a non-refundable community or entrance
+                                                                                     room charge usually includes services beyond rent,
+          fee.
+                                                                                     such as three meals a day, laundry, sundries, basic
+          Unlike nursing homes, there is no uniform regulatory                       nurse supervision and generic non-prescription
+          standard for assisted living communities. As a                             pharmaceuticals. Annual rates are based on the
+                                                                                     daily fee multiplied by 365.
+
+     3
+         Referred to as Residential Care facilities in California.
+     4
+         Nursing Home Data Compendium 2015 Edition, Centers for Medicare and Medicaid Services (https://www.cms.gov/Medicare/Provider-Enrollment-and-
+     certification/CertificationandComplianc/Downloads/nursinghomedatacompendium_508-2015.pdf), site accessed 02/13/26
+
+
+
+ 3
+                                                                         2025 Cost of Care Survey | Regions
+
+
+
+
+    Region Definitions
+
+    State        Region                                   State         Region
+    Alabama      Anniston, Oxford                         California    Napa
+    Alabama      Auburn, Opelika                          California    Oxnard, Thousand Oaks, Ventura
+    Alabama      Birmingham                               California    Redding
+    Alabama      Columbus                                 California    Riverside, San Bernardino, Ontario
+    Alabama      Daphne, Fairhope, Foley                  California    Sacramento, Roseville, Folsom
+    Alabama      Decatur                                  California    Salinas
+    Alabama      Dothan                                   California    San Diego, Chula Vista, Carlsbad
+    Alabama      Florence, Muscle Shoals                  California    San Francisco, Oakland, Fremont
+    Alabama      Gadsden                                  California    San Jose, Sunnyvale, Santa Clara
+    Alabama      Huntsville                               California    San Luis Obispo, Paso Robles
+    Alabama      Mobile                                   California    Santa Cruz, Watsonville
+    Alabama      Montgomery                               California    Santa Mari, Santa Barbara
+    Alabama      Tuscaloosa                               California    Santa Rosa, Petaluma
+    Alaska       Anchorage                                California    Stockton, Lodi
+    Alaska       Fairbanks, College                       California    Vallejo
+    Arizona      Flagstaff                                California    Visalia
+    Arizona      Lake Havasu City, Kingman                California    Yuba City
+    Arizona      Phoenix, Mesa, Chandler                  Colorado      Boulder
+    Arizona      Prescott Valley, Prescott                Colorado      Colorado Springs
+    Arizona      Sierra Vista, Douglas                    Colorado      Denver, Aurora, Centennial
+    Arizona      Tucson                                   Colorado      Fort Collins, Loveland
+    Arizona      Yuma                                     Colorado      Grand Junction
+    Arkansas     Fayetteville, Springdale, Rogers         Colorado      Greeley
+    Arkansas     Fort Smith                               Colorado      Pueblo
+    Arkansas     Hot Springs                              Connecticut   Bridgeport, Stamford, Danbury
+    Arkansas     Jonesboro                                Connecticut   Hartford, West Hartford, East Hartford
+    Arkansas     Little Rock, North Little Rock, Conway   Connecticut   New Haven
+    Arkansas     Memphis                                  Connecticut   Norwich, New London, Willimantic
+    Arkansas     Texarkana                                Connecticut   Waterbury, Shelton
+    California   Bakersfield, Delano                      Delaware      Dover
+    California   Chico                                    Delaware      Philadelphia, Camden, Wilmington
+    California   El Centro                                Florida       Cape Coral, Fort Myers
+    California   Fresno                                   Florida       Crestview, Fort Walton Beach, Destin
+    California   Hanford, Corcoran                        Florida       Deltona, Daytona Beach, Ormond Beach
+    California   Los Angeles, Long Beach, Anaheim         Florida       Gainesville
+    California   Merced                                   Florida       Homosassa Springs
+    California   Modesto                                  Florida       Jacksonville
+4
+2025 Cost of Care Survey | Regions
+
+
+
+    State          Region                                  State      Region
+    Florida        Lakeland, Winter Haven                  Illinois   Champaign, Urbana
+    Florida        Miami, Fort Lauderdale, West Palm       Illinois   Chicago, Naperville, Elgin
+    Florida        Naples, Marco Island                    Illinois   Davenport, Moline, Rock Island
+    Florida        North Port, Bradenton, Sarasota         Illinois   Decatur
+    Florida        Ocala                                   Illinois   Kankakee
+    Florida        Orlando, Kissimmee, Sanford             Illinois   Paducah
+    Florida        Palm Bay, Melbourne, Titusville         Illinois   Peoria
+    Florida        Panama City, Panama City Beach          Illinois   Rockford
+    Florida        Pensacola, Ferry Pass, Brent            Illinois   Springfield
+    Florida        Port St. Lucie                          Illinois   St. Louis
+    Florida        Punta Gorda                             Indiana    Bloomington
+    Florida        Sebastian, Vero Beach, West Vero Cor-   Indiana    Chicago, Naperville, Elgin
+    Florida        Sebring                                 Indiana    Cincinnati
+    Florida        Tallahassee                             Indiana    Columbus
+    Florida        Tampa, St. Petersburg, Clearwater       Indiana    Elkhart, Goshen
+    Florida        Wildwood, The Villages                  Indiana    Evansville
+    Georgia        Albany                                  Indiana    Fort Wayne
+    Georgia        Athens, Clarke County                   Indiana    Indianapolis, Carmel, Greenwood
+    Georgia        Atlanta, Sandy Springs, Roswell         Indiana    Kokomo
+    Georgia        Augusta, Richmond County                Indiana    Lafayette, West Lafayette
+    Georgia        Brunswick, St. Simons                   Indiana    Louisville/Jefferson County
+    Georgia        Chattanooga                             Indiana    Michigan City, La Porte
+    Georgia        Columbus                                Indiana    Muncie
+    Georgia        Dalton                                  Indiana    South Bend, Mishawaka
+    Georgia        Gainesville                             Indiana    Terre Haute
+    Georgia        Hinesville                              Iowa       Ames
+    Georgia        Macon, Bibb County                      Iowa       Cedar Rapids
+    Georgia        Rome                                    Iowa       Davenport, Moline, Rock Island
+    Georgia        Savannah                                Iowa       Des Moines, West Des Moines
+    Georgia        Valdosta                                Iowa       Dubuque
+    Georgia        Warner Robins                           Iowa       Iowa City
+    Hawaii         Kahului, Wailuku                        Iowa       Omaha
+    Hawaii         Urban Honolulu                          Iowa       Sioux City
+    Idaho          Boise City                              Iowa       Waterloo, Cedar Falls
+    Idaho          Coeur d'Alene                           Kansas     Joplin
+    Idaho          Idaho Falls                             Kansas     Kansas City
+    Idaho          Lewiston                                Kansas     Lawrence
+    Idaho          Logan                                   Kansas     Manhattan
+    Idaho          Pocatello                               Kansas     St. Joseph
+    Idaho          Twin Falls                              Kansas     Topeka
+    Illinois       Bloomington                             Kansas     Wichita
+
+5
+                                                                       2025 Cost of Care Survey | Regions
+
+
+
+    State           Region                              State         Region
+    Kentucky        Bowling Green                       Michigan      Jackson
+    Kentucky        Cincinnati                          Michigan      Kalamazoo, Portage
+    Kentucky        Clarksville                         Michigan      Lansing, East Lansing
+    Kentucky        Elizabethtown                       Michigan      Midland
+    Kentucky        Huntington, Ashland                 Michigan      Monroe
+    Kentucky        Lexington, Fayette                  Michigan      Muskegon, Norton Shores
+    Kentucky        Louisville/Jefferson County         Michigan      Niles
+    Kentucky        Owensboro                           Michigan      Saginaw
+    Kentucky        Paducah                             Michigan      South Bend, Mishawaka
+    Louisiana       Alexandria                          Michigan      Traverse City
+    Louisiana       Baton Rouge                         Minnesota     Duluth
+    Louisiana       Hammond                             Minnesota     Fargo
+    Louisiana       Houma, Bayou Cane, Thibodaux        Minnesota     Grand Forks
+    Louisiana       Lafayette                           Minnesota     La Crosse, Onalaska
+    Louisiana       Lake Charles                        Minnesota     Mankato
+    Louisiana       Monroe                              Minnesota     Minneapolis, St. Paul, Bloomington
+    Louisiana       New Orleans, Metairie               Minnesota     Rochester
+    Louisiana       Shreveport, Bossier City            Minnesota     Sioux Falls
+    Louisiana       Slidell, Mandeville, Covington      Minnesota     St. Cloud
+    Maine           Bangor                              Mississippi   Gulfport, Biloxi
+    Maine           Lewiston, Auburn                    Mississippi   Hattiesburg
+    Maine           Portland, South Portland            Mississippi   Jackson
+    Maryland        Baltimore, Columbia, Towson         Mississippi   Memphis
+    Maryland        Hagerstown, Martinsburg             Missouri      Cape Girardeau
+    Maryland        Lexington Park                      Missouri      Columbia
+    Maryland        Philadelphia, Camden, Wilmington    Missouri      Jefferson City
+    Maryland        Salisbury                           Missouri      Joplin
+    Maryland        Washington, Arlington, Alexandria   Missouri      Kansas City
+    Massachusetts   Amherst Town, Northampton           Missouri      Springfield
+    Massachusetts   Barnstable Town                     Missouri      St. Joseph
+    Massachusetts   Boston, Cambridge, Newton           Missouri      St. Louis
+    Massachusetts   Pittsfield                          Montana       Billings
+    Massachusetts   Providence, Warwick                 Montana       Bozeman
+    Massachusetts   Springfield                         Montana       Great Falls
+    Massachusetts   Worcester                           Montana       Helena
+    Michigan        Ann Arbor                           Montana       Missoula
+    Michigan        Battle Creek                        Nebraska      Grand Island
+    Michigan        Bay City                            Nebraska      Lincoln
+    Michigan        Detroit, Warren, Dearborn           Nebraska      Omaha
+    Michigan        Flint                               Nevada        Carson City
+    Michigan        Grand Rapids, Wyoming, Kentwood     Nevada        Las Vegas, Henderson, North Las Vegas
+
+6
+2025 Cost of Care Survey | Regions
+
+
+
+    State            Region                                State            Region
+    Nevada           Reno                                  North Carolina   Winston, Salem
+    New Hampshire    Boston, Cambridge, Newton             North Dakota     Bismarck
+    New Hampshire    Manchester, Nashua                    North Dakota     Fargo
+    New Jersey       Allentown, Bethlehem, Easton          North Dakota     Grand Forks
+    New Jersey       Atlantic City, Hammonton              North Dakota     Minot
+    New Jersey       New York, Newark, Jersey City         Ohio             Akron
+    New Jersey       Philadelphia, Camden, Wilmington      Ohio             Canton, Massillon
+    New Jersey       Trenton, Princeton                    Ohio             Cincinnati
+    New Jersey       Vineland                              Ohio             Cleveland
+    New Mexico       Albuquerque                           Ohio             Columbus
+    New Mexico       Farmington                            Ohio             Dayton, Kettering, Beavercreek
+    New Mexico       Las Cruces                            Ohio             Huntington, Ashland
+    New Mexico       Santa Fe                              Ohio             Lima
+    New York         Albany, Schenectady, Troy             Ohio             Mansfield
+    New York         Binghamton                            Ohio             Sandusky
+    New York         Buffalo, Cheektowaga                  Ohio             Springfield
+    New York         Elmira                                Ohio             Toledo
+    New York         Glens Falls                           Ohio             Weirton, Steubenville
+    New York         Ithaca                                Ohio             Wheeling
+    New York         Kingston                              Ohio             Youngstown, Warren
+    New York         Kiryas Joel, Poughkeepsie, Newburgh   Oklahoma         Enid
+    New York         New York, Newark, Jersey City         Oklahoma         Fort Smith
+    New York         Rochester                             Oklahoma         Lawton
+    New York         Syracuse                              Oklahoma         Oklahoma City
+    New York         Utica, Rome                           Oklahoma         Tulsa
+    New York         Watertown, Fort Drum                  Oregon           Albany
+    North Carolina   Asheville                             Oregon           Bend
+    North Carolina   Burlington                            Oregon           Corvallis
+    North Carolina   Charlotte, Concord, Gastonia          Oregon           Eugene, Springfield
+    North Carolina   Durham, Chapel Hill                   Oregon           Grants Pass
+    North Carolina   Fayetteville                          Oregon           Medford
+    North Carolina   Goldsboro                             Oregon           Portland, Vancouver, Hillsboro
+    North Carolina   Greensboro, High Point                Oregon           Salem
+    North Carolina   Greenville                            Pennsylvania     Allentown, Bethlehem, Easton
+    North Carolina   Hickory, Lenoir, Morganton            Pennsylvania     Altoona
+    North Carolina   Jacksonville                          Pennsylvania     Chambersburg
+    North Carolina   Pinehurst, Southern Pines             Pennsylvania     Erie
+    North Carolina   Raleigh, Cary                         Pennsylvania     Gettysburg
+    North Carolina   Rocky Mount                           Pennsylvania     Harrisburg, Carlisle
+    North Carolina   Virginia Beach, Chesapeake, Norfolk   Pennsylvania     Johnstown
+    North Carolina   Wilmington                            Pennsylvania     Lancaster
+
+7
+                                                                              2025 Cost of Care Survey | Regions
+
+
+
+    State            Region                                     State        Region
+    Pennsylvania     Lebanon                                    Texas        Houston, Pasadena, The Woodlands
+    Pennsylvania     Philadelphia, Camden, Wilmington           Texas        Killeen, Temple
+    Pennsylvania     Pittsburgh                                 Texas        Laredo
+    Pennsylvania     Reading                                    Texas        Longview
+
+    Pennsylvania     Scranton, Wilkes, Barre                    Texas        Lubbock
+    Pennsylvania     State College                              Texas        McAllen, Edinburg, Mission
+    Pennsylvania     Williamsport                               Texas        Midland
+    Pennsylvania     York, Hanover                              Texas        Odessa
+    Rhode Island     Providence, Warwick                        Texas        San Angelo
+    South Carolina   Augusta, Richmond County                   Texas        San Antonio, New Braunfels
+    South Carolina   Charleston, North Charleston               Texas        Sherman, Denison
+    South Carolina   Charlotte, Concord, Gastonia               Texas        Texarkana
+    South Carolina   Columbia                                   Texas        Tyler
+    South Carolina   Florence                                   Texas        Victoria
+    South Carolina   Greenville, Anderson, Greer                Texas        Waco
+    South Carolina   Hilton Head Island, Bluffton, Port Royal   Texas        Wichita Falls
+    South Carolina   Myrtle Beach, Conway, North Myrtle         Utah         Logan
+    South Carolina   Spartanburg                                Utah         Ogden
+    South Carolina   Sumter                                     Utah         Provo, Orem, Lehi
+    South Dakota     Rapid City                                 Utah         Salt Lake City, Murray
+    South Dakota     Sioux City                                 Utah         St. George
+
+    South Dakota     Sioux Falls                                Vermont      Burlington, South Burlington
+    Tennessee        Chattanooga                                Virginia     Blacksburg, Christiansburg, Radford
+    Tennessee        Clarksville                                Virginia     Charlottesville
+    Tennessee        Cleveland                                  Virginia     Harrisonburg
+    Tennessee        Jackson                                    Virginia     Kingsport, Bristol
+    Tennessee        Johnson City                               Virginia     Lynchburg
+    Tennessee        Kingsport, Bristol                         Virginia     Richmond
+    Tennessee        Knoxville                                  Virginia     Roanoke
+    Tennessee        Memphis                                    Virginia     Staunton, Stuarts Draft
+    Tennessee        Morristown                                 Virginia     Virginia Beach, Chesapeake, Norfolk
+    Tennessee        Nashville, Davidson, Murfreesboro,         Virginia     Washington, Arlington, Alexandria
+    Texas            Abilene                                    Virginia     Winchester
+    Texas            Amarillo                                   Washington   Bellingham
+    Texas            Austin, Round Rock, San Marcos             Washington   Bremerton, Silverdale, Port Orchard
+    Texas            Beaumont, Port Arthur                      Washington   Kennewick, Richland
+    Texas            Brownsville, Harlingen                     Washington   Lewiston
+    Texas            College Station, Bryan                     Washington   Longview, Kelso
+    Texas            Corpus Christi                             Washington   Mount Vernon, Anacortes
+    Texas            Dallas, Fort Worth, Arlington              Washington   Olympia, Lacey, Tumwater
+    Texas            El Paso                                    Washington   Portland, Vancouver, Hillsboro
+
+8
+2025 Cost of Care Survey | Regions
+
+
+
+    State              Region
+    Washington         Seattle, Tacoma, Bellevue
+    Washington         Spokane, Spokane Valley
+    Washington         Walla Walla
+    Washington         Wenatchee, East Wenatchee
+    Washington         Yakima
+    West Virginia      Beckley
+    West Virginia      Charleston
+    West Virginia      Hagerstown, Martinsburg
+    West Virginia      Huntington, Ashland
+    West Virginia      Morgantown
+    West Virginia      Parkersburg, Vienna
+    West Virginia      Weirton, Steubenville
+    West Virginia      Wheeling
+    West Virginia      Winchester
+    Wisconsin          Appleton
+    Wisconsin          Duluth
+    Wisconsin          Eau Claire
+    Wisconsin          Fond du Lac
+    Wisconsin          Green Bay
+    Wisconsin          Janesville, Beloit
+    Wisconsin          Kenosha
+    Wisconsin          La Crosse, Onalaska
+    Wisconsin          Madison
+    Wisconsin          Milwaukee, Waukesha
+    Wisconsin          Minneapolis, St. Paul, Bloomington
+    Wisconsin          Oshkosh, Neenah
+    Wisconsin          Racine, Mount Pleasant
+    Wisconsin          Sheboygan
+    Wisconsin          Wausau
+    Wyoming            Casper
+    Wyoming            Cheyenne
+    DC                 Washington, Arlington, Alexandria
+
+
+
+    Cost of Care Survey regions are based on Metropolitan
+    Statistical Areas (MSAs) as defined by the Office of
+    Management and Budget (OMB) (census.gov).
+
+    In July 2023, the OMB refined its MSA delineations,
+    thereby impacting some of our region definitions. All 2025
+    Cost of Care data reflects survey results based on the
+    new delineations, which can often include counties from
+    other nearby states.
+
+
+
+9
+About CareScout
+CareScout helps older adults and their families navigate the aging journey and find quality care.
+Inspired by a mission to simplify and dignify the aging experience, we’re building an integrated
+ecosystem of care and funding solutions. To learn more about CareScout, visit www.CareScout.com.
+CareScout, LLC (CareScout) is a wholly owned subsidiary of Genworth Financial, Inc. (NYSE: GNW).
+
+
+
+
+    Visit CareScout.com/cost-of-care to:
+
+    • Compare daily, monthly and annual costs across
+    locations
+    • Calculate future costs of care
+    • Get more information about the Cost of Care Survey
+
+
+
+
+© 2026 CareScout Holdings, Inc. All rights reserved.
+131168 03/02/26
+

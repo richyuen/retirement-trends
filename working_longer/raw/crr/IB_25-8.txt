@@ -1,0 +1,444 @@
+                                                                                              RETIREMENT
+                                                                                              RESEARCH
+April 2025 Number 25-8
+
+
+
+
+WILL THE AVERAGE RETIREMENT AGE
+KEEP RISING?
+By Alicia H. Munnell*
+
+
+
+Introduction                                                   The Long-term Decline in
+After nearly a century of decline, work activity among         Employment Rates
+older men stabilized in the 1980s and since the early
+1990s the average retirement age has increased by              Prior to the 1880s, men generally worked as long
+about three years. The question is whether the factors         as they could, and at the end of their lives, they had
+that led to the increase over the last 30 years – chang-       only about two years of ‘retirement,’ often due to ill
+es to Social Security, retirement plans, the nature of         health.1 (Men are the focus of this early discussion,
+work, educational attainment, etc. – will continue to          because shifts in the work patterns of older women
+push out the retirement age or have they, for the most         have more to do with their changing roles over the
+part, played themselves out.                                   20th century than with their retirement decisions.)
+    This discussion proceeds as follows. The first             Beginning around 1880, the percentage of older men
+section puts the last 30 years in context by exploring         at work began to decline sharply (see Figure 1 on the
+the reasons for the decline in labor force participation       next page).
+of men between 1880 and 1980. The second section                   So, why did workforce participation start to drop?
+looks at the turnaround in labor force participation           Experts attribute this decline to an unexpected and
+and the increase in the average retirement age that            substantial stream of income that appeared in the
+began in the early 1990s. The third section discusses          form of old-age pensions for Civil War veterans.
+the factors responsible for this turnaround, and the           Veterans eligible for these pensions had significantly
+fourth section assesses the likely future impact of            higher retirement rates than the population at large.2
+these factors. The final section concludes that the                Interestingly, as the veterans died off, work rates
+forces leading to increased participation of older             did not return to their previous levels. One explana-
+workers may well be exhausted, suggesting further              tion is the growth of workers’ incomes, which allowed
+increases in the average retirement age are relatively         them to purchase more leisure at the end of their
+unlikely.                                                      lives.3 But employer attitudes were also becoming
+
+
+
+* Alicia H. Munnell is a senior advisor at the Center for Retirement Research at Boston College.
+2                                                                                       Center for Retirement Research
+
+
+Figure 1. Workforce Participation Rates of Men                     increased. This pattern has led to an increase in the
+Ages 55-64 and 65+, 1880-2024                                      “average retirement age.” The discussion begins by
+100%
+                                                                   continuing with the focus on men, and then turns to
+                                                                   the more complicated story for women.
+                                                                       To put the magnitude of the turnaround in perspec-
+                                                      Ages 55-64   tive, it is useful to look at labor force participation rates
+75%
+                                                          72.0%
+                                                                   in three different years: 1964 – before the “reversal;”
+                                                                   1994 – about the time the reversal began; and 2024 –
+50%
+                                                                   the most recent observation. The most striking change
+                                                                   is that labor force participation in 2024 was higher at
+                                                                   almost any age than it was in 1994 (see Figure 2). The
+                                              Ages 65 and over     relationship between 2024 and 1964 is also interest-
+25%
+                                                         23.7%     ing. At older ages, 2024 participation for men looks
+                                                                   very similar to that in 1964. In contrast, participation
+    0%                                                             between ages 50 and 65 is dramatically lower in 2024
+      1880     1910       1940      1970       2000        2024    than in 1964.
+Note: Work rates during 1880-1930 are any reported gainful
+occupation; work rates during 1940-2024 are labor force
+participation rates – working or seeking work.                     Figure 2. Labor Force Participation Rates of Men
+Sources: Ruggles et al. (2010), author’s calculations from U.S.    Ages 50-80, 1964, 1994, and 2024
+Census Bureau, Current Population Survey (CPS) (1970-2024).        100%
+                                                                                                                         1964
+                                                                                                                         1994
+                                                                                                                         2024
+important. The U.S. workforce was rapidly shifting                 75%
+from self-employment, most notably in agriculture, to
+employees of large enterprises. Employers increas-
+ingly introduced mandatory retirement ages for their               50%
+employees. And they were reluctant to hire older
+workers, especially during the Great Depression.4
+    The next big decline in the work rates of older                25%
+men occurred after World War II. One obvious factor
+was the availability of Social Security benefits, which
+began in 1940. The postwar period also saw the ex-                   0%
+pansion of employer pensions, as union power grew                         50     55       60         65     70      75       80
+and corporations increasingly recognized pensions as               Source: CPS (1964, 1994, 2024).
+a crucial component of their personnel systems.
+    The introduction of Medicare in 1965 and the
+sharp increase in Social Security benefits in 1972                     These data on labor force participation can be used
+probably led to the final leg of the decline in work-              to construct a measure of the average retirement age,
+force activity of older men. And, because benefits                 defined as the age (in years and months) at which the
+were available at age 62, Social Security may also                 labor force participation rate drops below 50 percent.5
+explain part of the decline in workforce activity for              Based on this definition, in 2024 the average retire-
+men ages 55-64.                                                    ment age for men was 64.6, three years later than
+                                                                   1994 and almost back to the 1960s (see Figure 3 on
+                                                                   the next page).
+The Turnaround                                                         Figure 3 also shows the average retirement age for
+                                                                   women. Over the 20th century each cohort of women
+The downward trajectory stopped around the mid-                    had spent more time in the labor force than the previ-
+1980s and, since the early 1990s, the labor force                  ous cohort, increasing the likelihood that they would
+participation of men both 55-64 and 65+ has gradually
+Issue in Brief                                                                                                         3
+
+
+Figure 3. Average Retirement Age, 1962-2024                     Reasons for the Turnaround
+70
+                                                                As noted, the downward trajectory stopped around
+                                                         64.6   the mid-1980s and, since the early 1990s, the labor
+65                                                              force participation of men both 55-64 and 65+ has
+                                                                gradually increased. Many factors help explain this
+                                                         62.6   turnaround.6
+60
+
+                                                                   •   Social Security: Changes to Social Security made
+55                                                                     work more attractive relative to retirement.
+                                                                       The liberalization, and for those at the Full
+50                                                Men                  Retirement Age (FRA) the elimination, of the
+                                                  Women                earnings test removed what many viewed as an
+                                                                       impediment to continued work.7 The increase
+45
+  1962      1972    1982    1992       2002    2012    2022            in the FRA from 65 to 67 reduced benefits
+                                                                       for those claiming early. And, the enhanced
+Source: Author’s calculations from CPS (1962-2024).
+                                                                       delayed retirement credit increased incentives
+                                                                       to keep working between the FRA and age 70.8
+                                                                       One recent estimate suggests these changes
+be working at older ages. Indeed, the participation rate               were responsible for about one-fifth of the
+data show work activity among older women increas-                     increase in work for those ages 65-69.9 Clearly
+ing steadily from 1964 to 1994 to 2024 (see Figure 4).                 other factors also played a role.
+
+                                                                   •   Pension type: The shift from defined benefit to
+Figure 4. Labor Force Participation Rates of                           401(k) plans eliminated built-in incentives to
+Women Ages 50-80, 1964, 1994, and 2024                                 retire.10 Moreover, since 401(k) participants
+100%                                                                   bear investment risk, they need to work longer
+                                                       1964            to accumulate a buffer against prematurely
+                                                       1994            exhausting their resources. Studies show that
+                                                       2024
+75%                                                                    workers covered by 401(k) plans retire a year
+                                                                       or two later on average than similarly situated
+                                                                       workers covered by a defined benefit plan.11
+50%
+                                                                   •   Education: Education is a key determinant of
+                                                                       worker productivity. Better-educated workers
+25%                                                                    have less physically demanding jobs, more
+                                                                       employment opportunities, are paid more, and
+                                                                       work longer. Between 1985 and 2015, the share
+ 0%                                                                    of older workers with college degrees increased
+       50      55      60         65      70      75      80           sharply, and the educational gap between older
+Source: CPS (1964, 1994, 2024).                                        and prime-age men largely disappeared. The
+                                                                       movement of large numbers of men up the
+                                                                       educational ladder helps explain the increase in
+    The changing work lives of women make it diffi-                    participation rates of older men.12
+cult to interpret trends in their average retirement age.
+Figure 3 suggests that the retirement age for women                •   Improved health and longevity: Average life ex-
+rose dramatically from about 55 in the 1960s to 62.6                   pectancy for men at 65 has increased about 3.2
+in 2024. Of course, the apparent low retirement ages                   years since 1990, and until 2010 the evidence
+in the early 1960s simply reflect the fact that fewer                  suggested that people were healthier as well.13
+women had spent much time in the labor force. In                       The correlation between health and labor
+recent years, the average retirement age for women                     force activity is very strong, meaning that the
+appears to have stabilized. The questions are, for both                increase in disability-free life expectancy would
+men and women, why did the increase in the average                     have contributed to the increased labor force
+retirement age occur and where do we go from here?                     activity of older men.
+4                                                                                 Center for Retirement Research
+
+
+    •   Decline of retiree health insurance: The rapid rise   Where Do We Go from Here?
+        in healthcare costs has been accompanied by
+        a significant decline in employer provision of        The question is whether the early drivers of delayed
+        retiree health insurance. This decline has dra-       retirement – changes to Social Security, the shift
+        matically changed the incentives facing older         from defined benefit to 401(k) plans, the increase in
+        workers. If they stay with their employer, they       educational attainment, improvements in healthy life
+        continue to receive health insurance; if they         expectancy, and the decline in retiree health insurance
+        leave before 65, when they qualify for Medi-          – will continue to have a substantial impact leading to
+        care, they are forced to purchase insurance           increases in the average retirement age going forward.
+        on their own. Hence, workers have a strong                Social Security. All the changes in the Social Secu-
+        incentive to stay working until they qualify for      rity program are now complete. No further adjust-
+        Medicare.14                                           ments have been made to the earnings test. The in-
+                                                              crease in the FRA from 65 to 67 was gradually phased
+    •   Less physically demanding jobs: The nature of         in, beginning with those born in 1938 and ending at
+        employment has also changed dramatically              67 with those born in 1960. Those born in 1960 turn
+        since the mid-1980s. As manufacturing has             65 this year; thus, future cohorts will see no further
+        declined, the service sector has exploded with        increase in the FRA.19 Finally, the delayed retirement
+        knowledge-based opportunities. Even within            credit – payable for those who claim benefits between
+        manufacturing the nature of jobs has changed,         the FRA and 70 – was also increased gradually, from
+        as firms have automated and outsourced                3 percent in 1983 to 8 percent in 2008. Hence, future
+        production and employed more managers,                cohorts will see no further increase in this incentive.
+        engineers, and technicians. The new jobs put          In short, recent changes to Social Security should
+        less strain on older bodies.15                        have no effect on the average retirement age going
+                                                              forward.
+    •   Joint decision-making: The increased percentage           Pension Type. The shift from defined benefit to
+        of married women working means the decision           401(k) plans is now complete. Yes, some defined
+        to retire involves both spouses. Studies sug-         benefit plans continue to exist in the public sector, but
+        gest that husbands and wives like to coordinate       state and local workers account for only about 10 per-
+        their retirement.16 Since wives on average            cent of the workforce and no major shift in pension
+        are three years younger than their husbands,          type is currently underway for this group.
+        if they retire at age 62 (when first eligible to          Educational Attainment. Much of the gain in the
+        claim Social Security), it would push husbands’       labor force participation of older individuals has been
+        retirement age toward 65.17                           attributed to their increased educational attainment.20
+                                                              Indeed, for most of the 20th century each generation
+    •   Non-pecuniary factors: Older workers tend to be       of workers received more education than the previous
+        among the more educated, the healthiest, and          one. As a result, the share of men ages 50-54 with
+        the wealthiest.18 Their wages are lower than          a college degree increased sharply. However, in the
+        those earned by their younger counterparts and        mid-1970s the pace of gains slowed, which meant that
+        lower than their own past earnings. This pat-         the percentage of men 50-54 with a college degree
+        tern suggests that money may not be the only          stopped increasing around 2000. Since then the share
+        motivator.                                            with a college degree has declined and rebounded,
+                                                              but remains roughly at the 2000 level. For women,
+    As a result of these various factors, the workforce       the improvement in educational attainment has
+activity of men has increased substantially since 1990.       continued – after a decade-long pause – but will likely
+The question is how this trend translates into changes        level off by 2030.21 The bottom line is that educational
+in the average retirement age.                                gains are unlikely to be a major driver of longer work
+                                                              lives going forward.
+Issue in Brief                                                                                                   5
+
+
+    Increase in Healthy Life Expectancy. Until 2005, the    Conclusion
+trend of rising disability-free life expectancy suggest-
+ed increased capacity for work, but recent studies sug-     After nearly a century of decline, work activity
+gest this progress has stalled.22 Estimates of healthy      among older men stabilized in the 1980s and began
+life expectancy at 50 – which combines the disability       to increase in the 1990s. This turnaround reflected
+rate with changes in life expectancy – showed actual        changes in Social Security, retirement plans, and the
+declines for lower-educated white workers and lower-        nature of work, improvements in educational attain-
+educated Black men. Hence, substantial increases            ment, the need to wait for Medicare coverage, and a
+in the ability to work longer is unlikely to move the       number of other factors. In response, the average
+average retirement age in coming decades.                   retirement age increased by about three years.
+    Decline in Retiree Health Insurance. As noted,              It is important to put this three-year gain in
+the decline in employer-provided health insurance           perspective. The average retirement age is still lower
+combined with rapidly rising healthcare costs has           than it was when Medicare was enacted. And the ma-
+pushed workers to postpone retirement until they are        jor drivers for the gains to date appear to have played
+eligible for Medicare. This shift away from offering        themselves out, making significant future increases
+retiree health benefits is virtually complete. Less than    in the average retirement age unlikely. In short, the
+20 percent of large firms – 200 or more employees           gains to date in working longer have been great, but
+– offer retiree health insurance to current workers.        we probably have gone as far as we can go without
+Smaller firms traditionally have rarely provided this       some new development to change people’s incentives.
+benefit.23 Thus, changing employer-provided health
+benefits will no longer provide an increasing incen-
+tive to work until 65.
+    The bottom line is that the factors contribut-
+ing to the reversal in the labor force participation of
+older workers appear to have run their course. Their
+impact will remain, so it is unlikely the average retire-
+ment age will decline. On the other hand, they will
+provide little impetus for increases in the average
+retirement age.24
+6                                                                                Center for Retirement Research
+
+
+Endnotes
+1 Thane (2000) and Sass (1997).                            16 Michaud, van Soest, and Bissonnette (2018).
+
+2 Costa (1998).                                            17 Schirle (2007).
+
+3 Costa (1998).                                            18 Lahey, Kim, and Newman (2006) and Maestas
+                                                           (2005).
+4 Moen (1987), Margo (1993), and Sass (1997).
+                                                           19 Beginning with the 1938 cohort, the FRA in-
+5 This methodology evolved from that of Burtless and       creased by two months per year until it reached
+Quinn (2002) who take the youngest age, in years, at       age 66 for the 1943 cohort. The FRA continued to
+which at least half of men have left the labor force.      increase until reaching age 67 for people born in 1960
+They calculate the labor force participation rate by       and later, again with the increase phased in by two-
+age and average over two-year periods (e.g., 1962 and      month increments beginning for those born in 1955.
+1963). Our calculations differ in that the results are
+annual and interpolated to calculate the age in terms      20 Burtless (2013).
+of years and months; and we take the age at which at
+least half of men (or women) are consistently out of the   21 Munnell (2022). Looking at younger individuals
+labor force.                                               today, the share of men and women (combined) with
+                                                           a college degree is similar to today’s 50-year-olds.
+6 Coile (2015), Friedberg (2007), Burtless and Quinn
+(2002), and Munnell and Sass (2008).                       22 Quinby and Wettstein (2021).
+
+7 Engelhardt and Kumar (2007) and Friedberg and            23 Kaiser Family Foundation (2021).
+Webb (2006).
+                                                           24 Rutledge, Gillis, and Webb (2015) projected that the
+8 Cosic and Steuerle (2021), Blau and Goodstein            average retirement age would continue to rise by about
+(2010), Gustman and Steinmeier (2009), Mastrobuoni         one additional year in total over the course of a few
+(2009), Song and Manchester (2007), and Kopczuk            decades. To the extent that this projection proves ac-
+and Song (2008).                                           curate, a portion of this impact would have already oc-
+                                                           curred, and any continued increase would be modest.
+9 Coile (2025).
+
+10 Coile (2021).
+
+11 Friedberg and Webb (2005) and Munnell, Cahill,
+and Jivan (2003).
+
+12 Burtless (2013) and Munnell and Sass (2008).
+
+13 U.S. Social Security Administration (2024),
+Quinby and Wettstein (2021), and Munnell and Sass
+(2008).
+
+14 Gustman and Steinmeier (1994), Karoly and
+Rogowski (1994), Rust and Phelan (1997), and Monk
+and Munnell (2009).
+
+15 Johnson (2004).
+Issue in Brief                                                                                                   7
+
+
+References
+Blau, David M. and Ryan M. Goodstein. 2010. “Can          Friedberg, Leora. 2007. “The Recent Trend Towards
+   Social Security Explain Trends in Labor Force             Later Retirement.” Work Opportunities for Older
+   Participation of Older Men in the United States?”         Americans Series 9. Chestnut Hill, MA: Center for
+   Journal of Human Resources 45(2): 32-63.                  Retirement Research at Boston College.
+
+Burtless, Gary. 2013. “The Impact of Population Ag-       Friedberg, Leora and Anthony Webb. 2006. “Persis-
+   ing and Delayed Retirement on Workforce Produc-           tence in Labor Supply and the Response to the
+   tivity.” Working Paper 2013-11. Chestnut Hill, MA:        Social Security Earnings Test.” Working Paper
+   Center for Retirement Research at Boston College.         2006-27. Chestnut Hill, MA: Center for Retire-
+                                                             ment Research at Boston College.
+Burtless, Gary and Joseph F. Quinn. 2002. “Is Work-
+   ing Longer the Answer for an Aging Workforce?”         Friedberg, Leora and Anthony Webb. 2005. “Retire-
+   Issue in Brief 11. Chestnut Hill, MA: Center for          ment and the Evolution of Pension Structure.”
+   Retirement Research at Boston College.                    Journal of Human Resources 40(2): 281-308.
+
+Coile, Courtney. 2025. “Changing Retirement Incen-        Gustman, Alan L. and Thomas Steinmeier. 2009.
+   tives and Retirement in the US.” In Social Security      “How Changes in Social Security Affect Recent
+   Programs and Retirement around the World: The            Retirement Trends.” Research on Aging 31(2): 261-
+   Effects of Reforms on Retirement Behavior, edited by     290.
+   Axel Borsch-Supan and Courtney Coile, 401-418.
+   Chicago, IL: University of Chicago Press.              Gustman, Alan and Thomas Steinmeier. 1994. “Em-
+                                                            ployer-Provided Health Insurance and Retirement
+Coile, Courtney. 2021. “The Evolution of Retirement         Behavior.” Industrial and Labor Relations Review
+   Incentives in the U.S.” In Social Security Programs      48(1): 124-140.
+   and Retirement around the World: Reforms and
+   Retirement Incentives, edited by Axel Börsch-Supan     Johnson, Richard. 2004. “Trends in Job Demands
+   and Courtney Coile, 435-459. Chicago, IL: Univer-         among Older Workers, 1992-2009.” Monthly Labor
+   sity of Chicago Press.                                    Review 127(7): 48-56.
+
+Coile, Courtney. 2015. “Economic Determinants of          Kaiser Family Foundation. Employer Health Benefits
+   Workers’ Retirement Decisions.” Journal of Eco-           Survey, 2021. San Francisco, CA.
+   nomic Surveys 29(4): 830-853.
+                                                          Karoly, L. A. and J. A. Rogowski. 1994. “The Effect of
+Cosic, Damir, and C. Eugene Steuerle. 2021. “The             Access to Postretirement Health Insurance on the
+   Effect on Early Claiming Benefit Reduction on             Decision to Retire Early.” Industrial and Labor Rela-
+   Retirement Rates.” Working Paper 2021-1. Chest-           tions Review 48(1): 103-123.
+   nut Hill, MA: Center for Retirement Research at
+   Boston College.                                        Kopczuk, Wojciech and Jae Song. 2008. “Stylized
+                                                             Facts and Incentive Effects Related to Claiming of
+Costa, Dora L. 1998. The Evolution of Retirement: An         Retirement Benefits Based on Social Security Ad-
+   American Economic History, 1880-1990. Chicago,            ministration Data.” Working Paper WP-2008-200.
+   IL: University of Chicago Press.                          Ann Arbor, MI: University of Michigan Retire-
+                                                             ment Research Center.
+Engelhardt, Gary V. and Anil Kumar. 2007. “The
+   Repeal of the Retirement Earnings Test and the         Lahey, Karen E., Doseong Kim, and Melinda L. New-
+   Labor Supply of Older Men.” Working Paper                 man. 2006. “Full Retirement? An Examination of
+   2007-1. Chestnut Hill, MA: Center for Retirement          Factors That Influence the Decision to Return to
+   Research at Boston College.                               Work.” Financial Services Review 15(1): 1-19.
+8                                                                             Center for Retirement Research
+
+
+Maestas, Nicole. 2005. “Back to Work: Expectations        Ruggles, Steven, J. Trent Alexander, Katie Genadek,
+  and Realizations of Work after Retirement.” Work-         Ronald Goeken, Matthew B. Schroeder, and Mat-
+  ing Paper WR-196-1. Santa Monica, CA: RAND.               thew Sobek. Integrated Public Use Microdata
+                                                            Series: Version 5.0 [Machine-readable database].
+Margo, Robert A. 1993. “The Labor Force Participa-          Minneapolis, MN: University of Minnesota, 2010.
+  tion of Older Americans in 1900: Further Results.”
+  Explorations in Economic History 30(3): 409-423.        Rust, John and Christopher Phelan. 1997. “How
+                                                             Social Security and Medicare Affect Retirement
+Mastrobuoni, Giovanni. 2009. “Labor Supply Effects           Behavior in a World of Incomplete Markets.”
+  of the Recent Social Security Benefit Cuts: Em-            Econometrica 65(4): 781-831.
+  pirical Estimates Using Cohort Discontinuities.”
+  Journal of Public Economics 93(11): 1224-1233.          Rutledge, Matthew S., Christopher M. Gillis, and
+                                                             Anthony Webb. 2015. “Will the Average Retire-
+Michaud, Pierre-Carl, Arthur van Soest, and Luc Bis-         ment Age Continue to Increase?” Working Paper
+   sonnette. 2018. “Understanding Joint Retirement.”         2015-16. Chestnut Hill, MA: Center for Retire-
+   Working Paper 25030. Cambridge, MA: National              ment Research at Boston College.
+   Bureau of Economic Research.
+                                                          Sass, Steven A. 1997. The Promise of Private Pensions:
+Moen, Jon R. 1987. “Essays on the Labor Force and            The First Hundred Years. Cambridge, MA: Harvard
+  Labor Force Participation Rates: The United States         University Press.
+  from 1860 through 1950.” Ph.D. Dissertation.
+  Chicago, IL: University of Chicago.                     Schirle, Tammy. 2007. “Why Have the Labour Force
+                                                             Participation Rates of Older Men Increased since
+Monk, Courtney and Alicia H. Munnell. 2009. “The             the Mid-1990s?” Working Paper. Waterloo, ON:
+  Implications of Declining Retiree Health Insur-            Wilfrid Laurier University, Department of Eco-
+  ance.” Working Paper 2009-15. Chestnut Hill, MA:           nomics.
+  Center for Retirement Research at Boston College.
+                                                          Song, Jae and Joyce Manchester. 2007. “Have People
+Munnell, Alicia H. 2022. “How to Think About Recent          Delayed Claiming Retirement Benefits? Responses
+  Trends in the Average Retirement Age.” Issue in            to Changes in Social Security Rules.” Social Secu-
+  Brief 22-11. Chestnut Hill, MA: Center for Retire-         rity Bulletin 67(2): 1-23.
+  ment Research at Boston College.
+                                                          Thane, Pat. 2000. Old Age in English History: Past
+Munnell, Alicia H., Kevin E. Cahill, and Natalia Jivan.      Experiences, Present Issues. Oxford, UK: Oxford
+  2003. “How Has the Shift to 401(k)s Affected the           University Press.
+  Retirement Age?” Issue in Brief 13. Chestnut Hill,
+  MA: Center for Retirement Research at Boston            U.S. Census Bureau. Current Population Survey, 1962-
+  College.                                                   2024. Washington, DC: U.S. Government Printing
+                                                             Office.
+Munnell, Alicia H. and Steven A. Sass. 2008. Working
+  Longer: The Solution to the Retirement Income Chal-     U.S. Social Security Administration. 2024. The 2024
+  lenge. Washington, DC: Brookings Institution Press.        Annual Report of the Board of Trustees of the Federal
+                                                             Old-Age and Survivors Insurance and Federal Dis-
+Quinby, Laura D. and Gal Wettstein. 2021. “Are Older         ability Insurance Trust Funds. Washington, DC:
+  Workers Capable of Working Longer?” Working                U.S. Government Printing Office.
+  Paper 2021-8. Chestnut Hill, MA: Center for Re-
+  tirement Research at Boston College.
+RETIREMENT
+RESEARCH
+
+
+About the Center                                                Affiliated Institutions
+The mission of the Center for Retirement Research               Mathematica – Center for Studying Disability Policy
+at Boston College is to produce first-class research            Syracuse University
+and educational tools and forge a strong link between           University of Massachusetts Boston
+the academic community and decision-makers in                   Urban Institute
+the public and private sectors around an issue of
+critical importance to the nation’s future. To achieve
+this mission, the Center conducts a wide variety
+                                                                Contact Information
+                                                                Center for Retirement Research
+of research projects, transmits new findings to a
+                                                                Boston College
+broad audience, trains new scholars, and broadens
+                                                                Haley House
+access to valuable data sources. Since its inception
+                                                                140 Commonwealth Avenue
+in 1998, the Center has established a reputation as
+                                                                Chestnut Hill, MA 02467-3808
+an authoritative source of information on all major
+                                                                Phone: (617) 552-1762
+aspects of the retirement income debate.
+                                                                Fax: (617) 552-0191
+                                                                E-mail: crr@bc.edu
+                                                                Website: https://crr.bc.edu/
+
+
+
+
+  The Center for Retirement Research thanks Allianz Life Insurance Company of North America, Bank of America,
+ Capitalize®, Cheiron, First Eagle Investments, Great Gray Trust Company, Guideline, Manulife® | John Hancock®,
+          The Pew Charitable Trusts, TIAA Institute, and Wells Fargo Bank, N.A. for support of this project.
+
+
+
+
+© 2025, by Trustees of Boston College, Center for Retirement Research. All rights reserved. Short sections of text, not to
+exceed two paragraphs, may be quoted without explicit permission provided that the authors are identified and full credit,
+including copyright notice, is given to Trustees of Boston College, Center for Retirement Research.
+
+The research reported herein was supported by the Center’s Partnership Program. The findings and conclusions expressed
+are solely those of the authors and do not represent the views or policy of the partners, Boston College, or the Center for
+Retirement Research.
+
