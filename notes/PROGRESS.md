@@ -64,3 +64,6 @@ Section 12 participation trend switched from BLS all-plans (48-53%, includes DB)
 
 ## 2026-10-06 v13
 New Section 13 How much goes in: contribution trends (Fig 28 share contributing: SCF families 25-64, W-2 deferrers, IRA taxpayers; Fig 29 percent of pay: SCF employee/employer, W-2, Vanguard; Fig 30 Form 5500 DC contributions % private wages + IRA % wages), from contributions/. Later sections renumbered +1, figures +3. Summary finding and data note added; refs bea-nipa, bls-ecec, dol-a4, irs-1040-hist (159 total). Published as artifact version 13.
+
+## 2026-10-06 v14
+Richard asked whether Figs 29 and 30 are comparable. They are not in level: Fig 29 is rates among contributors (own pay), Fig 30 aggregate contributions over all wages. Captions now say so, and Section 13 adds a bridge (W-2: 6.5%->6.7% of deferrers pay x deferrers 55%->67% of wages = 3.6%->4.5% of all wages). Fig 29 caption also corrected: SCF rates are among contributors, not all workers with a plan.
