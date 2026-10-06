@@ -1,0 +1,176 @@
+year,measure,group,estimate,se,n,note
+1989,pct_families_contributing_dc_current_job,all families,17.9772,0.5760,3143,R or spouse currently makes employee contributions to a current-job account-type plan
+1992,pct_families_contributing_dc_current_job,all families,19.6624,0.7225,3906,R or spouse currently makes employee contributions to a current-job account-type plan
+1995,pct_families_contributing_dc_current_job,all families,24.9943,0.5842,4299,R or spouse currently makes employee contributions to a current-job account-type plan
+1998,pct_families_contributing_dc_current_job,all families,29.2057,0.6797,4305,R or spouse currently makes employee contributions to a current-job account-type plan
+2001,pct_families_contributing_dc_current_job,all families,29.7650,0.7292,4442,R or spouse currently makes employee contributions to a current-job account-type plan
+2004,pct_families_contributing_dc_current_job,all families,28.7729,0.7165,4519,R or spouse currently makes employee contributions to a current-job account-type plan
+2007,pct_families_contributing_dc_current_job,all families,30.9233,0.6775,4417,R or spouse currently makes employee contributions to a current-job account-type plan
+2010,pct_families_contributing_dc_current_job,all families,27.8925,0.4642,6482,R or spouse currently makes employee contributions to a current-job account-type plan
+2013,pct_families_contributing_dc_current_job,all families,27.1398,0.4954,6015,R or spouse currently makes employee contributions to a current-job account-type plan
+2016,pct_families_contributing_dc_current_job,all families,28.6622,0.4318,6248,R or spouse currently makes employee contributions to a current-job account-type plan
+2019,pct_families_contributing_dc_current_job,all families,29.6623,0.4982,5777,R or spouse currently makes employee contributions to a current-job account-type plan
+2022,pct_families_contributing_dc_current_job,all families,31.2521,0.6103,4595,R or spouse currently makes employee contributions to a current-job account-type plan
+1989,pct_families_contributing_dc_current_job,"working-age families (head 25-64, working)",28.9191,0.9063,1989,R or spouse currently makes employee contributions to a current-job account-type plan
+1992,pct_families_contributing_dc_current_job,"working-age families (head 25-64, working)",31.0344,1.0780,2412,R or spouse currently makes employee contributions to a current-job account-type plan
+1995,pct_families_contributing_dc_current_job,"working-age families (head 25-64, working)",38.0998,0.9111,2710,R or spouse currently makes employee contributions to a current-job account-type plan
+1998,pct_families_contributing_dc_current_job,"working-age families (head 25-64, working)",43.9658,0.9931,2776,R or spouse currently makes employee contributions to a current-job account-type plan
+2001,pct_families_contributing_dc_current_job,"working-age families (head 25-64, working)",43.5859,1.0015,2936,R or spouse currently makes employee contributions to a current-job account-type plan
+2004,pct_families_contributing_dc_current_job,"working-age families (head 25-64, working)",42.2633,0.9306,2985,R or spouse currently makes employee contributions to a current-job account-type plan
+2007,pct_families_contributing_dc_current_job,"working-age families (head 25-64, working)",44.5196,0.9397,2843,R or spouse currently makes employee contributions to a current-job account-type plan
+2010,pct_families_contributing_dc_current_job,"working-age families (head 25-64, working)",42.3665,0.6617,4088,R or spouse currently makes employee contributions to a current-job account-type plan
+2013,pct_families_contributing_dc_current_job,"working-age families (head 25-64, working)",41.8351,0.7588,3652,R or spouse currently makes employee contributions to a current-job account-type plan
+2016,pct_families_contributing_dc_current_job,"working-age families (head 25-64, working)",43.5299,0.6393,3755,R or spouse currently makes employee contributions to a current-job account-type plan
+2019,pct_families_contributing_dc_current_job,"working-age families (head 25-64, working)",45.5361,0.8211,3422,R or spouse currently makes employee contributions to a current-job account-type plan
+2022,pct_families_contributing_dc_current_job,"working-age families (head 25-64, working)",48.0698,0.8902,2651,R or spouse currently makes employee contributions to a current-job account-type plan
+1989,pct_takeup_families_with_dc_plan,all families,75.8762,1.6330,826,among families with a current-job account-type plan
+1992,pct_takeup_families_with_dc_plan,all families,78.5475,1.1572,1008,among families with a current-job account-type plan
+1995,pct_takeup_families_with_dc_plan,all families,83.2070,1.0069,1342,among families with a current-job account-type plan
+1998,pct_takeup_families_with_dc_plan,all families,86.6431,0.8220,1444,among families with a current-job account-type plan
+2001,pct_takeup_families_with_dc_plan,all families,86.2990,0.9249,1553,among families with a current-job account-type plan
+2004,pct_takeup_families_with_dc_plan,all families,86.6641,0.8939,1618,among families with a current-job account-type plan
+2007,pct_takeup_families_with_dc_plan,all families,89.2624,0.7625,1605,among families with a current-job account-type plan
+2010,pct_takeup_families_with_dc_plan,all families,88.4250,0.6982,2168,among families with a current-job account-type plan
+2013,pct_takeup_families_with_dc_plan,all families,87.5003,0.6908,2033,among families with a current-job account-type plan
+2016,pct_takeup_families_with_dc_plan,all families,88.9847,0.6145,2176,among families with a current-job account-type plan
+2019,pct_takeup_families_with_dc_plan,all families,89.9919,0.5690,2079,among families with a current-job account-type plan
+2022,pct_takeup_families_with_dc_plan,all families,92.4142,0.6546,1581,among families with a current-job account-type plan
+1989,pct_takeup_workers_with_dc_plan,"workers with current-job account plan, all ages",74.7781,1.5301,948,person currently contributes / person has current-job account-type plan
+1992,pct_takeup_workers_with_dc_plan,"workers with current-job account plan, all ages",76.9801,1.1342,1153,person currently contributes / person has current-job account-type plan
+1995,pct_takeup_workers_with_dc_plan,"workers with current-job account plan, all ages",82.0180,0.9446,1561,person currently contributes / person has current-job account-type plan
+1998,pct_takeup_workers_with_dc_plan,"workers with current-job account plan, all ages",84.3897,0.7917,1674,person currently contributes / person has current-job account-type plan
+2001,pct_takeup_workers_with_dc_plan,"workers with current-job account plan, all ages",84.8639,0.8825,1868,person currently contributes / person has current-job account-type plan
+2004,pct_takeup_workers_with_dc_plan,"workers with current-job account plan, all ages",85.2426,0.9115,1912,person currently contributes / person has current-job account-type plan
+2007,pct_takeup_workers_with_dc_plan,"workers with current-job account plan, all ages",87.8989,0.7638,1914,person currently contributes / person has current-job account-type plan
+2010,pct_takeup_workers_with_dc_plan,"workers with current-job account plan, all ages",87.7816,0.6334,2549,person currently contributes / person has current-job account-type plan
+2013,pct_takeup_workers_with_dc_plan,"workers with current-job account plan, all ages",86.4702,0.6774,2415,person currently contributes / person has current-job account-type plan
+2016,pct_takeup_workers_with_dc_plan,"workers with current-job account plan, all ages",88.3440,0.5764,2599,person currently contributes / person has current-job account-type plan
+2019,pct_takeup_workers_with_dc_plan,"workers with current-job account plan, all ages",89.9805,0.4880,2502,person currently contributes / person has current-job account-type plan
+2022,pct_takeup_workers_with_dc_plan,"workers with current-job account plan, all ages",90.1821,0.8129,1934,person currently contributes / person has current-job account-type plan
+1995,pct_takeup_eligible_workers_broad,"workers with plan or eligible, all ages",67.4080,1.1261,1826,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+1998,pct_takeup_eligible_workers_broad,"workers with plan or eligible, all ages",70.8011,0.9944,1947,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+2001,pct_takeup_eligible_workers_broad,"workers with plan or eligible, all ages",70.1280,1.0837,2200,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+2004,pct_takeup_eligible_workers_broad,"workers with plan or eligible, all ages",69.8067,0.8539,2235,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+2007,pct_takeup_eligible_workers_broad,"workers with plan or eligible, all ages",72.0813,1.0970,2244,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+2010,pct_takeup_eligible_workers_broad,"workers with plan or eligible, all ages",72.4983,0.7403,3025,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+2013,pct_takeup_eligible_workers_broad,"workers with plan or eligible, all ages",70.0302,0.8566,2873,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+2016,pct_takeup_eligible_workers_broad,"workers with plan or eligible, all ages",72.3516,0.6930,3068,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+2019,pct_takeup_eligible_workers_broad,"workers with plan or eligible, all ages",73.1007,0.7511,2940,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+2022,pct_takeup_eligible_workers_broad,"workers with plan or eligible, all ages",74.7210,0.9802,2263,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+1989,median_employee_pct_of_pay,"workers with current-job account plan, all ages",6.0000,0.1708,672,sum over the person's current-job account plans; contributors only
+1992,median_employee_pct_of_pay,"workers with current-job account plan, all ages",6.0000,0.0515,819,sum over the person's current-job account plans; contributors only
+1995,median_employee_pct_of_pay,"workers with current-job account plan, all ages",6.0000,0.1268,1239,sum over the person's current-job account plans; contributors only
+1998,median_employee_pct_of_pay,"workers with current-job account plan, all ages",6.0000,0.0047,1386,sum over the person's current-job account plans; contributors only
+2001,median_employee_pct_of_pay,"workers with current-job account plan, all ages",6.0000,0.0301,1540,sum over the person's current-job account plans; contributors only
+2004,median_employee_pct_of_pay,"workers with current-job account plan, all ages",6.0000,0.2008,1586,sum over the person's current-job account plans; contributors only
+2007,median_employee_pct_of_pay,"workers with current-job account plan, all ages",6.0000,0.3593,1648,sum over the person's current-job account plans; contributors only
+2010,median_employee_pct_of_pay,"workers with current-job account plan, all ages",5.0000,0.4062,2216,sum over the person's current-job account plans; contributors only
+2013,median_employee_pct_of_pay,"workers with current-job account plan, all ages",5.0000,0.7772,2069,sum over the person's current-job account plans; contributors only
+2016,median_employee_pct_of_pay,"workers with current-job account plan, all ages",6.0000,0.0316,2256,sum over the person's current-job account plans; contributors only
+2019,median_employee_pct_of_pay,"workers with current-job account plan, all ages",6.0000,0.0000,2221,sum over the person's current-job account plans; contributors only
+2022,median_employee_pct_of_pay,"workers with current-job account plan, all ages",6.0000,0.0835,1716,sum over the person's current-job account plans; contributors only
+1989,mean_employee_pct_of_pay,"workers with current-job account plan, all ages",7.4485,0.3036,672,contributors only
+1992,mean_employee_pct_of_pay,"workers with current-job account plan, all ages",8.6908,0.3526,819,contributors only
+1995,mean_employee_pct_of_pay,"workers with current-job account plan, all ages",7.1707,0.1379,1239,contributors only
+1998,mean_employee_pct_of_pay,"workers with current-job account plan, all ages",7.4680,0.1404,1386,contributors only
+2001,mean_employee_pct_of_pay,"workers with current-job account plan, all ages",7.7067,0.1303,1540,contributors only
+2004,mean_employee_pct_of_pay,"workers with current-job account plan, all ages",7.9164,0.1548,1586,contributors only
+2007,mean_employee_pct_of_pay,"workers with current-job account plan, all ages",7.1314,0.1169,1648,contributors only
+2010,mean_employee_pct_of_pay,"workers with current-job account plan, all ages",6.8431,0.1409,2216,contributors only
+2013,mean_employee_pct_of_pay,"workers with current-job account plan, all ages",6.9212,0.1170,2069,contributors only
+2016,mean_employee_pct_of_pay,"workers with current-job account plan, all ages",7.2389,0.1022,2256,contributors only
+2019,mean_employee_pct_of_pay,"workers with current-job account plan, all ages",7.3259,0.1214,2221,contributors only
+2022,mean_employee_pct_of_pay,"workers with current-job account plan, all ages",7.6374,0.1577,1716,contributors only
+1989,mean_employer_pct_of_pay,"workers with current-job account plan, all ages",4.9984,0.3591,633,employee contributors; 0 where employer does not contribute
+1992,mean_employer_pct_of_pay,"workers with current-job account plan, all ages",5.9709,0.3271,748,employee contributors; 0 where employer does not contribute
+1995,mean_employer_pct_of_pay,"workers with current-job account plan, all ages",5.2436,0.2298,1150,employee contributors; 0 where employer does not contribute
+1998,mean_employer_pct_of_pay,"workers with current-job account plan, all ages",4.4564,0.1556,1299,employee contributors; 0 where employer does not contribute
+2001,mean_employer_pct_of_pay,"workers with current-job account plan, all ages",4.7126,0.1056,1470,employee contributors; 0 where employer does not contribute
+2004,mean_employer_pct_of_pay,"workers with current-job account plan, all ages",4.4804,0.1118,1586,employee contributors; 0 where employer does not contribute
+2007,mean_employer_pct_of_pay,"workers with current-job account plan, all ages",3.8406,0.0831,1640,employee contributors; 0 where employer does not contribute
+2010,mean_employer_pct_of_pay,"workers with current-job account plan, all ages",3.7220,0.0769,2224,employee contributors; 0 where employer does not contribute
+2013,mean_employer_pct_of_pay,"workers with current-job account plan, all ages",3.8816,0.0648,2073,employee contributors; 0 where employer does not contribute
+2016,mean_employer_pct_of_pay,"workers with current-job account plan, all ages",4.2882,0.0774,2262,employee contributors; 0 where employer does not contribute
+2019,mean_employer_pct_of_pay,"workers with current-job account plan, all ages",4.2280,0.0724,2222,employee contributors; 0 where employer does not contribute
+2022,mean_employer_pct_of_pay,"workers with current-job account plan, all ages",4.1337,0.0854,1717,employee contributors; 0 where employer does not contribute
+1989,mean_total_pct_of_pay,"workers with current-job account plan, all ages",12.5445,0.4615,633,employee + employer; employee contributors
+1992,mean_total_pct_of_pay,"workers with current-job account plan, all ages",14.6174,0.5482,748,employee + employer; employee contributors
+1995,mean_total_pct_of_pay,"workers with current-job account plan, all ages",12.3952,0.2923,1149,employee + employer; employee contributors
+1998,mean_total_pct_of_pay,"workers with current-job account plan, all ages",11.8153,0.2151,1297,employee + employer; employee contributors
+2001,mean_total_pct_of_pay,"workers with current-job account plan, all ages",12.3351,0.1780,1469,employee + employer; employee contributors
+2004,mean_total_pct_of_pay,"workers with current-job account plan, all ages",12.4004,0.2368,1571,employee + employer; employee contributors
+2007,mean_total_pct_of_pay,"workers with current-job account plan, all ages",10.9592,0.1491,1635,employee + employer; employee contributors
+2010,mean_total_pct_of_pay,"workers with current-job account plan, all ages",10.5474,0.1853,2203,employee + employer; employee contributors
+2013,mean_total_pct_of_pay,"workers with current-job account plan, all ages",10.8063,0.1493,2058,employee + employer; employee contributors
+2016,mean_total_pct_of_pay,"workers with current-job account plan, all ages",11.5010,0.1370,2245,employee + employer; employee contributors
+2019,mean_total_pct_of_pay,"workers with current-job account plan, all ages",11.5730,0.1622,2208,employee + employer; employee contributors
+2022,mean_total_pct_of_pay,"workers with current-job account plan, all ages",11.7709,0.1970,1706,employee + employer; employee contributors
+1989,mean_employee_pct_of_pay_capped25,"workers with current-job account plan, all ages",7.1854,0.2523,672,contributors; each person's rate capped at 25% of pay
+1992,mean_employee_pct_of_pay_capped25,"workers with current-job account plan, all ages",7.6074,0.1818,819,contributors; each person's rate capped at 25% of pay
+1995,mean_employee_pct_of_pay_capped25,"workers with current-job account plan, all ages",7.1109,0.1298,1239,contributors; each person's rate capped at 25% of pay
+1998,mean_employee_pct_of_pay_capped25,"workers with current-job account plan, all ages",7.4331,0.1370,1386,contributors; each person's rate capped at 25% of pay
+2001,mean_employee_pct_of_pay_capped25,"workers with current-job account plan, all ages",7.6606,0.1279,1540,contributors; each person's rate capped at 25% of pay
+2004,mean_employee_pct_of_pay_capped25,"workers with current-job account plan, all ages",7.8326,0.1473,1586,contributors; each person's rate capped at 25% of pay
+2007,mean_employee_pct_of_pay_capped25,"workers with current-job account plan, all ages",6.9980,0.1044,1648,contributors; each person's rate capped at 25% of pay
+2010,mean_employee_pct_of_pay_capped25,"workers with current-job account plan, all ages",6.7211,0.1302,2216,contributors; each person's rate capped at 25% of pay
+2013,mean_employee_pct_of_pay_capped25,"workers with current-job account plan, all ages",6.8184,0.1003,2069,contributors; each person's rate capped at 25% of pay
+2016,mean_employee_pct_of_pay_capped25,"workers with current-job account plan, all ages",7.0644,0.0947,2256,contributors; each person's rate capped at 25% of pay
+2019,mean_employee_pct_of_pay_capped25,"workers with current-job account plan, all ages",7.1636,0.0966,2221,contributors; each person's rate capped at 25% of pay
+2022,mean_employee_pct_of_pay_capped25,"workers with current-job account plan, all ages",7.2792,0.1215,1716,contributors; each person's rate capped at 25% of pay
+1989,mean_total_pct_of_pay_capped25,"workers with current-job account plan, all ages",11.6887,0.3379,633,"employee + employer, each capped at 25%"
+1992,mean_total_pct_of_pay_capped25,"workers with current-job account plan, all ages",12.7257,0.3225,748,"employee + employer, each capped at 25%"
+1995,mean_total_pct_of_pay_capped25,"workers with current-job account plan, all ages",12.0922,0.2567,1149,"employee + employer, each capped at 25%"
+1998,mean_total_pct_of_pay_capped25,"workers with current-job account plan, all ages",11.7590,0.2106,1297,"employee + employer, each capped at 25%"
+2001,mean_total_pct_of_pay_capped25,"workers with current-job account plan, all ages",12.2937,0.1743,1469,"employee + employer, each capped at 25%"
+2004,mean_total_pct_of_pay_capped25,"workers with current-job account plan, all ages",12.2959,0.2299,1571,"employee + employer, each capped at 25%"
+2007,mean_total_pct_of_pay_capped25,"workers with current-job account plan, all ages",10.8264,0.1420,1635,"employee + employer, each capped at 25%"
+2010,mean_total_pct_of_pay_capped25,"workers with current-job account plan, all ages",10.4231,0.1762,2203,"employee + employer, each capped at 25%"
+2013,mean_total_pct_of_pay_capped25,"workers with current-job account plan, all ages",10.6801,0.1338,2058,"employee + employer, each capped at 25%"
+2016,mean_total_pct_of_pay_capped25,"workers with current-job account plan, all ages",11.2520,0.1269,2245,"employee + employer, each capped at 25%"
+2019,mean_total_pct_of_pay_capped25,"workers with current-job account plan, all ages",11.3847,0.1396,2208,"employee + employer, each capped at 25%"
+2022,mean_total_pct_of_pay_capped25,"workers with current-job account plan, all ages",11.3563,0.1578,1706,"employee + employer, each capped at 25%"
+1989,agg_dc_employee_pct_of_current_wages,all families,2.7998,0.2292,3143,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+1992,agg_dc_employee_pct_of_current_wages,all families,3.2666,0.2433,3906,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+1995,agg_dc_employee_pct_of_current_wages,all families,3.1476,0.1158,4299,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+1998,agg_dc_employee_pct_of_current_wages,all families,3.3975,0.1183,4305,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+2001,agg_dc_employee_pct_of_current_wages,all families,3.7934,0.1395,4442,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+2004,agg_dc_employee_pct_of_current_wages,all families,4.2198,0.2551,4519,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+2007,agg_dc_employee_pct_of_current_wages,all families,3.9328,0.1616,4417,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+2010,agg_dc_employee_pct_of_current_wages,all families,3.7255,0.1318,6482,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+2013,agg_dc_employee_pct_of_current_wages,all families,3.7241,0.1191,6015,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+2016,agg_dc_employee_pct_of_current_wages,all families,3.9985,0.1277,6248,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+2019,agg_dc_employee_pct_of_current_wages,all families,4.0291,0.1164,5777,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+2022,agg_dc_employee_pct_of_current_wages,all families,4.3256,0.1700,4595,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+1989,agg_dc_total_pct_of_current_wages,all families,5.4436,0.3723,3143,"employee + employer / annualized current main-job pay, all R+spouse employees"
+1992,agg_dc_total_pct_of_current_wages,all families,6.0363,0.4176,3906,"employee + employer / annualized current main-job pay, all R+spouse employees"
+1995,agg_dc_total_pct_of_current_wages,all families,5.8314,0.1828,4299,"employee + employer / annualized current main-job pay, all R+spouse employees"
+1998,agg_dc_total_pct_of_current_wages,all families,5.7414,0.1880,4305,"employee + employer / annualized current main-job pay, all R+spouse employees"
+2001,agg_dc_total_pct_of_current_wages,all families,6.5164,0.2256,4442,"employee + employer / annualized current main-job pay, all R+spouse employees"
+2004,agg_dc_total_pct_of_current_wages,all families,6.9874,0.3065,4519,"employee + employer / annualized current main-job pay, all R+spouse employees"
+2007,agg_dc_total_pct_of_current_wages,all families,6.4729,0.2332,4417,"employee + employer / annualized current main-job pay, all R+spouse employees"
+2010,agg_dc_total_pct_of_current_wages,all families,6.4394,0.3474,6482,"employee + employer / annualized current main-job pay, all R+spouse employees"
+2013,agg_dc_total_pct_of_current_wages,all families,6.0730,0.1872,6015,"employee + employer / annualized current main-job pay, all R+spouse employees"
+2016,agg_dc_total_pct_of_current_wages,all families,6.6658,0.2009,6248,"employee + employer / annualized current main-job pay, all R+spouse employees"
+2019,agg_dc_total_pct_of_current_wages,all families,6.7429,0.1658,5777,"employee + employer / annualized current main-job pay, all R+spouse employees"
+2022,agg_dc_total_pct_of_current_wages,all families,6.9275,0.2296,4595,"employee + employer / annualized current main-job pay, all R+spouse employees"
+1989,agg_dc_total_pct_of_covered_pay,all families,12.8173,0.5887,826,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+1992,agg_dc_total_pct_of_covered_pay,all families,13.9509,0.8543,1008,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+1995,agg_dc_total_pct_of_covered_pay,all families,11.6757,0.3267,1342,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+1998,agg_dc_total_pct_of_covered_pay,all families,11.2410,0.2669,1444,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2001,agg_dc_total_pct_of_covered_pay,all families,12.1542,0.2680,1553,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2004,agg_dc_total_pct_of_covered_pay,all families,12.8433,0.4613,1618,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2007,agg_dc_total_pct_of_covered_pay,all families,11.5499,0.3522,1605,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2010,agg_dc_total_pct_of_covered_pay,all families,11.4580,0.5652,2168,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2013,agg_dc_total_pct_of_covered_pay,all families,10.8176,0.2966,2033,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2016,agg_dc_total_pct_of_covered_pay,all families,11.5432,0.3205,2176,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2019,agg_dc_total_pct_of_covered_pay,all families,11.5898,0.2690,2079,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2022,agg_dc_total_pct_of_covered_pay,all families,11.4944,0.3229,1581,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2016,pct_families_contributing_ira_prior_year,all families,8.9633,0.3946,6248,any family member contributed to an IRA in 2015 (X6791/X6793/X6795; excludes rollovers)
+2019,pct_families_contributing_ira_prior_year,all families,7.8100,0.2731,5777,any family member contributed to an IRA in 2018 (X6791/X6793/X6795; excludes rollovers)
+2022,pct_families_contributing_ira_prior_year,all families,10.2095,0.4235,4595,any family member contributed to an IRA in 2021 (X6791/X6793/X6795; excludes rollovers)
+2016,pct_families_contributing_dc_or_ira,all families,33.7019,0.4816,6248,DC (current) or IRA (prior calendar year)
+2019,pct_families_contributing_dc_or_ira,all families,33.4842,0.5139,5777,DC (current) or IRA (prior calendar year)
+2022,pct_families_contributing_dc_or_ira,all families,36.3115,0.6217,4595,DC (current) or IRA (prior calendar year)
+2016,agg_ira_contrib_pct_of_wageinc,all families,0.7997,0.0511,6248,"IRA contributions 2015 / family wage & salary income 2015 (X5702), all families"
+2019,agg_ira_contrib_pct_of_wageinc,all families,0.5994,0.0268,5777,"IRA contributions 2018 / family wage & salary income 2018 (X5702), all families"
+2022,agg_ira_contrib_pct_of_wageinc,all families,0.7797,0.0432,4595,"IRA contributions 2021 / family wage & salary income 2021 (X5702), all families"

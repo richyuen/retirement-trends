@@ -61,3 +61,6 @@ New Sections 19 Are workers ready for retirement? (Fig 36, 37, Table 14), 20 Deb
 
 ## 2026-10-06 v12
 Section 12 participation trend switched from BLS all-plans (48-53%, includes DB) to BLS DC-only (41% 2010, 47% 2019, 49% 2026; Fig 26 now DC access/participation 2010-2026), plus a sentence reconciling with recordkeeper rates (Vanguard HAS 2026 86% of eligible; survey take-up 72%). Summary finding 12-area text and Table 10 row updated, data-notes sentence added, ref psca-2026. Requested by Richard via the DC policy thread; reasoning in dc_policy/README.md.
+
+## 2026-10-06 v13
+New Section 13 How much goes in: contribution trends (Fig 28 share contributing: SCF families 25-64, W-2 deferrers, IRA taxpayers; Fig 29 percent of pay: SCF employee/employer, W-2, Vanguard; Fig 30 Form 5500 DC contributions % private wages + IRA % wages), from contributions/. Later sections renumbered +1, figures +3. Summary finding and data note added; refs bea-nipa, bls-ecec, dol-a4, irs-1040-hist (159 total). Published as artifact version 13.

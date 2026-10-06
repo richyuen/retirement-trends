@@ -1,0 +1,164 @@
+file,url,bytes,sha256_prefix
+cola.txt,,20815,0f02ea6cb583071a
+cola_prior_years.pdf,,157489,565bec57bc4a6ed8
+page_archive.html,,122002,4ac4cf51f56d6241
+page_cola.html,,109060,c6718f98736504ad
+page_soi-tax-stats-accumulation-and-distribution-of-individual-retirement-arrangements.html,,171801,f8b6ba25e8d14270
+page_soi-tax-stats-historical-data-tables.html,,122707,22a807b9abc1403a
+page_soi-tax-stats-historical-table-1.html,,103848,62b492e2681677fa
+page_soi-tax-stats-individual-information-return-form-w2-statistics.html,,107111,847839bd5b2a2db4
+page_soi-tax-stats-individual-statistical-tables-by-size-of-adjusted-gross-income.html,,249104,828b976894aa5d0c
+f1040/16in14ar.xls,https://www.irs.gov/pub/irs-soi/16in14ar.xls,106496,8603c52d89ceb5e8
+f1040/17in14ar.xls,https://www.irs.gov/pub/irs-soi/17in14ar.xls,108544,6407ea25a842d365
+f1040/17in33ar.xls,https://www.irs.gov/pub/irs-soi/17in33ar.xls,98304,aaeebf046a7402da
+f1040/18in14ar.xls,https://www.irs.gov/pub/irs-soi/18in14ar.xls,110080,214c998204871f8a
+f1040/18in33ar.xls,https://www.irs.gov/pub/irs-soi/18in33ar.xls,99328,cb11d2a6c5c2fa0b
+f1040/19in14ar.xls,https://www.irs.gov/pub/irs-soi/19in14ar.xls,104960,b72726fbbb0cf46c
+f1040/19in33ar.xls,https://www.irs.gov/pub/irs-soi/19in33ar.xls,90112,388a121d73f1dbad
+f1040/20in14ar.xls,https://www.irs.gov/pub/irs-soi/20in14ar.xls,106496,a9d32849a4cc3b1c
+f1040/20in33ar.xls,https://www.irs.gov/pub/irs-soi/20in33ar.xls,103424,7abb8cf1f6f124e1
+f1040/21in14ar.xls,https://www.irs.gov/pub/irs-soi/21in14ar.xls,105984,b2c44704feb0ce4a
+f1040/21in33ar.xls,https://www.irs.gov/pub/irs-soi/21in33ar.xls,113664,b8e3e7ca7bc048dc
+f1040/22in14ar.xls,https://www.irs.gov/pub/irs-soi/22in14ar.xls,115712,93811f816933d4ac
+f1040/22in33ar.xls,https://www.irs.gov/pub/irs-soi/22in33ar.xls,104960,f04012c527c5bf40
+f1040/23in14ar.xls,https://www.irs.gov/pub/irs-soi/23in14ar.xls,115712,b6c1f87fbb553341
+f1040/23in33ar.xls,https://www.irs.gov/pub/irs-soi/23in33ar.xls,105472,e749d3e9636d9784
+f1040/93in14si.xls,https://www.irs.gov/pub/irs-soi/93in14si.xls,159092,a65d321cc6590be6
+f1040/94in14si.xls,https://www.irs.gov/pub/irs-soi/94in14si.xls,136102,22c75609b66b1adb
+f1040/95in14ar.xls,https://www.irs.gov/pub/irs-soi/95in14ar.xls,186146,ea1e41aea20c44b1
+f1040/96in14si.xls,https://www.irs.gov/pub/irs-soi/96in14si.xls,176474,c1debb229c0aa704
+f1040/97in14.xls,https://www.irs.gov/pub/irs-soi/97in14.xls,138752,b3e5e520f7639aa2
+f1040/98in14ar.xls,https://www.irs.gov/pub/irs-soi/98in14ar.xls,209881,07f417dac7f97b8a
+f1040/99in14ar.xls,https://www.irs.gov/pub/irs-soi/99in14ar.xls,132899,8d1086ba2e1ed074
+f1040/histab1.xls,https://www.irs.gov/pub/irs-soi/histab1.xls,115712,70387157aefebcb0
+ira/00in01ir.xls,https://www.irs.gov/pub/irs-soi/00in01ir.xls,11956,0215f4b512790a9b
+ira/00in02ir.xls,https://www.irs.gov/pub/irs-soi/00in02ir.xls,267370,3efd2dd49e4081d7
+ira/00in03ir.xls,https://www.irs.gov/pub/irs-soi/00in03ir.xls,61896,f46a4950c8065a20
+ira/00in04ir.xls,https://www.irs.gov/pub/irs-soi/00in04ir.xls,12734,30c12e16db740ab8
+ira/00in05ir.xls,https://www.irs.gov/pub/irs-soi/00in05ir.xls,36168,1411b0314ee9dfa9
+ira/01in01ira.xls,https://www.irs.gov/pub/irs-soi/01in01ira.xls,20992,d4f8a5a8cf974ba1
+ira/01in02ira.xls,https://www.irs.gov/pub/irs-soi/01in02ira.xls,32256,6e32c0101e30441e
+ira/01in03ira.xls,https://www.irs.gov/pub/irs-soi/01in03ira.xls,33792,9fc1e9b470964a23
+ira/01in04ira.xls,https://www.irs.gov/pub/irs-soi/01in04ira.xls,23040,2d4c9b18d9d2e056
+ira/01in05ira.xls,https://www.irs.gov/pub/irs-soi/01in05ira.xls,29696,bb9a212e6d447c9b
+ira/02in06ira.xls,https://www.irs.gov/pub/irs-soi/02in06ira.xls,20992,5c37f45fa1101455
+ira/02in07ira.xls,https://www.irs.gov/pub/irs-soi/02in07ira.xls,24064,b000f06881992365
+ira/02in08ira.xls,https://www.irs.gov/pub/irs-soi/02in08ira.xls,29184,b8f5f744b65da50e
+ira/02in09ira.xls,https://www.irs.gov/pub/irs-soi/02in09ira.xls,21504,9b8d5b58d9cd0401
+ira/02in10ira.xls,https://www.irs.gov/pub/irs-soi/02in10ira.xls,23040,3c12124be08abc57
+ira/04in01ira.xls,https://www.irs.gov/pub/irs-soi/04in01ira.xls,18432,2b1a43c44e61c00b
+ira/04in04ira.xls,https://www.irs.gov/pub/irs-soi/04in04ira.xls,19456,06176462afbef1af
+ira/04in05ira.xls,https://www.irs.gov/pub/irs-soi/04in05ira.xls,18432,6c9f8008be23ff77
+ira/04in06ira.xls,https://www.irs.gov/pub/irs-soi/04in06ira.xls,18944,f59f61492bc50028
+ira/04in07ira.xls,https://www.irs.gov/pub/irs-soi/04in07ira.xls,17920,0bac2d95ed9fc61e
+ira/05in01ira.xls,https://www.irs.gov/pub/irs-soi/05in01ira.xls,31744,4b45b5caf0bebf12
+ira/05in04ira.xls,https://www.irs.gov/pub/irs-soi/05in04ira.xls,37888,1f158b31be7bdb4f
+ira/05in05ira.xls,https://www.irs.gov/pub/irs-soi/05in05ira.xls,34304,49a406ed5edaff67
+ira/05in06ira.xls,https://www.irs.gov/pub/irs-soi/05in06ira.xls,33792,8386b3a910b49c3b
+ira/06in01ira.xls,https://www.irs.gov/pub/irs-soi/06in01ira.xls,31232,fa4753510df0ce4f
+ira/06in04ira.xls,https://www.irs.gov/pub/irs-soi/06in04ira.xls,37376,505ccdc77c465289
+ira/06in05ira.xls,https://www.irs.gov/pub/irs-soi/06in05ira.xls,34816,3b1f3f0d270dd18a
+ira/06in06ira.xls,https://www.irs.gov/pub/irs-soi/06in06ira.xls,34304,b0efabc18d9b51a2
+ira/07in01ira.xls,https://www.irs.gov/pub/irs-soi/07in01ira.xls,31232,5673a8adf061e51a
+ira/07in04ira.xls,https://www.irs.gov/pub/irs-soi/07in04ira.xls,37376,ee56b676c34d4773
+ira/07in05ira.xls,https://www.irs.gov/pub/irs-soi/07in05ira.xls,34304,78b7ca42bf094e96
+ira/07in06ira.xls,https://www.irs.gov/pub/irs-soi/07in06ira.xls,34304,46e288d0a887c14f
+ira/08in01ira.xls,https://www.irs.gov/pub/irs-soi/08in01ira.xls,31232,4813cf723cc63dd7
+ira/08in04ira.xls,https://www.irs.gov/pub/irs-soi/08in04ira.xls,37888,a0b3968e8d981ffd
+ira/08in05ira.xls,https://www.irs.gov/pub/irs-soi/08in05ira.xls,34816,c4dded33e198d30e
+ira/08in06ira.xls,https://www.irs.gov/pub/irs-soi/08in06ira.xls,34816,abc669fe7783a21f
+ira/09in01ira.xls,https://www.irs.gov/pub/irs-soi/09in01ira.xls,40448,88ce3a4e52076fc4
+ira/09in04ira.xls,https://www.irs.gov/pub/irs-soi/09in04ira.xls,39424,509e27c4fae07d26
+ira/09in05ira.xls,https://www.irs.gov/pub/irs-soi/09in05ira.xls,36352,c78ba852cc56ba74
+ira/09in06ira.xls,https://www.irs.gov/pub/irs-soi/09in06ira.xls,40960,7ca3a6d3b09ac7cb
+ira/10in01ira.xls,https://www.irs.gov/pub/irs-soi/10in01ira.xls,38912,9d8f7db6f2853b9b
+ira/10in04ira.xls,https://www.irs.gov/pub/irs-soi/10in04ira.xls,44544,afeb692a1468ca56
+ira/10in05ira.xls,https://www.irs.gov/pub/irs-soi/10in05ira.xls,43520,51fe17c7daec7adb
+ira/10in06ira.xls,https://www.irs.gov/pub/irs-soi/10in06ira.xls,45056,ee12376fa6746607
+ira/11in01ira.xls,https://www.irs.gov/pub/irs-soi/11in01ira.xls,30720,353ca8636d4b1022
+ira/11in04ira.xls,https://www.irs.gov/pub/irs-soi/11in04ira.xls,33280,d3ec916c5bab2c10
+ira/11in05ira.xls,https://www.irs.gov/pub/irs-soi/11in05ira.xls,33792,94c355510db20134
+ira/11in06ira.xls,https://www.irs.gov/pub/irs-soi/11in06ira.xls,33792,3f773bc2b85d17c1
+ira/12in01ira.xls,https://www.irs.gov/pub/irs-soi/12in01ira.xls,39424,a42cbec2f565ada4
+ira/12in04ira.xls,https://www.irs.gov/pub/irs-soi/12in04ira.xls,49152,cf3dd5de2b9a5dec
+ira/12in05ira.xls,https://www.irs.gov/pub/irs-soi/12in05ira.xls,49152,576b983047ae76e5
+ira/12in06ira.xls,https://www.irs.gov/pub/irs-soi/12in06ira.xls,51200,0782d1e15ebaf8cb
+ira/13in01ira.xls,https://www.irs.gov/pub/irs-soi/13in01ira.xls,38912,fa09cb9f2af1492c
+ira/13in04ira.xls,https://www.irs.gov/pub/irs-soi/13in04ira.xls,41984,f957de9e9f88b72a
+ira/13in05ira.xls,https://www.irs.gov/pub/irs-soi/13in05ira.xls,44032,b931efbdcaa8fd46
+ira/13in06ira.xls,https://www.irs.gov/pub/irs-soi/13in06ira.xls,45056,cd094a5a597590a1
+ira/14in01ira.xls,https://www.irs.gov/pub/irs-soi/14in01ira.xls,38912,770eb3ab0ec98b8b
+ira/14in04ira.xls,https://www.irs.gov/pub/irs-soi/14in04ira.xls,40960,49744be26c3d6625
+ira/14in05ira.xls,https://www.irs.gov/pub/irs-soi/14in05ira.xls,44032,aeff425d04d32a82
+ira/14in06ira.xls,https://www.irs.gov/pub/irs-soi/14in06ira.xls,44032,a0fc395604233b9f
+ira/15in01ira.xls,https://www.irs.gov/pub/irs-soi/15in01ira.xls,37888,25d1758ee8ece099
+ira/15in04ira.xls,https://www.irs.gov/pub/irs-soi/15in04ira.xls,41472,a3f8b62198d58fd0
+ira/15in05ira.xls,https://www.irs.gov/pub/irs-soi/15in05ira.xls,34816,8325ec581ead1a72
+ira/15in06ira.xls,https://www.irs.gov/pub/irs-soi/15in06ira.xls,35328,ba658033f321234d
+ira/16in01ira.xls,https://www.irs.gov/pub/irs-soi/16in01ira.xls,36352,545f0b0d8c96fa3b
+ira/16in04ira.xls,https://www.irs.gov/pub/irs-soi/16in04ira.xls,40448,a6ae694c9ed06d28
+ira/16in05ira.xls,https://www.irs.gov/pub/irs-soi/16in05ira.xls,43520,2ad6d3dcd2884811
+ira/16in06ira.xls,https://www.irs.gov/pub/irs-soi/16in06ira.xls,43520,b012a58b1be550f7
+ira/17in01ira.xlsx,https://www.irs.gov/pub/irs-soi/17in01ira.xlsx,17946,f84d722909e7f8c7
+ira/17in04ira.xlsx,https://www.irs.gov/pub/irs-soi/17in04ira.xlsx,21113,30b523885f9c0ca7
+ira/17in05ira.xlsx,https://www.irs.gov/pub/irs-soi/17in05ira.xlsx,19293,4c63b7638200070e
+ira/17in06ira.xlsx,https://www.irs.gov/pub/irs-soi/17in06ira.xlsx,18974,ff5fc15e42b8b84f
+ira/17in08ira.xlsx,https://www.irs.gov/pub/irs-soi/17in08ira.xlsx,25126,2bfacd2bbfd79324
+ira/18in01ira.xlsx,https://www.irs.gov/pub/irs-soi/18in01ira.xlsx,17928,9381df24b88164f8
+ira/18in04ira.xlsx,https://www.irs.gov/pub/irs-soi/18in04ira.xlsx,21803,0b6fc337a781b5e3
+ira/18in05ira.xlsx,https://www.irs.gov/pub/irs-soi/18in05ira.xlsx,19237,2dbb97a7b7dccb30
+ira/18in06ira.xlsx,https://www.irs.gov/pub/irs-soi/18in06ira.xlsx,18879,dfc752fd10801864
+ira/18in08ira.xlsx,https://www.irs.gov/pub/irs-soi/18in08ira.xlsx,25067,cd154637c2a252ee
+ira/19in01ira.xlsx,https://www.irs.gov/pub/irs-soi/19in01ira.xlsx,12710,bec00a8193757d9e
+ira/19in04ira.xlsx,https://www.irs.gov/pub/irs-soi/19in04ira.xlsx,17071,216fd714ef486862
+ira/19in05ira.xlsx,https://www.irs.gov/pub/irs-soi/19in05ira.xlsx,13269,82e6115eb6e0fc07
+ira/19in06ira.xlsx,https://www.irs.gov/pub/irs-soi/19in06ira.xlsx,13360,6586e44743242084
+ira/19in08ira.xlsx,https://www.irs.gov/pub/irs-soi/19in08ira.xlsx,19946,06b239026d1860af
+ira/20in01ira.xlsx,https://www.irs.gov/pub/irs-soi/20in01ira.xlsx,15109,203dc0304386616a
+ira/20in04ira.xlsx,https://www.irs.gov/pub/irs-soi/20in04ira.xlsx,19472,36428d9fce46c23c
+ira/20in05ira.xlsx,https://www.irs.gov/pub/irs-soi/20in05ira.xlsx,13689,7b9e029086d13996
+ira/20in06ira.xlsx,https://www.irs.gov/pub/irs-soi/20in06ira.xlsx,13817,94b4868ae53bf691
+ira/20in08ira.xlsx,https://www.irs.gov/pub/irs-soi/20in08ira.xlsx,21731,1aab3674dba0b420
+ira/21in01ira.xlsx,https://www.irs.gov/pub/irs-soi/21in01ira.xlsx,14646,7ce8428885ebf5aa
+ira/21in04ira.xlsx,https://www.irs.gov/pub/irs-soi/21in04ira.xlsx,19433,564ffeeeee02728e
+ira/21in05ira.xlsx,https://www.irs.gov/pub/irs-soi/21in05ira.xlsx,13764,f06876d9bb717590
+ira/21in06ira.xlsx,https://www.irs.gov/pub/irs-soi/21in06ira.xlsx,13719,132beaf99e1c8e02
+ira/21in08ira.xlsx,https://www.irs.gov/pub/irs-soi/21in08ira.xlsx,22561,a130d986f7ba493f
+ira/22in01ira.xlsx,https://www.irs.gov/pub/irs-soi/22in01ira.xlsx,11337,b068afeb50f9a41d
+ira/22in04ira.xlsx,https://www.irs.gov/pub/irs-soi/22in04ira.xlsx,13747,b7196ed1618b9bcf
+ira/22in05ira.xlsx,https://www.irs.gov/pub/irs-soi/22in05ira.xlsx,11365,d4aa270c3f2a4219
+ira/22in06ira.xlsx,https://www.irs.gov/pub/irs-soi/22in06ira.xlsx,11697,6b3eb9a6623e315f
+ira/22in08ira.xlsx,https://www.irs.gov/pub/irs-soi/22in08ira.xlsx,85729,029b88a7cfc760f4
+ira/23in01ira.xlsx,https://www.irs.gov/pub/irs-soi/23in01ira.xlsx,11460,5716444ff8f28add
+ira/23in04ira.xlsx,https://www.irs.gov/pub/irs-soi/23in04ira.xlsx,13894,83a0da20618ecbdb
+ira/23in05ira.xlsx,https://www.irs.gov/pub/irs-soi/23in05ira.xlsx,11345,17b02670eeb35dab
+ira/23in06ira.xlsx,https://www.irs.gov/pub/irs-soi/23in06ira.xlsx,11380,b526e4d4163172ed
+ira/23in08ira.xlsx,https://www.irs.gov/pub/irs-soi/23in08ira.xlsx,14214,92d505742b2f1bf4
+w2/18inallw2.xls,https://www.irs.gov/pub/irs-soi/18inallw2.xls,3024896,2a584b7631f31b5b
+w2/19in01w2all.xlsx,https://www.irs.gov/pub/irs-soi/19in01w2all.xlsx,57040,f77bb00b148136ef
+w2/19in02w2all.xlsx,https://www.irs.gov/pub/irs-soi/19in02w2all.xlsx,74133,e86a001a4fad0f04
+w2/19in03w2all.xlsx,https://www.irs.gov/pub/irs-soi/19in03w2all.xlsx,81322,e0b7d993a0cd2b41
+w2/19in04w2all.xlsx,https://www.irs.gov/pub/irs-soi/19in04w2all.xlsx,25631,335e18419ab45eee
+w2/20in01w2all.xlsx,https://www.irs.gov/pub/irs-soi/20in01w2all.xlsx,56138,4830cc50a57a1f37
+w2/20in02w2all.xlsx,https://www.irs.gov/pub/irs-soi/20in02w2all.xlsx,74538,86ec8a90026aec76
+w2/20in03w2all.xlsx,https://www.irs.gov/pub/irs-soi/20in03w2all.xlsx,80364,9dbc223100119b2c
+w2/20in04w2all.xlsx,https://www.irs.gov/pub/irs-soi/20in04w2all.xlsx,25491,1178d77618cc1d2f
+(not kept) 75inar.pdf,https://www.irs.gov/pub/irs-soi/75inar.pdf,33490687,81c427a4bb841395
+(not kept) 76inar.pdf,https://www.irs.gov/pub/irs-soi/76inar.pdf,32881371,5d60ee5f9b7a8f60
+(not kept) 77inar.pdf,https://www.irs.gov/pub/irs-soi/77inar.pdf,35768556,bdbdd8d651606851
+(not kept) 78inar.pdf,https://www.irs.gov/pub/irs-soi/78inar.pdf,41505610,64a0a3fd6f593527
+(not kept) 79inar.pdf,https://www.irs.gov/pub/irs-soi/79inar.pdf,39965618,27f142dfae96c8eb
+(not kept) 80inar.pdf,https://www.irs.gov/pub/irs-soi/80inar.pdf,35973820,5872f82bc720141c
+(not kept) 81inar.pdf,https://www.irs.gov/pub/irs-soi/81inar.pdf,33845523,7d1dae2f277c6e56
+(not kept) 82inar.pdf,https://www.irs.gov/pub/irs-soi/82inar.pdf,26772550,30a2acf5ab68c208
+(not kept) 83inar.pdf,https://www.irs.gov/pub/irs-soi/83inar.pdf,20360045,ca4f1900cea68dc4
+(not kept) 84inar.pdf,https://www.irs.gov/pub/irs-soi/84inar.pdf,21916460,5b90c1553bec6793
+(not kept) 85inar.pdf,https://www.irs.gov/pub/irs-soi/85inar.pdf,43547958,11d7ef200448c600
+(not kept) 86inar.pdf,https://www.irs.gov/pub/irs-soi/86inar.pdf,25128638,aaab56e12d043151
+(not kept) 87inar.pdf,https://www.irs.gov/pub/irs-soi/87inar.pdf,23827742,6358f377f4476181
+(not kept) 88inar.pdf,https://www.irs.gov/pub/irs-soi/88inar.pdf,21714881,f671b79d8da3f4dc
+(not kept) 89inar.pdf,https://www.irs.gov/pub/irs-soi/89inar.pdf,19741125,d8e46cc880abfa52
+(not kept) 90inar.pdf,https://www.irs.gov/pub/irs-soi/90inar.pdf,18568185,be876989e332dbe4
+(not kept) 91inar.pdf,https://www.irs.gov/pub/irs-soi/91inar.pdf,20212483,c340085d48801a80
+(not kept) 92inar.pdf,https://www.irs.gov/pub/irs-soi/92inar.pdf,21822628,84d84e580f08d879
+(not kept) 93inar.pdf,https://www.irs.gov/pub/irs-soi/93inar.pdf,26769011,9d7cf6414155015f
