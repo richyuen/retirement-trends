@@ -58,3 +58,6 @@ New Sections 15 Working longer (Fig 31 LFPR by age), 16 Health care costs (Fig 3
 
 ## 2026-10-05 v11
 New Sections 19 Are workers ready for retirement? (Fig 36, 37, Table 14), 20 Debt and housing wealth (Fig 38), 21 Poverty among older Americans (Fig 39, 40, Table 15), 22 Decline of DB pensions (Fig 41), 23 Annuities and lifetime income (Fig 42), from readiness/, debt_housing/, poverty/, db_pensions/, annuities/. Summary findings 16-20, a lifetime-income watch item and three data-notes bullets added; 27 refs (154 total). Section 13 DB share reworded to two clean segments at the research thread's request. Published as artifact version 11.
+
+## 2026-10-06 v12
+Section 12 participation trend switched from BLS all-plans (48-53%, includes DB) to BLS DC-only (41% 2010, 47% 2019, 49% 2026; Fig 26 now DC access/participation 2010-2026), plus a sentence reconciling with recordkeeper rates (Vanguard HAS 2026 86% of eligible; survey take-up 72%). Summary finding 12-area text and Table 10 row updated, data-notes sentence added, ref psca-2026. Requested by Richard via the DC policy thread; reasoning in dc_policy/README.md.
