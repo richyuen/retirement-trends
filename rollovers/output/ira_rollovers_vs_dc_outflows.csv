@@ -1,0 +1,28 @@
+year,trad_ira_rollovers_bn,all_ira_rollovers_bn,bea_dc_outflows_bn,form5500_private_dc_benefits_bn,trad_pct_of_bea,trad_pct_of_form5500,age60plus_share_of_rollover_dollars,irs_series
+1996,114.0,,125.6,,90.8,,,ICI tabulation of IRS SOI
+1997,121.5,,147.0,,82.7,,,ICI tabulation of IRS SOI
+1998,160.0,,176.2,,90.8,,,ICI tabulation of IRS SOI
+1999,199.9,,213.0,,93.8,,,ICI tabulation of IRS SOI
+2000,225.6,,234.6,213.5,96.2,105.7,,ICI tabulation of IRS SOI
+2001,187.8,,201.3,182.2,93.3,103.1,,ICI tabulation of IRS SOI
+2002,204.4,,197.9,178.7,103.3,114.4,,ICI tabulation of IRS SOI
+2004,214.9,214.9,216.2,192.9,99.4,111.4,43.3,IRS SOI old method
+2005,228.5,228.5,243.9,218.0,93.7,104.8,46.5,IRS SOI old method
+2006,282.0,282.0,291.9,260.3,96.6,108.3,48.3,IRS SOI old method
+2007,316.6,316.6,332.0,294.1,95.4,107.7,49.1,IRS SOI old method
+2008,272.1,272.1,300.8,265.1,90.5,102.6,53.5,IRS SOI old method
+2009,257.3,264.3,274.5,241.4,93.7,106.6,54.1,IRS SOI old method
+2010,288.4,299.7,325.5,287.3,88.6,100.4,53.5,IRS SOI old method
+2011,297.5,305.3,339.6,299.3,87.6,99.4,55.7,IRS SOI old method
+2012,334.6,344.0,375.3,333.8,89.2,100.2,53.6,IRS SOI old method
+2013,393.4,404.1,430.9,385.9,91.3,102.0,55.9,IRS SOI old method
+2014,423.9,434.8,478.8,428.4,88.5,99.0,56.1,IRS SOI old method
+2015,459.9,472.6,500.3,450.6,91.9,102.1,56.3,IRS SOI old method
+2016,430.8,444.7,503.8,454.9,85.5,94.7,58.4,IRS SOI old method
+2017,463.0,478.0,547.2,494.0,84.6,93.7,59.9,IRS SOI old method
+2018,516.7,533.8,609.7,550.7,84.8,93.8,62.7,IRS SOI old method
+2019,535.7,554.4,664.0,599.1,80.7,89.4,62.7,IRS SOI old method
+2020,594.8,618.4,778.4,703.6,76.4,84.5,62.4,IRS SOI old method
+2021,706.0,740.3,860.0,776.9,82.1,90.9,61.6,IRS SOI old method
+2022,635.9,664.3,793.7,716.0,80.1,88.8,63.3,IRS SOI new method (break)
+2023,652.8,682.4,874.1,783.7,74.7,83.3,66.1,IRS SOI new method (break)

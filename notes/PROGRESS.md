@@ -67,3 +67,6 @@ New Section 13 How much goes in: contribution trends (Fig 28 share contributing:
 
 ## 2026-10-06 v14
 Richard asked whether Figs 29 and 30 are comparable. They are not in level: Fig 29 is rates among contributors (own pay), Fig 30 aggregate contributions over all wages. Captions now say so, and Section 13 adds a bridge (W-2: 6.5%->6.7% of deferrers pay x deferrers 55%->67% of wages = 3.6%->4.5% of all wages). Fig 29 caption also corrected: SCF rates are among contributors, not all workers with a plan.
+
+## 2026-10-06 v15
+Section 8 gets 'Is the share of plan money rolled over falling?' with Fig 14 rollshare (IRS trad-IRA rollovers / BEA DC outflows 93-99% 1999-2007 -> 75-82% 2019-2023; / Form 5500 private DC benefits), Vanguard 60+ cohort shift (Fig 8: rolled 66%->45% of assets, in plan 16%->46%), and 60-64 rollovers per 100 IRA holders flat ~10. Summary finding on staying in plan extended. Later figures +1.
