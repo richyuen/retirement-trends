@@ -70,3 +70,6 @@ Richard asked whether Figs 29 and 30 are comparable. They are not in level: Fig 
 
 ## 2026-10-06 v15
 Section 8 gets 'Is the share of plan money rolled over falling?' with Fig 14 rollshare (IRS trad-IRA rollovers / BEA DC outflows 93-99% 1999-2007 -> 75-82% 2019-2023; / Form 5500 private DC benefits), Vanguard 60+ cohort shift (Fig 8: rolled 66%->45% of assets, in plan 16%->46%), and 60-64 rollovers per 100 IRA holders flat ~10. Summary finding on staying in plan extended. Later figures +1.
+
+## 2026-10-07 v16
+Richard asked for an organization pass and chose Publish. Report regrouped into 7 labeled parts, 26 sections (old Section 11 merged into 7, duplicate TSP 2012 story told once; Section 7 annuity paragraph moved to annuities). Contributions and readiness now precede the laws scorecard; Social Security, DB and annuities join income; longevity, work, health, LTC grouped. Summary findings and data notes reordered; all cross-references remapped. See notes/reorg_proposal_v16.md.

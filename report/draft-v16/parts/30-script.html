@@ -1,0 +1,666 @@
+<script>
+(function(){
+'use strict';
+var NS='http://www.w3.org/2000/svg';
+var RM=!!(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches);
+function S(tag,a,p,t){var e=document.createElementNS(NS,tag);if(a)for(var k in a)if(a[k]!=null)e.setAttribute(k,a[k]);if(t!=null)e.textContent=t;if(p)p.appendChild(e);return e}
+function H(tag,a,p,t){var e=document.createElement(tag);if(a)for(var k in a)if(a[k]!=null){if(k==='class')e.className=a[k];else e.setAttribute(k,a[k])}if(t!=null)e.textContent=t;if(p)p.appendChild(e);return e}
+function pct(d){return function(v){return (+v).toFixed(d||0)+'%'}}
+function usd0(v){return '$'+Math.round(v)+'B'}
+function usd1(v){return '$'+(+v).toFixed(1)+'B'}
+function Y(a,b){var r=[];for(var i=a;i<=b;i++)r.push(String(i));return r}
+function ticks(max,n){var raw=max/n,p=Math.pow(10,Math.floor(Math.log(raw)/Math.LN10)),c=[1,2,2.5,5,10],s=10*p;for(var i=0;i<c.length;i++){if(c[i]*p>=raw-1e-9){s=c[i]*p;break}}var o=[];for(var v=0;v<=max+1e-9;v+=s)o.push(+v.toFixed(6));return o}
+function tween(ms,fn,done){if(RM){fn(1);if(done)done();return}var t0=null;function f(now){if(t0==null)t0=now;var t=Math.min(1,(now-t0)/ms),e=1-Math.pow(1-t,3);fn(e);if(t<1)requestAnimationFrame(f);else if(done)done()}requestAnimationFrame(f)}
+
+/* ---------- sources ---------- */
+var REFS={
+'ici-survey':['Investment Company Institute','“The Role of IRAs in US Households’ Saving for Retirement, 2025,” ICI Research Perspective 32, no. 7, June 2026, and appendix data file (Figures A24–A31).','https://www.ici.org/system/files/2026-06/per32-07.pdf'],
+'ici-survey-2024':['Investment Company Institute','“The Role of IRAs in US Households’ Saving for Retirement, 2024,” ICI Research Perspective 31, no. 2, 2025.','https://www.ici.org/files/2025/per31-02.pdf'],
+'ici-survey-2023':['Investment Company Institute','“The Role of IRAs in US Households’ Saving for Retirement, 2023,” ICI Research Perspective 30, no. 1, February 2024.','https://www.ici.org/files/2024/per30-01.pdf'],
+'ici-db-2023':['Investment Company Institute','“The IRA Investor Profile: Traditional IRA Investors’ Activity, 2023,” and data file (Figures A.11–A.16, A.26).','https://www.ici.org/system/files/2026-03/26-rpt-ira-traditional.pdf'],
+'ici-db-2020':['Investment Company Institute','“The IRA Investor Profile: Traditional IRA Investors’ Activity, 2010–2020,” 2024.','https://www.ici.org/files/2024/24-rpt-ira-traditional.pdf'],
+'ici-db-2018':['Investment Company Institute','“The IRA Investor Profile: Traditional IRA Investors’ Activity, 2010–2018,” August 2021.','https://www.ici.org/files/2021/21_rpt_ira_traditional.pdf'],
+'ici-db-2016':['Investment Company Institute','“The IRA Investor Profile: Traditional IRA Investors’ Activity, 2007–2016,” and earlier annual editions (2007–2011 through 2007–2015).','https://www.ici.org/pubfile_pdf/rpt_18_ira_traditional.pdf'],
+'ici-roth-2020':['Investment Company Institute','“The IRA Investor Profile: Roth IRA Investors’ Activity, 2010–2020,” 2024.','https://www.ici.org/files/2024/24-rpt-ira-roth.pdf'],
+'ici-rec':['Investment Company Institute','“Defined Contribution Plan Participants’ Activities, 2022” (recordkeeper survey).','https://ici-dev.ici.org/files/2023/22-rpt-recsurveyq4.pdf'],
+'ici-2009':['Sabelhaus, J., and D. Schrass','“The Evolving Role of IRAs in U.S. Retirement Planning,” ICI Research Perspective 15, no. 3, November 2009.','https://ici-dev.ici.org/pdf/per15-03.pdf'],
+'ebri-2013':['Copeland, C.','“IRA Withdrawals in 2013 and Longitudinal Results 2010–2013,” EBRI Notes 36, no. 7, July 2015.','https://www.ebri.org/docs/default-source/ebri-pnotes/ebri_notes_07_july15_iras-cehcs.pdf?sfvrsn=1cd292f_2'],
+'ebri-2011':['Copeland, C.','“IRA Withdrawals, 2011,” EBRI Notes 35, no. 2, February 2014.','https://www.ebri.org/docs/default-source/ebri-pnotes/ebri_notes_02_feb-14_iras-hsas.pdf?sfvrsn=8e25362f_4'],
+'ebri-db':['Employee Benefit Research Institute','EBRI IRA Database: annual updates for 2014–2017 and longitudinal studies 2010–2016 (public summaries).','https://www.ebri.org/retirement/ira-database'],
+'ebri-long':['Employee Benefit Research Institute','“Consistent IRA Ownership” (infographic from Issue Brief no. 462), February 2019.','https://www.ebri.org/docs/default-source/infographics/20_ig-ira-long-14feb19.pdf?sfvrsn=b5093f2f_6'],
+'ebri-jpm':['Employee Benefit Research Institute and J.P. Morgan Asset Management','“New Combined Dataset Reveals Unique Insights Into Income and Spending in Retirement” (summary of “Mystery No More”).','https://www.ebri.org/content/new-combined-dataset-reveals-unique-insights-into-income-and-spending-in-retirement'],
+'ebri-hrs':['Employee Benefit Research Institute','“IRA Withdrawal Patterns in Times of Crisis” (Health and Retirement Study tabulations).','https://www.ebri.org/retirement/content/ira-withdrawal-patterns-in-times-of-crisis-ig'],
+'ebri-age':['American Society of Pension Professionals and Actuaries','“RMDs a Default Withdrawal Strategy Regardless of SECURE 2.0, Study Says” (report on an EBRI study), March 2025.','https://www.asppa-net.org/news/2025/3/rmds-a-default-withdrawal-strategy-regardless-of-secure-2.0-study-says'],
+'ebri-447':['Banerjee, S.','“Asset Decumulation or Asset Preservation? What Guides Retirement Spending?” EBRI Issue Brief no. 447, 2018 (public summary).','https://www.ebri.org/content/asset-decumulation-or-asset-preservation-what-guides-retirement-spending'],
+'ebri-lsd':['Copeland, C.','“Lump-Sum Distributions at Job Change, Distributions Through 2012,” EBRI Notes 34, no. 11, November 2013.','https://www.shrm.org/content/dam/en/shrm/topics-tools/news/benefits-compensation/EBRI_Notes_11_Nov-13_LSDs-WBS.pdf'],
+'ebri-hrs-age':['PLANADVISER','“Accumulation’s Done; Now What?” (report on EBRI analysis of HRS withdrawal data).','https://www.planadviser.com/accumulations-done-now-what/'],
+'banerjee-dol':['Banerjee, S.','Statement to the ERISA Advisory Council on facilitating lifetime plan participation, June 2014 (HRS 2008 and 2010).','https://www.dol.gov/sites/dolgov/files/EBSA/about-ebsa/about-us/erisa-advisory-council/2014-facilitating-lifetime-plan-participation-banerjee-06-17.pdf'],
+'irs-soi':['Internal Revenue Service, Statistics of Income','“Accumulation and Distribution of Individual Retirement Arrangements,” Tables 1 and 4, tax years 2004–2023.','https://www.irs.gov/statistics/soi-tax-stats-accumulation-and-distribution-of-individual-retirement-arrangements'],
+'irs-2010':['Bryant, V., and J. Gober','“Accumulation and Distribution of Individual Retirement Arrangements, 2010,” SOI Bulletin, Fall 2013.','https://www.irs.gov/pub/irs-soi/13inirafallbul.pdf'],
+'irs-2002':['Internal Revenue Service, Statistics of Income','“Accumulation and Distribution of Individual Retirement Arrangements, 2001–2002,” SOI Bulletin.','https://www.irs.gov/pub/irs-soi/02iraart.pdf'],
+'irs-1040':['Internal Revenue Service, Statistics of Income','Publication 4801, Individual Income Tax Returns Line Item Estimates, and Publication 1304 (tax years 2017–2023); taxable IRA distributions for 1999–2016 via FRED series TIRADTSA.','https://www.irs.gov/pub/irs-pdf/p4801.pdf'],
+'irs-ult':['Internal Revenue Service','26 CFR 1.401(a)(9)-9, Uniform Lifetime Table (current), and Publication 590-B (2019), Appendix B (prior table).','https://www.law.cornell.edu/cfr/text/26/1.401(a)(9)-9'],
+'irs-590b-2020':['Internal Revenue Service','Publication 590-B (2020), Distributions from Individual Retirement Arrangements.','https://www.irs.gov/pub/irs-prior/p590b--2020.pdf'],
+'crs-rmd':['Congressional Research Service','“Required Minimum Distributions from Retirement Accounts,” In Focus IF12750, August 2024.','https://www.everycrsreport.com/reports/IF12750.html'],
+'crs-early':['Congressional Research Service','“Individual Retirement Accounts and 401(k) Plans: Early Withdrawals and Required Distributions,” RL31770.','https://www.everycrsreport.com/reports/RL31770.html'],
+'fr-rmd':['Internal Revenue Service','“Required Minimum Distributions,” T.D. 10001, Federal Register, July 19, 2024.','https://www.federalregister.gov/documents/2024/07/19/2024-14542/required-minimum-distributions'],
+'crs-scf':['Myers, E.','“Distribution of Retirement Account Balances: Analysis of the 2022 Survey of Consumer Finances,” CRS In Focus IF12928, February 2025.','https://www.everycrsreport.com/reports/IF12928.html'],
+'crs-hrs':['Congressional Research Service','“Income for the Population Ages 65 and Older: Evidence from the Health and Retirement Study,” R47341, updated August 2025.','https://www.everycrsreport.com/reports/R47341.html'],
+'mortenson':['Mortenson, J., H. Schramm, and A. Whitten','“The Effects of Required Minimum Distribution Rules on Withdrawals from Traditional IRAs,” National Tax Journal 72, no. 3, 2019 (working paper version).','https://conference.nber.org/conf_papers/f85635/f85635.pdf'],
+'bpr-2009':['Brown, J., J. Poterba, and D. Richardson','“Do Required Minimum Distribution Rules Matter? The Effect of the 2009 Holiday on Retirement Plan Distributions,” NBER Working Paper 20464.','https://www.nber.org/system/files/working_papers/w20464/w20464.pdf'],
+'tiaa':['Brown, J., J. Poterba, and D. Richardson','“Trends in Retirement and Retirement Income Choices by TIAA Participants: 2000–2018,” NBER Working Paper 29946.','https://www.nber.org/papers/w29946'],
+'pvw':['Poterba, J., S. Venti, and D. Wise','“The Drawdown of Personal Retirement Assets,” NBER Working Paper 16675.','https://www.nber.org/papers/w16675'],
+'stuart':['Stuart, E., and V. Bryant','“The Impact of Withdrawal Penalties on Retirement Savings.”','https://www.aeaweb.org/conference/2022/preliminary/paper/7e3b6nQN'],
+'coile':['Coile, C., and K. Milligan','“How Household Portfolios Evolve After Retirement: The Effect of Aging and Health Shocks,” NBER Working Paper 12391.','https://www.nber.org/papers/w12391.pdf'],
+'hrs-cohort':['Armour, P., M. Hurd, and S. Rohwedder','“Trends in Pension Cash-out at Job Separation and the Effects on Long-term Outcomes,” NBER chapter (Tables 1.4A and 1.4B).','https://www.nber.org/chapters/c13635.pdf'],
+'bee':['Bee, A., and J. Mitchell','“Do Older Americans Have More Income Than We Think?” Census Bureau SEHSD Working Paper 2017-39.','https://www.census.gov/content/dam/Census/library/working-papers/2017/demo/SEHSD-WP2017-39.pdf'],
+'crr':['Chen, A., A. Munnell, and G. Sanzenbacher','“How Much Income Do Retirees Actually Have? Evaluating the Evidence from Five National Datasets,” Center for Retirement Research Issue in Brief 18-20, November 2018.','https://crr.bc.edu/wp-content/uploads/2018/11/IB_18-20.pdf'],
+'dushi':['Dushi, I., and B. Trenkamp','“Improving the Measurement of Retirement Income of the Aged Population,” Social Security Administration ORES Working Paper 116, 2021.','https://www.ssa.gov/policy/docs/workingpapers/wp116.html'],
+'semega':['Semega, J., and E. Welniak','“The Effects of the Changes to the Current Population Survey Annual Social and Economic Supplement on Estimates of Income,” Census Bureau, 2015.','https://www.census.gov/content/dam/Census/library/working-papers/2015/DEMO/ASSA-Income-CPSASEC-Red.pdf'],
+'rothbaum':['Rothbaum, J.','“Processing Changes to Income in the CPS ASEC,” Census Bureau SEHSD Working Paper 2019-18.','https://census.gov/content/dam/Census/library/working-papers/2019/demo/sehsd-wp2019-18.pdf'],
+'ssa-shift':['Anguelov, C., H. Iams, and P. Purcell','“Shifting Income Sources of the Aged,” Social Security Bulletin 72, no. 3, 2012.','https://www.ssa.gov/policy/docs/ssb/v72n3/v72n3p59.html'],
+'sipp-2022':['Scherer, Z.','“Retirement Income: 2022,” Census Bureau fact sheet P70FS-207, January 2025.','https://www.census.gov/content/dam/Census/library/factsheets/2025/demo/p70fs-207.pdf'],
+'blackrock':['BlackRock Retirement Institute and EBRI','“Spending Retirement Assets… or Not?” research summary (“Decumulation Challenges and Potential Solutions”), 2018.','https://www.irionline.org/wp-content/uploads/legacy/research/blackrock_061318.pdf?sfvrsn=0'],
+'vg-2013':['Tilson, J., S. Utkus, and J. Young (Vanguard)','“Retirement Distribution Decisions Among DC Participants,” December 2013.','https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/documents/2013%20Vanguard%20RetirementDistribution%20Report.pdf'],
+'vg-2023':['Vanguard','“Retirement Distribution Decisions Among DC Participants,” 2023 update.','https://workplace.vanguard.com/content/dam/inst/iig-transformation/insights/pdf/2023/Retirement-distribution-decisions-among-dc-participants.pdf'],
+'vg-har':['Vanguard','How America Retires 2025, November 2025.','https://www.nrmlaonline.org/wp-content/uploads/2025/11/2025_How_America_Retires_Report.pdf'],
+'vg-has':['Vanguard','How America Saves 2026, and earlier editions.','https://workplace.vanguard.com/content/dam/inst/iig-transformation/has/2026/pdf/HowAmericaSaves2026.pdf'],
+'vg-rmd':['Reed, A., and L. Goodman (Vanguard)','“How Costly Are Missed RMDs?” December 2025.','https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/how-costly-are-missed-rmds.html'],
+'trp':['T. Rowe Price','Reference Point, Midyear 2024.','https://www.troweprice.com/content/dam/retirement-plan-services/pdfs/insights/ReferencePoint_Midyear_2024.pdf'],
+'trp-income':['T. Rowe Price','“It’s Time to Get Serious About Retirement Income Solutions.”','https://www.troweprice.com/content/dam/retirement-plan-services/pdfs/insights/investment-insights/Retirement%20Income%20-%20It%E2%80%99s%20Time%20to%20Get%20Serious%20About%20Retirement%20Income%20Solutions.pdf'],
+'alight':['Alight Solutions','“Distributions from Defined Contribution Plans,” 2019 (participants who left in 2008–2017).','https://alight.com/getmedia/a1bec28c-e250-48ee-aece-793efa393fda/distributions-from-dc-plans.pdf'],
+'aon-2011':['Aon Hewitt','“Leakage of Participants’ DC Assets: How Loans, Withdrawals, and Cashouts Are Eroding Retirement Income,” 2011.','https://www.aon.com/attachments/thought-leadership/survey_asset_leakage.pdf'],
+'jct':['American Society of Pension Professionals and Actuaries','“RMDs Driven by Income Level, JCT Study Finds” (report on a Joint Committee on Taxation staff study), February 2019.','https://www.asppa-net.org/news/2019/2/rmds-driven-income-level-jct-study-finds'],
+'psca':['Plan Sponsor Council of America','“Vanguard Annual Report Highlights Importance of Decumulation,” November 2025.','https://www.psca.org/news/psca-news/2025/11/vanguard-annual-report-highlights-importance-of-decumulation/'],
+'planadviser-2019':['PLANADVISER','“Retirement Plans Start to Think About How to Produce Retirement Income.”','https://www.planadviser.com/retirement-plans-start-think-produce-retirement-income/'],
+'aon':['Aon Hewitt','Statement to the ERISA Advisory Council on facilitating lifetime plan participation, June 2014.','https://www.dol.gov/sites/default/files/ebsa/about-ebsa/about-us/erisa-advisory-council/2014-facilitating-lifetime-plan-participation-austin-06-17.pdf'],
+'fidelity':['Fidelity Investments','Q4 2023 Retirement Analysis.','https://about.fidelity.com/data-and-insights/q4-2023-retirement-analysis'],
+'tsp-2012':['Federal Retirement Thrift Investment Board','Board memorandum on post-separation withdrawal activity, July 2015 (participants who separated in 2012).','https://oversightdemocrats.house.gov/sites/evo-subsites/democrats-oversight.house.gov/files/documents/FRTIB%20MM-2015Jul-Att7.pdf'],
+'tsp-metrics':['Federal Retirement Thrift Investment Board','Quarterly metrics reports, fiscal 2022 to fiscal 2026.','https://www.frtib.gov/pdf/minutes/2026/May/att4-FRTIB%20FY26%20Q2%20Metrics%20Report%20May%202026.pdf'],
+'gao':['Government Accountability Office','“401(k) Plans: DOL Could Take Steps to Improve Retirement Income Options for Plan Participants,” GAO-16-433, 2016.','https://www.gao.gov/products/gao-16-433'],
+'dol-5500':['Department of Labor, Employee Benefits Security Administration','Private Pension Plan Bulletin: Abstract of Form 5500 Annual Reports, plan years 2000–2023 (Table A1).','https://www.dol.gov/sites/dolgov/files/ebsa/researchers/statistics/retirement-bulletins/private-pension-plan-bulletins-abstract-2023.pdf'],
+'bea':['Bureau of Economic Analysis','Defined contribution pension plans: benefit payments and withdrawals (FRED series Y353RC1A027NBEA).','https://fred.stlouisfed.org/series/Y353RC1A027NBEA'],
+'limra':['PLANSPONSOR','“US Rollover Market Expected to Jump 34% by 2030” (LIMRA estimates and projections).','https://www.plansponsor.com/us-rollover-market-expected-to-jump-34-by-2030/'],
+'cerulli':['Cerulli Associates','“Regulation May Impact Advisor-Intermediated Rollovers from Defined Contribution Plans” (press release).','https://www.cerulli.com/press-releases/regulation-may-impact-advisor-intermediated-rollovers-from-defined-contribution-plans'],
+'tsp-minutes':['Federal Retirement Thrift Investment Board','Board meeting minutes and quarterly performance and metrics reports, fiscal 2015–2021, including the corrected retention values of November 2016.','https://minutes.frtib.gov/'],
+'tsp-stats':['Federal Retirement Thrift Investment Board','Thrift Savings Fund statistics and Participant Activity Reports (historical plan participation), 2013–2026, and TSP annual reports for 2011 and 2012.','https://www.frtib.gov/pdf/minutes/2026/Jan/Att1-FRTIB-Participant-Activity-Report-January-2026.pdf'],
+'dol-5500-abs':['Department of Labor, Employee Benefits Security Administration','Private Pension Plan Bulletin: Abstract of Form 5500 Annual Reports, plan years 1999–2023 (number of participants by type of plan and type of participant).','https://www.dol.gov/agencies/ebsa/researchers/statistics/retirement-bulletins/private-pension-plan-bulletins-abstract-of-form-5500-annual-reports'],
+'ebri-hrs':['Banerjee, S. (EBRI)','“Disposition of DC Accounts: Who Rolls Over into an IRA? Who Leaves Money in the Plan and Who Withdraws Cash?” Statement to the ERISA Advisory Council, June 2014 (HRS 2008 and 2010).','https://www.dol.gov/sites/dolgov/files/EBSA/about-ebsa/about-us/erisa-advisory-council/2014-facilitating-lifetime-plan-participation-banerjee-06-17.pdf'],
+'scf-micro':['Board of Governors of the Federal Reserve System','Survey of Consumer Finances, public data: summary extract files, full public datasets and replicate weights, 2004–2022 waves, with the Federal Reserve’s Bulletin variable macro. Tabulated for this report, October 2026.','https://www.federalreserve.gov/econres/scfindex.htm'],
+'cps-micro':['US Census Bureau','Current Population Survey Annual Social and Economic Supplement, public-use files 2010–2026, including the 2014 split-sample files, the 2017 research file and the 2018 bridge file. Tabulated for this report, October 2026.','https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html'],
+'fed-scf-2023':['Aladangady, A., et al.','“Changes in U.S. Family Finances from 2019 to 2022: Evidence from the Survey of Consumer Finances,” Federal Reserve Board, October 2023.','https://www.federalreserve.gov/publications/files/scf23.pdf'],
+'census-pinc09':['US Census Bureau','PINC-09, Source of Income: Number with Income and Mean Income of Specified Type, by age (CPS ASEC detailed income tables).','https://www.census.gov/data/tables/time-series/demo/income-poverty/cps-pinc/pinc-09.html'],
+'sipp-micro':['US Census Bureau','Survey of Income and Program Participation, public-use files: 1996, 2001, 2004 and 2008 panels, 2014 panel and 2018–2025 files, with replicate weights. Tabulated for this report, October 2026.','https://www.census.gov/programs-surveys/sipp/data/datasets.html'],
+'nber-sipp96':['National Bureau of Economic Research','SIPP 1996 panel data dictionaries for the Census longitudinally edited core files (sip96l1.dct; the same layout for waves 1–12).','https://data.nber.org/sipp/1996/'],
+'irs-whatsnew':['Internal Revenue Service, Statistics of Income','“SOI Tax Stats – What’s New” (June 2026 entry on IRA data for tax years 2022 and 2023 under a revised methodology), and IRA landing page.','https://www.irs.gov/statistics/soi-tax-stats-whats-new'],
+'ici-retmkt':['Investment Company Institute','“The US Retirement Market, Second Quarter 2026,” data file, Tables 1 and 11, September 2026.','https://www.ici.org/statistical-report/ret_26_q2_data.xls'],
+'cea':['Council of Economic Advisers','“The Retirement Security Rule” (Cerulli estimate of 2022 rollovers), October 2023.','https://bidenwhitehouse.archives.gov/cea/written-materials/2023/10/31/retirement-rule'],
+'madrian-shea':['Madrian, B., and D. Shea','“The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior,” NBER Working Paper 7682, 2000.','https://www.nber.org/papers/w7682'],
+'choi-2024':['Choi, J., D. Laibson, J. Cammarota, R. Lombardo, and J. Beshears','“Smaller than We Thought? The Effect of Automatic Savings Policies,” NBER Working Paper 32828, 2024.','https://www.nber.org/papers/w32828'],
+'frtib-behavior':['Federal Retirement Thrift Investment Board','Participant Behavior and Demographics reports, 2012–2023 editions, and TSP Annual Report 2025.','https://www.frtib.gov/pdf/reading-room/SurveysPart/behavior/Participant-Behavior-and-Demographics-2019-2023.pdf'],
+'dol-5500-data':['Department of Labor, Employee Benefits Security Administration','Form 5500 public datasets, filing years 2010–2025 (automatic-enrollment feature codes; computed for this report).','https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/public-disclosure/foia/form-5500-datasets'],
+'bls-ncs':['Bureau of Labor Statistics','National Compensation Survey, Employee Benefits in the United States, private industry, March 2009–2026.','https://www.bls.gov/ebs/'],
+'cri-states':['Georgetown University Center for Retirement Initiatives','State auto-IRA program tracker and monthly program data, 31 August 2026.','https://cri.georgetown.edu/states/'],
+'bloomfield-2025':['Bloomfield, A., L. Goodman, N. Rao, and S. Slavov','State auto-IRA mandates and employer plan formation, NBER Working Paper 32817 (Journal of Public Economics, 2025).','https://www.nber.org/papers/w32817'],
+'cri-credits':['Bloomfield, A., L. Goodman, S. Ramnath, and S. Slavov','Take-up of the small-employer retirement plan startup credit, Georgetown Center for Retirement Initiatives, July 2025.','https://cri.georgetown.edu/wp-content/uploads/2025/07/Bloomfield-Goodman-Ramnath-Slavov-2025-Georgetown-CRI.pdf'],
+'goodman-2022':['Goodman, L., A. Mukherjee, and S. Ramnath','Automatic IRA rollovers of small plan balances, Federal Reserve Bank of Chicago Working Paper 2022-50.','https://www.chicagofed.org/-/media/publications/working-papers/2022/wp2022-50-pdf.pdf?sc_lang=en'],
+'irs-penalty':['Internal Revenue Service, Statistics of Income','Individual Complete Report, Table 3.3 (additional tax on qualified retirement plans), tax years 2002–2023 (computed).','https://www.irs.gov/pub/irs-soi/23in33ar.xls'],
+'bls-ce':['Bureau of Labor Statistics','Consumer Expenditure Surveys, tables by age of reference person, 1984–2024 (LABSTAT cx series), deflated with the CPI-U.','https://download.bls.gov/pub/time.series/cx/'],
+'hurd-2022':['Rohwedder, S., M. Hurd, and P. Hudomiet','“Explanations for the Decline in Spending at Older Ages,” NBER Working Paper 30460, 2022.','https://www.nber.org/papers/w30460'],
+'crr-2121':['Chen, A., and A. Munnell','“Do Retirees Want to Consume More, Less, or the Same as They Age?” Center for Retirement Research Issue Brief 21-21, December 2021.','https://crr.bc.edu/wp-content/uploads/2021/12/IB_21-21.pdf'],
+'bee-mitchell':['Bee, A., and J. Mitchell','“Do Older Americans Have More Income Than We Think?” Census Bureau SEHSD Working Paper 2017-39.','https://www.census.gov/library/working-papers/2017/demo/SEHSD-WP2017-39.html'],
+'bee-2024':['Dushi, I., B. Trenkamp, A. Bee, and J. Mitchell','Income of older Americans in the CPS ASEC linked to administrative records, Journal of Pension Economics and Finance 24(1): 95–122, 2025; working paper version, Census Bureau CES Working Paper 24-32, 2024.','https://www.census.gov/library/working-papers/2024/adrm/CES-WP-24-32.html'],
+'nchs-lt':['National Center for Health Statistics','United States Life Tables, 2018–2024, National Vital Statistics Reports (vols. 69–75).','https://www.cdc.gov/nchs/products/life_tables.htm'],
+'nchs-hus':['National Center for Health Statistics','Health, United States 2020–2021, Table LExpMort (life expectancy at birth, 65 and 75, 1900–2019).','https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/Health_US/hus20-21tables/LExpMort.xlsx'],
+'ssa-tr2026':['Board of Trustees, Federal OASDI Trust Funds','2026 Annual Report, Tables V.A4 and V.A5 (House Document 119-163).','https://www.govinfo.gov/content/pkg/CDOC-119hdoc163/pdf/CDOC-119hdoc163.pdf'],
+'jct-cares':['Derby, E., L. Goodman, K. Mackie, and J. Mortenson','Retirement account withdrawals during the COVID-19 pandemic, using IRS panel data, arXiv 2204.12359, 2022.','https://arxiv.org/pdf/2204.12359v1'],
+'psn-2025':['401k Specialist','“Busting 5 Key Myths About Auto Portability” (Portability Services Network figures on completed transfers), 24 July 2026. Industry source.','https://401kspecialistmag.com/busting-5-key-myths-about-auto-portability/'],
+'irs-w2':['Internal Revenue Service, Statistics of Income','Form W-2 statistics, Table 3.C, tax years 2008–2020 (elective deferrals; computed).','https://www.irs.gov/pub/irs-soi/20in03w2all.xlsx'],
+'bls-lfpr':['Bureau of Labor Statistics','Current Population Survey, labor force participation rate, 65 years and over, annual averages.','https://data.bls.gov/timeseries/LNU01300097'],
+'nchs-vsrr44':['National Center for Health Statistics','Mortality in the United States: Provisional Data, 2025, Vital Statistics Rapid Release No. 44, July 2026.','https://www.cdc.gov/nchs/data/vsrr/vsrr044.pdf'],
+'chetty-2016':['Chetty, R., M. Stepner, S. Abraham, et al.','“The Association Between Income and Life Expectancy in the United States, 2001–2014,” JAMA, 2016; online data tables 1–2.','https://healthinequality.org/data/'],
+'nasem-2015':['National Academies of Sciences, Engineering, and Medicine','The Growing Gap in Life Expectancy by Income: Implications for Federal Programs and Policy Responses, 2015.','https://nap.nationalacademies.org/read/19015/chapter/2'],
+'case-deaton-2023':['Case, A., and A. Deaton','“Accounting for the Widening Mortality Gap between American Adults with and without a BA,” Brookings Papers on Economic Activity, Fall 2023 (conference draft).','https://www.brookings.edu/wp-content/uploads/2023/09/1_Case-Deaton_unembargoed.pdf'],
+'ssa-tr2020':['Board of Trustees, Federal OASDI Trust Funds','2020 Annual Report, Tables V.A4 and V.A5 (House Document 116-123).','https://www.govinfo.gov/content/pkg/CDOC-116hdoc123/pdf/CDOC-116hdoc123.pdf'],
+'bls-ln':['Bureau of Labor Statistics','Labor Force Statistics from the Current Population Survey, LN series, annual averages 1948–2025 (2025 averages cover 11 months).','https://download.bls.gov/pub/time.series/ln/'],
+'bls-proj':['Bureau of Labor Statistics','Employment Projections 2025–35, Table 3.3, civilian labor force participation rates by age and sex.','https://www.bls.gov/emp/tables/civilian-labor-force-participation-rate.htm'],
+'crr-retage':['Center for Retirement Research at Boston College','“Average Retirement Age for Men and Women, 1962–2025,” November 2025.','https://crr.bc.edu/wp-content/uploads/2025/11/Average-retirement-age.pdf'],
+'crr-2508':['Munnell, A.','“Will the Average Retirement Age Keep Rising?” Center for Retirement Research Issue in Brief 25-8, April 2025.','https://crr.bc.edu/wp-content/uploads/2025/04/IB_25-8.pdf'],
+'crr-claim':['Chen, A., A. Munnell, and others','“How Much Have Social Security Claiming Ages Increased?” (IB 25-10, 2025), “Pre-COVID Trends in Social Security Claiming” (IB 21-9, 2021) and “Trends in Social Security Claiming” (IB 15-8, 2015), Center for Retirement Research.','https://crr.bc.edu/wp-content/uploads/2025/05/IB_25-10.pdf'],
+'meps':['Agency for Healthcare Research and Quality','Medical Expenditure Panel Survey, Household Component full-year consolidated files, 1996–2024, tabulated for this report.','https://meps.ahrq.gov/data_stats/download_data_files.jsp'],
+'cms-tr2026':['Boards of Trustees, Federal Hospital Insurance and Supplementary Medical Insurance Trust Funds','2026 Annual Report, with expanded tables and figures (Tables II.A1, III.C2, V.B3, V.E2, V.E3; Figure II.F2 data).','https://www.cms.gov/oact/tr/2026'],
+'nhe-age':['Centers for Medicare & Medicaid Services','National Health Expenditure data by age and sex, 2002–2020.','https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/age-and-sex'],
+'kff-2025':['Ochieng, N., J. Cubanski, T. Neuman, and A. Damico (KFF)','“Health Costs Consume a Large Portion of Income for Millions of People with Medicare,” August 2025.','https://www.kff.org/medicare/health-costs-consume-a-large-portion-of-income-for-millions-of-people-with-medicare/'],
+'jones-2018':['Jones, J., M. De Nardi, E. French, R. McGee, and J. Kirschner','“The Lifetime Medical Spending of Retirees,” Federal Reserve Bank of Richmond Economic Quarterly 104(3), 2018.','https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/economic_quarterly/2018/q3/jones.pdf'],
+'ebri-2026':['Spiegel, J., and P. Fronstin (EBRI)','“Projected Savings Medicare Beneficiaries Need for Health Expenses in Retirement up Again in 2025,” March 2026 (summary and press release).','https://www.ebri.org/content/projected-savings-medicare-beneficiaries-need-for-health-expenses-in-retirement-up-again-in-2025'],
+'fidelity-2026':['Fidelity Investments','2026 Retiree Health Care Cost Estimate, press release, 21 July 2026. Recordkeeper source.','https://alumni.fidelity.com/news/11553433'],
+'aspe-2022':['Johnson, R., and J. Dey (ASPE)','Long-Term Services and Supports for Older Americans: Risks and Financing, 2022, Research Brief, revised August 2022.','https://www.aspe.hhs.gov/sites/default/files/documents/08b8b7825f7bc12d2c79261fd7641c88/ltss-risks-financing-2022.pdf'],
+'aspe-2019':['Johnson, R. (ASPE)','What Is the Lifetime Risk of Needing and Receiving Long-Term Services and Supports? Research Brief, April 2019.','https://aspe.hhs.gov/sites/default/files/migrated_legacy_files//188046/LifetimeRisk.pdf'],
+'nhe-2024':['Centers for Medicare & Medicaid Services','National Health Expenditure Accounts, type of service by source of funds, 1960–2024 (computed).','https://www.cms.gov/files/zip/national-health-expenditures-type-service-source-funds-cy-1960-2024.zip'],
+'census-older':['US Census Bureau','The 65 Years and Over Population: 2000 (Table 8); 65+ in the United States: 2010; The Older Population: 2020 (decennial census briefs).','https://www2.census.gov/library/publications/decennial/2020/census-briefs/c2020br-07.pdf'],
+'bls-cpi-ltc':['Bureau of Labor Statistics','Consumer Price Index (nursing homes and adult day services; all items) and Producer Price Index (nursing care facilities), annual averages 1997–2025 (computed).','https://download.bls.gov/pub/time.series/cu/'],
+'census-h10':['US Census Bureau','Historical Income Table H-10, median household income by age of householder.','https://www2.census.gov/programs-surveys/cps/tables/time-series/historical-income-households/h10ar.xlsx'],
+'carescout':['CareScout (Genworth)','Cost of Care Survey 2025, national medians. Industry source.','https://www.carescout.com/cost-of-care'],
+'ltci-market':['Cohen, M. (ASPE/LifePlans), and Milliman','“Exiting the Market” (ASPE, July 2013) and “The long-term care insurance industry through 2024” (Milliman, December 2025). Industry sources for 2024.','https://www.milliman.com/en/insight/ltci-2024-statistics-experience-reporting-forms'],
+'ssa-tr-hist':['Board of Trustees, Federal OASDI Trust Funds','Annual Reports 1995–2025 (House Documents on govinfo.gov), Highlights and section II.D; 2026 Report Table VI.B1 for every report since 1982.','https://www.govinfo.gov/app/collection/cdoc'],
+'crr-nrri':['Yin, Y., A. Chen, and A. Munnell','“The National Retirement Risk Index: An Update from the 2022 SCF,” Center for Retirement Research Issue in Brief 24-5, February 2024.','https://crr.bc.edu/wp-content/uploads/2024/02/IB_24-5.pdf'],
+'crr-nrri2':['Yin, Y., A. Chen, and A. Munnell','“The National Retirement Risk Index: Version 2.0,” Center for Retirement Research Issue in Brief 23-10, May 2023.','https://crr.bc.edu/wp-content/uploads/2023/05/IB_23-10_.pdf'],
+'crr-nrri-old':['Munnell, A., W. Hou, and G. Sanzenbacher','“National Retirement Risk Index Shows Modest Improvement in 2016,” Center for Retirement Research Issue in Brief 18-1, January 2018.','https://crr.bc.edu/wp-content/uploads/2018/01/IB_18-1.pdf'],
+'crr-1416':['Munnell, A., M. Rutledge, and A. Webb','“Are Retirees Falling Short? Reconciling the Conflicting Evidence,” Center for Retirement Research Working Paper 2014-16.','https://crr.bc.edu/wp-content/uploads/2014/11/wp_2014-16.pdf'],
+'scholz-2006':['Scholz, J. K., A. Seshadri, and S. Khitatrakun','“Are Americans Saving ‘Optimally’ for Retirement?” NBER Working Paper 10260, 2004 (Journal of Political Economy, 2006).','https://www.nber.org/system/files/working_papers/w10260/w10260.pdf'],
+'biggs-schieber':['Biggs, A., and S. Schieber','“Is There a Retirement Crisis?” National Affairs, Summer 2014.','https://www.nationalaffairs.com/publications/detail/is-there-a-retirement-crisis'],
+'brady-bass':['Brady, P., and S. Bass (Investment Company Institute)','“A Day in the Life Cycle: Using Tax Data to Measure Changes in Income by Age,” IRS Statistics of Income, December 2024.','https://www.irs.gov/pub/irs-soi/24rpchangesincomebyage.pdf'],
+'ebri-rcs':['Employee Benefit Research Institute and Greenwald Research','Retirement Confidence Survey, Fact Sheet 1, 1993–2026 survey years.','https://www.ebri.org/retirement/retirement-confidence-survey'],
+'fed-shed':['Board of Governors of the Federal Reserve System','Economic Well-Being of U.S. Households in 2025, May 2026 (Figure 26, Tables 28–29).','https://www.federalreserve.gov/publications/files/2025-report-economic-well-being-us-households-202605.pdf'],
+'fed-scf-hist':['Board of Governors of the Federal Reserve System','Survey of Consumer Finances, 1989–2022 historical tables, 2022 dollars (Tables 9, 12, 13 and 18).','https://www.federalreserve.gov/econres/files/scf2022_tables_public_real_historical.xlsx'],
+'nyfed-hhdc':['Federal Reserve Bank of New York','Quarterly Report on Household Debt and Credit, 2026 Q2 (August 2026), data file (New York Fed Consumer Credit Panel/Equifax).','https://www.newyorkfed.org/microeconomics/hhdc'],
+'census-hvs':['US Census Bureau','Housing Vacancies and Homeownership (CPS/HVS), historical tables 12 and 19.','https://www.census.gov/housing/hvs/data/histtabs.html'],
+'hud-fha-2025':['US Department of Housing and Urban Development','Annual Report to Congress Regarding the Financial Status of the FHA Mutual Mortgage Insurance Fund, Fiscal Year 2025 (Tables B-26 and B-31).','https://www.hud.gov/sites/dfiles/Housing/documents/2025FHAAnnualReportMMIFund.pdf'],
+'census-hstpov':['US Census Bureau','Historical Poverty Tables: People and Families, 1959 to 2025 (Tables 3 and 5).','https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-poverty-people.html'],
+'census-p60-290':['US Census Bureau','Poverty in the United States: 2025, Current Population Reports P60-290, September 2026, and its tables (Tables 3, 5, 8 and 16).','https://www2.census.gov/library/publications/2026/demo/p60-290.pdf'],
+'dol-hist':['Department of Labor, Employee Benefits Security Administration','Private Pension Plan Bulletin Historical Tables and Graphs, 1975–2023, September 2025 (Tables E1, E4 and E7).','https://www.dol.gov/sites/dolgov/files/EBSA/researchers/statistics/retirement-bulletins/private-pension-plan-bulletin-historical-tables-and-graphs.pdf'],
+'dol-abs1999':['Department of Labor, Pension and Welfare Benefits Administration','Private Pension Plan Bulletin: Abstract of 1999 Form 5500 Annual Reports (Table E4, DB and DC participation rates of private wage and salary workers, 1980–1999).','https://www.dol.gov/agencies/ebsa/researchers/statistics/retirement-bulletins/private-pension-plan-bulletins-abstract-of-form-5500-annual-reports'],
+'pbgc-data':['Pension Benefit Guaranty Corporation','Pension Insurance Data Tables, 2023 and 2024 editions (Tables S-23, S-26, S-27 and S-49).','https://www.pbgc.gov/prac/data-books'],
+'bls-eb-nb':['Bureau of Labor Statistics','Employee Benefits Survey (1979–2006) and National Compensation Survey benefits (2010–2026) time-series databases.','https://download.bls.gov/pub/time.series/nb/'],
+'z1-2026':['Board of Governors of the Federal Reserve System','Financial Accounts of the United States (Z.1), release of 10 September 2026, Tables L.116 and L.227.','https://www.federalreserve.gov/releases/z1/'],
+'ebri-381':['Banerjee, S. (EBRI)','“Annuity and Lump-Sum Decisions in Defined Benefit Plans: The Role of Plan Rules,” EBRI Issue Brief 381, January 2013 (plan administrative records).','https://www.ebri.org/content/annuity-and-lump-sum-decisions-in-defined-benefit-plans-the-role-of-plan-rules-5151'],
+'tiaa-2019':['Brown, J., J. Poterba, and D. Richardson','“Recent Trends in Retirement Income Choices at TIAA,” NBER Retirement and Disability Research Center paper NB19-10, 2019 (TIAA recordkeeper data).','https://www.nber.org/sites/default/files/2020-04/NB19-10%20Brown%2C%20Richardson%2C%20Poterba.pdf'],
+'bosworth-2015':['Bosworth, B., G. Burtless, and K. Alalouf','“Do Retired Americans Annuitize Too Little?” Center for Retirement Research Working Paper 2015-9.','https://crr.bc.edu/wp-content/uploads/2015/06/wp_2015-9.pdf'],
+'gao-26-107536':['Government Accountability Office','GAO-26-107536, March 2026 (on lifetime income options in 401(k) plans; cites an industry survey).','https://files.gao.gov/reports/GAO-26-107536/index.html'],
+'limra-2025':['PLANADVISER','“US Annuities Reach Record $461B in Sales in 2025,” 12 February 2026 (LIMRA industry survey).','https://www.planadviser.com/us-annuities-reach-record-461b-in-sales-in-2025/'],
+'secure-act':['US Congress','Setting Every Community Up for Retirement Enhancement (SECURE) Act, Public Law 116-94, Division O, Sections 109, 203 and 204.','https://www.govinfo.gov/content/pkg/PLAW-116publ94/html/PLAW-116publ94.htm'],
+'qlac':['Department of the Treasury and Internal Revenue Service','Longevity Annuity Contracts, final rule, 79 FR 37633, July 2014; limits updated in IRS Notices 2023-75, 2024-80 and 2025-67.','https://www.govinfo.gov/content/pkg/FR-2014-07-02/html/2014-15524.htm'],
+'psca-2026':['Plan Sponsor Council of America','“Automatic Enrollment Has Sent Participation Rates Soaring,” June 2026 (reporting Vanguard, How America Saves 2026; recordkeeper data).','https://www.psca.org/news/psca-news/2026/6/automatic-enrollment-has-sent-participation-rates-soaring/'],
+'bea-nipa':['Bureau of Economic Analysis','National Income and Product Accounts, Tables 2.1, 6.11D, 7.8, 7.22, 7.24 and 7.25 (employer pension contributions and private wages; computed).','https://apps.bea.gov/national/Release/TXT/NipaDataA.txt'],
+'bls-ecec':['Bureau of Labor Statistics','Employer Costs for Employee Compensation, private industry, defined benefit and defined contribution retirement costs as a share of total compensation, 2004–2026.','https://www.bls.gov/ecec/'],
+'dol-a4':['Department of Labor, Employee Benefits Security Administration','Private Pension Plan Bulletin: Abstract of Form 5500 Annual Reports, 1999–2023 editions (Table A4, contributions by source; computed).','https://www.dol.gov/agencies/ebsa/researchers/statistics/retirement-bulletins'],
+'irs-1040-hist':['Internal Revenue Service, Statistics of Income','Individual Income Tax Returns, historical Table 1 (1999–2016), Table 1.4 (2017–2023) and annual reports 1984–1993 (IRA deduction; computed).','https://www.irs.gov/statistics/soi-tax-stats-historical-data-tables'],
+};
+
+/* ---------- chart data ---------- */
+var SEG4=[{name:'Still in the plan',c:'--s1'},{name:'Rolled over to an IRA',c:'--s2'},{name:'Part rolled over, part cash',c:'--s3'},{name:'Cashed out',c:'--s4'}];
+var CH={
+overall:{type:'line',x:Y(2006,2024),xTitle:'Tax year',yMax:45,yFmt:pct(0),tipFmt:pct(1),labelW:156,bands:['2009','2020'],bandLabel:'RMDs waived (2009, 2020)',
+ series:[
+  {name:'IRS: taxpayers with a withdrawal per 100 year-end traditional IRA holders',short:'IRS taxpayers',c:'--s1',values:[null,null,null,null,null,null,35.3,36.5,36.9,37.4,37.5,38.8,39.5,40.1,32.4,38.4,39.2,39.7,null]},
+  {name:'ICI survey: traditional IRA households',short:'ICI survey',c:'--s2',values:[18,20,19,15,22,21,21,20,22,25,26,26,25,27,23,29,31,31,33]},
+  {name:'ICI database: traditional IRA investors',short:'ICI database',c:'--s3',values:[null,17.6,17.9,13.9,20.0,19.9,20.7,21.7,22.3,22.7,23.2,23.6,24.9,25.1,20.3,24.1,22.9,23.1,null]},
+  {name:'EBRI database: traditional IRA owners',short:'EBRI database',c:'--other',near:'first',points:true,values:[null,null,null,null,null,null,null,25.4,27.2,27.5,27.1,25.6,null,null,null,null,null,null,null]}
+ ]},
+agegrp:{type:'line',x:Y(2007,2023),xTitle:'Year',yMax:100,yFmt:pct(0),tipFmt:pct(1),labelW:150,bands:['2009','2020'],bandLabel:'RMDs waived (2009, 2020)',
+ series:[
+  {name:'RMD age or older',short:'RMD age or older',c:'--o5',values:[78.0,78.3,46.9,78.5,79.5,79.5,80.0,80.2,80.8,79.1,82.0,82.1,80.8,59.6,84.5,81.1,81.7]},
+  {name:'Aged 60 to RMD age',short:'60 to RMD age',c:'--o3',values:[18.2,17.9,17.3,20.2,19.6,20.2,20.8,21.5,21.6,21.6,19.9,21.0,20.9,18.7,21.0,19.5,20.9]},
+  {name:'Aged 18 to 59',short:'18 to 59',c:'--o1',values:[7.0,7.0,6.6,8.5,7.6,7.7,8.1,8.3,8.2,8.2,6.5,7.0,6.8,6.0,6.0,5.0,5.3]}
+ ]},
+irsage:{type:'vbar',cats:['Under 60','60–64','65–69','70–74','75–79','80+'],catsShort:['<60','60–64','65–69','70–74','75–79','80+'],yMax:110,years:Y(2012,2023),ref:'2019',
+ frames:{'2012':[12.3,23.9,32.6,86.9,99.1,101.7],'2013':[12.7,24.1,32.1,85.9,97.9,102.3],'2014':[12.6,23.9,31.9,87.2,97.5,101.7],'2015':[12.7,24.0,32.5,87.9,97.5,101.6],'2016':[12.2,24.0,33.0,84.8,97.5,101.0],'2017':[12.6,24.5,33.9,85.7,97.5,100.9],'2018':[12.7,24.5,34.2,85.6,96.5,101.1],'2019':[12.9,25.1,35.0,86.0,96.4,101.4],'2020':[11.7,21.2,31.6,58.8,73.9,78.8],'2021':[12.1,23.7,34.5,69.0,93.7,99.6],'2022':[12.3,26.0,35.4,69.1,95.3,99.9],'2023':[13.0,27.5,37.8,61.7,95.9,100.7]},
+ regime:{'2012':'RMD age 70½','2013':'RMD age 70½','2014':'RMD age 70½','2015':'RMD age 70½','2016':'RMD age 70½','2017':'RMD age 70½','2018':'RMD age 70½','2019':'RMD age 70½','2020':'RMDs waived for the year','2021':'RMD age 72','2022':'RMD age 72','2023':'RMD age 73'}},
+balrate:{type:'line',x:['Under $5K','$5–10K','$10–20K','$20–30K','$30–40K','$40–70K','$70–100K','$100–200K','$200K+'],xTitle:'Balance',yMax:100,yFmt:pct(0),tipFmt:pct(1),endLabels:false,points:true,
+ notes:[{i:1.25,v:68,text:'Below RMD age, small accounts are mostly emptied',short:'Small accounts mostly emptied'},{i:8,v:25,anchor:'end',text:'At RMD age: 5–6% at every balance',short:'RMD age: 5–6% at every balance'}],
+ series:[
+  {name:'Aged 60–64',c:'--o1',values:[89.8,39.6,18.8,15.0,13.8,12.9,10.7,8.7,4.9]},
+  {name:'Aged 65–69',c:'--o2',values:[80.5,28.8,18.8,16.5,14.9,12.6,10.9,8.7,5.3]},
+  {name:'Aged 70–72',c:'--o3',values:[67.9,26.0,18.5,16.3,14.2,12.0,10.0,7.9,5.1]},
+  {name:'Aged 73 or older (RMD age)',c:'--o5',values:[6.0,5.5,5.6,5.6,5.6,5.4,5.4,5.2,5.0]}
+ ]},
+dwrate:{type:'line',x:Y(2005,2023),xTitle:'Tax year',yMax:10,yFmt:pct(0),tipFmt:pct(1),labelW:124,bands:['2009','2020'],bandLabel:'RMDs waived (2009, 2020)',
+ series:[
+  {name:'Aged 70 or older',short:'70 or older',c:'--o5',values:[7.03,8.35,7.91,8.42,6.12,8.64,7.17,7.98,7.90,6.97,7.05,6.84,7.08,6.71,6.83,4.56,6.07,5.86,5.93]},
+  {name:'All ages',short:'All ages',c:'--other',values:[3.77,4.20,3.97,4.79,4.73,5.74,3.99,4.95,4.50,4.03,4.04,3.90,4.05,3.87,4.12,3.15,3.71,3.52,3.99]},
+  {name:'Aged 60 to 69',short:'60 to 69',c:'--o2',values:[3.66,3.87,3.75,4.67,4.97,5.33,3.36,4.29,3.48,3.16,3.05,3.01,3.03,2.84,3.10,2.68,2.85,2.58,3.21]}
+ ]},
+rmdsplit:{type:'hstack',labelW:112,fmt:pct(1),rowTitle:'Year',
+ rows:[{label:'2011'},{label:'2012'},{label:'2013'},{label:'2014'},{label:'2015'},{label:'2016'},{label:'2018'},{label:'2020',sub:'RMDs waived'},{label:'2022'},{label:'2023'}],
+ segs:[{name:'Exactly the RMD',c:'--s1'},{name:'More than the RMD',c:'--s2'},{name:'Less than the RMD',c:'--s3'},{name:'RMD on another basis (joint or inherited table)',c:'--other'}],
+ data:[[54.2,38.0,6.4,1.4],[55.4,38.7,4.5,1.4],[56.2,37.7,4.7,1.5],[56.6,36.9,5.1,1.4],[57.8,35.5,5.2,1.5],[57.8,35.4,5.2,1.5],[57.2,36.8,4.1,1.9],[43.6,35.7,17.9,2.8],[55.4,33.1,9.1,2.4],[52.5,35.6,9.4,2.5]]},
+vgsplit:{type:'hstack',labelW:214,fmt:pct(0),focus:true,rowTitle:'Cohort',toggle:[['people','Share of people'],['dollars','Share of dollars']],
+ rows:[{label:'Five years after leaving',sub:'Left in 2007, measured 2012'},{label:'Five years after leaving',sub:'Left in 2016, measured 2021'},{label:'One year after leaving',sub:'Left in 2011, measured 2012'},{label:'One year after leaving',sub:'Left in 2020, measured 2021'}],
+ segs:SEG4,
+ modes:{people:[[13,57,4,26],[17,52,5,26],[29,46,4,21],[32,38,4,26]],dollars:[[18,72,6,4],[32,56,7,5],[35,56,6,3],[46,45,5,4]]}},
+har:{type:'hstack',labelW:150,fmt:pct(0),focus:true,rowTitle:'Measured at',
+ rows:[{label:'End of 2021',sub:'Retirement year'},{label:'End of 2022'},{label:'End of 2023'},{label:'End of 2024'}],
+ segs:SEG4,data:[[53,27,6,14],[36,36,8,20],[30,39,8,23],[26,41,9,24]]},
+plandesign:{type:'line',x:Y(2012,2025),xTitle:'Year',yMax:80,yFmt:pct(0),connect:true,points:true,labelW:150,
+ series:[
+  {name:'Installment payments allowed',short:'Installments',c:'--s1',values:[null,null,58,59,null,null,null,62,63,64,65,67,68,68]},
+  {name:'Ad hoc partial withdrawals allowed',short:'Partial withdrawals',c:'--s2',values:[10,null,13,16,19,null,27,32,35,37,39,40,43,43]}
+ ]},
+dcflows:{type:'line',x:Y(2000,2023),xTitle:'Plan year',yMax:800,yFmt:usd0,tipFmt:usd1,labelW:162,
+ series:[
+  {name:'Benefits disbursed (cash payments and direct rollovers)',short:'Benefits paid',c:'--s1',values:[213.5,182.2,178.7,167.0,192.9,218.0,260.3,294.1,265.1,241.4,287.3,299.3,333.8,385.9,428.4,450.6,454.9,494.0,550.7,599.1,703.6,776.9,716.0,783.7]},
+  {name:'Contributions',short:'Contributions',c:'--s3',values:[198.5,204.0,209.7,212.1,228.6,248.8,276.8,299.8,311.8,298.7,314.3,330.2,352.8,376.9,403.5,434.6,459.0,492.7,531.9,570.2,586.0,656.9,710.9,767.6]}
+ ]},
+iraflows:{type:'line',x:Y(2004,2023),xTitle:'Tax year',yMax:800,yFmt:usd0,tipFmt:usd1,labelW:150,
+ series:[
+  {name:'Rollovers in',short:'Rollovers',c:'--s2',values:[214.9,228.5,282.0,316.6,272.1,264.3,299.7,305.3,344.0,404.1,434.8,472.6,444.7,478.0,533.8,554.4,618.4,740.3,664.3,682.4]},
+  {name:'Withdrawals out',short:'Withdrawals',c:'--s1',values:[139.6,124.5,143.8,167.1,227.5,174.1,257.6,200.8,255.2,260.2,275.1,294.6,291.8,324.8,365.7,375.9,345.3,470.2,512.6,515.2]},
+  {name:'Contributions in',short:'Contributions',c:'--s3',values:[48.7,54.3,56.9,58.8,55.6,50.7,51.2,50.3,55.2,60.0,62.7,63.7,65.4,69.4,70.0,75.5,83.2,91.0,86.6,89.1]}
+ ]},
+rollage:{type:'hstack',labelW:76,fmt:pct(1),focus:true,rowTitle:'Tax year',
+ rows:[{label:'2001'},{label:'2010'},{label:'2023'}],
+ segs:[{name:'Under 55',c:'--o1'},{name:'55–59',c:'--o2'},{name:'60–64',c:'--o3'},{name:'65–69',c:'--o4'},{name:'70 or older',c:'--o5'}],
+ data:[[40.0,19.4,20.2,12.1,8.3],[28.1,18.4,25.6,15.6,12.2],[19.7,14.2,28.9,22.2,15.0]]},
+micro70:{type:'line',x:Y(2003,2025),xTitle:'Year',yMax:100,yFmt:function(v){return String(v)},tipFmt:function(v){return (+v).toFixed(1)},connect:true,labelW:158,bands:['2009','2020'],bandLabel:'RMDs waived (2009, 2020)',
+ series:[
+  {name:'IRS: withdrawers per 100 IRA holders',short:'IRS per 100 holders',c:'--s1',values:[null,null,null,null,null,null,null,null,null,86.9,85.9,87.2,87.9,84.8,85.7,85.6,86.0,58.8,69.0,69.1,61.7,null,null]},
+  {name:'SCF: withdrawing households per 100 IRA households',short:'SCF per 100 holders',c:'--s2',points:true,values:[73.9,null,null,76.6,null,null,43.7,null,null,69.7,null,null,76.1,null,null,70.5,null,null,62.5,null,null,null,null]},
+  {name:'CPS: % of all people aged 70–74 with a withdrawal',short:'CPS % of people',c:'--s3',values:[null,null,null,null,null,null,null,null,null,null,null,null,null,19.2,19.8,21.9,23.1,16.1,18.6,18.2,17.2,17.5,17.2]}
+ ]},
+microage:{type:'line',x:['60–64','65–69','70–74','75–79','80+'],xTitle:'Age',yMax:110,yFmt:function(v){return String(v)},tipFmt:function(v){return (+v).toFixed(1)},points:true,labelW:158,
+ series:[
+  {name:'IRS: withdrawers per 100 IRA holders',short:'IRS per 100 holders',c:'--s1',values:[24.5,34.2,85.6,96.5,101.1]},
+  {name:'SCF: withdrawing households per 100 IRA households',short:'SCF per 100 holders',c:'--s2',values:[19.3,26.7,70.5,89.8,95.3]},
+  {name:'CPS: % of all people with a withdrawal',short:'CPS % of people',c:'--s3',values:[5.3,11.3,21.9,22.6,17.5]}
+ ]},
+microrate:{type:'line',x:Y(2003,2021),xTitle:'Year',yMax:10,yFmt:pct(0),tipFmt:pct(1),connect:true,points:true,labelW:172,bands:['2009'],bandLabel:'RMDs waived (2009)',
+ series:[
+  {name:'Withdrawers only: median household',short:'Median withdrawer',c:'--s2',values:[7.53,null,null,6.17,null,null,7.21,null,null,5.66,null,null,6.23,null,null,5.78,null,null,6.26]},
+  {name:'Withdrawers only: dollar-weighted',short:'All withdrawers',c:'--s3',values:[6.6,null,null,6.86,null,null,6.78,null,null,5.44,null,null,6.06,null,null,5.2,null,null,5.57]},
+  {name:'All owners: dollar-weighted',short:'All owners',c:'--s1',values:[2.94,null,null,3.0,null,null,2.19,null,null,2.61,null,null,3.06,null,null,2.82,null,null,2.92]}
+ ]},
+wdmedian:{type:'line',x:Y(2003,2024),xTitle:'Year',yMax:10,yFmt:pct(0),tipFmt:pct(1),connect:true,labelW:150,bands:['2009','2020'],bandLabel:'RMDs waived (2009, 2020)',
+ series:[
+  {name:'ICI survey: traditional IRA households',short:'ICI survey',c:'--s2',values:[null,null,null,null,6,8,8,9,8,7,8,7,6,6,6,6,5,6,5,6,6,5]},
+  {name:'EBRI database: traditional IRA owners, consistent sample',short:'EBRI database',c:'--other',near:'first',points:true,values:[null,null,null,null,null,null,null,8.3,6.3,5.7,5.4,null,null,null,null,null,null,null,null,null,null,null]},
+  {name:'SIPP: IRA owners 60 or older',short:'SIPP 60+',c:'--s3',points:true,values:[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5.6,5.6,5.1,5.4]},
+  {name:'SCF: IRA households 60 or older',short:'SCF 60+',c:'--s1',points:true,values:[7.02,null,null,6.17,null,null,7.53,null,null,5.57,null,null,5.99,null,null,5.43,null,null,6.26,null,null,null]}
+ ]},
+microagerate:{type:'line',x:Y(2003,2021),xTitle:'Year',yMax:14,yFmt:pct(0),tipFmt:pct(1),connect:true,points:true,labelW:120,bands:['2009'],bandLabel:'RMDs waived (2009)',
+ series:[
+  {name:'Aged 80 or older',short:'80 or older',c:'--o5',values:[6.42,null,null,12.07,null,null,4.68,null,null,7.19,null,null,6.79,null,null,6.47,null,null,7.28]},
+  {name:'Aged 75–79',short:'75–79',c:'--o4',values:[6.19,null,null,5.82,null,null,4.91,null,null,4.63,null,null,5.37,null,null,5.73,null,null,5.7]},
+  {name:'Aged 70–74',short:'70–74',c:'--o3',values:[3.83,null,null,4.53,null,null,2.83,null,null,3.64,null,null,3.99,null,null,3.73,null,null,3.53]},
+  {name:'Aged 65–69',short:'65–69',c:'--o2',values:[2.15,null,null,1.77,null,null,2.09,null,null,1.71,null,null,1.82,null,null,1.58,null,null,2.27]},
+  {name:'Aged 60–64',short:'60–64',c:'--o1',values:[1.59,null,null,1.56,null,null,0.93,null,null,1.34,null,null,1.15,null,null,0.85,null,null,0.58]}
+ ]},
+tspret:{type:'line',x:['FY15 Q1', 'FY15 Q2', 'FY15 Q3', 'FY15 Q4', 'FY16 Q1', 'FY16 Q2', 'FY16 Q3', 'FY16 Q4', 'FY17 Q1', 'FY17 Q2', 'FY17 Q3', 'FY17 Q4', 'FY18 Q1', 'FY18 Q2', 'FY18 Q3', 'FY18 Q4', 'FY19 Q1', 'FY19 Q2', 'FY19 Q3', 'FY19 Q4', 'FY20 Q1', 'FY20 Q2', 'FY20 Q3', 'FY20 Q4', 'FY21 Q1', 'FY21 Q2', 'FY21 Q3', 'FY21 Q4', 'FY22 Q1', 'FY22 Q2', 'FY22 Q3', 'FY22 Q4', 'FY23 Q1', 'FY23 Q2', 'FY23 Q3', 'FY23 Q4', 'FY24 Q1', 'FY24 Q2', 'FY24 Q3', 'FY24 Q4', 'FY25 Q1', 'FY25 Q2', 'FY25 Q3', 'FY25 Q4', 'FY26 Q1', 'FY26 Q2'],xTitle:'Fiscal quarter',yMax:80,yFmt:pct(0),tipFmt:pct(1),labelW:150,
+ notes:[{i:20,v:76,text:'New withdrawal options (Sep 2019)',short:'New options, 2019',anchor:'middle'}],
+ series:[{name:'Still holding a balance a year after separating',short:'Still in the TSP',c:'--s1',points:true,values:[57.16,57.5,58.15,58.97,59.57,60.39,61.08,61.49,61.9,62.53,62.82,62.99,63.3,64.07,64.39,64.56,64.64,64.29,64.82,64.59,64.84,65.32,64.89,67.14,68.64,68.14,69.75,70.49,71.86,72.7,null,null,null,null,null,69.47,70.64,68.91,67.11,67.12,null,null,null,67.51,69.14,69.09]}]},
+sepshare:{type:'line',x:Y(1999,2025),xTitle:'Year',yMax:40,yFmt:pct(0),tipFmt:pct(1),points:true,labelW:150,breaks:['2004','2008','2013'],
+ zones:[{from:'2009',to:'2013',label:'Small plans: all counted active',short:'Break'}],
+ series:[
+  {name:'Federal Thrift Savings Plan: separated accounts',short:'TSP',c:'--s1',values:[null,null,null,null,null,null,null,null,null,null,null,null,21.2,22.4,24.3,25.7,26.8,27.7,28.9,29.1,29.4,30.1,30.9,32.8,33.4,33.9,35.1]},
+  {name:'Private DC plans (Form 5500): separated participants',short:'Private DC plans',c:'--s2',values:[15.2,16.3,17.3,17.9,18.1,18.4,16.5,16.6,17.1,17.5,16.5,15.7,15.8,15.7,16.0,19.1,18.7,19.1,19.7,20.1,20.4,21.6,22.3,22.4,22.2,null,null]}
+ ]},
+pastplan:{type:'line',x:['2004','2007','2010','2013','2016','2019','2022'],xTitle:'Survey year',yMax:40,yFmt:pct(0),tipFmt:pct(1),points:true,labelW:180,
+ series:[
+  {name:'Households aged 60 to 74, not working',short:'60–74, not working',c:'--s1',values:[16.1,19.1,23.0,18.8,23.3,29.3,26.0]},
+  {name:'All households',short:'All households',c:'--s2',values:[15.2,17.3,17.7,19.9,17.7,25.8,21.8]}
+ ]},
+aespread:{type:'line',x:Y(2010,2026),xTitle:'Year',yMax:80,yFmt:pct(0),tipFmt:pct(1),labelW:200,
+ series:[
+  {name:'Private workers with access to a DC plan',short:'DC access',c:'--s1',values:[59,58,59,59,60,61,62,62,64,64,64,65,66,67,70,70,70]},
+  {name:'Private workers participating in a DC plan',short:'DC participating',c:'--s2',values:[41,41,41,42,43,44,45,45,47,47,47,47,48,49,50,50,49]},
+  {name:'401(k) plans with automatic enrollment',short:'401(k)s auto-enrolling',c:'--s3',points:true,connect:true,values:[3.9,null,null,null,null,6.9,null,null,null,13.6,null,null,null,26.2,31.4,null,null]}
+ ]},
+penalty:{type:'line',x:Y(1996,2023),xTitle:'Tax year',yMax:5,yFmt:pct(0),tipFmt:pct(2),points:true,labelW:150,
+ notes:[{i:24,v:1.7,text:'CARES Act: no 10% tax on coronavirus withdrawals',short:'CARES Act, 2020',anchor:'middle'}],
+ series:[{name:'Returns paying the 10% early-withdrawal tax',short:'Paying the tax',c:'--s1',values:[2.85,2.79,3.03,3.21,3.35,3.51,3.76,3.74,3.72,3.59,3.72,3.88,4.03,4.18,4.14,3.93,3.87,3.89,3.85,3.62,3.44,3.34,3.3,3.3,2.36,2.79,2.97,3.17]}]},
+incshare:{type:'line',x:Y(1997,2025),xTitle:'Income year',yMax:50,yFmt:pct(0),tipFmt:pct(1),labelW:175,
+ zones:[{from:'2014',to:'2015',label:'Questionnaire redesigned',short:'Break'}],
+ series:[
+  {name:'Social Security',short:'Social Security',c:'--s1',values:[40.49,39.37,39.15,40.32,41.12,41.69,40.93,40.75,39.3,39.01,37.88,39.03,40.67,38.64,38.25,37.65,36.6,null,null,33.92,32.96,33.4,33.04,33.86,33.09,34.68,34.29,34.75,34.67]},
+  {name:'Earnings',short:'Earnings',c:'--s2',values:[16.79,17.48,18.73,20.01,19.54,21.4,21.93,23.08,24.81,24.21,25.51,26.02,25.86,27.15,28.21,30.22,29.65,null,null,30.57,31.17,30.22,30.59,30.65,30.25,29.69,29.98,29.11,29.2]},
+  {name:'Defined benefit pensions',short:'DB pensions',c:'--s3',values:[19.25,19.44,18.96,18.58,18.76,19.79,20.14,20.14,18.58,18.47,17.87,19.07,18.74,18.85,19.06,17.49,17.78,null,null,18.04,17.34,16.6,16.65,15.86,14.69,15.01,14.47,14.07,13.65]},
+  {name:'Retirement account withdrawals',short:'Account withdrawals',c:'--s4',values:[0.23,0.33,0.51,0.26,0.6,0.2,0.38,0.55,0.57,0.36,0.57,0.42,0.39,0.68,0.56,0.79,0.97,null,null,5.17,5.83,7.34,7.0,5.51,7.8,7.27,6.7,8.16,8.13]}
+ ]},
+cespend:{type:'line',x:Y(1984,2024),xTitle:'Year',yMax:100,yFmt:pct(0),tipFmt:pct(1),labelW:150,
+ series:[
+  {name:'Aged 65 to 74',short:'65–74',c:'--o2',values:[67.7,72.4,70.6,73.5,78.1,73.9,71.4,70.6,72.1,71.9,74.4,77.5,76.8,77.3,74.6,75.8,78.2,77.2,72.7,76.1,77.2,77.8,80.6,78.6,75.6,81.9,81.4,83.3,82.6,83.7,86.9,84.2,82.9,84.6,85.0,79.3,80.7,80.0,77.9,78.1,76.9]},
+  {name:'Aged 75 or older',short:'75 or older',c:'--o4',values:[47.5,52.5,49.2,47.6,51.8,55.6,52.8,49.4,56.1,55.7,57.2,56.9,54.3,56.4,56.2,58.1,55.7,55.7,53.6,56.6,54.5,54.5,56.9,56.5,57.9,60.4,61.9,61.0,60.3,61.5,65.2,64.9,63.1,64.4,65.2,62.8,62.9,64.9,68.5,63.6,65.7]}
+ ]},
+le65:{type:'line',x:Y(1980,2024),xTitle:'Year',yMax:24,yFmt:function(v){return String(v)},tipFmt:function(v){return (+v).toFixed(1)+' years'},labelW:135,bands:['2020','2021'],bandLabel:'COVID-19 (2020–2021)',
+ series:[
+  {name:'Women',short:'Women',c:'--s2',values:[18.3,18.6,18.7,18.6,18.6,18.5,18.6,18.7,18.6,18.8,18.9,19.1,19.2,18.9,19.0,18.9,19.0,19.2,19.2,19.1,19.0,19.2,19.2,19.3,19.6,19.6,19.9,20.0,20.0,20.3,20.3,20.3,20.5,20.5,20.6,20.5,20.6,20.6,20.69,20.82,19.78,19.74,20.17,20.71,20.83]},
+  {name:'Men',short:'Men',c:'--s1',values:[14.1,14.3,14.5,14.4,14.5,14.5,14.6,14.7,14.7,15.0,15.1,15.3,15.4,15.3,15.5,15.6,15.7,15.9,16.0,16.1,16.0,16.2,16.3,16.5,16.9,16.9,17.2,17.4,17.4,17.7,17.7,17.8,17.9,17.9,18.0,18.0,18.1,18.0,18.1,18.2,17.03,16.99,17.54,18.19,18.36]}
+ ]},
+lfpr:{type:'line',x:Y(1976,2025),xTitle:'Year',yMax:60,yFmt:pct(0),tipFmt:pct(1),labelW:120,bands:['2020'],bandLabel:'COVID-19 (2020)',
+ series:[
+  {name:'Aged 62 to 64',short:'62–64',c:'--o2',values:[41.0,40.5,40.2,40.5,39.6,37.6,37.5,37.7,37.4,36.7,36.5,36.2,36.3,37.3,38.0,36.9,37.7,38.5,38.7,38.4,38.3,39.6,39.9,39.9,40.2,42.1,43.7,43.8,44.4,45.9,46.7,46.5,47.2,49.3,49.8,48.7,49.1,49.4,50.2,50.2,50.4,51.7,52.3,52.5,52.4,52.5,52.7,53.3,53.6,53.6]},
+  {name:'Aged 65 to 69',short:'65–69',c:'--o3',values:[21.3,21.1,21.6,21.6,21.0,20.6,20.2,19.8,18.8,18.4,19.2,19.5,20.1,20.8,21.0,20.6,20.6,20.3,21.9,21.8,21.9,22.5,22.5,23.0,24.5,24.7,26.1,27.4,27.7,28.3,29.0,29.7,30.7,31.1,31.5,32.1,32.1,32.2,31.6,32.1,32.2,32.3,33.0,34.3,33.0,32.5,33.3,33.3,33.4,33.3]},
+  {name:'Aged 70 to 74',short:'70–74',c:'--o4',values:[12.8,12.4,12.8,12.6,11.9,11.3,11.1,11.4,11.0,10.7,10.3,10.2,10.9,11.2,11.3,10.9,11.1,10.9,11.8,12.5,12.5,12.6,12.5,13.1,13.5,14.1,14.0,14.6,15.3,16.3,17.0,17.2,17.8,18.4,18.0,18.8,19.5,19.2,18.9,18.6,19.2,19.7,19.5,19.8,18.9,17.8,18.4,19.2,19.6,18.8]},
+  {name:'Aged 75 or older',short:'75+',c:'--o5',values:[5.2,5.2,5.3,5.0,4.8,5.0,4.9,4.7,4.3,3.9,4.0,4.2,4.2,4.3,4.3,4.4,4.5,4.3,5.4,4.7,4.7,4.8,4.7,5.1,5.3,5.2,5.1,5.8,6.1,6.4,6.4,6.8,7.3,7.3,7.4,7.5,7.6,7.9,8.0,8.2,8.4,8.3,8.7,9.1,8.9,8.6,8.2,8.3,8.6,8.5]}
+ ]},
+premium:{type:'line',x:Y(1980,2035),xTitle:'Year',yMax:20,yFmt:pct(0),tipFmt:pct(1),labelW:170,
+ zones:[{from:'2027',to:'2035',label:'Trustees projection',short:'Projected'}],
+ series:[
+  {name:'Average Part B and Part D premiums',short:'Parts B and D',c:'--s1',values:[3.0,2.9,3.0,3.1,3.6,3.6,3.5,4.0,5.2,6.4,5.4,5.3,5.4,6.0,6.6,7.1,6.3,6.3,6.1,6.2,6.0,6.3,6.5,6.9,7.6,8.6,9.3,11.7,11.8,11.4,12.6,13.0,11.0,11.2,10.9,10.7,12.0,12.9,12.4,11.9,12.1,12.1,12.6,11.2,11.3,10.7,11.5,11.8,12.3,12.7,14.0,14.4,14.7,15.2,15.7,16.1]},
+  {name:'Part B standard premium',short:'Part B standard',c:'--s2',points:true,connect:true,values:[3.1,null,null,null,null,3.7,null,null,null,null,5.5,5.4,5.5,6.0,6.6,7.1,6.3,6.3,6.1,6.2,6.0,6.3,6.5,6.9,7.6,8.6,9.3,9.4,9.4,8.8,10.0,10.3,8.5,8.7,8.5,8.2,9.4,10.2,9.9,9.6,9.9,10.0,10.7,9.3,9.5,9.5,10.1,null,null,null,null,null,null,null,null,null]}
+ ]},
+oopburden:{type:'line',x:Y(1996,2024),xTitle:'Year',yMax:40,yFmt:pct(0),tipFmt:pct(1),labelW:150,breaks:['2017'],
+ notes:[{i:10,v:34,text:'Medicare Part D begins (2006)',short:'Part D, 2006',anchor:'start'}],
+ series:[
+  {name:'Out-of-pocket costs above 10% of family income',short:'Above 10%',c:'--s1',values:[18.1,20.0,18.0,21.6,22.4,25.8,27.7,28.8,29.8,27.3,22.7,19.2,18.9,16.6,16.8,15.9,14.1,12.9,14.0,12.3,11.6,12.8,14.5,14.3,12.9,14.4,13.8,12.9,13.3]},
+  {name:'Out-of-pocket costs above 20% of family income',short:'Above 20%',c:'--s2',values:[7.7,8.3,7.3,8.1,9.6,11.8,13.6,14.6,13.9,13.4,9.4,8.4,9.1,7.7,7.3,6.4,6.0,5.4,6.9,5.9,4.6,6.2,7.2,6.9,6.3,7.4,7.4,6.7,6.6]}
+ ]},
+nhpayer:{type:'line',x:Y(1980,2024),xTitle:'Year',yMax:50,yFmt:pct(0),tipFmt:pct(1),labelW:150,bands:['2020'],bandLabel:'COVID relief funds (2020)',
+ series:[
+  {name:'Medicaid',short:'Medicaid',c:'--s1',values:[46.2,46.9,44.0,42.5,42.4,40.8,40.3,41.3,38.6,36.9,36.7,39.8,40.6,40.9,41.2,38.2,37.5,36.2,34.6,36.2,37.5,38.1,37.6,37.8,37.8,37.1,35.9,33.9,33.8,33.7,33.0,32.8,32.4,32.4,32.5,32.4,32.1,32.6,32.9,32.8,30.8,33.4,35.1,35.2,35.9]},
+  {name:'Out of pocket',short:'Out of pocket',c:'--s2',values:[40.5,39.5,41.5,42.2,41.4,41.9,41.5,39.6,40.7,38.4,40.1,37.1,34.8,32.8,30.0,30.3,27.6,27.6,31.2,32.1,31.6,30.2,29.4,30.1,29.5,29.0,28.8,28.9,28.5,27.1,26.4,25.3,26.3,26.1,25.6,25.2,26.1,24.8,24.7,24.5,20.6,21.1,21.5,22.3,22.1]},
+  {name:'Medicare',short:'Medicare',c:'--s3',values:[2.0,1.9,1.9,1.8,1.8,1.7,1.6,1.6,2.1,6.5,3.8,4.0,5.5,7.1,9.6,10.4,13.7,15.2,14.5,11.8,12.8,14.7,15.9,15.8,17.4,18.4,19.3,19.9,21.2,22.3,23.0,24.6,23.0,23.3,23.3,23.6,22.8,22.9,22.5,22.1,20.7,22.1,22.9,21.5,21.5]},
+  {name:'Private health insurance',short:'Private insurance',c:'--s4',values:[1.2,1.5,1.9,2.3,2.8,3.5,4.2,5.0,5.5,5.5,6.0,5.9,5.7,5.6,6.8,8.3,9.0,8.8,9.0,9.2,8.5,8.2,8.4,7.2,6.2,6.2,6.7,6.9,7.0,7.2,7.6,7.5,7.8,7.7,7.9,8.4,8.3,8.4,8.7,8.9,7.9,8.3,8.5,8.8,8.8]}
+ ]},
+runway:{type:'line',x:Y(1985,2026),xTitle:'Trustees Report year',yMax:70,yFmt:function(v){return String(v)},tipFmt:function(v){return v+' years'},points:true,labelW:150,
+ series:[{name:'Years until the combined trust funds are projected to run out',short:'Years left',c:'--s1',values:[64,65,64,60,57,53,50,44,43,35,35,33,32,34,35,37,37,39,39,38,36,34,34,33,28,27,25,21,20,19,19,18,17,16,16,15,13,13,11,11,9,8]}]},
+cover:{type:'line',x:["1989","1992","1995","1998","2001","2004","2007","2010","2013","2016","2019","2022"],xTitle:'SCF survey year',yMax:100,yFmt:pct(0),tipFmt:pct(1),points:true,labelW:150,
+ series:[
+  {name:'Head aged 55–64',short:'55–64',c:'--o4',values:[71.2,75.8,73.6,75.8,77.1,75.9,75.8,72.8,72.6,71.6,66.3,67.8]},
+  {name:'All working age (25–64)',short:'All 25–64',c:'--s1',values:[64.9,65.2,67.7,67.2,69.1,65.8,66.1,63.7,63.2,64.5,63.2,66.5]},
+  {name:'Head aged 25–34',short:'25–34',c:'--o1',values:[48.2,51.7,56.7,54.6,57.2,52.4,52.9,52.8,52.3,54.5,57.7,61.1]}
+ ]},
+nrri:{type:'line',x:["1983","1986","1989","1992","1995","1998","2001","2004","2007","2010","2013","2016","2019","2022"],xTitle:'SCF survey year',yMax:60,yFmt:pct(0),tipFmt:pct(0),points:true,labelW:150,
+ series:[
+  {name:'Version 2.0 (2024)',short:'Version 2.0',c:'--s1',values:[null,null,null,null,null,null,null,42,41,51,51,48,47,39]},
+  {name:'Original method (2018)',short:'Original',c:'--s3',values:[31,31,30,37,38,40,38,45,44,53,52,50,null,null]}
+ ]},
+olddebt:{type:'line',x:["1989","1992","1995","1998","2001","2004","2007","2010","2013","2016","2019","2022"],xTitle:'SCF survey year',yMax:100,yFmt:pct(0),tipFmt:pct(1),points:true,labelW:120,
+ series:[
+  {name:'Head aged 55–64',short:'55–64',c:'--o1',values:[70.8,70.2,73.7,76.2,75.6,76.3,81.8,77.7,78.7,77.1,77.3,77.2]},
+  {name:'Head aged 65–74',short:'65–74',c:'--o3',values:[49.7,51.4,53.4,51.4,56.8,58.8,65.5,65.2,66.4,70.1,70.0,64.8]},
+  {name:'Head aged 75 or older',short:'75 or older',c:'--o5',values:[21.0,31.6,28.4,24.6,29.2,40.3,31.4,38.5,41.4,49.8,51.4,53.4]}
+ ]},
+povage:{type:'line',x:Y(1966,2025),xTitle:'Income year',yMax:30,yFmt:pct(0),tipFmt:pct(1),labelW:120,
+ series:[
+  {name:'Aged 65 or older',short:'65 or older',c:'--s1',values:[28.5,29.5,25.0,25.3,24.6,21.6,18.6,16.3,14.6,15.3,15.0,14.1,14.0,15.2,15.7,15.3,14.6,13.8,12.4,12.6,12.4,12.5,12.0,11.4,12.2,12.4,12.9,12.2,11.7,10.5,10.8,10.5,10.5,9.7,9.9,10.1,10.4,10.2,9.8,10.1,9.4,9.7,9.7,8.9,8.9,8.7,9.1,10.2,10.0,8.8,9.3,9.6,9.7,8.9,8.9,10.3,10.2,9.7,9.9,9.8]},
+  {name:'Aged 18–64',short:'18–64',c:'--s2',values:[10.5,10.0,9.0,8.7,9.0,9.3,8.8,8.3,8.3,9.2,9.0,8.8,8.7,8.9,10.1,11.1,12.0,12.4,11.7,11.3,10.8,10.6,10.5,10.2,10.7,11.4,11.9,12.4,11.9,11.4,11.4,10.9,10.5,10.1,9.6,10.1,10.6,10.8,11.3,11.1,10.8,10.9,11.7,12.9,13.8,13.7,13.7,13.3,13.5,12.4,11.6,11.1,10.7,9.4,10.5,10.5,10.6,10.0,9.6,9.2]}
+ ]},
+spm65:{type:'line',x:Y(2009,2025),xTitle:'Income year',yMax:20,yFmt:pct(0),tipFmt:pct(1),points:true,labelW:150,breaks:['2012','2016','2018'],bands:['2020','2021'],bandLabel:'Pandemic payments',
+ series:[
+  {name:'Supplemental Poverty Measure',short:'SPM',c:'--s1',values:[14.9,15.8,15.1,14.8,15.6,14.4,13.7,14.5,13.6,13.6,12.7,9.4,10.6,13.8,14.0,15.1,15.4]},
+  {name:'Official measure',short:'Official',c:'--s2',values:[8.9,8.9,8.7,9.1,10.2,10.0,8.8,9.3,9.6,9.7,8.9,8.9,10.3,10.2,9.7,9.9,9.8]}
+ ]},
+dbpart:{type:'line',x:Y(1975,2026),xTitle:'Year',yMax:45,yFmt:pct(0),tipFmt:pct(1),labelW:160,
+ series:[
+  {name:'Form 5500 active DB participants ÷ private wage and salary workers',short:'Form 5500',c:'--s1',values:[39.4,38.8,38.3,38.1,37.5,37.7,36.9,35.9,35.7,35.1,33.0,31.8,31.2,30.2,28.8,27.3,26.7,25.9,25.5,24.4,23.0,22.4,21.4,21.3,20.8,19.9,19.6,19.0,18.6,17.9,17.4,16.8,16.2,15.7,15.0,14.3,13.7,12.9,12.4,11.7,11.5,10.9,10.5,10.1,9.6,9.3,9.0,8.6,8.2,null,null,null]},
+  {name:'PBGC-insured active participants ÷ private workers',short:'PBGC',c:'--s2',connect:true,values:[null,null,null,null,null,37.0,null,null,null,null,32.8,null,null,null,null,29.6,29.1,28.0,26.6,25.4,24.2,22.9,22.3,21.9,21.5,20.7,20.9,20.3,19.7,19.0,17.9,17.2,16.6,17.0,16.7,15.6,15.0,14.0,13.6,12.7,12.0,11.8,10.9,10.3,9.8,10.0,9.2,8.7,null,null,null,null]},
+  {name:'BLS employer survey, private industry',short:'BLS survey',c:'--s3',points:true,values:[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,21.0,19.0,null,null,20.0,21.0,21.0,20.0,null,null,null,19.0,18.0,17.0,16.0,16.0,16.0,15.0,15.0,13.0,12.0,11.0,11.0,11.0,11.0,10.0,9.0,9.0]}
+ ]},
+annuity:{type:'line',x:["2004","2007","2010","2013","2016","2019","2022"],xTitle:'SCF survey year',yMax:20,yFmt:pct(0),tipFmt:pct(1),points:true,labelW:170,
+ series:[
+  {name:'65 or older: any annuity',short:'65+, any',c:'--s1',values:[16.1,14.5,13.2,10.9,13.3,12.2,11.4]},
+  {name:'55–64: any annuity',short:'55–64, any',c:'--s2',values:[10.1,7.1,8.0,6.4,6.3,5.9,6.5]},
+  {name:'65 or older: income annuity (no cash value)',short:'65+, income type',c:'--s3',values:[3.8,3.5,3.3,3.0,3.5,3.4,3.6]}
+ ]},
+
+contribwho:{type:'line',x:Y(1989,2023),xTitle:'Year',yMax:60,yFmt:pct(0),tipFmt:pct(1),labelW:170,
+ series:[
+  {name:'Working families, head 25–64, contributing to a workplace DC plan (SCF)',short:'Families (SCF)',c:'--s1',points:true,connect:true,values:[28.9,null,null,31.0,null,null,38.1,null,null,44.0,null,null,43.6,null,null,42.3,null,null,44.5,null,null,42.4,null,null,41.8,null,null,43.5,null,null,45.5,null,null,48.1,null]},
+  {name:'Wage earners making elective deferrals (W-2)',short:'Wage earners (W-2)',c:'--s2',values:[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,34.7,33.8,33.5,33.9,34.9,35.4,36.5,37.6,38.8,39.9,41.7,42.2,42.8,null,null,null]},
+  {name:'Taxpayers contributing to any IRA',short:'IRA (taxpayers)',c:'--s3',values:[null,null,null,null,null,null,null,null,null,null,null,8.4,8.4,8.1,null,8.0,7.6,7.4,7.2,6.5,6.1,5.9,5.7,6.1,6.2,6.3,6.3,6.5,6.6,6.7,7.0,7.5,8.2,8.1,8.2]}
+ ]},
+contribrate:{type:'line',x:Y(1989,2024),xTitle:'Year',yMax:10,yFmt:pct(0),tipFmt:pct(1),labelW:170,
+ series:[
+  {name:'Employee, mean share of pay (SCF)',short:'Employee (SCF)',c:'--s1',points:true,connect:true,values:[7.2,null,null,7.6,null,null,7.1,null,null,7.4,null,null,7.7,null,null,7.8,null,null,7.0,null,null,6.7,null,null,6.8,null,null,7.1,null,null,7.2,null,null,7.3,null,null]},
+  {name:'Employee deferrals, share of deferrers’ pay (W-2)',short:'Employee (W-2)',c:'--s2',values:[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6.5,6.6,6.5,6.4,6.4,6.5,6.3,6.4,6.4,6.4,6.6,6.6,6.7,null,null,null,null]},
+  {name:'Employee, average deferral rate (Vanguard, recordkeeper)',short:'Employee (Vanguard)',c:'--s4',points:true,values:[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,6.9,6.8,7.0,7.0,7.1,7.3,7.4,7.3,7.7,7.6]},
+  {name:'Employer, mean share of pay (SCF)',short:'Employer (SCF)',c:'--s3',points:true,connect:true,values:[5.0,null,null,6.0,null,null,5.2,null,null,4.5,null,null,4.7,null,null,4.5,null,null,3.8,null,null,3.7,null,null,3.9,null,null,4.3,null,null,4.2,null,null,4.1,null,null]}
+ ]},
+dcwages:{type:'line',x:Y(1999,2023),xTitle:'Year',yMax:8,yFmt:pct(0),tipFmt:pct(2),labelW:150,
+ series:[
+  {name:'DC plans, employer + employee (Form 5500)',short:'DC total',c:'--s1',values:[4.58,4.55,4.62,4.78,4.71,4.79,4.95,5.12,5.24,5.43,5.57,5.67,5.67,5.69,5.85,5.87,5.96,6.09,6.17,6.32,6.46,6.6,6.56,6.7,6.91]},
+  {name:'DC plans, employee (Form 5500)',short:'DC employee',c:'--s2',values:[2.76,2.73,2.79,2.87,2.82,2.89,2.98,3.11,3.17,3.2,3.39,3.39,3.42,3.43,3.53,3.55,3.63,3.71,3.76,3.88,3.99,4.14,4.14,4.22,4.33]},
+  {name:'DC plans, employer (Form 5500)',short:'DC employer',c:'--s3',values:[1.83,1.82,1.83,1.9,1.89,1.9,1.97,2.02,2.07,2.23,2.18,2.28,2.25,2.25,2.32,2.32,2.33,2.38,2.41,2.44,2.47,2.46,2.42,2.49,2.58]},
+  {name:'Traditional and Roth IRAs (tax data)',short:'IRAs',c:'--s4',values:[null,null,null,null,null,null,null,null,null,0.53,0.54,0.54,0.5,0.55,0.59,0.58,0.56,0.56,0.56,0.55,0.58,0.67,null,null,null]}
+ ]},
+rollshare:{type:'line',x:Y(1996,2023),xTitle:'Year',yMax:120,yFmt:pct(0),tipFmt:pct(1),labelW:150,breaks:['2021'],bands:['2020'],bandLabel:'CARES Act (2020)',
+ series:[
+  {name:'Traditional IRA rollovers ÷ private DC plan benefits (Form 5500)',short:'÷ Form 5500',c:'--s2',values:[null,null,null,null,105.7,103.1,114.4,null,111.4,104.8,108.3,107.7,102.6,106.6,100.4,99.4,100.2,102.0,99.0,102.1,94.7,93.7,93.8,89.4,84.5,90.9,88.8,83.3]},
+  {name:'Traditional IRA rollovers ÷ all DC plan outflows (BEA)',short:'÷ BEA outflows',c:'--s1',values:[90.8,82.7,90.8,93.8,96.2,93.3,103.3,null,99.4,93.7,96.6,95.4,90.5,93.7,88.6,87.6,89.2,91.3,88.5,91.9,85.5,84.6,84.8,80.7,76.4,82.1,80.1,74.7]}
+ ]},
+sipplong:{type:'line',x:Y(1996,2024),xTitle:'Year',yMax:100,yFmt:function(v){return String(v)},tipFmt:function(v){return (+v).toFixed(1)},points:true,labelW:120,breaks:['2016'],bands:['2009','2020'],bandLabel:'RMDs waived (2009, 2020)',
+ zones:[{from:'2014',to:'2019',label:'Pooled question',short:'Pooled'}],
+ series:[
+  {name:'Aged 80 or older',short:'80 or older',c:'--o5',values:[70.6,79.5,68.7,72.5,76.8,72.8,75.9,67.1,69.6,null,null,null,58.0,55.3,66.8,null,null,null,66.2,70.5,70.0,78.2,79.4,77.6,null,77.8,83.9,81.7,86.1]},
+  {name:'Aged 75–79',short:'75–79',c:'--o4',values:[78.1,73.9,72.3,78.5,77.7,74.1,73.7,72.8,73.7,null,null,null,61.7,58.5,65.1,null,null,null,65.6,65.3,67.6,78.0,75.5,76.7,null,73.9,81.4,81.6,79.8]},
+  {name:'Aged 70–74',short:'70–74',c:'--o3',values:[65.9,65.6,71.0,67.5,62.5,55.1,62.9,61.3,63.8,null,null,null,49.3,47.8,55.0,null,null,null,56.3,58.7,56.8,67.0,66.8,67.3,null,54.3,59.0,53.4,50.7]},
+  {name:'Aged 65–69',short:'65–69',c:'--o2',values:[19.9,17.8,20.0,21.4,19.0,17.7,19.9,21.5,18.7,null,null,null,19.4,20.0,19.9,null,null,null,21.6,22.7,23.9,35.6,29.8,29.7,null,26.0,25.1,27.4,28.0]},
+  {name:'Aged 60–64',short:'60–64',c:'--o1',values:[12.5,13.5,12.9,14.2,15.4,11.8,13.5,11.0,10.1,null,null,null,11.2,11.8,11.2,null,null,null,13.1,12.9,15.2,23.0,18.1,17.2,null,13.4,16.4,17.0,17.3]}
+ ]},
+sipprate:{type:'line',x:Y(1996,2024),xTitle:'Year',yMax:16,yFmt:pct(0),tipFmt:pct(1),points:true,labelW:120,bands:['2009'],bandLabel:'RMDs waived (2009)',
+ series:[
+  {name:'Aged 80 or older',short:'80 or older',c:'--o5',values:[15.3,12.4,9.6,8.7,9.5,9.5,7.3,6.8,9.4,null,null,null,6.8,5.3,8.6,null,null,null,null,null,null,null,null,null,null,8.9,9.1,7.7,8.9]},
+  {name:'Aged 75–79',short:'75–79',c:'--o4',values:[15.8,10.0,9.7,9.4,11.3,8.9,8.6,7.5,9.3,null,null,null,6.6,5.0,7.8,null,null,null,null,null,null,null,null,null,null,6.9,7.1,7.0,8.7]},
+  {name:'Aged 70–74',short:'70–74',c:'--o3',values:[8.8,7.8,8.1,7.8,9.1,5.5,6.8,6.6,7.6,null,null,null,5.1,4.7,6.1,null,null,null,null,null,null,null,null,null,null,5.1,5.6,4.6,6.3]},
+  {name:'Aged 65–69',short:'65–69',c:'--o2',values:[3.8,3.1,3.5,3.3,2.4,2.6,2.8,3.2,2.8,null,null,null,2.7,2.6,2.8,null,null,null,null,null,null,null,null,null,null,3.1,2.9,2.8,4.3]},
+  {name:'Aged 60–64',short:'60–64',c:'--o1',values:[2.2,2.6,2.7,2.7,3.3,1.4,2.2,1.8,1.3,null,null,null,1.6,2.1,1.5,null,null,null,null,null,null,null,null,null,null,1.7,2.3,2.6,3.7]}
+ ]},
+sippage:{type:'line',x:['68','69','70','71','72','73','74','75','76'],xTitle:'Age',yMax:100,yFmt:function(v){return String(v)},tipFmt:function(v){return (+v).toFixed(1)},points:true,labelW:150,
+ series:[
+  {name:'2022 (first RMD at 72)',short:'2022, RMD at 72',c:'--s1',values:[21.9,16.6,27.9,28.7,66.7,76.0,79.5,78.5,76.7]},
+  {name:'2023 (first RMD at 73)',short:'2023, RMD at 73',c:'--s2',values:[26.2,34.7,31.0,28.0,36.9,73.1,78.0,73.7,75.5]},
+  {name:'2024 (first RMD at 73)',short:'2024, RMD at 73',c:'--s3',values:[29.9,23.3,36.3,35.1,29.6,67.2,74.8,72.4,75.9]}
+ ]},
+capture:{type:'hstack',simple:true,max:100,labelW:150,fmt:pct(0),focus:true,rowTitle:'Survey',
+ rows:[{label:'SCF',sub:'2016'},{label:'SIPP',sub:'2014'},{label:'HRS',sub:'2016'},{label:'PSID',sub:'2014'},{label:'CPS ASEC',sub:'2017'}],
+ segs:[{name:'Share of tax-record retirement plan income captured',c:'--s1'}],data:[[99],[97],[94],[85],[47]]}
+};
+
+/* ---------- tooltip ---------- */
+var tip=H('div',{class:'tip',role:'status'},document.body);tip.hidden=true;
+function showTip(title,rows,cx,cy){
+  tip.textContent='';
+  if(title)H('div',{class:'tt'},tip,title);
+  rows.forEach(function(r){var d=H('div',{class:'tr'},tip),k=H('i',{class:'k '+(r.tick?'tick':(r.line?'line':'sw'))},d);k.style.background=r.c?'var('+r.c+')':'currentColor';H('b',null,d,r.val);H('span',null,d,r.name)});
+  tip.hidden=false;
+  var r=tip.getBoundingClientRect(),x=cx+14,y=cy+14;
+  if(x+r.width>window.innerWidth-8)x=cx-r.width-14;if(x<8)x=8;
+  if(y+r.height>window.innerHeight-8)y=cy-r.height-14;if(y<8)y=8;
+  tip.style.left=x+'px';tip.style.top=y+'px';
+}
+function hideTip(){tip.hidden=true}
+function hover(el,title,rows){
+  el.addEventListener('pointermove',function(ev){showTip(title,rows(),ev.clientX,ev.clientY)});
+  el.addEventListener('pointerleave',hideTip);
+  el.addEventListener('focus',function(){var b=el.getBoundingClientRect();showTip(title,rows(),b.left+b.width/2,b.top)});
+  el.addEventListener('blur',hideTip);
+}
+
+/* ---------- line chart ---------- */
+function renderLine(plot,cfg,W){
+  plot.textContent='';
+  var n=cfg.x.length,wide=W>=600,Hh=wide?320:268,endL=cfg.endLabels!==false&&wide;
+  var m={t:14,r:endL?(cfg.labelW||130):16,b:30,l:cfg.yMax>=100&&cfg.yFmt===usd0?46:40};
+  var pw=W-m.l-m.r,ph=Hh-m.t-m.b,step=pw/(n-1);
+  var svg=S('svg',{width:W,height:Hh,viewBox:'0 0 '+W+' '+Hh,role:'img','aria-label':cfg.aria||'Chart'},plot);
+  var X=function(i){return m.l+i*step},Yv=function(v){return m.t+ph-(v/cfg.yMax)*ph};
+  (cfg.zones||[]).forEach(function(z){var a=cfg.x.indexOf(z.from),b=cfg.x.indexOf(z.to);if(a<0||b<0)return;S('rect',{x:X(a)-step/2,y:m.t,width:(b-a+1)*step,height:ph,'class':'zone'},svg);S('text',{x:X(a)-step/2+5,y:m.t+13,'class':'ann'},svg,wide?z.label:(z.short||z.label))});
+  (cfg.bands||[]).forEach(function(b){var i=cfg.x.indexOf(b);if(i<0)return;S('rect',{x:X(i)-step/2,y:m.t,width:step,height:ph,'class':'band'},svg)});
+  ticks(cfg.yMax,5).forEach(function(v){S('line',{x1:m.l,x2:m.l+pw,y1:Yv(v),y2:Yv(v),'class':v===0?'axis':'grid'},svg);S('text',{x:m.l-8,y:Yv(v)+4,'text-anchor':'end','class':'tick'},svg,cfg.yFmt(v))});
+  var lw=0;cfg.x.forEach(function(s){lw=Math.max(lw,String(s).length*6.7+16)});
+  var every=Math.max(1,Math.ceil(lw/step));if(/^\d{4}$/.test(cfg.x[0])){var nice=[1,2,3,4,5,10];for(var q=0;q<nice.length;q++){if(nice[q]>=every){every=nice[q];break}}}
+  cfg.x.forEach(function(lab,i){if((n-1-i)%every!==0)return;var a='middle',hw=String(lab).length*3.5+2;if(i===n-1&&m.r<hw)a='end';if(i===0&&m.l<hw)a='start';S('text',{x:X(i),y:m.t+ph+19,'text-anchor':a,'class':'tick'},svg,lab)});
+  var ends=[];
+  cfg.series.forEach(function(s){
+    var d='',pen=false,last=null,first=null;
+    s.values.forEach(function(v,i){if(v==null){if(!(cfg.connect||s.connect))pen=false;return}d+=(pen?'L':'M')+X(i).toFixed(1)+' '+Yv(v).toFixed(1);pen=!(cfg.breaks&&cfg.breaks.indexOf(cfg.x[i])>=0);last=i;if(first==null)first=i});
+    var p=S('path',{d:d,'class':'ln',pathLength:1},svg);p.style.stroke='var('+s.c+')';
+    if(cfg.points||s.points)s.values.forEach(function(v,i){if(v==null||i===last)return;var c=S('circle',{cx:X(i),cy:Yv(v),r:3.5,'class':'pt'},svg);c.style.fill='var('+s.c+')'});
+    if(last!=null){var c=S('circle',{cx:X(last),cy:Yv(s.values[last]),r:4.5,'class':'dot'},svg);c.style.fill='var('+s.c+')';ends.push({s:s,i:last,y:Yv(s.values[last]),v:s.values[last],fi:first,fy:Yv(s.values[first])})}
+  });
+  if(endL){
+    var col=ends.filter(function(e){return !e.s.near});
+    col.sort(function(a,b){return a.y-b.y});col.forEach(function(e){e.ly=e.y});
+    for(var k=1;k<col.length;k++)col[k].ly=Math.max(col[k].ly,col[k-1].ly+15);
+    for(k=col.length-1;k>=0;k--){var lim=k===col.length-1?m.t+ph:col[k+1].ly-15;if(col[k].ly>lim)col[k].ly=lim}
+    col.forEach(function(e){
+      var lx=m.l+pw+12;
+      if(Math.abs(e.ly-e.y)>3||e.i<n-1)S('path',{d:'M'+(X(e.i)+6)+' '+e.y+'L'+(lx-3)+' '+e.ly,'class':'lead'},svg);
+      var t=S('text',{x:lx,y:e.ly+4,'class':'lab'},svg);S('tspan',{'class':'v'},t,(cfg.tipFmt||cfg.yFmt)(e.v));S('tspan',{dx:5},t,e.s.short||e.s.name);
+    });
+    ends.filter(function(e){return e.s.near}).forEach(function(e){S('text',{x:X(e.fi)-9,y:e.fy+4,'text-anchor':'end','class':'lab'},svg,e.s.short||e.s.name)});
+  }
+  (cfg.notes||[]).forEach(function(a){S('text',{x:X(a.i),y:Yv(a.v),'text-anchor':a.anchor||'start','class':'ann'},svg,wide?a.text:(a.short||a.text))});
+  var hl=S('line',{y1:m.t,y2:m.t+ph,'class':'xh'},svg);hl.style.display='none';
+  var hd=cfg.series.map(function(s){var c=S('circle',{r:4.5,'class':'dot'},svg);c.style.fill='var('+s.c+')';c.style.display='none';return c});
+  var ov=S('rect',{x:m.l-step/2,y:m.t,width:pw+step,height:ph,fill:'transparent'},svg);
+  function at(ev){
+    var r=svg.getBoundingClientRect(),i=Math.round((ev.clientX-r.left-m.l)/step);i=Math.max(0,Math.min(n-1,i));
+    hl.setAttribute('x1',X(i));hl.setAttribute('x2',X(i));hl.style.display='';
+    var rows=[];
+    cfg.series.forEach(function(s,si){var v=s.values[i];if(v==null){hd[si].style.display='none';return}hd[si].setAttribute('cx',X(i));hd[si].setAttribute('cy',Yv(v));hd[si].style.display='';rows.push({c:s.c,name:s.short||s.name,val:(cfg.tipFmt||cfg.yFmt)(v),line:true})});
+    showTip(cfg.xTitle+' '+cfg.x[i]+(cfg.bands&&cfg.bands.indexOf(cfg.x[i])>=0?' · RMDs waived':''),rows,ev.clientX,ev.clientY);
+  }
+  ov.addEventListener('pointermove',at);ov.addEventListener('pointerdown',at);
+  ov.addEventListener('pointerleave',function(){hl.style.display='none';hd.forEach(function(c){c.style.display='none'});hideTip()});
+}
+
+/* ---------- horizontal stacked / simple bars ---------- */
+function renderH(plot,cfg,W,st,M,scale){
+  plot.textContent='';
+  var data=M||(cfg.modes?cfg.modes[st.mode]:cfg.data),sc=scale==null?1:scale;
+  var wide=W>=560,hasSub=cfg.rows.some(function(r){return r.sub}),LW=wide?(cfg.labelW||160):0,bh=22;
+  var rowH=wide?(hasSub?46:34):52,top=4,axisH=cfg.simple?4:24,Hh=top+cfg.rows.length*rowH+axisH;
+  var x0=LW,bw=W-LW-(cfg.simple?48:8);
+  var svg=S('svg',{width:W,height:Hh,viewBox:'0 0 '+W+' '+Hh,role:'img','aria-label':cfg.aria||'Chart'},plot);
+  if(!cfg.simple)[0,25,50,75,100].forEach(function(v){var x=x0+bw*v/100;S('line',{x1:x,x2:x,y1:top,y2:Hh-axisH+3,'class':v===0?'axis':'grid'},svg);S('text',{x:x,y:Hh-6,'text-anchor':v===0?'start':(v===100?'end':'middle'),'class':'tick'},svg,v+'%')});
+  else S('line',{x1:x0,x2:x0,y1:top,y2:Hh-axisH,'class':'axis'},svg);
+  cfg.rows.forEach(function(r,ri){
+    var y=top+ri*rowH+(wide?(rowH-bh)/2:rowH-bh-6);
+    if(wide){S('text',{x:0,y:y+(r.sub?8:15),'class':'rowl'},svg,r.label);if(r.sub)S('text',{x:0,y:y+23,'class':'rows'},svg,r.sub)}
+    else{var t=S('text',{x:0,y:y-7,'class':'rowl'},svg,r.label);if(r.sub)S('tspan',{'class':'rows',dx:8},t,r.sub)}
+    var vals=data[ri],tot=cfg.max||vals.reduce(function(a,b){return a+b},0),x=x0;
+    vals.forEach(function(v,si){
+      var seg=cfg.segs[si],w=bw*v/tot*sc,last=si===vals.length-1,gw=Math.max(0,w-(last?0:2)),g;
+      if(last){var rr=Math.min(4,gw/2);g=S('path',{d:'M'+x+' '+y+'H'+(x+gw-rr)+'Q'+(x+gw)+' '+y+' '+(x+gw)+' '+(y+rr)+'V'+(y+bh-rr)+'Q'+(x+gw)+' '+(y+bh)+' '+(x+gw-rr)+' '+(y+bh)+'H'+x+'Z'},svg)}
+      else g=S('rect',{x:x,y:y,width:gw,height:bh},svg);
+      g.setAttribute('class','hit');g.style.fill='var('+seg.c+')';
+      if(cfg.focus){g.setAttribute('tabindex','0');g.setAttribute('role','img');g.setAttribute('aria-label',r.label+(r.sub?', '+r.sub:'')+': '+seg.name+' '+cfg.fmt(v))}
+      var txt=pct(0)(v);
+      if(!cfg.simple&&gw>=txt.length*6.8+10){var it=S('text',{x:x+gw/2,y:y+bh/2+4,'text-anchor':'middle','class':'in'},svg,txt);it.style.fill='var('+seg.c+'-ink)'}
+      if(cfg.simple)S('text',{x:x+gw+7,y:y+bh/2+4,'class':'val'},svg,cfg.fmt(v));
+      hover(g,r.label+(r.sub?' · '+r.sub:''),function(){return [{c:seg.c,name:seg.name,val:cfg.fmt(v)}]});
+      x+=w;
+    });
+  });
+}
+
+/* ---------- vertical bars with year scrubber ---------- */
+function renderV(plot,cfg,W,st,vals,scale){
+  plot.textContent='';
+  var v=vals||cfg.frames[st.year],sc=scale==null?1:scale,ref=cfg.frames[cfg.ref];
+  var wide=W>=600,Hh=wide?330:290,m={t:24,r:8,b:30,l:36},pw=W-m.l-m.r,ph=Hh-m.t-m.b,n=cfg.cats.length,band=pw/n,bwid=Math.min(24,band*0.5);
+  var svg=S('svg',{width:W,height:Hh,viewBox:'0 0 '+W+' '+Hh,role:'img','aria-label':cfg.aria||'Chart'},plot);
+  var Yv=function(x){return m.t+ph-(x/cfg.yMax)*ph},y0=Yv(0);
+  [0,20,40,60,80,100].forEach(function(t){S('line',{x1:m.l,x2:m.l+pw,y1:Yv(t),y2:Yv(t),'class':t===0?'axis':'grid'},svg);S('text',{x:m.l-8,y:Yv(t)+4,'text-anchor':'end','class':'tick'},svg,t)});
+  cfg.cats.forEach(function(c,i){
+    var cx=m.l+band*(i+.5),x=cx-bwid/2,val=v[i]*sc,y=Yv(val),r=Math.max(0,Math.min(4,(y0-y)/2)),yr=Yv(ref[i]);
+    var p=S('path',{d:'M'+x+' '+y0+'V'+(y+r)+'Q'+x+' '+y+' '+(x+r)+' '+y+'H'+(x+bwid-r)+'Q'+(x+bwid)+' '+y+' '+(x+bwid)+' '+(y+r)+'V'+y0+'Z','class':'hit',tabindex:0,role:'img','aria-label':'Aged '+c+', '+st.year+': '+v[i].toFixed(1)+' per 100 holders; 2019: '+ref[i].toFixed(1)},svg);
+    p.style.fill='var(--s1)';
+    S('line',{x1:cx-bwid/2-7,x2:cx+bwid/2+7,y1:yr,y2:yr,'class':'ref'},svg);
+    var ly=(yr<=y+2&&y-yr<17)?yr-7:y-7;
+    S('text',{x:cx,y:ly,'text-anchor':'middle','class':'val'},svg,String(Math.round(val)));
+    S('text',{x:cx,y:Hh-9,'text-anchor':'middle','class':'tick'},svg,wide?c:cfg.catsShort[i]);
+    hover(p,'Aged '+c+' · '+st.year,function(){return [{c:'--s1',name:'withdrawers per 100 holders',val:cfg.frames[st.year][i].toFixed(1)},{tick:true,name:'in '+cfg.ref,val:ref[i].toFixed(1)}]});
+  });
+}
+
+/* ---------- tables ---------- */
+function buildTable(tw,cfg,st){
+  tw.textContent='';
+  var t=H('table',null,tw),hd=H('tr',null,H('thead',null,t)),tb=H('tbody',null,t),f=cfg.tipFmt||cfg.fmt||cfg.yFmt;
+  if(cfg.type==='line'){
+    H('th',{scope:'col'},hd,cfg.xTitle);cfg.series.forEach(function(s){H('th',{scope:'col'},hd,s.name)});
+    cfg.x.forEach(function(x,i){var tr=H('tr',null,tb);H('th',{scope:'row'},tr,x);cfg.series.forEach(function(s){H('td',null,tr,s.values[i]==null?'–':f(s.values[i]))})});
+  }else if(cfg.type==='hstack'){
+    var data=cfg.modes?cfg.modes[st.mode]:cfg.data;
+    H('th',{scope:'col'},hd,cfg.rowTitle||'');cfg.segs.forEach(function(s){H('th',{scope:'col'},hd,s.name)});
+    cfg.rows.forEach(function(r,i){var tr=H('tr',null,tb);H('th',{scope:'row'},tr,r.label+(r.sub?' ('+r.sub+')':''));data[i].forEach(function(v){H('td',null,tr,cfg.fmt(v))})});
+  }else{
+    H('th',{scope:'col'},hd,'Age');cfg.years.forEach(function(y){H('th',{scope:'col'},hd,y)});
+    cfg.cats.forEach(function(c,i){var tr=H('tr',null,tb);H('th',{scope:'row'},tr,c);cfg.years.forEach(function(y){H('td',null,tr,cfg.frames[y][i].toFixed(1))})});
+  }
+}
+
+/* ---------- mount ---------- */
+var entered=[];
+function mount(node){
+  var cfg=CH[node.getAttribute('data-chart')];if(!cfg){node.textContent='Chart data missing';return}
+  var fig=node.closest('.fig'),h=fig&&fig.querySelector('h3');cfg.aria=h?h.textContent:'Chart';
+  var st={mode:cfg.toggle?cfg.toggle[0][0]:null,year:cfg.years?cfg.years[cfg.years.length-1]:null,timer:null,busy:false};
+  var bar=H('div',{'class':'bar'},node),leg=H('div',{'class':'legend'},bar);
+  function lg(cls,c,txt){var s=H('span',{'class':'lg'},leg),k=H('i',{'class':'k '+cls},s);if(c)k.style.background='var('+c+')';s.appendChild(document.createTextNode(txt))}
+  if(cfg.type==='line'){cfg.series.forEach(function(s){lg('line',s.c,s.name)});if(cfg.bands)lg('bandk',null,cfg.bandLabel)}
+  else if(cfg.type==='hstack'){if(!cfg.simple)cfg.segs.forEach(function(s){lg('sw',s.c,s.name)})}
+  else{lg('sw','--s1','Selected year');lg('tick',null,cfg.ref+' level')}
+  var tbtn=H('button',{'class':'btn',type:'button','aria-pressed':'false'},bar,'Show table');
+  var ctl=null,yrEl,rg,regEl,playBtn,modeBtns=[];
+  if(cfg.toggle){
+    ctl=H('div',{'class':'ctl'},node);var sg=H('div',{'class':'seg',role:'group','aria-label':'Measure'},ctl);
+    cfg.toggle.forEach(function(tg,i){var b=H('button',{'class':'btn',type:'button','aria-pressed':i===0?'true':'false'},sg,tg[1]);modeBtns.push(b);b.addEventListener('click',function(){setMode(tg[0])})});
+  }
+  if(cfg.type==='vbar'){
+    ctl=H('div',{'class':'ctl'},node);
+    playBtn=H('button',{'class':'btn',type:'button'},ctl,'Play 2012–2023');
+    yrEl=H('span',{'class':'yr','aria-live':'polite'},ctl,st.year);
+    rg=H('input',{type:'range',min:0,max:cfg.years.length-1,step:1,value:cfg.years.length-1,'aria-label':'Tax year',id:'yr-'+node.getAttribute('data-chart')},ctl);
+    regEl=H('span',{'class':'regime'},ctl,cfg.regime[st.year]);
+    rg.addEventListener('input',function(){stop();setYear(+rg.value,true)});
+    playBtn.addEventListener('click',function(){if(st.timer)stop();else play()});
+  }
+  var plot=H('div',{'class':'plot'},node),tw=H('div',{'class':'tbl-wrap'},node);tw.hidden=true;
+  function width(){return Math.max(260,Math.floor(plot.clientWidth))}
+  function draw(M,scale){if(plot.hidden)return;var W=width();if(cfg.type==='line')renderLine(plot,cfg,W);else if(cfg.type==='hstack')renderH(plot,cfg,W,st,M,scale);else renderV(plot,cfg,W,st,M,scale)}
+  function setMode(mo){
+    if(mo===st.mode||st.busy)return;var A=cfg.modes[st.mode],B=cfg.modes[mo];st.mode=mo;
+    modeBtns.forEach(function(b,i){b.setAttribute('aria-pressed',cfg.toggle[i][0]===mo?'true':'false')});
+    if(!tw.hidden){buildTable(tw,cfg,st);return}
+    st.busy=true;tween(520,function(e){draw(A.map(function(row,ri){return row.map(function(a,si){return a+(B[ri][si]-a)*e})}))},function(){st.busy=false;draw()});
+  }
+  function setYear(idx,anim){
+    var y=cfg.years[idx],from=st.cur||cfg.frames[st.year],to=cfg.frames[y];st.year=y;yrEl.textContent=y;rg.value=idx;regEl.textContent=cfg.regime[y];
+    if(anim&&!RM&&!plot.hidden)tween(360,function(e){st.cur=from.map(function(f,i){return f+(to[i]-f)*e});draw(st.cur)},function(){st.cur=null;draw()});
+    else{st.cur=null;draw()}
+  }
+  function stop(){if(st.timer){clearInterval(st.timer);st.timer=null}if(playBtn)playBtn.textContent='Play 2012–2023'}
+  function play(){
+    var i=0;setYear(0,false);playBtn.textContent='Pause';
+    st.timer=setInterval(function(){i++;if(i>=cfg.years.length){stop();return}setYear(i,true);if(i===cfg.years.length-1)stop()},RM?1100:820);
+  }
+  tbtn.addEventListener('click',function(){
+    var show=tw.hidden;if(show){stop();buildTable(tw,cfg,st)}
+    tw.hidden=!show;plot.hidden=show;tbtn.setAttribute('aria-pressed',show?'true':'false');tbtn.textContent=show?'Show chart':'Show table';
+    if(!show)draw();
+  });
+  draw();
+  var lastW=width(),rt=null;
+  if('ResizeObserver' in window)new ResizeObserver(function(){if(plot.hidden)return;var w=width();if(w===lastW)return;lastW=w;clearTimeout(rt);rt=setTimeout(function(){draw(st.cur)},90)}).observe(plot);
+  entered.push({fig:fig,enter:function(){
+    if(RM||plot.hidden)return;
+    if(cfg.type==='hstack')tween(750,function(e){draw(null,e)},function(){draw()});
+    else if(cfg.type==='vbar')play();
+  }});
+}
+Array.prototype.forEach.call(document.querySelectorAll('.chart[data-chart]'),mount);
+
+/* ---------- entrance: once per figure, from a complete resting state ---------- */
+if('IntersectionObserver' in window){
+  var io=new IntersectionObserver(function(es){es.forEach(function(e){
+    if(!e.isIntersecting)return;io.unobserve(e.target);var fig=e.target;fig.classList.add('in');
+    entered.forEach(function(c){if(c.fig===fig)c.enter()});
+    setTimeout(function(){fig.classList.remove('in')},1800);
+  })},{threshold:.35});
+  Array.prototype.forEach.call(document.querySelectorAll('figure.fig'),function(f){if(f.querySelector('.chart'))io.observe(f)});
+}
+
+/* ---------- references ---------- */
+var order=[],num={},ol=document.getElementById('reflist');
+Array.prototype.forEach.call(document.querySelectorAll('sup.r'),function(sup){
+  var keys=sup.getAttribute('data-r').split(/\s+/),first=true;
+  keys.forEach(function(k){
+    if(!REFS[k]){sup.appendChild(document.createTextNode('[?'+k+']'));sup.className+=' bad';return}
+    if(!num[k]){order.push(k);num[k]=order.length}
+    if(!first)sup.appendChild(document.createTextNode(','));first=false;
+    H('a',{href:'#ref-'+num[k],title:REFS[k][0]+'. '+REFS[k][1]},sup,String(num[k]));
+  });
+});
+if(ol)order.forEach(function(k){var r=REFS[k],li=H('li',{id:'ref-'+num[k]},ol);li.appendChild(document.createTextNode(r[0]+'. '+r[1]+' '));H('a',{href:r[2],target:'_blank',rel:'noopener'},li,r[2].replace(/^https?:\/\/(www\.)?/,'').split('/')[0])});
+
+/* ---------- contents rail ---------- */
+var links={};Array.prototype.forEach.call(document.querySelectorAll('.toc a'),function(a){links[a.getAttribute('href').slice(1)]=a});
+if('IntersectionObserver' in window){
+  var so=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){for(var k in links)links[k].classList.remove('on');if(links[e.target.id])links[e.target.id].classList.add('on')}})},{rootMargin:'-12% 0px -78% 0px'});
+  Array.prototype.forEach.call(document.querySelectorAll('.prose section[id]'),function(s){so.observe(s)});
+}
+})();
+</script>
