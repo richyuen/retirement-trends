@@ -73,3 +73,6 @@ Section 8 gets 'Is the share of plan money rolled over falling?' with Fig 14 rol
 
 ## 2026-10-07 v16
 Richard asked for an organization pass and chose Publish. Report regrouped into 7 labeled parts, 26 sections (old Section 11 merged into 7, duplicate TSP 2012 story told once; Section 7 annuity paragraph moved to annuities). Contributions and readiness now precede the laws scorecard; Social Security, DB and annuities join income; longevity, work, health, LTC grouped. Summary findings and data notes reordered; all cross-references remapped. See notes/reorg_proposal_v16.md.
+
+## 2026-10-08 v17
+Richard chose 'Add to report' for work after retirement. Section 19 gains 'Work after claiming Social Security' (Fig 41 workret, Table 14): 11.7% of SS retired-worker beneficiaries 62+ employed in March 2026 (7.1% PT, 4.6% FT), flat since 2010 apart from COVID; withdrawers 10.4% vs 12.0%; 62-64 fall is claiming selection. Summary finding on working longer and the data note extended.
