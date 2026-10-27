@@ -91,3 +91,7 @@ Richard asked whether income cohorts show anything different. They don't: no inc
 **SCF 2025 (added 2026-10-27):** the 2022-2025 change is the one wave where the income groups' sentiment split (bottom third 60.0 -> 53.6, top third 61.4 -> 64.7), and employee DC contributions moved in the predicted direction (Q1 1.25% -> 0.99% of wages, Q4 5.43% -> 6.11%). It raises the pooled employee-DC coefficient from +0.09 to +0.23 per 10 points, still not significant. Q1 families contributing were flat (6.4% -> 6.5%).
 
 The full write-up is a Claude Doc: https://claude.ai/artifact/Byw2yfRUJe5aNt7U3VbBiy
+
+## SCF cohort table (added 2026-10-27)
+
+`output/scf_cohort_contrib_vs_sentiment.csv` (built by `scripts/scf_cohort_table.py`) puts the SCF income-cohort series and sentiment in one table: one row per wave (1989-2025) and family income quartile, 52 rows. Columns: families contributing to a current-job DC plan (% of families), take-up among families with a DC plan (%), employee and employer DC contributions (% of current main-job pay), each with its replicate-weight SE; `n_families` is the unweighted sample count (the SCF oversamples high-wealth families, so Q4 has the most cases); the matched Michigan sentiment (`ics_own_group`: Q1 = bottom third, Q2-Q3 = middle, Q4 = top) plus all three thirds and all respondents. DC items are current at the interview in the survey year; quartiles use prior-year family income; sentiment is the survey year's calendar average.
