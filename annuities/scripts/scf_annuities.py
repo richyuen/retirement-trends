@@ -1,7 +1,9 @@
-"""SCF annuity ownership among older households, 1989-2022.
+"""SCF annuity ownership among older households, 1989-2025.
 
 Inputs (read-only, from ../scf/raw/, Fed SCF public files https://www.federalreserve.gov/econres/scfindex.htm):
-  rscfpYYYY.dta  summary extract (2022 dollars). ANNUIT = cash value of annuities in which the
+  rscfpYYYY.dta  summary extract (2022 dollars; rscfp2025.dta is in 2025 dollars and its dollar
+                 variables are put in 2022 dollars here with the Fed CPI bases 4376/4789, as in
+                 ../scf/scripts/scf_analysis.py). ANNUIT = cash value of annuities in which the
                  household has an equity interest (bulletin.macro.txt):
                    2004+      ANNUIT = max(0, X6577)
                    1998-2001  ANNUIT = max(0, X6820)
@@ -29,7 +31,8 @@ ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT.parent / "scf" / "raw"
 OUT = ROOT / "output"
 OUT.mkdir(exist_ok=True)
-WAVES = [1989, 1992, 1995, 1998, 2001, 2004, 2007, 2010, 2013, 2016, 2019, 2022]
+WAVES = [1989, 1992, 1995, 1998, 2001, 2004, 2007, 2010, 2013, 2016, 2019, 2022, 2025]
+TO_2022USD = {2025: 4376 / 4789}  # CPIBASE 2022 / CPIBASE 2025 (bulletin.macro.txt)
 GROUPS = {"all": (0, 200), "55-64": (55, 64), "65+": (65, 200), "65-74": (65, 74), "75+": (75, 200)}
 
 
@@ -65,6 +68,8 @@ OLD_DB = {1, 4}
 def load(year):
     s = read(RAW / f"rscfp{year}.dta", ["y1", "yy1", "x1", "xx1", "wgt", "age", "annuit", "fin", "othma"])
     s = s.rename(columns={"x1": "y1", "xx1": "yy1"})
+    if year in TO_2022USD:
+        s[["annuit", "fin", "othma"]] = s[["annuit", "fin", "othma"]] * TO_2022USD[year]
     s["imp"] = (s.y1 - s.yy1 * 10).astype(int)
     if year >= 2004:
         cols = ["y1", "x6815", "x6575", "x6576", "x6577", "x6578", "x6579", "x6580"]

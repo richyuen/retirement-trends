@@ -1,13 +1,17 @@
-"""SCF 1989-2022: sources of income and composition of wealth for older households.
+"""SCF 1989-2025: sources of income and composition of wealth for older households.
 
 Unit: household (SCF "family"); age of the reference person at interview.
 Groups: all households, 55-64, 65+, 65-74, 75+.
-Income refers to the calendar year before the survey (SCF 2022 -> 2021), in 2022 dollars.
+Income refers to the calendar year before the survey (SCF 2025 -> 2024), in 2022 dollars.
+The 2025 summary extract is in 2025 dollars; its dollar variables are put in 2022 dollars with the Fed's
+CPI bases 4376/4789 (bulletin.macro.txt), as in scf/scripts/scf_analysis.py.
+SCF_WAVES=2004,...,2025 recomputes only those waves and keeps the other waves' rows from the existing
+output/scf_income_long.csv (use when the 1989-2001 files are not cached).
 
 Inputs
   scf/raw/rscfpYYYY.dta        Fed summary extract (2022 dollars): WAGEINC, BUSSEFARMINC, INTDIVINC,
                                KGINC, SSRETINC, TRANSFOTHINC, PENACCTWD, balance-sheet variables
-  scf/raw/pYYi6.dta, pYY_rw1   full public file + replicate weights, 2004-2022
+  scf/raw/pYYi6.dta, pYY_rw1   full public file + replicate weights, 2004-2025
   $SCF_OLD_DIR                 full public file + replicate weights, 1989-2001 (downloaded on first run
                                from federalreserve.gov/econres/files/: scf89s, scf92s, scf95s, scf98s,
                                scf01s and the matching *rw1s zips)
@@ -44,7 +48,11 @@ OLD = Path(os.environ.get("SCF_OLD_DIR", "/tmp/scf_old"))
 OUT = HERE / "output"
 OUT.mkdir(exist_ok=True)
 
-WAVES = [1989, 1992, 1995, 1998, 2001, 2004, 2007, 2010, 2013, 2016, 2019, 2022]
+WAVES = [1989, 1992, 1995, 1998, 2001, 2004, 2007, 2010, 2013, 2016, 2019, 2022, 2025]
+TO_2022USD = {2025: 4376 / 4789}  # CPIBASE 2022 / CPIBASE 2025 (bulletin.macro.txt)
+DOLLARS = ["income", "wageinc", "bussefarminc", "intdivinc", "kginc", "ssretinc", "transfothinc", "penacctwd",
+           "networth", "asset", "fin", "nfin", "debt", "houses", "mrthel", "retqliq", "irakh", "thrift", "futpen",
+           "currpen"]
 OLD_FILES = {1989: ("scf89s", "scf89rw1s", "p89i6.dta", "p89_rw1.dta"),
              1992: ("scf92s", "scf92rw1s", "p92i4.dta", "p92_rw1.dta"),
              1995: ("scf95s", "scf95rw1s", "p95i6.dta", "p95_rw1.dta"),
@@ -109,6 +117,8 @@ def load(year):
         if c not in s:
             s[c] = 0.0
     s = s.fillna({"penacctwd": 0})
+    if year in TO_2022USD:
+        s[DOLLARS] = s[DOLLARS] * TO_2022USD[year]
     s["imp"] = (s.y1 - s.yy1 * 10).astype(int)
     # 2022-dollar factor for full-file X variables (summary WAGEINC = X5702 x CPI factor)
     m = s.x5702 > 0
@@ -254,7 +264,8 @@ GROUPS = {"all": (0, 200), "55-64": (55, 64), "65+": (65, 200), "65-74": (65, 74
 
 def run():
     rows = []
-    for year in WAVES:
+    only = [int(y) for y in os.environ.get("SCF_WAVES", "").split(",") if y.strip()]
+    for year in (only or WAVES):
         df = load(year)
         rw = load_rw(year)
         print(year, "cpi factor", round(df.cpi.iloc[0], 3), flush=True)
@@ -277,6 +288,9 @@ def run():
                 rows.append(dict(survey_year=year, income_year=year - 1, group=g, stat=k, estimate=est,
                                  se=se, n_cases=n))
     res = pd.DataFrame(rows)
+    if only:  # keep the other waves from the existing output
+        old = pd.read_csv(OUT / "scf_income_long.csv")
+        res = pd.concat([old[~old.survey_year.isin(only)], res]).sort_values("survey_year", kind="stable")
     res.to_csv(OUT / "scf_income_long.csv", index=False, float_format="%.4f")
     return res
 

@@ -1,15 +1,17 @@
-"""SCF 1989-2022: contributions to DC (employer account-type) plans and IRAs.
+"""SCF 1989-2025: contributions to DC (employer account-type) plans and IRAs.
 
 Inputs (read-only):
   scf/raw/rscfpYYYY.dta        Fed summary extract (WGT already /5, AGE, OCCAT1, INCOME, IRAKH)
-  scf/raw/pYYi6.dta            full public X-variable files 2004-2022, pYY_rw1.dta replicate weights
+  scf/raw/pYYi6.dta            full public X-variable files 2004-2025, pYY_rw1.dta replicate weights
   /tmp/scfraw/x/                1989-2001 full files + replicate weights downloaded from
                                 https://www.federalreserve.gov/econres/files/scf89s.zip ... (see notes.md)
 Variable maps: scf_vars.py.   Output: contributions/scf/output/*.csv (long: year, measure, group, estimate, se, n, note)
 
 Point estimates pool the 5 implicates (summary WGT is already divided by 5).
 SE = sqrt(var of 999 bootstrap replicate estimates on implicate 1 + (1+1/5) x between-implicate variance),
-as in scf/scripts/scf_analysis.py. Replicate weights are available for every wave 1989-2022 and are used for all.
+as in scf/scripts/scf_analysis.py. Replicate weights are available for every wave 1989-2025 and are used for all.
+Dollar amounts (IRA contributions, wages) come from the X-variables and are nominal; the summary-extract
+INCOME and IRAKH (2022$ for 1989-2022, 2025$ for 2025) are only used for within-wave quartiles and IRAKH > 0.
 Run: python3 -I contributions/scf/scripts/scf_contrib.py [years...]
 """
 import sys

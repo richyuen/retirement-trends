@@ -120,3 +120,52 @@ Codebook locations:
 - 1989-2001 replicate weights: https://www.federalreserve.gov/econres/files/scf89rw1s.zip, scf92rw1s.zip, scf95rw1s.zip, scf98rw1s.zip, scf2001rw1s.zip.
 - Codebooks in `contributions/scf/raw/`: https://www.federalreserve.gov/econres/files/codebk89.txt, codebk92.txt, codebk95.txt, codebk98.txt, codebk2001.txt, codebk2007.txt, codebk2013.txt, codebk2019.txt. Also `scf/raw/` codebk2004, 2010, 2016 and 2022.
 - 2004-2022 full files, replicate weights and summary extracts (rscfp1989-2022): `scf/raw/`, downloaded by earlier project work from the same Fed site. Summary-variable definitions: `scf/raw/bulletin.macro.txt` (https://www.federalreserve.gov/econres/files/bulletin.macro.txt).
+
+## SCF 2025 added (2026-10-27)
+
+Source: `scf/raw/p25i6.dta`, `p25_rw1.dta`, `rscfp2025.dta`, `codebk2025.txt` (Fed release of 9 Oct 2026; 4,367 families, 21,800 implicate records). `scf_vars.py` now has 2025 in `WAVES` and `IRA_WAVES`; nothing else in the method changed. Units are unchanged: shares and rates are % (no CPI step needed); the IRA median is **nominal** dollars of the prior year (2024), as for earlier waves. The summary-extract INCOME and IRAKH are in 2025 dollars, but they are only used for within-wave income quartiles and IRAKH > 0, so no adjustment applies.
+
+**Codebook check (2022 vs 2025).** Every X-variable the scripts use keeps its number, question and codes: the current-job plan grid X11000-X11057 / X11100- / X11300- / X11400- (balance b+32, employee b+40 to b+46, employer b+47 to b+57), plan counts X4201/X4801, eligibility X4137/X4737, offered kinds X6708-X6717 (same codes 7, 9, 10, 11, 13, 16), work and pay X4105/X4106/X4110-X4113 (and spouse), ages X14/X19, wage income X5702, IRA contributions X6791-X6796. The only text changes are reference years (2021 -> 2024) and the plan-type label in X11001 ("traditional pension" is now "defined benefit (DB) pension"; not used in the account test). None of the used variables is on the codebook's "removed since 2022" list; new items there (for example X4142/X4742 telework) are not pension items. The Fed's DCPLANCJ code in `bulletin.macro.txt` is the same as in the 2022 vintage. So there is no break in 2025.
+
+**Re-run check.** The 1989-2001 full files are not on disk (`/tmp/scfraw/x` is gone), so the run covered 2004-2025 (`python3 -I` on `scf_contrib.run([2004, ..., 2025])`). All 1,850 rows for 2004-2022 (estimate, SE, n, note) and the 2004-2022 diagnostics match the previous output exactly (max difference 0). The 2025 rows (310 long, 16 headline, 1 diagnostics) were appended to the existing 1989-2022 files; every pre-2025 line of `scf_contrib_long.csv`, `scf_contrib_headline.csv` and `scf_contrib_diagnostics.csv` is byte-identical to before. The previous files are kept outside the shared folder. To rerun everything with no year arguments, the 1989-2001 files must be downloaded again (see Sources).
+
+**2025 next to 2022 (estimate, SE).** Base and definitions as in the tables above; DC items are current at interview (2025), IRA items cover calendar 2024.
+
+| | 2022 | 2025 |
+|---|---|---|
+| All families: has a current-job DC plan, % | 33.8 (0.6) | 34.8 (0.7) |
+| All families: contributing to a current-job DC plan, % | 31.3 (0.6) | 32.2 (0.7) |
+| Working-age families (head 25-64, working): contributing, % | 48.1 (0.9) | 49.2 (1.1) |
+| Take-up, families with a DC plan, % | 92.4 (0.7) | 92.5 (0.7) |
+| Take-up, workers with a DC plan, % | 90.2 (0.8) | 91.7 (0.6) |
+| Broad take-up, workers with a plan or eligible, % | 74.7 (1.0) | 76.3 (1.0) |
+| Employee % of pay, median | 6.0 (0.1) | 6.0 (0.0) |
+| Employee % of pay, mean | 7.6 (0.2) | 8.0 (0.2) |
+| Employee mean, rates capped at 25% | 7.3 (0.1) | 7.6 (0.1) |
+| Employer % of pay, median | 4.0 (0.5) | 4.0 (0.0) |
+| Employer % of pay, mean | 4.1 (0.1) | 4.3 (0.1) |
+| Contributors whose employer also contributes, % | 85.4 (1.1) | 86.7 (0.9) |
+| Total % of pay, median / mean | 10.0 / 11.8 (0.2) | 10.0 / 12.3 (0.2) |
+| Employee DC contributions, % of all employees' pay | 4.3 (0.2) | 4.8 (0.15) |
+| Employee + employer, % of all employees' pay | 6.9 (0.2) | 7.8 (0.2) |
+| Employee + employer, % of covered workers' pay | 11.5 (0.3) | 12.3 (0.3) |
+| All families: any member contributed to an IRA (prior year), % | 10.2 (0.4) | 9.7 (0.5) |
+| Working-age families: contributed to an IRA, % | 14.2 (0.7) | 12.8 (0.6) |
+| IRA holders who contributed, % | 33.0 (1.2) | 31.9 (1.1) |
+| Median family IRA contribution, nominal $ (2021 / 2024) | 5,500 (541) | 5,200 (406) |
+| IRA contributions, % of prior-year family wage income | 0.8 (0.04) | 0.7 (0.04) |
+| All families: contributing to DC or IRA, % | 36.3 (0.6) | 36.6 (0.8) |
+| All families: contributing to both, % | 5.2 (0.3) | 5.3 (0.3) |
+| Working-age families: DC or IRA, % | 54.2 (0.8) | 53.9 (1.2) |
+| DC (ee + er) + IRA, % of prior-year wage income | 8.0 (0.2) | 8.5 (0.2) |
+
+By head age (all families contributing to DC, 2022 -> 2025): 25-34 41.8 -> 40.4, 35-44 43.9 -> 46.9, 45-54 48.6 -> 46.7, 55-64 34.9 -> 39.9. By income quartile: Q1 6.4 -> 6.5, Q2 19.8 -> 21.2, Q3 40.2 -> 43.4, Q4 58.5 -> 57.8. Mean employee rate by worker age: 25-34 6.7 -> 6.5, 35-44 6.7 -> 8.2, 45-54 7.8 -> 8.6, 55-64 8.8 -> 9.0.
+
+What 2025 shows and what looks odd:
+- Shares contributing and take-up edged up to new series highs, but each 2022 -> 2025 change is within about one combined SE (contributing families +1.0 pt, working-age +1.1 pt, worker take-up +1.5 pt).
+- **The employee flow jumped**: 4.3% -> 4.8% of all employees' pay (difference about 2 combined SEs), and employee + employer 6.9% -> 7.8%, the highest of any wave. The rise comes from both more contributors (person-level contributors rose from 39% to 43% of employees with pay) and a higher dollar rate among contributors (employee dollars / contributors' pay 7.7% -> 8.2%). Some of the jump may come from the 2022 denominator: 2022 has a heavier top tail of pay, where few contribute in proportion to pay (top 1% of employees held 12.7% of pay in 2022, 11.3% in 2025; mean pay rose 4.5% 2022 -> 2025 while median pay rose 11%). The median employee rate stays at 6%.
+- The mean employee rate (7.6 -> 8.0) and the age 35-44 mean (6.7 -> 8.2) rose; the capped mean rose less (7.3 -> 7.6), and the share of contributors at 15%+ of pay was 10.6% (2022) and 10.8% (2025), so this is not a few outliers. A possible reason (not tested) is SECURE 2.0 (auto-escalation, higher limits), but the survey does not identify auto-enrollment.
+- IRA contribution measures fell slightly (families 10.2% -> 9.7%; median nominal $5,500 -> $5,200) although the IRA limit rose from $6,000 (2021) to $7,000 (2024). The changes are within about one SE; 2022 (2021 contributions) was itself a high year.
+- **Data-handling differences, not definitions**: in 2025 no contributor has the employer percent coded -1 ("nothing") or -2 ("cannot convert") while the employer contributes, and no employee percent is coded -2; in 2022 there were a few such records. This is consistent with missing employer rates among contributors falling from 0.7% to 0.06% (diagnostics). The effect on rates is negligible.
+- The gap between the Fed's DCPLANCJ and our current-job DC share widened to 2.2 pts (37.1% vs 34.8%; 1.5 pts in 2022). As before, DCPLANCJ also counts current-job account plans already paying benefits, which cannot receive contributions; no plan we count is outside DCPLANCJ. Plan holders with more plans than detailed slots: 1.8% (1.7% in 2022).
+- Some median SEs are 0 or jump (employer median SE 0.0 in 2025 vs 0.5 in 2022; total median 0.5 vs 0.1) because rates are heaped at whole percents.

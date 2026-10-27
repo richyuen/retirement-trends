@@ -2959,3 +2959,313 @@ year,measure,group,estimate,se,n,note
 2022,pct_eligible_nonparticipants_of_eligible,family income quartile 3,16.3202,1.6705,507,eligible for an offered account-type plan but not included in any plan
 2022,pct_takeup_eligible_workers_broad,family income quartile 4,84.8993,1.0559,1342,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
 2022,pct_eligible_nonparticipants_of_eligible,family income quartile 4,7.2592,0.7247,1342,eligible for an offered account-type plan but not included in any plan
+2025,pct_families_with_dc_plan_current_job,all families,34.8400,0.7134,4360,"R or spouse has account-type plan at current job (pension grid; DCPLANCJ-style, excl. plans already paying benefits)"
+2025,pct_families_contributing_dc_current_job,all families,32.2207,0.7333,4360,R or spouse currently makes employee contributions to a current-job account-type plan
+2025,pct_takeup_families_with_dc_plan,all families,92.4820,0.6671,1603,among families with a current-job account-type plan
+2025,agg_dc_employee_pct_of_current_wages,all families,4.8345,0.1461,4360,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+2025,agg_dc_employer_pct_of_current_wages,all families,2.9691,0.0962,4360,"annualized current employer DC contributions / annualized current main-job pay, all R+spouse employees"
+2025,agg_dc_total_pct_of_current_wages,all families,7.8036,0.1910,4360,"employee + employer / annualized current main-job pay, all R+spouse employees"
+2025,pct_families_contributing_ira_prior_year,all families,9.7323,0.4544,4360,any family member contributed to an IRA in 2024 (X6791/X6793/X6795; excludes rollovers)
+2025,pct_ira_holders_contributing_prior_year,all families,31.9147,1.1231,1623,among families with IRA/Keogh balance > 0 at interview
+2025,pct_families_contributing_dc_or_ira,all families,36.6368,0.8084,4360,DC (current) or IRA (prior calendar year)
+2025,pct_families_contributing_dc_and_ira,all families,5.3162,0.3307,4360,both
+2025,median_ira_contribution_dollars_if_any,all families,5200.0000,405.9216,519,"nominal 2024 dollars, family total"
+2025,agg_ira_contrib_pct_of_wageinc,all families,0.7168,0.0385,4360,"IRA contributions 2024 / family wage & salary income 2024 (X5702), all families"
+2025,agg_dc_ee_pct_of_wageinc,all families,4.8171,0.1509,4360,annualized current employee DC contributions / prior-year family wage income (X5702)
+2025,agg_dc_total_plus_ira_pct_of_wageinc,all families,8.4842,0.2128,4360,"DC employee+employer (current, annualized) + IRA (prior year) / prior-year wage income"
+2025,pct_families_with_dc_plan_current_job,"working-age families (head 25-64, working)",53.2389,1.0581,2544,"R or spouse has account-type plan at current job (pension grid; DCPLANCJ-style, excl. plans already paying benefits)"
+2025,pct_families_contributing_dc_current_job,"working-age families (head 25-64, working)",49.1703,1.1399,2544,R or spouse currently makes employee contributions to a current-job account-type plan
+2025,pct_takeup_families_with_dc_plan,"working-age families (head 25-64, working)",92.3577,0.8079,1337,among families with a current-job account-type plan
+2025,agg_dc_employee_pct_of_current_wages,"working-age families (head 25-64, working)",4.9618,0.1636,2544,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+2025,agg_dc_employer_pct_of_current_wages,"working-age families (head 25-64, working)",3.0787,0.1136,2544,"annualized current employer DC contributions / annualized current main-job pay, all R+spouse employees"
+2025,agg_dc_total_pct_of_current_wages,"working-age families (head 25-64, working)",8.0405,0.2168,2544,"employee + employer / annualized current main-job pay, all R+spouse employees"
+2025,pct_families_contributing_ira_prior_year,"working-age families (head 25-64, working)",12.7941,0.6296,2544,any family member contributed to an IRA in 2024 (X6791/X6793/X6795; excludes rollovers)
+2025,pct_ira_holders_contributing_prior_year,"working-age families (head 25-64, working)",44.0960,1.7994,852,among families with IRA/Keogh balance > 0 at interview
+2025,pct_families_contributing_dc_or_ira,"working-age families (head 25-64, working)",53.9274,1.1770,2544,DC (current) or IRA (prior calendar year)
+2025,pct_families_contributing_dc_and_ira,"working-age families (head 25-64, working)",8.0370,0.5158,2544,both
+2025,median_ira_contribution_dollars_if_any,"working-age families (head 25-64, working)",5100.0000,406.9930,367,"nominal 2024 dollars, family total"
+2025,agg_ira_contrib_pct_of_wageinc,"working-age families (head 25-64, working)",0.6385,0.0393,2544,"IRA contributions 2024 / family wage & salary income 2024 (X5702), all families"
+2025,agg_dc_ee_pct_of_wageinc,"working-age families (head 25-64, working)",5.2875,0.1737,2544,annualized current employee DC contributions / prior-year family wage income (X5702)
+2025,agg_dc_total_plus_ira_pct_of_wageinc,"working-age families (head 25-64, working)",9.2039,0.2354,2544,"DC employee+employer (current, annualized) + IRA (prior year) / prior-year wage income"
+2025,pct_families_with_dc_plan_current_job,head age 25-34,44.6499,1.8828,546,"R or spouse has account-type plan at current job (pension grid; DCPLANCJ-style, excl. plans already paying benefits)"
+2025,pct_families_contributing_dc_current_job,head age 25-34,40.3829,1.8719,546,R or spouse currently makes employee contributions to a current-job account-type plan
+2025,pct_takeup_families_with_dc_plan,head age 25-34,90.4434,1.8868,232,among families with a current-job account-type plan
+2025,agg_dc_employee_pct_of_current_wages,head age 25-34,3.4096,0.2236,546,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+2025,agg_dc_employer_pct_of_current_wages,head age 25-34,2.1852,0.1178,546,"annualized current employer DC contributions / annualized current main-job pay, all R+spouse employees"
+2025,agg_dc_total_pct_of_current_wages,head age 25-34,5.5948,0.2861,546,"employee + employer / annualized current main-job pay, all R+spouse employees"
+2025,pct_families_contributing_ira_prior_year,head age 25-34,11.9106,1.1385,546,any family member contributed to an IRA in 2024 (X6791/X6793/X6795; excludes rollovers)
+2025,pct_ira_holders_contributing_prior_year,head age 25-34,58.5130,3.8657,102,among families with IRA/Keogh balance > 0 at interview
+2025,pct_families_contributing_dc_or_ira,head age 25-34,44.6540,1.9299,546,DC (current) or IRA (prior calendar year)
+2025,pct_families_contributing_dc_and_ira,head age 25-34,7.6395,0.9842,546,both
+2025,median_ira_contribution_dollars_if_any,head age 25-34,5100.0000,1125.9703,60,"nominal 2024 dollars, family total"
+2025,agg_ira_contrib_pct_of_wageinc,head age 25-34,0.7702,0.1114,546,"IRA contributions 2024 / family wage & salary income 2024 (X5702), all families"
+2025,agg_dc_ee_pct_of_wageinc,head age 25-34,3.6144,0.2174,546,annualized current employee DC contributions / prior-year family wage income (X5702)
+2025,agg_dc_total_plus_ira_pct_of_wageinc,head age 25-34,6.7012,0.3195,546,"DC employee+employer (current, annualized) + IRA (prior year) / prior-year wage income"
+2025,pct_families_with_dc_plan_current_job,head age 35-44,49.8746,1.8419,779,"R or spouse has account-type plan at current job (pension grid; DCPLANCJ-style, excl. plans already paying benefits)"
+2025,pct_families_contributing_dc_current_job,head age 35-44,46.8731,1.9188,779,R or spouse currently makes employee contributions to a current-job account-type plan
+2025,pct_takeup_families_with_dc_plan,head age 35-44,93.9819,1.4595,361,among families with a current-job account-type plan
+2025,agg_dc_employee_pct_of_current_wages,head age 35-44,4.6110,0.3335,779,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+2025,agg_dc_employer_pct_of_current_wages,head age 35-44,2.7349,0.1499,779,"annualized current employer DC contributions / annualized current main-job pay, all R+spouse employees"
+2025,agg_dc_total_pct_of_current_wages,head age 35-44,7.3460,0.3976,779,"employee + employer / annualized current main-job pay, all R+spouse employees"
+2025,pct_families_contributing_ira_prior_year,head age 35-44,12.2115,1.0251,779,any family member contributed to an IRA in 2024 (X6791/X6793/X6795; excludes rollovers)
+2025,pct_ira_holders_contributing_prior_year,head age 35-44,48.9975,3.3125,198,among families with IRA/Keogh balance > 0 at interview
+2025,pct_families_contributing_dc_or_ira,head age 35-44,52.7678,1.8882,779,DC (current) or IRA (prior calendar year)
+2025,pct_families_contributing_dc_and_ira,head age 35-44,6.3168,0.8856,779,both
+2025,median_ira_contribution_dollars_if_any,head age 35-44,6000.0000,647.4354,100,"nominal 2024 dollars, family total"
+2025,agg_ira_contrib_pct_of_wageinc,head age 35-44,0.6463,0.0685,779,"IRA contributions 2024 / family wage & salary income 2024 (X5702), all families"
+2025,agg_dc_ee_pct_of_wageinc,head age 35-44,4.8012,0.3549,779,annualized current employee DC contributions / prior-year family wage income (X5702)
+2025,agg_dc_total_plus_ira_pct_of_wageinc,head age 35-44,8.2727,0.4413,779,"DC employee+employer (current, annualized) + IRA (prior year) / prior-year wage income"
+2025,pct_families_with_dc_plan_current_job,head age 45-54,50.8471,1.7062,832,"R or spouse has account-type plan at current job (pension grid; DCPLANCJ-style, excl. plans already paying benefits)"
+2025,pct_families_contributing_dc_current_job,head age 45-54,46.6622,1.6209,832,R or spouse currently makes employee contributions to a current-job account-type plan
+2025,pct_takeup_families_with_dc_plan,head age 45-54,91.7697,1.4661,424,among families with a current-job account-type plan
+2025,agg_dc_employee_pct_of_current_wages,head age 45-54,5.5386,0.2635,832,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+2025,agg_dc_employer_pct_of_current_wages,head age 45-54,3.3939,0.1975,832,"annualized current employer DC contributions / annualized current main-job pay, all R+spouse employees"
+2025,agg_dc_total_pct_of_current_wages,head age 45-54,8.9325,0.3878,832,"employee + employer / annualized current main-job pay, all R+spouse employees"
+2025,pct_families_contributing_ira_prior_year,head age 45-54,11.1335,1.1848,832,any family member contributed to an IRA in 2024 (X6791/X6793/X6795; excludes rollovers)
+2025,pct_ira_holders_contributing_prior_year,head age 45-54,35.5894,2.9824,303,among families with IRA/Keogh balance > 0 at interview
+2025,pct_families_contributing_dc_or_ira,head age 45-54,49.7994,1.7517,832,DC (current) or IRA (prior calendar year)
+2025,pct_families_contributing_dc_and_ira,head age 45-54,7.9963,0.9272,832,both
+2025,median_ira_contribution_dollars_if_any,head age 45-54,4400.0000,732.4989,119,"nominal 2024 dollars, family total"
+2025,agg_ira_contrib_pct_of_wageinc,head age 45-54,0.5356,0.0701,832,"IRA contributions 2024 / family wage & salary income 2024 (X5702), all families"
+2025,agg_dc_ee_pct_of_wageinc,head age 45-54,5.6867,0.2843,832,annualized current employee DC contributions / prior-year family wage income (X5702)
+2025,agg_dc_total_plus_ira_pct_of_wageinc,head age 45-54,9.6684,0.4301,832,"DC employee+employer (current, annualized) + IRA (prior year) / prior-year wage income"
+2025,pct_families_with_dc_plan_current_job,head age 55-64,42.5810,1.5104,841,"R or spouse has account-type plan at current job (pension grid; DCPLANCJ-style, excl. plans already paying benefits)"
+2025,pct_families_contributing_dc_current_job,head age 55-64,39.9206,1.5084,841,R or spouse currently makes employee contributions to a current-job account-type plan
+2025,pct_takeup_families_with_dc_plan,head age 55-64,93.7522,1.0894,377,among families with a current-job account-type plan
+2025,agg_dc_employee_pct_of_current_wages,head age 55-64,5.9230,0.3451,841,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+2025,agg_dc_employer_pct_of_current_wages,head age 55-64,3.7074,0.3666,841,"annualized current employer DC contributions / annualized current main-job pay, all R+spouse employees"
+2025,agg_dc_total_pct_of_current_wages,head age 55-64,9.6304,0.5782,841,"employee + employer / annualized current main-job pay, all R+spouse employees"
+2025,pct_families_contributing_ira_prior_year,head age 55-64,13.1285,1.1741,841,any family member contributed to an IRA in 2024 (X6791/X6793/X6795; excludes rollovers)
+2025,pct_ira_holders_contributing_prior_year,head age 55-64,35.9226,2.7580,393,among families with IRA/Keogh balance > 0 at interview
+2025,pct_families_contributing_dc_or_ira,head age 55-64,46.3103,1.6319,841,DC (current) or IRA (prior calendar year)
+2025,pct_families_contributing_dc_and_ira,head age 55-64,6.7388,0.8015,841,both
+2025,median_ira_contribution_dollars_if_any,head age 55-64,6000.0000,996.2678,133,"nominal 2024 dollars, family total"
+2025,agg_ira_contrib_pct_of_wageinc,head age 55-64,0.7327,0.0874,841,"IRA contributions 2024 / family wage & salary income 2024 (X5702), all families"
+2025,agg_dc_ee_pct_of_wageinc,head age 55-64,5.3057,0.3728,841,annualized current employee DC contributions / prior-year family wage income (X5702)
+2025,agg_dc_total_plus_ira_pct_of_wageinc,head age 55-64,9.4105,0.6155,841,"DC employee+employer (current, annualized) + IRA (prior year) / prior-year wage income"
+2025,pct_families_with_dc_plan_current_job,income quartile 1,7.1973,0.8396,923,"R or spouse has account-type plan at current job (pension grid; DCPLANCJ-style, excl. plans already paying benefits)"
+2025,pct_families_contributing_dc_current_job,income quartile 1,6.5370,0.8176,923,R or spouse currently makes employee contributions to a current-job account-type plan
+2025,pct_takeup_families_with_dc_plan,income quartile 1,90.8252,2.4492,74,among families with a current-job account-type plan
+2025,agg_dc_employee_pct_of_current_wages,income quartile 1,0.9857,0.1489,923,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+2025,agg_dc_employer_pct_of_current_wages,income quartile 1,1.0338,0.2612,923,"annualized current employer DC contributions / annualized current main-job pay, all R+spouse employees"
+2025,agg_dc_total_pct_of_current_wages,income quartile 1,2.0195,0.3865,923,"employee + employer / annualized current main-job pay, all R+spouse employees"
+2025,pct_families_contributing_ira_prior_year,income quartile 1,1.8186,0.4870,923,any family member contributed to an IRA in 2024 (X6791/X6793/X6795; excludes rollovers)
+2025,pct_ira_holders_contributing_prior_year,income quartile 1,20.4076,5.2328,68,among families with IRA/Keogh balance > 0 at interview
+2025,pct_families_contributing_dc_or_ira,income quartile 1,7.8098,0.9613,923,DC (current) or IRA (prior calendar year)
+2025,pct_families_contributing_dc_and_ira,income quartile 1,0.5458,0.2184,923,both
+2025,median_ira_contribution_dollars_if_any,income quartile 1,1500.0000,638.4418,16,"nominal 2024 dollars, family total"
+2025,agg_ira_contrib_pct_of_wageinc,income quartile 1,0.3405,0.1502,923,"IRA contributions 2024 / family wage & salary income 2024 (X5702), all families"
+2025,agg_dc_ee_pct_of_wageinc,income quartile 1,1.2895,0.1960,923,annualized current employee DC contributions / prior-year family wage income (X5702)
+2025,agg_dc_total_plus_ira_pct_of_wageinc,income quartile 1,2.9805,0.4952,923,"DC employee+employer (current, annualized) + IRA (prior year) / prior-year wage income"
+2025,pct_families_with_dc_plan_current_job,income quartile 2,23.6337,1.2578,887,"R or spouse has account-type plan at current job (pension grid; DCPLANCJ-style, excl. plans already paying benefits)"
+2025,pct_families_contributing_dc_current_job,income quartile 2,21.1877,1.1883,887,R or spouse currently makes employee contributions to a current-job account-type plan
+2025,pct_takeup_families_with_dc_plan,income quartile 2,89.6501,1.8491,232,among families with a current-job account-type plan
+2025,agg_dc_employee_pct_of_current_wages,income quartile 2,2.3888,0.1979,887,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+2025,agg_dc_employer_pct_of_current_wages,income quartile 2,1.6046,0.1140,887,"annualized current employer DC contributions / annualized current main-job pay, all R+spouse employees"
+2025,agg_dc_total_pct_of_current_wages,income quartile 2,3.9934,0.2660,887,"employee + employer / annualized current main-job pay, all R+spouse employees"
+2025,pct_families_contributing_ira_prior_year,income quartile 2,5.2286,0.7158,887,any family member contributed to an IRA in 2024 (X6791/X6793/X6795; excludes rollovers)
+2025,pct_ira_holders_contributing_prior_year,income quartile 2,25.4175,2.9930,160,among families with IRA/Keogh balance > 0 at interview
+2025,pct_families_contributing_dc_or_ira,income quartile 2,24.4003,1.2628,887,DC (current) or IRA (prior calendar year)
+2025,pct_families_contributing_dc_and_ira,income quartile 2,2.0160,0.4782,887,both
+2025,median_ira_contribution_dollars_if_any,income quartile 2,2500.0000,831.2276,44,"nominal 2024 dollars, family total"
+2025,agg_ira_contrib_pct_of_wageinc,income quartile 2,0.5273,0.0981,887,"IRA contributions 2024 / family wage & salary income 2024 (X5702), all families"
+2025,agg_dc_ee_pct_of_wageinc,income quartile 2,2.5855,0.2160,887,annualized current employee DC contributions / prior-year family wage income (X5702)
+2025,agg_dc_total_plus_ira_pct_of_wageinc,income quartile 2,4.8496,0.2967,887,"DC employee+employer (current, annualized) + IRA (prior year) / prior-year wage income"
+2025,pct_families_with_dc_plan_current_job,income quartile 3,47.9829,1.6261,852,"R or spouse has account-type plan at current job (pension grid; DCPLANCJ-style, excl. plans already paying benefits)"
+2025,pct_families_contributing_dc_current_job,income quartile 3,43.3811,1.7159,852,R or spouse currently makes employee contributions to a current-job account-type plan
+2025,pct_takeup_families_with_dc_plan,income quartile 3,90.4093,1.6553,388,among families with a current-job account-type plan
+2025,agg_dc_employee_pct_of_current_wages,income quartile 3,3.6106,0.1685,852,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+2025,agg_dc_employer_pct_of_current_wages,income quartile 3,2.4773,0.1366,852,"annualized current employer DC contributions / annualized current main-job pay, all R+spouse employees"
+2025,agg_dc_total_pct_of_current_wages,income quartile 3,6.0879,0.2755,852,"employee + employer / annualized current main-job pay, all R+spouse employees"
+2025,pct_families_contributing_ira_prior_year,income quartile 3,11.0694,0.8541,852,any family member contributed to an IRA in 2024 (X6791/X6793/X6795; excludes rollovers)
+2025,pct_ira_holders_contributing_prior_year,income quartile 3,34.1076,2.2739,268,among families with IRA/Keogh balance > 0 at interview
+2025,pct_families_contributing_dc_or_ira,income quartile 3,48.8850,1.7265,852,DC (current) or IRA (prior calendar year)
+2025,pct_families_contributing_dc_and_ira,income quartile 3,5.5654,0.7148,852,both
+2025,median_ira_contribution_dollars_if_any,income quartile 3,4000.0000,564.4092,95,"nominal 2024 dollars, family total"
+2025,agg_ira_contrib_pct_of_wageinc,income quartile 3,0.6757,0.0727,852,"IRA contributions 2024 / family wage & salary income 2024 (X5702), all families"
+2025,agg_dc_ee_pct_of_wageinc,income quartile 3,3.7599,0.1809,852,annualized current employee DC contributions / prior-year family wage income (X5702)
+2025,agg_dc_total_plus_ira_pct_of_wageinc,income quartile 3,7.0020,0.3112,852,"DC employee+employer (current, annualized) + IRA (prior year) / prior-year wage income"
+2025,pct_families_with_dc_plan_current_job,income quartile 4,60.5323,1.4406,1698,"R or spouse has account-type plan at current job (pension grid; DCPLANCJ-style, excl. plans already paying benefits)"
+2025,pct_families_contributing_dc_current_job,income quartile 4,57.7647,1.4714,1698,R or spouse currently makes employee contributions to a current-job account-type plan
+2025,pct_takeup_families_with_dc_plan,income quartile 4,95.4279,0.7563,909,among families with a current-job account-type plan
+2025,agg_dc_employee_pct_of_current_wages,income quartile 4,6.1118,0.2198,1698,"annualized current employee DC contributions / annualized current main-job pay, all R+spouse employees (self-employed/no-pay plan holders excluded from both)"
+2025,agg_dc_employer_pct_of_current_wages,income quartile 4,3.5897,0.1635,1698,"annualized current employer DC contributions / annualized current main-job pay, all R+spouse employees"
+2025,agg_dc_total_pct_of_current_wages,income quartile 4,9.7015,0.2945,1698,"employee + employer / annualized current main-job pay, all R+spouse employees"
+2025,pct_families_contributing_ira_prior_year,income quartile 4,20.8091,1.1749,1698,any family member contributed to an IRA in 2024 (X6791/X6793/X6795; excludes rollovers)
+2025,pct_ira_holders_contributing_prior_year,income quartile 4,34.6623,1.7894,1127,among families with IRA/Keogh balance > 0 at interview
+2025,pct_families_contributing_dc_or_ira,income quartile 4,65.4382,1.3479,1698,DC (current) or IRA (prior calendar year)
+2025,pct_families_contributing_dc_and_ira,income quartile 4,13.1356,0.9659,1698,both
+2025,median_ira_contribution_dollars_if_any,income quartile 4,7000.0000,95.0673,364,"nominal 2024 dollars, family total"
+2025,agg_ira_contrib_pct_of_wageinc,income quartile 4,0.7835,0.0559,1698,"IRA contributions 2024 / family wage & salary income 2024 (X5702), all families"
+2025,agg_dc_ee_pct_of_wageinc,income quartile 4,5.7483,0.2273,1698,annualized current employee DC contributions / prior-year family wage income (X5702)
+2025,agg_dc_total_plus_ira_pct_of_wageinc,income quartile 4,9.9053,0.3295,1698,"DC employee+employer (current, annualized) + IRA (prior year) / prior-year wage income"
+2025,agg_dc_employee_pct_of_covered_pay,all families,7.6433,0.1987,1603,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employer_pct_of_covered_pay,all families,4.6941,0.1442,1603,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_total_pct_of_covered_pay,all families,12.3374,0.2497,1603,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employee_pct_of_covered_pay,"working-age families (head 25-64, working)",7.6598,0.2126,1337,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employer_pct_of_covered_pay,"working-age families (head 25-64, working)",4.7528,0.1661,1337,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_total_pct_of_covered_pay,"working-age families (head 25-64, working)",12.4127,0.2707,1337,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employee_pct_of_covered_pay,head age 25-34,6.2957,0.2863,232,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employer_pct_of_covered_pay,head age 25-34,4.0350,0.1962,232,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_total_pct_of_covered_pay,head age 25-34,10.3306,0.3340,232,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employee_pct_of_covered_pay,head age 35-44,7.2085,0.4455,361,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employer_pct_of_covered_pay,head age 35-44,4.2756,0.2296,361,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_total_pct_of_covered_pay,head age 35-44,11.4841,0.5106,361,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employee_pct_of_covered_pay,head age 45-54,8.0919,0.3434,424,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employer_pct_of_covered_pay,head age 45-54,4.9586,0.2641,424,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_total_pct_of_covered_pay,head age 45-54,13.0505,0.4857,424,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employee_pct_of_covered_pay,head age 55-64,8.6086,0.4252,377,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employer_pct_of_covered_pay,head age 55-64,5.3883,0.5044,377,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_total_pct_of_covered_pay,head age 55-64,13.9970,0.7178,377,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employee_pct_of_covered_pay,income quartile 1,4.2207,0.3330,74,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employer_pct_of_covered_pay,income quartile 1,4.4264,0.6376,74,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_total_pct_of_covered_pay,income quartile 1,8.6471,0.7327,74,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employee_pct_of_covered_pay,income quartile 2,6.3426,0.4668,232,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employer_pct_of_covered_pay,income quartile 2,4.2604,0.2694,232,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_total_pct_of_covered_pay,income quartile 2,10.6029,0.5984,232,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employee_pct_of_covered_pay,income quartile 3,6.0476,0.2111,388,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employer_pct_of_covered_pay,income quartile 3,4.1493,0.1601,388,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_total_pct_of_covered_pay,income quartile 3,10.1968,0.2929,388,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employee_pct_of_covered_pay,income quartile 4,8.3773,0.2690,909,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_employer_pct_of_covered_pay,income quartile 4,4.9203,0.2157,909,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,agg_dc_total_pct_of_covered_pay,income quartile 4,13.2976,0.3531,909,contributions / annualized pay of R+spouse who have a current-job account plan (families with a plan)
+2025,pct_takeup_workers_with_dc_plan,"workers with current-job account plan, all ages",91.6646,0.6413,1967,person currently contributes / person has current-job account-type plan
+2025,median_employee_pct_of_pay,"workers with current-job account plan, all ages",6.0000,0.0000,1767,sum over the person's current-job account plans; contributors only
+2025,mean_employee_pct_of_pay,"workers with current-job account plan, all ages",8.0036,0.2264,1767,contributors only
+2025,median_employer_pct_of_pay,"workers with current-job account plan, all ages",4.0000,0.0000,1778,employee contributors; 0 where employer does not contribute
+2025,mean_employer_pct_of_pay,"workers with current-job account plan, all ages",4.3282,0.0745,1778,employee contributors; 0 where employer does not contribute
+2025,median_employer_pct_of_pay_if_employer_contributes,"workers with current-job account plan, all ages",4.0000,0.1622,1513,employee contributors with employer contribution > 0
+2025,median_total_pct_of_pay,"workers with current-job account plan, all ages",10.0000,0.4573,1766,employee + employer; employee contributors
+2025,mean_total_pct_of_pay,"workers with current-job account plan, all ages",12.2904,0.2434,1766,employee + employer; employee contributors
+2025,mean_employee_pct_of_pay_capped25,"workers with current-job account plan, all ages",7.5765,0.1305,1767,contributors; each person's rate capped at 25% of pay
+2025,mean_employer_pct_of_pay_capped25,"workers with current-job account plan, all ages",4.2922,0.0693,1778,employee contributors; employer rate capped at 25%
+2025,mean_total_pct_of_pay_capped25,"workers with current-job account plan, all ages",11.8363,0.1540,1766,"employee + employer, each capped at 25%"
+2025,pct_contributors_with_employer_contribution,"workers with current-job account plan, all ages",86.6716,0.8929,1778,employee contributors whose employer also contributes
+2025,pct_takeup_workers_with_dc_plan,"workers with current-job account plan, age 25-64",91.6823,0.6805,1763,person currently contributes / person has current-job account-type plan
+2025,median_employee_pct_of_pay,"workers with current-job account plan, age 25-64",6.0000,0.0447,1604,sum over the person's current-job account plans; contributors only
+2025,mean_employee_pct_of_pay,"workers with current-job account plan, age 25-64",8.1102,0.2395,1604,contributors only
+2025,median_employer_pct_of_pay,"workers with current-job account plan, age 25-64",4.0000,0.0000,1616,employee contributors; 0 where employer does not contribute
+2025,mean_employer_pct_of_pay,"workers with current-job account plan, age 25-64",4.3500,0.0793,1616,employee contributors; 0 where employer does not contribute
+2025,median_employer_pct_of_pay_if_employer_contributes,"workers with current-job account plan, age 25-64",4.0000,0.1788,1376,employee contributors with employer contribution > 0
+2025,median_total_pct_of_pay,"workers with current-job account plan, age 25-64",10.0000,0.6903,1604,employee + employer; employee contributors
+2025,mean_total_pct_of_pay,"workers with current-job account plan, age 25-64",12.4149,0.2560,1604,employee + employer; employee contributors
+2025,mean_employee_pct_of_pay_capped25,"workers with current-job account plan, age 25-64",7.6807,0.1314,1604,contributors; each person's rate capped at 25% of pay
+2025,mean_employer_pct_of_pay_capped25,"workers with current-job account plan, age 25-64",4.3135,0.0729,1616,employee contributors; employer rate capped at 25%
+2025,mean_total_pct_of_pay_capped25,"workers with current-job account plan, age 25-64",11.9588,0.1544,1604,"employee + employer, each capped at 25%"
+2025,pct_contributors_with_employer_contribution,"workers with current-job account plan, age 25-64",86.4114,0.9595,1616,employee contributors whose employer also contributes
+2025,pct_takeup_workers_with_dc_plan,worker age 25-34,90.0084,1.7724,310,person currently contributes / person has current-job account-type plan
+2025,median_employee_pct_of_pay,worker age 25-34,6.0000,0.3157,279,sum over the person's current-job account plans; contributors only
+2025,mean_employee_pct_of_pay,worker age 25-34,6.5308,0.2289,279,contributors only
+2025,median_employer_pct_of_pay,worker age 25-34,4.0000,0.0835,279,employee contributors; 0 where employer does not contribute
+2025,mean_employer_pct_of_pay,worker age 25-34,4.0858,0.1879,279,employee contributors; 0 where employer does not contribute
+2025,median_employer_pct_of_pay_if_employer_contributes,worker age 25-34,4.0000,0.1134,245,employee contributors with employer contribution > 0
+2025,median_total_pct_of_pay,worker age 25-34,10.0000,0.2598,279,employee + employer; employee contributors
+2025,mean_total_pct_of_pay,worker age 25-34,10.6166,0.3159,279,employee + employer; employee contributors
+2025,mean_employee_pct_of_pay_capped25,worker age 25-34,6.5213,0.2285,279,contributors; each person's rate capped at 25% of pay
+2025,mean_employer_pct_of_pay_capped25,worker age 25-34,4.0784,0.1868,279,employee contributors; employer rate capped at 25%
+2025,mean_total_pct_of_pay_capped25,worker age 25-34,10.5997,0.3149,279,"employee + employer, each capped at 25%"
+2025,pct_contributors_with_employer_contribution,worker age 25-34,87.6440,2.0309,279,employee contributors whose employer also contributes
+2025,pct_takeup_workers_with_dc_plan,worker age 35-44,92.8804,1.2015,470,person currently contributes / person has current-job account-type plan
+2025,median_employee_pct_of_pay,worker age 35-44,6.0000,0.0950,430,sum over the person's current-job account plans; contributors only
+2025,mean_employee_pct_of_pay,worker age 35-44,8.2498,0.4445,430,contributors only
+2025,median_employer_pct_of_pay,worker age 35-44,4.0000,0.0447,433,employee contributors; 0 where employer does not contribute
+2025,mean_employer_pct_of_pay,worker age 35-44,4.4562,0.1839,433,employee contributors; 0 where employer does not contribute
+2025,median_employer_pct_of_pay_if_employer_contributes,worker age 35-44,5.0000,0.7753,368,employee contributors with employer contribution > 0
+2025,median_total_pct_of_pay,worker age 35-44,10.0000,0.8214,430,employee + employer; employee contributors
+2025,mean_total_pct_of_pay,worker age 35-44,12.6961,0.5032,430,employee + employer; employee contributors
+2025,mean_employee_pct_of_pay_capped25,worker age 35-44,7.6296,0.2224,430,contributors; each person's rate capped at 25% of pay
+2025,mean_employer_pct_of_pay_capped25,worker age 35-44,4.4416,0.1794,433,employee contributors; employer rate capped at 25%
+2025,mean_total_pct_of_pay_capped25,worker age 35-44,12.0612,0.3175,430,"employee + employer, each capped at 25%"
+2025,pct_contributors_with_employer_contribution,worker age 35-44,86.9747,1.6958,433,employee contributors whose employer also contributes
+2025,pct_takeup_workers_with_dc_plan,worker age 45-54,91.2549,1.3465,537,person currently contributes / person has current-job account-type plan
+2025,median_employee_pct_of_pay,worker age 45-54,7.0000,0.7824,489,sum over the person's current-job account plans; contributors only
+2025,mean_employee_pct_of_pay,worker age 45-54,8.5923,0.6326,489,contributors only
+2025,median_employer_pct_of_pay,worker age 45-54,4.0000,0.4203,494,employee contributors; 0 where employer does not contribute
+2025,mean_employer_pct_of_pay,worker age 45-54,4.3835,0.2044,494,employee contributors; 0 where employer does not contribute
+2025,median_employer_pct_of_pay_if_employer_contributes,worker age 45-54,5.0000,0.4940,421,employee contributors with employer contribution > 0
+2025,median_total_pct_of_pay,worker age 45-54,11.0000,0.8426,489,employee + employer; employee contributors
+2025,mean_total_pct_of_pay,worker age 45-54,12.9077,0.6744,489,employee + employer; employee contributors
+2025,mean_employee_pct_of_pay_capped25,worker age 45-54,7.9631,0.2676,489,contributors; each person's rate capped at 25% of pay
+2025,mean_employer_pct_of_pay_capped25,worker age 45-54,4.3086,0.1727,494,employee contributors; employer rate capped at 25%
+2025,mean_total_pct_of_pay_capped25,worker age 45-54,12.2025,0.3198,489,"employee + employer, each capped at 25%"
+2025,pct_contributors_with_employer_contribution,worker age 45-54,84.8743,1.7691,494,employee contributors whose employer also contributes
+2025,pct_takeup_workers_with_dc_plan,worker age 55-64,92.3723,1.2224,446,person currently contributes / person has current-job account-type plan
+2025,median_employee_pct_of_pay,worker age 55-64,7.0000,0.5862,406,sum over the person's current-job account plans; contributors only
+2025,mean_employee_pct_of_pay,worker age 55-64,9.0084,0.3887,406,contributors only
+2025,median_employer_pct_of_pay,worker age 55-64,4.0000,0.1256,410,employee contributors; 0 where employer does not contribute
+2025,mean_employer_pct_of_pay,worker age 55-64,4.4412,0.2160,410,employee contributors; 0 where employer does not contribute
+2025,median_employer_pct_of_pay_if_employer_contributes,worker age 55-64,4.0000,0.2761,342,employee contributors with employer contribution > 0
+2025,median_total_pct_of_pay,worker age 55-64,11.0000,0.9063,406,employee + employer; employee contributors
+2025,mean_total_pct_of_pay,worker age 55-64,13.3369,0.4630,406,employee + employer; employee contributors
+2025,mean_employee_pct_of_pay_capped25,worker age 55-64,8.6369,0.2945,406,contributors; each person's rate capped at 25% of pay
+2025,mean_employer_pct_of_pay_capped25,worker age 55-64,4.3902,0.1986,410,employee contributors; employer rate capped at 25%
+2025,mean_total_pct_of_pay_capped25,worker age 55-64,12.9613,0.3798,406,"employee + employer, each capped at 25%"
+2025,pct_contributors_with_employer_contribution,worker age 55-64,86.2031,2.3403,410,employee contributors whose employer also contributes
+2025,pct_takeup_workers_with_dc_plan,family income quartile 1,89.8146,2.5939,77,person currently contributes / person has current-job account-type plan
+2025,median_employee_pct_of_pay,family income quartile 1,4.0000,0.7458,67,sum over the person's current-job account plans; contributors only
+2025,mean_employee_pct_of_pay,family income quartile 1,4.9480,0.4616,67,contributors only
+2025,median_employer_pct_of_pay,family income quartile 1,3.0000,0.5711,67,employee contributors; 0 where employer does not contribute
+2025,mean_employer_pct_of_pay,family income quartile 1,3.9140,0.4061,67,employee contributors; 0 where employer does not contribute
+2025,median_employer_pct_of_pay_if_employer_contributes,family income quartile 1,3.0000,0.7109,59,employee contributors with employer contribution > 0
+2025,median_total_pct_of_pay,family income quartile 1,8.0000,1.0683,67,employee + employer; employee contributors
+2025,mean_total_pct_of_pay,family income quartile 1,8.8620,0.6389,67,employee + employer; employee contributors
+2025,mean_employee_pct_of_pay_capped25,family income quartile 1,4.9361,0.4613,67,contributors; each person's rate capped at 25% of pay
+2025,mean_employer_pct_of_pay_capped25,family income quartile 1,3.9140,0.4061,67,employee contributors; employer rate capped at 25%
+2025,mean_total_pct_of_pay_capped25,family income quartile 1,8.8501,0.6371,67,"employee + employer, each capped at 25%"
+2025,pct_contributors_with_employer_contribution,family income quartile 1,92.6393,3.5586,67,employee contributors whose employer also contributes
+2025,pct_takeup_workers_with_dc_plan,family income quartile 2,89.3965,1.8840,240,person currently contributes / person has current-job account-type plan
+2025,median_employee_pct_of_pay,family income quartile 2,6.0000,0.2806,208,sum over the person's current-job account plans; contributors only
+2025,mean_employee_pct_of_pay,family income quartile 2,6.7640,0.4053,208,contributors only
+2025,median_employer_pct_of_pay,family income quartile 2,4.0000,0.1872,208,employee contributors; 0 where employer does not contribute
+2025,mean_employer_pct_of_pay,family income quartile 2,4.4404,0.2228,208,employee contributors; 0 where employer does not contribute
+2025,median_employer_pct_of_pay_if_employer_contributes,family income quartile 2,5.0000,0.4433,184,employee contributors with employer contribution > 0
+2025,median_total_pct_of_pay,family income quartile 2,10.0000,0.6113,208,employee + employer; employee contributors
+2025,mean_total_pct_of_pay,family income quartile 2,11.2044,0.4886,208,employee + employer; employee contributors
+2025,mean_employee_pct_of_pay_capped25,family income quartile 2,6.4547,0.2492,208,contributors; each person's rate capped at 25% of pay
+2025,mean_employer_pct_of_pay_capped25,family income quartile 2,4.4119,0.2116,208,employee contributors; employer rate capped at 25%
+2025,mean_total_pct_of_pay_capped25,family income quartile 2,10.8666,0.3495,208,"employee + employer, each capped at 25%"
+2025,pct_contributors_with_employer_contribution,family income quartile 2,85.1275,2.5817,208,employee contributors whose employer also contributes
+2025,pct_takeup_workers_with_dc_plan,family income quartile 3,90.5961,1.2961,459,person currently contributes / person has current-job account-type plan
+2025,median_employee_pct_of_pay,family income quartile 3,5.0000,0.4779,409,sum over the person's current-job account plans; contributors only
+2025,mean_employee_pct_of_pay,family income quartile 3,6.5333,0.1924,409,contributors only
+2025,median_employer_pct_of_pay,family income quartile 3,4.0000,0.4537,413,employee contributors; 0 where employer does not contribute
+2025,mean_employer_pct_of_pay,family income quartile 3,4.0127,0.1458,413,employee contributors; 0 where employer does not contribute
+2025,median_employer_pct_of_pay_if_employer_contributes,family income quartile 3,4.0000,0.0000,357,employee contributors with employer contribution > 0
+2025,median_total_pct_of_pay,family income quartile 3,10.0000,0.7810,409,employee + employer; employee contributors
+2025,mean_total_pct_of_pay,family income quartile 3,10.5065,0.2714,409,employee + employer; employee contributors
+2025,mean_employee_pct_of_pay_capped25,family income quartile 3,6.4327,0.1754,409,contributors; each person's rate capped at 25% of pay
+2025,mean_employer_pct_of_pay_capped25,family income quartile 3,4.0097,0.1456,413,employee contributors; employer rate capped at 25%
+2025,mean_total_pct_of_pay_capped25,family income quartile 3,10.4029,0.2583,409,"employee + employer, each capped at 25%"
+2025,pct_contributors_with_employer_contribution,family income quartile 3,87.6180,1.6268,413,employee contributors whose employer also contributes
+2025,pct_takeup_workers_with_dc_plan,family income quartile 4,93.2555,0.8607,1191,person currently contributes / person has current-job account-type plan
+2025,median_employee_pct_of_pay,family income quartile 4,8.0000,0.3177,1083,sum over the person's current-job account plans; contributors only
+2025,mean_employee_pct_of_pay,family income quartile 4,9.6194,0.4063,1083,contributors only
+2025,median_employer_pct_of_pay,family income quartile 4,4.0000,0.0547,1090,employee contributors; 0 where employer does not contribute
+2025,mean_employer_pct_of_pay,family income quartile 4,4.5475,0.1302,1090,employee contributors; 0 where employer does not contribute
+2025,median_employer_pct_of_pay_if_employer_contributes,family income quartile 4,5.0000,0.2031,913,employee contributors with employer contribution > 0
+2025,median_total_pct_of_pay,family income quartile 4,12.0000,0.2503,1082,employee + employer; employee contributors
+2025,mean_total_pct_of_pay,family income quartile 4,14.1072,0.4275,1082,employee + employer; employee contributors
+2025,mean_employee_pct_of_pay_capped25,family income quartile 4,8.9012,0.1970,1083,contributors; each person's rate capped at 25% of pay
+2025,mean_employer_pct_of_pay_capped25,family income quartile 4,4.4835,0.1146,1090,employee contributors; employer rate capped at 25%
+2025,mean_total_pct_of_pay_capped25,family income quartile 4,13.3437,0.2279,1082,"employee + employer, each capped at 25%"
+2025,pct_contributors_with_employer_contribution,family income quartile 4,85.9576,1.1851,1090,employee contributors whose employer also contributes
+2025,pct_takeup_eligible_workers_broad,"workers with plan or eligible, all ages",76.3104,0.9668,2319,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+2025,pct_eligible_nonparticipants_of_eligible,"workers with plan or eligible, all ages",16.7504,0.9049,2319,eligible for an offered account-type plan but not included in any plan
+2025,pct_takeup_eligible_workers_broad,"workers with plan or eligible, age 25-64",77.3055,0.9357,2074,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+2025,pct_eligible_nonparticipants_of_eligible,"workers with plan or eligible, age 25-64",15.6811,0.7968,2074,eligible for an offered account-type plan but not included in any plan
+2025,pct_takeup_eligible_workers_broad,worker age 25-34,69.0317,1.9595,408,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+2025,pct_eligible_nonparticipants_of_eligible,worker age 25-34,23.3052,1.7836,408,eligible for an offered account-type plan but not included in any plan
+2025,pct_takeup_eligible_workers_broad,worker age 35-44,78.4006,1.5946,561,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+2025,pct_eligible_nonparticipants_of_eligible,worker age 35-44,15.5897,1.3595,561,eligible for an offered account-type plan but not included in any plan
+2025,pct_takeup_eligible_workers_broad,worker age 45-54,80.5707,1.9946,609,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+2025,pct_eligible_nonparticipants_of_eligible,worker age 45-54,11.7081,1.5400,609,eligible for an offered account-type plan but not included in any plan
+2025,pct_takeup_eligible_workers_broad,worker age 55-64,82.0335,1.9765,496,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+2025,pct_eligible_nonparticipants_of_eligible,worker age 55-64,11.1925,1.8661,496,eligible for an offered account-type plan but not included in any plan
+2025,pct_takeup_eligible_workers_broad,family income quartile 1,48.5218,4.0187,131,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+2025,pct_eligible_nonparticipants_of_eligible,family income quartile 1,45.9755,4.0740,131,eligible for an offered account-type plan but not included in any plan
+2025,pct_takeup_eligible_workers_broad,family income quartile 2,61.3125,2.7950,346,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+2025,pct_eligible_nonparticipants_of_eligible,family income quartile 2,31.4151,2.7988,346,eligible for an offered account-type plan but not included in any plan
+2025,pct_takeup_eligible_workers_broad,family income quartile 3,76.2600,1.6873,563,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+2025,pct_eligible_nonparticipants_of_eligible,family income quartile 3,15.8242,1.5525,563,eligible for an offered account-type plan but not included in any plan
+2025,pct_takeup_eligible_workers_broad,family income quartile 4,86.5990,1.1765,1279,"contributors / (has current-job account plan + eligible non-participant offered an account-type plan, X4137 & X6708-12)"
+2025,pct_eligible_nonparticipants_of_eligible,family income quartile 4,7.1380,0.8891,1279,eligible for an offered account-type plan but not included in any plan

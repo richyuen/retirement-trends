@@ -114,3 +114,51 @@ In every table the column is the SCF **survey year**. Income questions cover the
   - 1989 has only 730 households aged 65+ in implicate 1, so SEs for 1989 cells are large (e.g. business share 17.5, SE 6.6).
   - Public-file disclosure edits mean components need not sum to X5729. See the outlier fix above.
   - The BLS 2025 average uses 11 months; October 2025 was not published.
+
+## SCF 2025 added (2026-10-27)
+SCF 2025 (released by the Fed 9 Oct 2026; income year 2024) added to `scf_income_long.csv` and t1-t6 (new `2025` and `2025_se` columns). The `official_*.csv` files were not touched. Earlier waves are unchanged: 2004-2022 were recomputed and match the previous outputs exactly (max difference 0), and every pre-2025 row of every output file is byte-identical. The 1989-2001 files are not cached here and nothing was downloaded, so those rows were carried over from the previous output. That is what the new `SCF_WAVES` option does: `SCF_WAVES=2004,2007,2010,2013,2016,2019,2022,2025 python3 spending/scf_income/scripts/scf_income_sources.py`, then `scf_income_tables.py`.
+- **Variables checked.** The Fed's income definitions (`WAGEINC`, `BUSSEFARMINC`, `INTDIVINC`, `KGINC`, `SSRETINC`, `TRANSFOTHINC`, `PENACCTWD`, `INCOME`) and `RETQLIQ` and `DBPLANT` are unchanged in the 2025 `bulletin.macro.txt`. In `codebk2025.txt`, the X5701-X5729 income questions and the whole "current benefits from pensions" section (X5313-X5435, X6958) match 2022 except for the year. New in 2025, and not used here so that the series stays comparable: X7972/X7979 (Social Security amount received by *other* family members; for 65+ households about 1.3% of the reference person's and spouse's Social Security dollars, 2.5% of households), X9360-X9365 (type of welfare in X5720), and X7792/X7793 (support received from relatives or friends, not part of X5729).
+- **Dollars.** The 2025 summary extract is in 2025 dollars. Its dollar variables are multiplied by 4376/4789 (the Fed's CPI bases, as in `scf/scripts/scf_analysis.py`), so every wave stays in 2022 dollars. The implied 2024-income to 2022-dollar factor is 0.938. Shares do not depend on this; only the `mean_*_2022usd` rows do. SEs use the same method as before (999 replicate weights from `p25_rw1.dta` plus 1.2 x the between-implicate variance). 2025 has 1,280 households 65+ in implicate 1.
+- **Check.** All-household ownership of retirement accounts is 54.88% (2025), matching the Fed's 2025 historic table 6 and `scf/README.md`.
+
+Headlines, households 65+, SCF 2022 -> 2025 (income years 2021 -> 2024; SE in parentheses):
+
+| Measure | 2022 | 2025 |
+|---|---|---|
+| Account withdrawals, % of aggregate income (t1) | 8.0 (0.6) | 9.5 (0.7) |
+| ... excluding capital gains (t2) | 9.3 (0.7) | 10.5 (0.8) |
+| % of households drawing on an account (t3) | 28.3 (1.3) | 29.7 (1.3) |
+| ... 75+ | 37.2 (2.2) | 40.6 (2.2) |
+| ... 65-74 | 21.7 (1.5) | 20.8 (1.5) |
+| Social Security share, average household (t4) | 49.1 (1.0) | 46.2 (0.9) |
+| % with at least 50% of income from Social Security | 46.2 (1.5) | 42.7 (1.4) |
+| % with at least 90% from Social Security | 17.3 (1.3) | 13.0 (1.1) |
+| ... at least 50%, 75+ / 65-74 | 55.8 / 39.1 | 49.1 / 37.5 |
+| Pension + withdrawal share, average household | 20.7 (0.8) | 21.2 (0.8) |
+| Aggregate share (t1): wages | 21.9 (1.6) | 21.2 (1.4) |
+| business | 15.8 (1.1) | 14.8 (1.0) |
+| interest and dividends | 7.6 (0.5) | 8.4 (0.6) |
+| capital gains | 14.2 (1.6) | 9.0 (1.2) |
+| Social Security | 20.2 (0.9) | 22.7 (0.7) |
+| Social Security, excluding capital gains (t2) | 23.6 (0.9) | 25.0 (0.7) |
+| pensions/annuities | 10.0 (0.6) | 11.9 (0.7) |
+| account withdrawals | 8.0 (0.6) | 9.5 (0.7) |
+| transfers / other | 0.9 / 1.4 | 0.6 / 1.9 |
+| % with wage income (t3) | 29.0 (1.0) | 32.2 (1.1) |
+| % with pension income (t3) | 43.3 (1.3) | 43.3 (1.5) |
+| Retirement accounts, % of net worth (t5) | 15.2 (1.3) | 19.2 (1.0) |
+| Home equity, % of net worth | 19.1 (0.8) | 19.9 (0.8) |
+| DB coverage, receiving or expected (t6) | 46.0 (1.4) | 46.1 (1.5) |
+| DC/IRA account | 47.1 (1.5) | 47.0 (1.4) |
+| DB only / DC only | 21.6 / 22.7 (1.1 / 1.2) | 24.0 / 24.9 (1.3 / 1.2) |
+| Both / neither | 24.3 / 31.3 (1.2 / 1.4) | 22.1 / 29.1 (1.3 / 1.2) |
+| 55-64: DB coverage / DC/IRA | 37.2 (1.8) / 57.0 (1.7) | 37.3 (2.1) / 63.1 (1.6) |
+| Mean income, 2022$ | $128.8k (5.1k) | $120.8k (3.6k) |
+
+What 2025 shows:
+- **Account withdrawals reached a series high** of 9.5% of 65+ income, rising every wave since 2004 (5.0%). The share of households drawing on an account is about the same as in 2022 (+1.4, about 0.8 SE of the difference). The rise is at 75+ (40.6%, a series high), not at 65-74, which is consistent with the RMD age moving to 73.
+- **Reliance on Social Security fell to series lows.** The average household's Social Security share is 46.2%, at least 50% reliance is 42.7%, and at least 90% reliance is 13.0% (the lowest wave; 15.5-25.0% in 1989-2022; -4.3 points, about 2.5 SE). This is despite Social Security's *aggregate* share rising, from 20.2% to 22.7%. That rise is mostly the drop in capital gains (14.2% -> 9.0%; 2021 gains were unusually high); excluding capital gains it is 23.6% -> 25.0%. More households had wages (32.2%, the highest wave) and account withdrawals, so fewer depend almost entirely on Social Security.
+- **Pensions recovered slightly**, from 10.0% to 11.9% of income, but the % with pension income is flat at 43.3%. Retirement accounts rose to 19.2% of 65+ net worth, the highest wave, after the 2023-25 market gains.
+- **DB vs DC for 65+ households is little changed.** "DC only" (24.9%) still exceeds "DB only" (24.0%), as it did in 2022, and both rose by less than 2 SE. Among 55-64 households DB coverage is flat at 37%, and DC/IRA ownership rose to 63.1% from 57.0%.
+- **Report charts:** none of the report's charts uses a series from this folder. The income-share chart (`incshare`) is CPS, and the SCF coverage, debt and annuity charts come from other folders. The report *text* cites the 2022 SCF figures above (withdrawals 5.0% -> 8.0%, 21.3% -> 28.3% drawing, 75+ 20.2% -> 37.2%, 49.1% Social Security share, net worth 3.5% -> 15.2%, DB only / DC only). `report/` was not edited.
+- **Caveats for 2025.** The SS/pension split is still modeled from the reference person's and spouse's current amounts (X7972 is left out; see above). Withdrawals are 2024 dollars, while the balance-sheet items are at the 2025 interview. 2024 capital gains are lower than 2021's, which raises every other aggregate share. Use t2 or the household-level measures to compare 2022 and 2025.

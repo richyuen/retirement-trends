@@ -83,9 +83,11 @@ Richard asked whether income cohorts show anything different. They don't: no inc
 
 - **Sentiment by income:** Michigan ICS for the bottom, middle and top third of family income (data.sca.isr.umich.edu demographic tables, Table 1a, monthly from Dec 1979; `raw/umich_ics_income_*.xls`). Top minus bottom: 8.1 (1980), 20.3 (2000), 11.3 (2019), 1.4 (2022), 11.1 (2025).
 - **IRS W-2 deferrals by wage third, 2008-2020** (bins split pro rata at the tercile boundaries; individual wage earners, nominal bins). Earners deferring: bottom 8.4% -> 14.2%, middle 35.0% -> 44.9%, top 60.8% -> 69.4%. Change correlations with own-third sentiment: -0.04 to 0.22 for participation; deferrals % of wages -0.19 to 0.04 except top third -0.53 (p = 0.08), which is 2020 alone (0.01 without it).
-- **SCF by family income quartile, 12 waves** (Q1 paired with bottom-third sentiment, Q2-Q3 middle, Q4 top): change correlations -0.27 to 0.50, none significant (n = 11).
-- **Panels with period fixed effects** (does a group whose sentiment falls more than others' cut more?): W-2 +0.18 pts deferring per 10 pts (p = 0.70); SCF +1.0 pt contributing (p = 0.27).
+- **SCF by family income quartile, 13 waves 1989-2025** (Q1 paired with bottom-third sentiment, Q2-Q3 middle, Q4 top): change correlations -0.22 to 0.50, none significant (n = 12).
+- **Panels with period fixed effects** (does a group whose sentiment falls more than others' cut more?): W-2 +0.18 pts deferring per 10 pts (HC1 p = 0.70, permutation p = 0.76); SCF +0.9 pts contributing (p = 0.46, perm 0.54) and +0.23 pts of wages in employee DC (p = 0.33, perm 0.32). HC1 SEs plus a within-period permutation test; cluster SEs were dropped because 3-4 income groups are too few clusters (they had given a misleading p = 0.04 once 2025 was added).
 - **Saver's Credit (low-income marker), 2002-2023:** r = 0.37 with bottom-third sentiment changes (p = 0.10).
 - **Aggregate series vs each third's sentiment:** BEA employee DC 0.18 (bottom), 0.25 (middle), 0.25 (top); no third fits better.
+
+**SCF 2025 (added 2026-10-27):** the 2022-2025 change is the one wave where the income groups' sentiment split (bottom third 60.0 -> 53.6, top third 61.4 -> 64.7), and employee DC contributions moved in the predicted direction (Q1 1.25% -> 0.99% of wages, Q4 5.43% -> 6.11%). It raises the pooled employee-DC coefficient from +0.09 to +0.23 per 10 points, still not significant. Q1 families contributing were flat (6.4% -> 6.5%).
 
 The full write-up is a Claude Doc: https://claude.ai/artifact/Byw2yfRUJe5aNt7U3VbBiy

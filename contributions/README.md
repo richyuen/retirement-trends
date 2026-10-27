@@ -59,3 +59,17 @@ Built 2026-10-06 for Richard's question on trends in contribution rates to IRAs 
 - BLS NCS employer-match provisions (series list not downloadable; bls.gov 403 and API limit).
 - ICI/EBRI 401(k) database and Vanguard before 2015 (blocked or not retrievable).
 - No public source gives combined IRA + employer-DC contribution rates for the same people over a long period; the SCF 2016-2022 measure is the closest.
+
+## SCF 2025 added (2026-10-27)
+
+SCF 2025 (released by the Fed 9 Oct 2026) is now in `scf/output/` (`scf_contrib_long.csv`, `scf_contrib_headline.csv`, `scf_contrib_diagnostics.csv`; 2025 rows appended, 1989-2022 values unchanged). DC items are current at the 2025 interview; IRA items cover 2024. All X-variables used keep the same numbers and meaning in the 2025 codebook, so there is **no definition break**. Details, checks and the full 2022/2025 table: `scf/notes.md`, section "SCF 2025 added (2026-10-27)". Values below are estimate (SE), 2022 -> 2025.
+
+- Share contributing to a current-job DC plan, working families with head 25-64: 48.1% (0.9) -> **49.2% (1.1)**. All families: 31.3% (0.6) -> **32.2% (0.7)**. Both are series highs, but the change is within about one SE.
+- Take-up among workers with a DC plan: 90.2% (0.8) -> **91.7% (0.6)**. Families with a DC plan: 92.4% (0.7) -> 92.5% (0.7).
+- Employee percent of pay among contributors: median 6% (0.1) -> **6% (0.0)**; mean 7.6% (0.2) -> **8.0% (0.2)** (capped at 25%: 7.3% -> 7.6%). The 1989-2022 range "mean 6.8-7.9%" (1992 aside) now extends to 8.0% in 2025.
+- Employer percent of pay per covered contributor (mean): 4.1% (0.1) -> **4.3% (0.1)**.
+- SCF employee DC contributions, % of all employees' pay: 4.3% (0.2) -> **4.8% (0.15)**; employee + employer: 6.9% (0.2) -> **7.8% (0.2)**, the highest wave. Per covered worker: 11.5% (0.3) -> 12.3% (0.3), just inside the 10.8-12.8% range. The employee figure no longer sits in the "about 4.3-4.6%" band shared with W-2 and Form 5500 (those sources have no 2025 data); see notes for why the ratio rose.
+- Families contributing to a DC plan or an IRA: 33.7% (2016), 33.5% (2019), 36.3% (2022, SE 0.6) -> **36.6% (0.8)** in 2025.
+- IRA holders contributing: 33.0% (1.2) -> **31.9% (1.1)**, so the SCF range for 2016-2025 is 29.9-33.0%. Families with any IRA contribution: 10.2% (0.4) -> 9.7% (0.5). Median family IRA contribution, nominal: $5,500 (2021) -> $5,200 (2024), although the limit rose from $6,000 to $7,000 (within about one SE). IRA contributions as % of wage income: 0.8% -> 0.7%.
+
+Caveats: the full 1989-2025 run needs the 1989-2001 files re-downloaded to `/tmp/scfraw/x`; 2025 was run for 2004-2025, and 2004-2022 matched the old output exactly. The Fed's DCPLANCJ now runs 2.2 points above our current-job DC share (0.7-1.8 points before), for the known reason (it includes plans already paying benefits). A few odd percent codes (-1/-2) in earlier waves are absent in 2025, so missing employer rates fell from 0.7% to 0.06% of contributors (negligible effect).

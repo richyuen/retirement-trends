@@ -27,3 +27,7 @@ year,group,measure,estimate,se
 2022,55-64,pct_cashvalue_annuity,5.0,0.72
 2022,65+,pct_any_annuity,11.38,0.72
 2022,65+,pct_cashvalue_annuity,8.38,0.73
+2025,55-64,pct_any_annuity,5.81,0.84
+2025,55-64,pct_cashvalue_annuity,4.31,0.76
+2025,65+,pct_any_annuity,11.64,0.97
+2025,65+,pct_cashvalue_annuity,9.17,0.76

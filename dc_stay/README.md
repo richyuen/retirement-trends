@@ -52,3 +52,19 @@ See `notes_external_sources.md`. TSP 2012 leavers by end 2013: 49% took no actio
 
 ## What goes where
 Nothing here has been put in the report or CLAUDE.md. The TSP retention series and the SCF table are the natural candidates for the report (the "Microdata cross-check section" thread owns it).
+
+## SCF 2025 added (2026-10-27)
+`output/scf_pastjob_long.csv` now runs 1989-2025 (rerun of `scripts/scf_pastjob.py`, which takes its wave list from `scf/scripts/scf_analysis.py`). Rows for 1989-2022 are byte-for-byte unchanged. Checks: the Fed's definitions of FUTPEN, CURRPEN, IRAKH, RETQLIQ and LF in `bulletin.macro.txt` did not change for 2025, and the codebook items behind them (X5601-X5628 past-job pensions, X6461-X6477 and X6957 pensions now paid, IRA items X6551-X6570, X4100, X14) have the same wording in `codebk2025.txt` as in 2022. Only change found: the current-job plan-type question (X11001, feeds THRIFT/RETQLIQ, not the measures below) now says "defined benefit (DB) pension" instead of "traditional pension", same codes. All measures here are within-wave ratios, so the 2025 file's 2025 dollars need no CPI adjustment.
+
+Households with an IRA or a past-job plan account: % with money in a past-job plan (the report's chart; SE in brackets)
+
+| Group (reference person) | 2022 | 2025 |
+|---|---|---|
+| Age 60-74, not working (543 cases in 2025) | 26.0 (2.6) | 30.7 (2.9) |
+| All households | 21.8 (1.0) | 26.8 (1.1) |
+| Age 65-74 | 21.9 (2.2) | 26.8 (2.3) |
+| Age 55-64 | 24.7 (2.1) | 33.0 (2.5) |
+
+Dollar share (past-job plan $ / (past-job plan + IRA $)): age 60-74 not working 27.4 (9.5) -> 29.2 (4.5); all households 17.0 (3.9) -> 21.0 (2.0).
+
+Reading: 2025 is the highest wave for both chart groups, above 2019 (29.3, 25.8), so the 2019 high was not a one-off. For all households the 5.0-point rise is about 3 SEs of the difference; for 60-74 not working the 4.7-point rise is about 1.2 SEs, so on its own it is not distinguishable from 2022. Holding of past-job plans rose (all households 7.7% -> 9.7%) while IRA holding was flat (31.0% -> 30.5%). Same caveats as section 3.

@@ -79,3 +79,6 @@ Richard chose 'Add to report' for work after retirement. Section 19 gains 'Work 
 
 ## 2026-10-27 v18
 SCF 2025 (2024 withdrawals) added to Section 10 at Richard's approval: 70-74 IRA incidence 59.6 per 100 (62.5 in 2021), 75-79 97, all-owner rate 60+ 2.6%, withdrawers-only 4.7% (lowest wave, partly balance growth). Other SCF-based sections still end in 2022. Sentiment subsection staged in report/draft-sentiment/, not published.
+
+## 2026-10-27 v19
+All other SCF-based sections extended to 2025 (contributions, readiness, income, annuities, debt, past-job plans). Highlights: workplace contributors 49.2%; 55-64 coverage 70.1%; withdrawals 9.5% of 65+ income; SS average share 46.2%; income annuities 2.6%; 65+ with debt 60.8%; past-job plan share 26.8% all households.

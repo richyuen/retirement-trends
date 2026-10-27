@@ -1,7 +1,8 @@
 """Per-wave SCF variable maps for current-job pension plans and IRA contributions.
 
 Verified against the Fed codebooks (contributions/scf/raw/codebk89..2019.txt and
-scf/raw/codebk2004/2010/2016/2022.txt). See notes.md "Variables by wave".
+scf/raw/codebk2004/2010/2016/2022/2025.txt). See notes.md "Variables by wave".
+SCF 2025 (added 2026-10-27): every X-variable used here has the same number and meaning as in 2022.
 
 Each current-job plan "slot" is described by a dict of X-variable numbers.
 person: 'r' = respondent (survey reference person), 's' = spouse/partner.
@@ -12,7 +13,7 @@ PROJ = Path(__file__).resolve().parents[3]          # .../retirement-withdrawals
 OLDRAW = PROJ / "scf" / "raw"                        # shared raw folder (2004-2022 full files, summaries)
 SCRATCH = Path("/tmp/scfraw/x")                      # 1989-2001 full files + replicate weights (downloaded)
 
-WAVES = [1989, 1992, 1995, 1998, 2001, 2004, 2007, 2010, 2013, 2016, 2019, 2022]
+WAVES = [1989, 1992, 1995, 1998, 2001, 2004, 2007, 2010, 2013, 2016, 2019, 2022, 2025]
 
 
 def full_path(year):
@@ -65,7 +66,7 @@ def slots(year):
     return out
 
 
-# person-level work/wage variables (same numbers in every wave 1989-2022)
+# person-level work/wage variables (same numbers in every wave 1989-2025)
 PERSON = {"r": dict(age=14, work=4105, selfemp=4106, wage=4112, wfrq=4113, hrs=4110, wks=4111),
           "s": dict(age=19, work=4705, selfemp=4706, wage=4712, wfrq=4713, hrs=4710, wks=4711)}
 
@@ -76,10 +77,10 @@ OFFER = {"r": dict(elig=4137, kinds=[6708, 6709, 6710, 6711], other=6712),
 OFFER_OTHER_ACCT = [7, 9, 10, 11, 13, 16]   # ESOP, SEP/SIMPLE, DC/TIAA-CREF, money purchase, other salary reduction, other account
 OFFER_FROM = 1995
 
-# IRA contributions (2016, 2019, 2022 only): did R / spouse / other family members contribute in prior calendar year,
+# IRA contributions (2016, 2019, 2022, 2025 only): did R / spouse / other family members contribute in prior calendar year,
 # and total amount.  Not asked in 1989-2013 (checked codebooks 1989, 1992, 1995, 1998, 2001, 2004, 2007, 2010, 2013).
 IRA_CONTRIB = dict(yes=[6791, 6793, 6795], amt=[6792, 6794, 6796])
-IRA_WAVES = [2016, 2019, 2022]
+IRA_WAVES = [2016, 2019, 2022, 2025]
 
 # annualisation factors for SCF frequency codes (1 day, 2 week, 3 biweekly, 4 month, 5 quarter, 6 year,
 # 8 lump sum, 11 twice a year, 12 every two months, 31 twice a month). Hour (18) handled with hours x weeks.

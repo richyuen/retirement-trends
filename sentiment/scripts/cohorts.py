@@ -113,10 +113,16 @@ for src, df, period, measures in [("IRS W-2", w2, "year", ["pct_earners_deferrin
     for m in measures:
         pan["dy"] = pan.groupby("group")[m].diff(); pan["dx"] = pan.groupby("group").ics_group.diff()
         pp = pan.dropna(subset=["dy", "dx"])
-        fit = smf.ols("dy ~ dx + C(%s)" % period, data=pp).fit(cov_type="cluster", cov_kwds={"groups": pp["group"]}) \
-            if pp.group.nunique() > 3 else smf.ols("dy ~ dx + C(%s)" % period, data=pp).fit(cov_type="HC1")
+        # HC1 SEs (cluster SEs with only 3-4 income groups are badly biased) plus a permutation p-value:
+        # shuffle the sentiment changes across groups within each period, 5,000 times
+        fit = smf.ols("dy ~ dx + C(%s)" % period, data=pp).fit(cov_type="HC1")
+        rng = np.random.default_rng(0); b0 = abs(fit.params["dx"]); hits = 0
+        for _ in range(5000):
+            q = pp.copy(); q["dx"] = q.groupby(period).dx.transform(lambda v: rng.permutation(v.values))
+            hits += abs(smf.ols("dy ~ dx + C(%s)" % period, data=q).fit().params["dx"]) >= b0
+        perm_p = hits / 5000
         add(src, m, "pooled, period fixed effects", "own income group", 10 * fit.params["dx"], fit.pvalues["dx"], int(fit.nobs),
-            "panel coef per 10 pts", "change in measure per 10-point relative sentiment change")
+            "panel coef per 10 pts", f"change in measure per 10-point relative sentiment change; HC1 p; permutation p = {perm_p:.3f}")
 
 # Saver's Credit vs bottom-third sentiment
 r, p, n = corr(sc.diff(), sent.bottom.diff()); add("IRS Saver's Credit", "pct_returns_claiming", "low income", "bottom third", r, p, n, "corr of changes")

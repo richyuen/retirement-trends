@@ -1,6 +1,7 @@
-"""SCF 1989-2022: debt and housing wealth of older households, by age of the reference person.
+"""SCF 1989-2025: debt and housing wealth of older households, by age of the reference person.
 
-Inputs: ../scf/raw/rscfpYYYY.dta (Fed summary extract, 2022 dollars) and pYY_rw1.dta
+Inputs: ../scf/raw/rscfpYYYY.dta (Fed summary extract; 1989-2022 in 2022 dollars, 2025 in 2025
+dollars and put in 2022 dollars here with TO_2022USD = 4376/4789 from scf_analysis.py) and pYY_rw1.dta
 (999 bootstrap replicate weights, 2004+). Variables are the Fed's bulletin.macro.txt definitions:
   HDEBT (any debt), HMRTHEL (mortgage/HELOC on primary residence), HCCBAL (credit-card balance
   after last payment), DEBT, INCOME, ASSET, NETWORTH, HOMEEQ (= HOUSES - MRTHEL), HOUSES,
@@ -8,7 +9,8 @@ Inputs: ../scf/raw/rscfpYYYY.dta (Fed summary extract, 2022 dollars) and pYY_rw1
 Groups: 55-64, 65-74, 75+, and 65+ (age of reference person at interview).
 Point estimates pool the 5 implicates; SEs (2004+) as in scf/scripts/scf_analysis.py
 (replicate weights on implicate 1 + 1.2 x between-implicate variance).
-Output: ../output/scf_debt_housing_long.csv and wide tables scf_t*.csv
+Output: ../output/scf_debt_housing_long.csv, wide tables scf_t*.csv, and scf_payment_ratios_long.csv
+(Fed Table 18 payment measures, TPAY/PIRTOTAL/PIR40/LATE60 among debtors, with SEs)
 Run: python3 debt_housing/scripts/scf_debt_housing.py   (about 5-10 minutes)
 """
 import sys
@@ -17,20 +19,24 @@ import numpy as np, pandas as pd
 
 HERE = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(HERE.parent / "scf" / "scripts"))
-from scf_analysis import read, estimate, load_rw, wmedian, share, median_of, ratio  # noqa: E402
+from scf_analysis import read, estimate, load_rw, wmedian, share, median_of, ratio, TO_2022USD  # noqa: E402
 
 RAW = HERE.parent / "scf" / "raw"
 OUT = HERE / "output"
 OUT.mkdir(exist_ok=True)
-WAVES = [1989, 1992, 1995, 1998, 2001, 2004, 2007, 2010, 2013, 2016, 2019, 2022]
+WAVES = [1989, 1992, 1995, 1998, 2001, 2004, 2007, 2010, 2013, 2016, 2019, 2022, 2025]
 VARS = ["y1", "yy1", "x1", "xx1", "wgt", "age", "hdebt", "hmrthel", "hccbal", "debt", "income", "asset",
-        "networth", "homeeq", "houses", "housecl", "pirtotal", "pir40", "debt2inc", "levratio", "mrthel", "ccbal"]
+        "networth", "homeeq", "houses", "housecl", "pirtotal", "pir40", "debt2inc", "levratio", "mrthel", "ccbal",
+        "tpay", "late60"]
+DOLLARS = ["debt", "income", "asset", "networth", "homeeq", "houses", "mrthel", "ccbal", "tpay"]
 GROUPS = {"55-64": "age >= 55 & age <= 64", "65-74": "age >= 65 & age <= 74",
           "75+": "age >= 75", "65+": "age >= 65", "all": "age >= 0"}
 
 
 def load(year):
     s = read(RAW / f"rscfp{year}.dta", VARS).rename(columns={"x1": "y1", "xx1": "yy1"})
+    if year in TO_2022USD:  # 2025 extract is in 2025 dollars
+        s[DOLLARS] = s[DOLLARS] * TO_2022USD[year]
     s["imp"] = (s.y1 - s.yy1 * 10).astype(int)
     s["owner"] = s.housecl == 1
     s["eqshare"] = np.where(s.networth > 0, 100 * s.homeeq / s.networth.where(s.networth > 0, 1), np.nan)
@@ -67,18 +73,36 @@ def stats(g):
     }
 
 
+def pay_stats(g):
+    """Fed Table 18 payment measures (added 2026-10-27 to carry them to 2025); separate output file.
+    TPAY = monthly payments, so aggregate = sum(12*TPAY)/sum(INCOME)."""
+    c = GROUPS[g]
+    return {
+        "aggregate_payment_to_income_pct": ratio("tpay12", "income", c),
+        "median_payment_to_income_debtors_pct": median_of("pir100", f"({c}) & debt > 0"),
+        "pct_debtors_payments_over_40pct": share("pir40 == 1", f"({c}) & debt > 0"),
+        "pct_debtors_60days_late": share("late60 == 1", f"({c}) & debt > 0"),
+    }
+
+
 def main():
-    rows = []
+    rows, prow = [], []
     for y in WAVES:
         d = load(y)
         rw = load_rw(y) if y >= 2004 else None
+        d["tpay12"] = 12 * d.tpay
+        d["pir100"] = 100 * d.pirtotal
         for g in GROUPS:
             for name, fn in stats(g).items():
                 p, se = estimate(d, rw, fn)
                 rows.append(dict(year=y, group=g, stat=name, value=p, se=se))
+            for name, fn in pay_stats(g).items():
+                p, se = estimate(d, rw, fn)
+                prow.append(dict(year=y, group=g, stat=name, value=p, se=se))
         print(y, "done", flush=True)
     long = pd.DataFrame(rows)
     long.to_csv(OUT / "scf_debt_housing_long.csv", index=False, float_format="%.4f")
+    pd.DataFrame(prow).to_csv(OUT / "scf_payment_ratios_long.csv", index=False, float_format="%.4f")
     tabs = {
         "scf_t1_any_debt_pct": "pct_any_debt", "scf_t2_home_secured_debt_pct": "pct_home_secured_debt",
         "scf_t3_cc_balance_pct": "pct_cc_balance", "scf_t4_median_debt_debtors_2022usd": "median_debt_if_any",
@@ -97,7 +121,7 @@ def main():
         w = t.pivot(index="year", columns="group", values="value")[list(GROUPS)]
         se = t.pivot(index="year", columns="group", values="se")[list(GROUPS)].add_suffix("_se")
         w.join(se).round(2).to_csv(OUT / f"{f}.csv")
-    show = long[long.group.isin(["55-64", "65-74", "75+"]) & long.year.isin([1989, 2001, 2022])]
+    show = long[long.group.isin(["55-64", "65-74", "75+"]) & long.year.isin([1989, 2001, 2022, 2025])]
     print(show.pivot_table(index=["stat"], columns=["group", "year"], values="value").round(1).to_string())
 
 

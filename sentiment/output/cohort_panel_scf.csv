@@ -47,3 +47,7 @@ year,group,agg_dc_employee_pct_of_current_wages,pct_families_contributing_dc_cur
 2022,income quartile 2,1.9913,19.8314,88.1738,2,middle,58.8333,58.9750
 2022,income quartile 3,3.0674,40.2222,90.6608,3,middle,58.8333,58.9750
 2022,income quartile 4,5.4263,58.5301,95.0213,4,top,61.3500,58.9750
+2025,income quartile 1,0.9857,6.5370,90.8252,1,bottom,53.6333,57.5833
+2025,income quartile 2,2.3888,21.1877,89.6501,2,middle,59.2833,57.5833
+2025,income quartile 3,3.6106,43.3811,90.4093,3,middle,59.2833,57.5833
+2025,income quartile 4,6.1118,57.7647,95.4279,4,top,64.7000,57.5833

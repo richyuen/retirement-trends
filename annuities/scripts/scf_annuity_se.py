@@ -1,4 +1,4 @@
-"""Standard errors for SCF annuity ownership, households with reference person 65+ and 55-64, 2004-2022.
+"""Standard errors for SCF annuity ownership, households with reference person 65+ and 55-64, 2004-2025.
 Method as in ../scf/scripts/scf_analysis.py: 999 bootstrap replicate weights (wt1bK*mmK, pYY_rw1.dta,
 implicate 1) for sampling variance, plus (1+1/5) x between-implicate variance (Rubin).
 Run: python3 annuities/scripts/scf_annuity_se.py  (slow-ish: reads replicate-weight files)
@@ -9,7 +9,7 @@ import numpy as np, pandas as pd, pyreadstat
 ROOT = Path(__file__).resolve().parents[1]
 RAW = ROOT.parent / "scf" / "raw"
 rows = []
-for year in [2004, 2007, 2010, 2013, 2016, 2019, 2022]:
+for year in [2004, 2007, 2010, 2013, 2016, 2019, 2022, 2025]:
     yy = str(year)[2:]
     _, m = pyreadstat.read_dta(str(RAW / f"rscfp{year}.dta"), metadataonly=True)
     nm = {c.lower(): c for c in m.column_names}

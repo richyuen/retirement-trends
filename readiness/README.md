@@ -109,3 +109,61 @@ Who has a retirement account or a DB pension before retirement (SCF 1989-2022), 
 - `scripts/scf_readiness.py`, `scripts/scf_tables.py`, `scripts/build_published.py`
 - `output/scf_readiness_long.csv` (all SCF estimates, SEs, n); `c1-c4` coverage by age; `c5_*` coverage by race and income quartile (25-64 and 55-64); `n_*_5564.csv` near-retiree balances and ratios by income quartile; `p1-p4` published series (NRRI, NRRI subgroups, RCS, SHED)
 - `raw/crr/`, `raw/ebri/`, `raw/fed/`, `raw/other/` source PDFs with `pdftotext` extracts
+
+## SCF 2025 added (2026-10-27)
+`scripts/scf_readiness.py` now runs 1989-2025 (13 waves). It reads `../scf/raw/rscfp2025.dta` and the 2025 replicate weights `p25_rw1.dta`, and follows `../scf/` for 2025: the extract is in 2025 dollars, so `RETQLIQ`, `INCOME` and `NORMINC` are multiplied by 4376/4789 (`TO_2022USD`, imported from `scf_analysis.py`), and all dollars stay in 2022 $ (x 1.094 for 2025 $). Ratios are unaffected. Implicates and SEs work as before (999 replicates on implicate 1 + 1.2 x between-implicate variance). Earlier waves reproduce the previous outputs exactly: all 1,356 pre-2025 rows of `scf_readiness_long.csv` and every pre-2025 row of the `c*`/`n*` tables are identical. The `p1-p4` published-source files were not touched. Check: our all-family ownership of retirement accounts is 54.88% in 2025 (54.34% in 2022), matching the Fed's 2025 historic table (54.88%).
+
+Definition checks (2025 `bulletin.macro.txt` diffed against the 2022 vintage; `codebk2025.txt`): `RETQLIQ`, `IRAKH`, `DBPLANCJ`, `DBPLANT`, `DCPLANCJ` and `INCOME` have the same code. Changes that matter here:
+- **Race**: 2025 asks one combined race/ethnicity question with a new Middle Eastern or North African option. `RACECL4` puts that answer in "White non-Hispanic".
+- **DB wording**: the plan-type question X11001 now says "defined benefit (DB) pension plan" instead of "traditional pension plan". Answer codes are unchanged.
+- **Sample**: about 4,360 families (21,800 records / 5), against 4,595 in 2022. The 55-64 group has 841 records per implicate, against 1,026.
+
+2025 vs 2022 (SE in parentheses; household head's age at interview):
+
+| Headline | 2022 | 2025 |
+|---|---|---|
+| Head 25-64: any account or DB | 66.5 (0.8) | 66.6 (1.0) |
+| Head 25-64: any retirement account | 59.1 (0.8) | 59.9 (0.9) |
+| Head 25-64: DB plan | 28.3 (0.8) | 26.9 (0.8) |
+| Head 25-64: neither | 33.5 | 33.4 |
+| Head 55-64: account or DB | 67.8 (1.6) | 70.1 (1.7) |
+| Head 55-64: any account | 57.0 (1.7) | 63.1 (1.6) |
+| Head 55-64: DB plan | 35.3 (1.7) | 34.9 (2.0) |
+| 55-64 median balance/income, holders | 1.27 (0.13) | 1.46 (0.15) |
+| 55-64 median balance/income, all households | 0.19 (0.06) | 0.42 (0.06) |
+| 55-64 share with balance at least 1x income (%) | 32.7 (1.6) | 37.9 (1.8) |
+| 55-64 ratio of median balance to median income, holders | 1.43 (0.16) | 1.69 (0.21) |
+| 55-64 median holder balance (2022 $) | $185,000 ($22k) | $218,000 ($30k) |
+| 55-64 median family income (2022 $) | $82,000 ($3k) | $84,000 ($5k) |
+| 55-64 bottom quartile: any account | 15.6 (3.0) | 23.9 (2.9) |
+| 55-64 bottom quartile: account or DB | 26.3 (3.0) | 30.2 (3.0) |
+| 55-64 top quartile: any account | 94.7 (1.2) | 93.4 (1.8) |
+| 55-64 top quartile: median balance/income, all | 1.60 (0.22) | 1.97 (0.29) |
+| 25-64 bottom quartile: any account | 20.6 (1.5) | 21.7 (1.5) |
+| 25-64 top quartile: any account | 90.8 (0.9) | 89.7 (1.0) |
+| 25-64 any account: White non-Hispanic | 67.7 (1.2) | 70.1 (1.2) |
+| 25-64 any account: Black non-Hispanic | 43.1 (2.6) | 39.5 (1.9) |
+| 25-64 any account: Hispanic | 29.5 (2.1) | 38.0 (1.8) |
+| 25-64 account or DB: White / Black / Hispanic | 74.3 / 55.9 / 36.4 | 74.9 / 51.5 / 47.3 |
+
+Account or DB by age, 2022 -> 2025 (SE): 25-34 61.1 (1.7) -> 61.2 (1.9); 35-44 67.9 (1.5) -> 65.7 (1.7); 45-54 68.7 (1.8) -> 68.8 (1.7); 55-64 67.8 (1.6) -> 70.1 (1.7). [`output/c1..c3_*_by_age.csv`]
+
+| Head 55-64, 2025 | Q1 (lowest) | Q2 | Q3 | Q4 (highest) | All |
+|---|---|---|---|---|---|
+| Any account (%) | 23.9 | 55.7 | 78.1 | 93.4 | 63.1 |
+| Account or DB (%) | 30.2 | 65.9 | 88.0 | 95.5 | 70.1 |
+| Median balance/income, all households | 0.00 | 0.14 | 0.78 | 1.97 | 0.42 |
+| Median balance/income, holders | 0.97* | 0.96 | 1.55 | 2.33 | 1.46 |
+| Balance at least 1x income (%) | 11.7 | 26.0 | 43.4 | 69.2 | 37.9 |
+| Median balance, holders (2022 $) | $30,000 | $59,000 | $183,000 | $672,000 | $218,000 |
+
+\*SE 0.52. The 2022 figure was 1.43 (SE 0.46): bottom-quartile holders are still too few to read as a level. Holder-balance SEs: $12k, $8k, $53k, $96k. Shares have SEs of 2-4 points (`output/n_*_5564.csv`).
+
+What 2025 says:
+- **Working-age coverage is flat.** Account or DB coverage at 25-64 was 66.6%, unchanged from 2022. Accounts were 59.9% and DB was 26.9%. DB slipped back from the 2022 bump: current-job DB was 22.7% (22.9%) and the past-job pension share fell from 5.4% to 4.2%. The 2019 -> 2022 DB caveat below still applies.
+- **Near-retirees regained some ground.** Account ownership at 55-64 rose 6 points to 63.1%, the highest since 2004 (63.5%). Account or DB coverage was 70.1%, still below the 71-77% of 1989-2007. The 2.3-point rise is within about one SE of the difference.
+- **Ratios rose.** The 55-64 ratios are at series highs: holders' median ratio was 1.46, the all-household median 0.42 and the share with at least 1x income 37.9%. Part of this is timing. Balances are measured at the 2025 interview, after strong 2024-25 market gains, while income is for 2024 (same point as in `../scf/`).
+- **Bottom quartile.** At 55-64, bottom-quartile account ownership rose to 23.9% (SE 2.9) from 15.6%. Account or DB coverage was 30.2%, at the top of the 20-30% range of 2013-2025 and still well below 1989-2007. The all-household median ratio is still 0. At 25-64 the bottom/top gap is unchanged (21.7% vs 89.7%).
+- **Race: read 2025 with care.** Hispanic ownership rose 8.5 points (29.5 -> 38.0) and Black ownership fell 3.6 points (43.1 -> 39.5). Both changes coincide with the new combined race/ethnicity question, so part may come from how people were classified. We have not separated that effect.
+- With 63% of near-retiree households now holding an account (57% in 2022), the "Ties to the rest of the project" split is about 63/37 in 2025.
+- `report/` still uses 2022 (Section 12, Fig 30, Table 10) and was not changed.

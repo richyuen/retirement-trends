@@ -1,6 +1,7 @@
-"""SCF 1989-2022: retirement coverage of working-age households and near-retiree balances relative to income.
+"""SCF 1989-2025: retirement coverage of working-age households and near-retiree balances relative to income.
 
-Inputs: ../scf/raw/rscfpYYYY.dta (Fed summary extract, dollars in 2022 $) and ../scf/raw/pYY_rw1.dta
+Inputs: ../scf/raw/rscfpYYYY.dta (Fed summary extract; 1989-2022 in 2022 $, rscfp2025.dta in 2025 $ and put in
+2022 $ here with the Fed CPI bases 4376/4789, as in ../scf/scripts/scf_analysis.py) and ../scf/raw/pYY_rw1.dta
 (999 bootstrap replicate weights, 2004+). Helper functions (read, estimate, load_rw, wmedian) are imported
 from ../scf/scripts/scf_analysis.py so SEs are computed exactly as in the scf/ thread
 (replicate variance on implicate 1 + 1.2 x between-implicate variance). No SEs before 2004 (no
@@ -25,16 +26,18 @@ import numpy as np, pandas as pd
 HERE = Path(__file__).resolve().parents[1]
 SCF = HERE.parent / "scf"
 sys.path.insert(0, str(SCF / "scripts"))
-from scf_analysis import read, estimate, load_rw, wmedian  # noqa: E402
+from scf_analysis import read, estimate, load_rw, wmedian, TO_2022USD  # noqa: E402
 
 RAW, OUT = SCF / "raw", HERE / "output"
-WAVES = [1989, 1992, 1995, 1998, 2001, 2004, 2007, 2010, 2013, 2016, 2019, 2022]
+WAVES = [1989, 1992, 1995, 1998, 2001, 2004, 2007, 2010, 2013, 2016, 2019, 2022, 2025]
 VARS = ["y1", "yy1", "x1", "xx1", "wgt", "age", "retqliq", "irakh", "thrift", "futpen", "currpen",
         "dbplant", "dbplancj", "dcplancj", "income", "norminc", "racecl4"]
 
 
 def load(year):
     s = read(RAW / f"rscfp{year}.dta", VARS).rename(columns={"x1": "y1", "xx1": "yy1"})
+    if year in TO_2022USD:  # 2025 extract is in 2025 dollars
+        s[["retqliq", "income", "norminc"]] *= TO_2022USD[year]
     s["imp"] = (s.y1 - s.yy1 * 10).astype(int)
     s = s[(s.age >= 25) & (s.age <= 64)].copy()
     s["acct"] = s.retqliq > 0

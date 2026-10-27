@@ -671,3 +671,59 @@ survey_year,group,stat,estimate,se,n_cases
 2022,60-74 working,pastplan_pct_of_pastplan_plus_ira_dollars,11.315,3.131,780
 2022,60-74 working,futpen_pct_of_futpen_plus_ira_dollars,9.202,3.116,780
 2022,60-74 working,pastplan_pct_of_ret_dollars,6.750,1.960,780
+2025,all,pct_hh_with_futpen,7.174,0.437,4360
+2025,all,pct_hh_with_pastplan,9.708,0.471,4360
+2025,all,pct_hh_with_ira,30.495,0.782,4360
+2025,all,pct_of_ret_holders_with_pastplan,17.691,0.805,4360
+2025,all,pct_of_pastplan_or_ira_holders_with_pastplan,26.827,1.130,4360
+2025,all,pastplan_pct_of_pastplan_plus_ira_dollars,20.980,1.960,4360
+2025,all,futpen_pct_of_futpen_plus_ira_dollars,10.725,1.303,4360
+2025,all,pastplan_pct_of_ret_dollars,14.660,1.381,4360
+2025,45-54,pct_hh_with_futpen,11.146,1.150,832
+2025,45-54,pct_hh_with_pastplan,11.536,1.163,832
+2025,45-54,pct_hh_with_ira,31.283,1.811,832
+2025,45-54,pct_of_ret_holders_with_pastplan,18.309,1.875,832
+2025,45-54,pct_of_pastplan_or_ira_holders_with_pastplan,30.377,2.781,832
+2025,45-54,pastplan_pct_of_pastplan_plus_ira_dollars,23.537,4.797,832
+2025,45-54,futpen_pct_of_futpen_plus_ira_dollars,22.988,4.814,832
+2025,45-54,pastplan_pct_of_ret_dollars,11.044,2.466,832
+2025,55-64,pct_hh_with_futpen,11.595,1.143,841
+2025,55-64,pct_hh_with_pastplan,14.787,1.260,841
+2025,55-64,pct_hh_with_ira,36.547,1.649,841
+2025,55-64,pct_of_ret_holders_with_pastplan,23.434,1.863,841
+2025,55-64,pct_of_pastplan_or_ira_holders_with_pastplan,32.952,2.498,841
+2025,55-64,pastplan_pct_of_pastplan_plus_ira_dollars,25.068,4.172,841
+2025,55-64,futpen_pct_of_futpen_plus_ira_dollars,17.440,3.246,841
+2025,55-64,pastplan_pct_of_ret_dollars,15.947,2.740,841
+2025,65-74,pct_hh_with_futpen,6.228,0.887,776
+2025,65-74,pct_hh_with_pastplan,11.928,1.069,776
+2025,65-74,pct_hh_with_ira,36.358,1.989,776
+2025,65-74,pct_of_ret_holders_with_pastplan,24.367,2.143,776
+2025,65-74,pct_of_pastplan_or_ira_holders_with_pastplan,26.772,2.346,776
+2025,65-74,pastplan_pct_of_pastplan_plus_ira_dollars,18.795,3.362,776
+2025,65-74,futpen_pct_of_futpen_plus_ira_dollars,6.872,1.435,776
+2025,65-74,pastplan_pct_of_ret_dollars,16.039,2.940,776
+2025,75+,pct_hh_with_futpen,1.117,0.413,504
+2025,75+,pct_hh_with_pastplan,8.239,0.948,504
+2025,75+,pct_hh_with_ira,38.339,2.270,504
+2025,75+,pct_of_ret_holders_with_pastplan,18.486,2.010,504
+2025,75+,pct_of_pastplan_or_ira_holders_with_pastplan,19.456,2.195,504
+2025,75+,pastplan_pct_of_pastplan_plus_ira_dollars,17.376,3.296,504
+2025,75+,futpen_pct_of_futpen_plus_ira_dollars,0.538,0.383,504
+2025,75+,pastplan_pct_of_ret_dollars,16.867,3.200,504
+2025,60-74 not working,pct_hh_with_futpen,7.813,1.263,543
+2025,60-74 not working,pct_hh_with_pastplan,14.674,1.482,543
+2025,60-74 not working,pct_hh_with_ira,38.871,2.424,543
+2025,60-74 not working,pct_of_ret_holders_with_pastplan,29.720,2.754,543
+2025,60-74 not working,pct_of_pastplan_or_ira_holders_with_pastplan,30.685,2.853,543
+2025,60-74 not working,pastplan_pct_of_pastplan_plus_ira_dollars,29.215,4.494,543
+2025,60-74 not working,futpen_pct_of_futpen_plus_ira_dollars,12.481,3.013,543
+2025,60-74 not working,pastplan_pct_of_ret_dollars,27.898,4.380,543
+2025,60-74 working,pct_hh_with_futpen,8.449,1.204,681
+2025,60-74 working,pct_hh_with_pastplan,10.865,1.296,681
+2025,60-74 working,pct_hh_with_ira,35.426,1.808,681
+2025,60-74 working,pct_of_ret_holders_with_pastplan,18.082,2.232,681
+2025,60-74 working,pct_of_pastplan_or_ira_holders_with_pastplan,25.849,2.973,681
+2025,60-74 working,pastplan_pct_of_pastplan_plus_ira_dollars,10.049,2.093,681
+2025,60-74 working,futpen_pct_of_futpen_plus_ira_dollars,7.222,1.712,681
+2025,60-74 working,pastplan_pct_of_ret_dollars,6.126,1.247,681

@@ -207,3 +207,37 @@ The core numbers come from public sources: the Fed's SCF microdata (our tabulati
 - **HRS** (blocked): Hurd & Panis and Pashchenko figures are second-hand via CRR.
 - **Benartzi, Previtero & Thaler (2011, JEP)** returned 403; not used.
 - **DB lump-sum election rates after 2010:** no public national source found. Sibling DB-pension work may cover PBGC/Form 5500 angles.
+
+## SCF 2025 added (2026-10-27)
+SCF 2025 (released by the Fed 9 Oct 2026; income questions refer to 2024) added to `scripts/scf_annuities.py` and `scripts/scf_annuity_se.py`, same method as `../scf/` (5 implicates pooled; SEs = 999 bootstrap replicates on implicate 1 + 1.2 x between-implicate variance). The 2025 summary extract is in 2025 dollars, so ANNUIT, FIN and OTHMA are multiplied by 4376/4789 (Fed CPI bases) to stay in 2022 dollars; the shares do not depend on this.
+- **Definitions checked in `codebk2025.txt`:** the X6815 and X6575-X6580 wording and codes match 2022 except the income year (2021 -> 2024). X11000/X11008/X11009-12/X11013 are unchanged. Only X11001's label changed ("traditional pension" -> "defined benefit (DB) pension"), and the scripts do not use it. In `bulletin.macro.txt`, ANNUIT = max(0, X6577) is still the definition, and 2025 ANNUIT equals max(0, X6577) exactly.
+- **Earlier waves are unchanged.** The 2004-2022 rows in all four `output/scf_*` CSVs are byte-identical to the previous outputs. Only 2025 rows were appended.
+
+2025 vs 2022, % of households (SE). Rows marked * have SEs computed by the same method in a side run; they are not in `scf_annuity_ownership_se.csv`, which holds only the any and cash-value measures.
+
+| Headline | 2022 | 2025 | z |
+|---|---|---|---|
+| 65+, any annuity (16.1 in 2004) | 11.4 (0.7) | **11.6 (1.0)** | +0.2 |
+| 55-64, any annuity (10.1 in 2004) | 6.5 (0.9) | **5.8 (0.8)** | -0.5 |
+| 65+, cash-value annuity | 8.4 (0.7) | 9.2 (0.8) | +0.8 |
+| 65+, non-cashable (income-type) annuity* | 3.6 (0.5) | **2.6 (0.5)** | -1.5 |
+| 55-64, non-cashable annuity* | 1.6 (0.5) | 1.9 (0.6) | +0.5 |
+| 65+, received annuity income last year* | 7.2 (0.7) | 8.1 (0.9) | +0.8 |
+| All households, any annuity* | 4.8 (0.3) | 5.5 (0.4) | +1.6 |
+| 65+ holders who bought with a pension payout* | 37.8 (4.1) | 32.7 (3.9) | -0.9 |
+
+- **Chart series (annuity ownership by age, 2004-2025):** 65+ any 16.1, 14.5, 13.2, 10.9, 13.3, 12.2, 11.4, **11.6**; 55-64 any 10.1, 7.1, 8.0, 6.4, 6.3, 5.9, 6.5, **5.8**; 65+ income-type 3.8, 3.5, 3.3, 3.0, 3.5, 3.4, 3.6, **2.6**.
+- **The fall since 2004 still holds, but it stopped after 2019.** From 2004 to 2025: 65+ -4.5 points (z about 3.0); 55-64 -4.3 (z about 3.3). The 2022 -> 2025 changes are all within about 1.6 SE.
+- **Income annuities at 65+ dipped to 2.6%, just below the earlier 3.0-3.8% range.** The change from 2022 is not significant (z -1.5). Read the range as about 3-4% through 2022 and 2.6-3.8% over 2004-2025. At 55-64 the 2025 figure, 1.9%, is within the 1.3-2.4% range.
+- **The age mix shifted within 65+:**
+  - 65-74: any annuity 12.4 -> 10.3; income-type 4.3 -> 2.0 (z -2.5).
+  - 75+: any annuity 10.0 -> 13.3; received income 6.7 -> 11.3 (z 2.4).
+  - This looks like holders ageing into 75+, but the cells are small (about 500-800 households per implicate).
+- **Holdings among 65+ holders, 2022 $:**
+  - Median cash value $116k ($100k in 2022). That is inside the 2007-2022 range of $93k-$134k.
+  - Median 18.0% of the holder's financial assets (22.6%).
+  - Cash-value annuities are 2.0% of all 65+ financial assets (1.6%).
+  - Median annuity income among recipients is $12,000 nominal for 2024 ($7,200 for 2021).
+- **The 2025 implicate spread is about double 2022's** (65+ any annuity max-min 0.72 vs 0.36 points). It is included in the SEs.
+- **SCF benefit choice (`scf_pension_benefit_choice.csv`)** has 2025 rows but stays out of the findings, for the same reasons as before.
+- The 2025 public file has 21,800 records (4,360 per implicate). There are 160 65+ holder households per implicate, close to earlier waves.

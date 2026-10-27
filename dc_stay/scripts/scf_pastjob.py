@@ -1,4 +1,4 @@
-"""SCF 1989-2022: money left in former employers' DC plans (Fed FUTPEN, CURRPEN) vs IRAs.
+"""SCF 1989-2025: money left in former employers' DC plans (Fed FUTPEN, CURRPEN) vs IRAs.
 
 FUTPEN  = account-type plans from a PAST job not yet paying out (the 'future pensions' section: rights to
           pensions or retirement accounts from a previous employer that the household will draw on later).
