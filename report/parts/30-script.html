@@ -86,7 +86,7 @@ var REFS={
 'tsp-stats':['Federal Retirement Thrift Investment Board','Thrift Savings Fund statistics and Participant Activity Reports (historical plan participation), 2013–2026, and TSP annual reports for 2011 and 2012.','https://www.frtib.gov/pdf/minutes/2026/Jan/Att1-FRTIB-Participant-Activity-Report-January-2026.pdf'],
 'dol-5500-abs':['Department of Labor, Employee Benefits Security Administration','Private Pension Plan Bulletin: Abstract of Form 5500 Annual Reports, plan years 1999–2023 (number of participants by type of plan and type of participant).','https://www.dol.gov/agencies/ebsa/researchers/statistics/retirement-bulletins/private-pension-plan-bulletins-abstract-of-form-5500-annual-reports'],
 'ebri-hrs':['Banerjee, S. (EBRI)','“Disposition of DC Accounts: Who Rolls Over into an IRA? Who Leaves Money in the Plan and Who Withdraws Cash?” Statement to the ERISA Advisory Council, June 2014 (HRS 2008 and 2010).','https://www.dol.gov/sites/dolgov/files/EBSA/about-ebsa/about-us/erisa-advisory-council/2014-facilitating-lifetime-plan-participation-banerjee-06-17.pdf'],
-'scf-micro':['Board of Governors of the Federal Reserve System','Survey of Consumer Finances, public data: summary extract files, full public datasets and replicate weights, 2004–2022 waves, with the Federal Reserve’s Bulletin variable macro. Tabulated for this report, October 2026.','https://www.federalreserve.gov/econres/scfindex.htm'],
+'scf-micro':['Board of Governors of the Federal Reserve System','Survey of Consumer Finances, public data: summary extract files, full public datasets and replicate weights, 1989–2025 waves (2025 used for withdrawals in Section 10), with the Federal Reserve’s Bulletin variable macro. Tabulated for this report, October 2026.','https://www.federalreserve.gov/econres/scfindex.htm'],
 'cps-micro':['US Census Bureau','Current Population Survey Annual Social and Economic Supplement, public-use files 2010–2026, including the 2014 split-sample files, the 2017 research file and the 2018 bridge file. Tabulated for this report, October 2026.','https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.html'],
 'fed-scf-2023':['Aladangady, A., et al.','“Changes in U.S. Family Finances from 2019 to 2022: Evidence from the Survey of Consumer Finances,” Federal Reserve Board, October 2023.','https://www.federalreserve.gov/publications/files/scf23.pdf'],
 'census-pinc09':['US Census Bureau','PINC-09, Source of Income: Number with Income and Mean Income of Specified Type, by age (CPS ASEC detailed income tables).','https://www.census.gov/data/tables/time-series/demo/income-poverty/cps-pinc/pinc-09.html'],
@@ -244,7 +244,7 @@ rollage:{type:'hstack',labelW:76,fmt:pct(1),focus:true,rowTitle:'Tax year',
 micro70:{type:'line',x:Y(2003,2025),xTitle:'Year',yMax:100,yFmt:function(v){return String(v)},tipFmt:function(v){return (+v).toFixed(1)},connect:true,labelW:158,bands:['2009','2020'],bandLabel:'RMDs waived (2009, 2020)',
  series:[
   {name:'IRS: withdrawers per 100 IRA holders',short:'IRS per 100 holders',c:'--s1',values:[null,null,null,null,null,null,null,null,null,86.9,85.9,87.2,87.9,84.8,85.7,85.6,86.0,58.8,69.0,69.1,61.7,null,null]},
-  {name:'SCF: withdrawing households per 100 IRA households',short:'SCF per 100 holders',c:'--s2',points:true,values:[73.9,null,null,76.6,null,null,43.7,null,null,69.7,null,null,76.1,null,null,70.5,null,null,62.5,null,null,null,null]},
+  {name:'SCF: withdrawing households per 100 IRA households',short:'SCF per 100 holders',c:'--s2',points:true,values:[73.9,null,null,76.6,null,null,43.7,null,null,69.7,null,null,76.1,null,null,70.5,null,null,62.5,null,null,59.6,null]},
   {name:'CPS: % of all people aged 70–74 with a withdrawal',short:'CPS % of people',c:'--s3',values:[null,null,null,null,null,null,null,null,null,null,null,null,null,19.2,19.8,21.9,23.1,16.1,18.6,18.2,17.2,17.5,17.2]}
  ]},
 microage:{type:'line',x:['60–64','65–69','70–74','75–79','80+'],xTitle:'Age',yMax:110,yFmt:function(v){return String(v)},tipFmt:function(v){return (+v).toFixed(1)},points:true,labelW:158,
@@ -253,26 +253,26 @@ microage:{type:'line',x:['60–64','65–69','70–74','75–79','80+'],xTitle:'
   {name:'SCF: withdrawing households per 100 IRA households',short:'SCF per 100 holders',c:'--s2',values:[19.3,26.7,70.5,89.8,95.3]},
   {name:'CPS: % of all people with a withdrawal',short:'CPS % of people',c:'--s3',values:[5.3,11.3,21.9,22.6,17.5]}
  ]},
-microrate:{type:'line',x:Y(2003,2021),xTitle:'Year',yMax:10,yFmt:pct(0),tipFmt:pct(1),connect:true,points:true,labelW:172,bands:['2009'],bandLabel:'RMDs waived (2009)',
+microrate:{type:'line',x:Y(2003,2024),xTitle:'Year',yMax:10,yFmt:pct(0),tipFmt:pct(1),connect:true,points:true,labelW:172,bands:['2009'],bandLabel:'RMDs waived (2009)',
  series:[
-  {name:'Withdrawers only: median household',short:'Median withdrawer',c:'--s2',values:[7.53,null,null,6.17,null,null,7.21,null,null,5.66,null,null,6.23,null,null,5.78,null,null,6.26]},
-  {name:'Withdrawers only: dollar-weighted',short:'All withdrawers',c:'--s3',values:[6.6,null,null,6.86,null,null,6.78,null,null,5.44,null,null,6.06,null,null,5.2,null,null,5.57]},
-  {name:'All owners: dollar-weighted',short:'All owners',c:'--s1',values:[2.94,null,null,3.0,null,null,2.19,null,null,2.61,null,null,3.06,null,null,2.82,null,null,2.92]}
+  {name:'Withdrawers only: median household',short:'Median withdrawer',c:'--s2',values:[7.53,null,null,6.17,null,null,7.21,null,null,5.66,null,null,6.23,null,null,5.78,null,null,6.26,null,null,5.14]},
+  {name:'Withdrawers only: dollar-weighted',short:'All withdrawers',c:'--s3',values:[6.6,null,null,6.86,null,null,6.78,null,null,5.44,null,null,6.06,null,null,5.2,null,null,5.57,null,null,4.66]},
+  {name:'All owners: dollar-weighted',short:'All owners',c:'--s1',values:[2.94,null,null,3.0,null,null,2.19,null,null,2.61,null,null,3.06,null,null,2.82,null,null,2.92,null,null,2.62]}
  ]},
 wdmedian:{type:'line',x:Y(2003,2024),xTitle:'Year',yMax:10,yFmt:pct(0),tipFmt:pct(1),connect:true,labelW:150,bands:['2009','2020'],bandLabel:'RMDs waived (2009, 2020)',
  series:[
   {name:'ICI survey: traditional IRA households',short:'ICI survey',c:'--s2',values:[null,null,null,null,6,8,8,9,8,7,8,7,6,6,6,6,5,6,5,6,6,5]},
   {name:'EBRI database: traditional IRA owners, consistent sample',short:'EBRI database',c:'--other',near:'first',points:true,values:[null,null,null,null,null,null,null,8.3,6.3,5.7,5.4,null,null,null,null,null,null,null,null,null,null,null]},
   {name:'SIPP: IRA owners 60 or older',short:'SIPP 60+',c:'--s3',points:true,values:[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,5.6,5.6,5.1,5.4]},
-  {name:'SCF: IRA households 60 or older',short:'SCF 60+',c:'--s1',points:true,values:[7.02,null,null,6.17,null,null,7.53,null,null,5.57,null,null,5.99,null,null,5.43,null,null,6.26,null,null,null]}
+  {name:'SCF: IRA households 60 or older',short:'SCF 60+',c:'--s1',points:true,values:[7.02,null,null,6.17,null,null,7.53,null,null,5.57,null,null,5.99,null,null,5.43,null,null,6.26,null,null,4.92]}
  ]},
-microagerate:{type:'line',x:Y(2003,2021),xTitle:'Year',yMax:14,yFmt:pct(0),tipFmt:pct(1),connect:true,points:true,labelW:120,bands:['2009'],bandLabel:'RMDs waived (2009)',
+microagerate:{type:'line',x:Y(2003,2024),xTitle:'Year',yMax:14,yFmt:pct(0),tipFmt:pct(1),connect:true,points:true,labelW:120,bands:['2009'],bandLabel:'RMDs waived (2009)',
  series:[
-  {name:'Aged 80 or older',short:'80 or older',c:'--o5',values:[6.42,null,null,12.07,null,null,4.68,null,null,7.19,null,null,6.79,null,null,6.47,null,null,7.28]},
-  {name:'Aged 75–79',short:'75–79',c:'--o4',values:[6.19,null,null,5.82,null,null,4.91,null,null,4.63,null,null,5.37,null,null,5.73,null,null,5.7]},
-  {name:'Aged 70–74',short:'70–74',c:'--o3',values:[3.83,null,null,4.53,null,null,2.83,null,null,3.64,null,null,3.99,null,null,3.73,null,null,3.53]},
-  {name:'Aged 65–69',short:'65–69',c:'--o2',values:[2.15,null,null,1.77,null,null,2.09,null,null,1.71,null,null,1.82,null,null,1.58,null,null,2.27]},
-  {name:'Aged 60–64',short:'60–64',c:'--o1',values:[1.59,null,null,1.56,null,null,0.93,null,null,1.34,null,null,1.15,null,null,0.85,null,null,0.58]}
+  {name:'Aged 80 or older',short:'80 or older',c:'--o5',values:[6.42,null,null,12.07,null,null,4.68,null,null,7.19,null,null,6.79,null,null,6.47,null,null,7.28,null,null,5.68]},
+  {name:'Aged 75–79',short:'75–79',c:'--o4',values:[6.19,null,null,5.82,null,null,4.91,null,null,4.63,null,null,5.37,null,null,5.73,null,null,5.7,null,null,4.4]},
+  {name:'Aged 70–74',short:'70–74',c:'--o3',values:[3.83,null,null,4.53,null,null,2.83,null,null,3.64,null,null,3.99,null,null,3.73,null,null,3.53,null,null,3.0]},
+  {name:'Aged 65–69',short:'65–69',c:'--o2',values:[2.15,null,null,1.77,null,null,2.09,null,null,1.71,null,null,1.82,null,null,1.58,null,null,2.27,null,null,1.48]},
+  {name:'Aged 60–64',short:'60–64',c:'--o1',values:[1.59,null,null,1.56,null,null,0.93,null,null,1.34,null,null,1.15,null,null,0.85,null,null,0.58,null,null,0.63]}
  ]},
 tspret:{type:'line',x:['FY15 Q1', 'FY15 Q2', 'FY15 Q3', 'FY15 Q4', 'FY16 Q1', 'FY16 Q2', 'FY16 Q3', 'FY16 Q4', 'FY17 Q1', 'FY17 Q2', 'FY17 Q3', 'FY17 Q4', 'FY18 Q1', 'FY18 Q2', 'FY18 Q3', 'FY18 Q4', 'FY19 Q1', 'FY19 Q2', 'FY19 Q3', 'FY19 Q4', 'FY20 Q1', 'FY20 Q2', 'FY20 Q3', 'FY20 Q4', 'FY21 Q1', 'FY21 Q2', 'FY21 Q3', 'FY21 Q4', 'FY22 Q1', 'FY22 Q2', 'FY22 Q3', 'FY22 Q4', 'FY23 Q1', 'FY23 Q2', 'FY23 Q3', 'FY23 Q4', 'FY24 Q1', 'FY24 Q2', 'FY24 Q3', 'FY24 Q4', 'FY25 Q1', 'FY25 Q2', 'FY25 Q3', 'FY25 Q4', 'FY26 Q1', 'FY26 Q2'],xTitle:'Fiscal quarter',yMax:80,yFmt:pct(0),tipFmt:pct(1),labelW:150,
  notes:[{i:20,v:76,text:'New withdrawal options (Sep 2019)',short:'New options, 2019',anchor:'middle'}],

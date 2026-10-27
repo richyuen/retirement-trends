@@ -76,3 +76,6 @@ Richard asked for an organization pass and chose Publish. Report regrouped into 
 
 ## 2026-10-08 v17
 Richard chose 'Add to report' for work after retirement. Section 19 gains 'Work after claiming Social Security' (Fig 41 workret, Table 14): 11.7% of SS retired-worker beneficiaries 62+ employed in March 2026 (7.1% PT, 4.6% FT), flat since 2010 apart from COVID; withdrawers 10.4% vs 12.0%; 62-64 fall is claiming selection. Summary finding on working longer and the data note extended.
+
+## 2026-10-27 v18
+SCF 2025 (2024 withdrawals) added to Section 10 at Richard's approval: 70-74 IRA incidence 59.6 per 100 (62.5 in 2021), 75-79 97, all-owner rate 60+ 2.6%, withdrawers-only 4.7% (lowest wave, partly balance growth). Other SCF-based sections still end in 2022. Sentiment subsection staged in report/draft-sentiment/, not published.

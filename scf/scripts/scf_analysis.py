@@ -1,8 +1,10 @@
-"""SCF microdata: retirement-account balances (1989-2022) and withdrawal incidence (2004-2022)
+"""SCF microdata: retirement-account balances (1989-2025) and withdrawal incidence (2004-2025)
 for households whose reference person is 60+, by age band.
 
 Inputs (scf/raw/, downloaded from https://www.federalreserve.gov/econres/scfindex.htm):
-  rscfpYYYY.dta  summary extract (Fed bulletin variables; dollars as published by the Fed)
+  rscfpYYYY.dta  summary extract (Fed bulletin variables). 1989-2022 files are the 2022-vintage extracts
+                 in 2022 dollars; rscfp2025.dta is in 2025 dollars and is put in 2022 dollars here
+                 with the Fed's CPI bases (4376/4789, bulletin.macro.txt), so all waves stay in 2022 dollars.
   pYYi6.dta      full public data (X variables), 2004+
   pYY_rw1.dta    replicate weights (999 bootstrap reps, implicate 1), 2004+
 Variable definitions follow the Fed's bulletin.macro.txt (scf/raw/):
@@ -20,10 +22,12 @@ import numpy as np, pandas as pd, pyreadstat
 ROOT = Path(__file__).resolve().parents[1]
 RAW, OUT = ROOT / "raw", ROOT / "output"
 OUT.mkdir(exist_ok=True)
-WAVES = [1989, 1992, 1995, 1998, 2001, 2004, 2007, 2010, 2013, 2016, 2019, 2022]
+WAVES = [1989, 1992, 1995, 1998, 2001, 2004, 2007, 2010, 2013, 2016, 2019, 2022, 2025]
 WD_WAVES = [w for w in WAVES if w >= 2004]
 BANDS = [59, 64, 69, 74, 79, 200]
 LABELS = ["60-64", "65-69", "70-74", "75-79", "80+"]
+TO_2022USD = {2025: 4376 / 4789}  # CPIBASE 2022 / CPIBASE 2025
+DOLLARS = ["irakh", "thrift", "futpen", "currpen", "retqliq", "penacctwd"]
 SUMVARS = ["y1", "yy1", "wgt", "age", "irakh", "thrift", "futpen", "currpen", "retqliq", "penacctwd"]
 
 
@@ -55,6 +59,8 @@ def load(year):
     s = read(RAW / f"rscfp{year}.dta", SUMVARS + ["x1", "xx1"]).rename(columns={"x1": "y1", "xx1": "yy1"})  # 1989 uses X1/XX1
     if "penacctwd" not in s:
         s["penacctwd"] = np.nan
+    if year in TO_2022USD:
+        s[DOLLARS] = s[DOLLARS] * TO_2022USD[year]
     s["imp"] = (s.y1 - s.yy1 * 10).astype(int)
     if year in WD_WAVES:
         s = s.merge(full_flags(year), on="y1", how="left", validate="1:1")

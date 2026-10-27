@@ -12,7 +12,8 @@ from scf_analysis import load, load_rw, estimate, ratio, median_of, WD_WAVES, OU
 
 # CPIBASE (2022 output) = 4376; (CPIADJ denominator, CPILAG) per wave from bulletin.macro.txt
 CPI = {2004: (2785, 2770/2698), 2007: (3058, 3041/2957), 2010: (3204, 3198/3147), 2013: (3438, 3420/3369),
-       2016: (3548, 3528/3483), 2019: (3775, 3758/3691), 2022: (4376, 4315/3992)}
+       2016: (3548, 3528/3483), 2019: (3775, 3758/3691), 2022: (4376, 4315/3992),
+       2025: (4789, 4750/4625)}
 
 STATS = {
     "any_rate_all_holders": ratio("penacctwd", "retqliq", "retqliq > 0"),
