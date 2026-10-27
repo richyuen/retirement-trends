@@ -1,0 +1,483 @@
+[
+ {
+  "id": "ira_incidence",
+  "part": "Withdrawals and rollovers",
+  "q": "Who takes money out of IRAs?",
+  "unit": "%",
+  "sec": [
+   "s-who",
+   "IRA withdrawals: who takes them"
+  ],
+  "order": [
+   "RMD age or older",
+   "60 to RMD age",
+   "18 to 59"
+  ],
+  "breaks": [],
+  "head": {
+   "year": "2023",
+   "series": "RMD age or older",
+   "value": 81.7
+  },
+  "base": null,
+  "extra": [],
+  "title": "IRA withdrawal incidence by age",
+  "desc": "Share of traditional IRA investors taking a withdrawal in the year, by age group. ICI IRA Investor Database, Figure A.11; the sample changed in 2017."
+ },
+ {
+  "id": "ira_rate",
+  "part": "Withdrawals and rollovers",
+  "q": "How much do they take out?",
+  "unit": "%",
+  "sec": [
+   "s-rate",
+   "IRA withdrawals: how much"
+  ],
+  "order": [
+   "70 or older",
+   "60 to 69",
+   "All ages"
+  ],
+  "breaks": [],
+  "head": {
+   "year": "2023",
+   "series": "70 or older",
+   "value": 5.93
+  },
+  "base": {
+   "year": "2019",
+   "series": "70 or older",
+   "value": 6.83
+  },
+  "extra": [],
+  "title": "IRA withdrawal rate by age",
+  "desc": "IRA withdrawals as a share of the same age group’s prior year-end balance, all IRA types, dollar-weighted. IRS Statistics of Income Table 4 (computed); 2022-2023 are a new IRS series."
+ },
+ {
+  "id": "rollover_share",
+  "part": "Withdrawals and rollovers",
+  "q": "Is less money leaving plans for IRAs?",
+  "unit": "%",
+  "sec": [
+   "s-roll",
+   "Rollovers"
+  ],
+  "order": [
+   "Rollovers ÷ all DC outflows (BEA)",
+   "Rollovers ÷ private DC benefits (Form 5500)"
+  ],
+  "breaks": [
+   "2021"
+  ],
+  "head": {
+   "year": "2023",
+   "series": "Rollovers ÷ all DC outflows (BEA)",
+   "value": 74.7
+  },
+  "base": {
+   "year": "1996",
+   "series": "Rollovers ÷ all DC outflows (BEA)",
+   "value": 90.8
+  },
+  "extra": [],
+  "title": "Rollovers vs DC plan outflows",
+  "desc": "Rollovers into traditional IRAs (IRS Statistics of Income) as a share of money paid out of DC plans (BEA) and of private DC plan benefits (Form 5500). A ratio of two sources, not a true rollover share; the IRS method changed in 2022."
+ },
+ {
+  "id": "dc_participation",
+  "part": "Saving for retirement",
+  "q": "Are more workers in a DC plan?",
+  "unit": "%",
+  "sec": [
+   "s-laws",
+   "Do the laws work?"
+  ],
+  "order": [
+   "Participating in a DC plan",
+   "With access to a DC plan"
+  ],
+  "breaks": [],
+  "head": {
+   "year": "2026",
+   "series": "Participating in a DC plan",
+   "value": 49
+  },
+  "base": {
+   "year": "2010",
+   "series": "Participating in a DC plan",
+   "value": 41
+  },
+  "extra": [],
+  "title": "DC plan access and participation",
+  "desc": "Private-industry workers with access to, and participating in, an employer defined contribution plan, March of each year. BLS National Compensation Survey (DC plans only, not the all-plans rate that includes DB)."
+ },
+ {
+  "id": "dc_contributions",
+  "part": "Saving for retirement",
+  "q": "How much goes into DC plans?",
+  "unit": "%",
+  "sec": [
+   "s-contrib",
+   "How much goes in: contribution trends"
+  ],
+  "order": [
+   "Total",
+   "Employee",
+   "Employer"
+  ],
+  "breaks": [],
+  "head": {
+   "year": "2023",
+   "series": "Total",
+   "value": 6.91
+  },
+  "base": {
+   "year": "1999",
+   "series": "Total",
+   "value": 4.58
+  },
+  "extra": [],
+  "title": "DC contributions vs wages",
+  "desc": "Employer and employee contributions to private DC plans (excluding rollovers) as a share of all private wages and salaries. DOL Form 5500 abstracts divided by BEA private wages (computed)."
+ },
+ {
+  "id": "nrri",
+  "part": "Saving for retirement",
+  "q": "Are workers on track?",
+  "unit": "%",
+  "sec": [
+   "s-ready",
+   "Are workers ready for retirement?"
+  ],
+  "order": [
+   "Version 2.0 (2024)",
+   "Original method (2018)"
+  ],
+  "breaks": [],
+  "head": {
+   "year": "2022",
+   "series": "Version 2.0 (2024)",
+   "value": 39
+  },
+  "base": {
+   "year": "2004",
+   "series": "Version 2.0 (2024)",
+   "value": 42
+  },
+  "extra": [],
+  "title": "Households at risk (NRRI)",
+  "desc": "Share of working-age households projected to fall more than 10% short of the income needed to keep their consumption in retirement. Center for Retirement Research NRRI; the two methods are not comparable and are never joined."
+ },
+ {
+  "id": "income_shares",
+  "part": "Income in retirement",
+  "q": "Where does retirees’ income come from?",
+  "unit": "%",
+  "sec": [
+   "s-income",
+   "Where retirees’ income comes from"
+  ],
+  "order": [
+   "Social Security",
+   "Earnings",
+   "DB pensions",
+   "Account withdrawals"
+  ],
+  "breaks": [
+   "2013"
+  ],
+  "head": {
+   "year": "2025",
+   "series": "Social Security",
+   "value": 34.67
+  },
+  "base": null,
+  "extra": [
+   {
+    "year": "2025",
+    "series": "Earnings",
+    "value": 29.2
+   },
+   {
+    "year": "2025",
+    "series": "DB pensions",
+    "value": 13.65
+   },
+   {
+    "year": "2025",
+    "series": "Account withdrawals",
+    "value": 8.13
+   }
+  ],
+  "title": "Income sources, 65 or older",
+  "desc": "Share of the aggregate income of people 65 or older by source, CPS ASEC public-use files tabulated for the report. Income years 1997-2013 (traditional questions) and 2016-2025 (redesigned) are separate series; compare levels only within one."
+ },
+ {
+  "id": "ss_runway",
+  "part": "Income in retirement",
+  "q": "How long until Social Security’s trust funds run out?",
+  "unit": "years",
+  "sec": [
+   "s-ss",
+   "Social Security’s finances"
+  ],
+  "order": [
+   "Years to trust fund depletion"
+  ],
+  "breaks": [],
+  "head": {
+   "year": "2026",
+   "series": "Years to trust fund depletion",
+   "value": 8
+  },
+  "base": {
+   "year": "1985",
+   "series": "Years to trust fund depletion",
+   "value": 64
+  },
+  "extra": [],
+  "title": "Social Security trust fund runway",
+  "desc": "Years from each Trustees Report to the year the combined OASI and DI trust funds are projected to run out, intermediate assumptions. 2026 Trustees Report Table VI.B1 (computed)."
+ },
+ {
+  "id": "db_participation",
+  "part": "Income in retirement",
+  "q": "How many workers still earn a pension?",
+  "unit": "%",
+  "sec": [
+   "s-db",
+   "The decline of defined benefit pensions"
+  ],
+  "order": [
+   "Form 5500",
+   "BLS survey"
+  ],
+  "breaks": [],
+  "head": {
+   "year": "2023",
+   "series": "Form 5500",
+   "value": 8.2
+  },
+  "base": {
+   "year": "1980",
+   "series": "Form 5500",
+   "value": 37.7
+  },
+  "extra": [],
+  "title": "Private DB pension participation",
+  "desc": "Active participants in private defined benefit plans as a share of private wage and salary workers: Form 5500 (DOL Table E7 over CPS workers, computed) and the BLS employer surveys."
+ },
+ {
+  "id": "annuity_ownership",
+  "part": "Income in retirement",
+  "q": "Do retirees buy lifetime income?",
+  "unit": "%",
+  "sec": [
+   "s-annuity",
+   "Annuities and lifetime income"
+  ],
+  "order": [
+   "65+, any annuity",
+   "55–64, any annuity",
+   "65+, income annuity"
+  ],
+  "breaks": [],
+  "head": {
+   "year": "2022",
+   "series": "65+, any annuity",
+   "value": 11.4
+  },
+  "base": {
+   "year": "2004",
+   "series": "65+, any annuity",
+   "value": 16.1
+  },
+  "extra": [],
+  "title": "Annuity ownership by age",
+  "desc": "Share of households owning an annuity outside an employer pension, by age of the household head. Survey of Consumer Finances 2004-2022, tabulated for the report."
+ },
+ {
+  "id": "life_expectancy",
+  "part": "Living longer and working longer",
+  "q": "How long does the money have to last?",
+  "unit": "years",
+  "sec": [
+   "s-long",
+   "How long the money has to last"
+  ],
+  "order": [
+   "Women",
+   "Men"
+  ],
+  "breaks": [],
+  "head": {
+   "year": "2024",
+   "series": "Women",
+   "value": 20.83
+  },
+  "base": null,
+  "extra": [
+   {
+    "year": "2024",
+    "series": "Men",
+    "value": 18.36
+   }
+  ],
+  "title": "Life expectancy at 65",
+  "desc": "Period life expectancy at 65 in years, by sex. NCHS Health, United States (1980-2017) and United States Life Tables (2018-2024)."
+ },
+ {
+  "id": "older_lfpr",
+  "part": "Living longer and working longer",
+  "q": "Are people working longer?",
+  "unit": "%",
+  "sec": [
+   "s-work",
+   "Working longer"
+  ],
+  "order": [
+   "62 to 64",
+   "65 to 69",
+   "70 to 74"
+  ],
+  "breaks": [],
+  "head": {
+   "year": "2025",
+   "series": "65 to 69",
+   "value": 33.3
+  },
+  "base": {
+   "year": "1976",
+   "series": "65 to 69",
+   "value": 21.3
+  },
+  "extra": [],
+  "title": "Labor force participation, 62+",
+  "desc": "Labor force participation rate by age, annual averages. BLS Current Population Survey; the 1994 redesign raised measured participation at 65+ by about a point."
+ },
+ {
+  "id": "work_after_claiming",
+  "part": "Living longer and working longer",
+  "q": "Do retirees keep working?",
+  "unit": "%",
+  "sec": [
+   "s-work",
+   "Working longer"
+  ],
+  "order": [
+   "Worked in prior year",
+   "Employed part time",
+   "Employed full time"
+  ],
+  "breaks": [],
+  "head": {
+   "year": "2026",
+   "series": "Employed part time",
+   "value": 7.1
+  },
+  "base": {
+   "year": "2010",
+   "series": "Employed part time",
+   "value": 7.4
+  },
+  "extra": [
+   {
+    "year": "2026",
+    "series": "Employed full time",
+    "value": 4.6
+   }
+  ],
+  "title": "Work after claiming Social Security",
+  "desc": "Retired-worker Social Security beneficiaries 62 or older: share employed in the March survey week by usual hours, and share who worked in the previous year. CPS ASEC public-use files, tabulated for the report."
+ },
+ {
+  "id": "medicare_premium",
+  "part": "Living longer and working longer",
+  "q": "How much of Social Security goes to Medicare premiums?",
+  "unit": "%",
+  "sec": [
+   "s-health",
+   "Health care costs"
+  ],
+  "order": [
+   "Part B standard premium"
+  ],
+  "breaks": [],
+  "head": {
+   "year": "2026",
+   "series": "Part B standard premium",
+   "value": 10.1
+  },
+  "base": {
+   "year": "1990",
+   "series": "Part B standard premium",
+   "value": 5.5
+  },
+  "extra": [],
+  "title": "Medicare Part B premium burden",
+  "desc": "Standard Medicare Part B premium as a percentage of the average Social Security retired-worker benefit. 2026 Medicare Trustees Report (computed)."
+ },
+ {
+  "id": "older_debt",
+  "part": "Older households’ finances",
+  "q": "Are more older households in debt?",
+  "unit": "%",
+  "sec": [
+   "s-debt",
+   "Debt and housing wealth in later life"
+  ],
+  "order": [
+   "75 or older",
+   "65 to 74",
+   "55 to 64"
+  ],
+  "breaks": [],
+  "head": {
+   "year": "2022",
+   "series": "75 or older",
+   "value": 53.4
+  },
+  "base": {
+   "year": "1989",
+   "series": "75 or older",
+   "value": 21
+  },
+  "extra": [],
+  "title": "Older households with debt",
+  "desc": "Share of households with any debt, by age of the household head. Survey of Consumer Finances 1989-2022, tabulated for the report; matches the Fed’s historical tables."
+ },
+ {
+  "id": "poverty_65",
+  "part": "Older households’ finances",
+  "q": "How many older people are poor?",
+  "unit": "%",
+  "sec": [
+   "s-poverty",
+   "Poverty among older Americans"
+  ],
+  "order": [
+   "Supplemental Poverty Measure",
+   "Official measure"
+  ],
+  "breaks": [
+   "2012",
+   "2016",
+   "2018"
+  ],
+  "head": {
+   "year": "2025",
+   "series": "Supplemental Poverty Measure",
+   "value": 15.4
+  },
+  "base": null,
+  "extra": [
+   {
+    "year": "2025",
+    "series": "Official measure",
+    "value": 9.8
+   }
+  ],
+  "title": "Poverty at 65 or older",
+  "desc": "Poverty rate of people 65 or older on the Supplemental Poverty Measure and the official measure. Census P60-290 and earlier reports; lines break where Census changed questions, processing or SPM method."
+ }
+]

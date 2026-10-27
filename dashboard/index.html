@@ -1,0 +1,391 @@
+<style>.rt { max-width: 84rem; margin-inline: auto; font-family: var(--font-anthropic-sans); color: var(--color-fg); }
+.rt-head { margin-bottom: var(--cds-gap-lg); }
+.rt-title { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); margin: 0 0 var(--cds-gap-xs); }
+.rt-take { font-size: var(--cds-font-size-body); margin: 0 0 var(--cds-gap-xs); max-width: 60rem; }
+.rt-meta { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin: 0 0 var(--cds-gap-md); }
+.rt-meta a, .rt-link { color: var(--color-fg); }
+.rt-nav { display: flex; flex-wrap: wrap; gap: var(--cds-gap-xs); }
+.rt-chip { font: inherit; font-size: var(--cds-font-size-caption); color: var(--color-fg); background: var(--color-panel);
+  border: 1px solid var(--color-border-line); border-radius: 999px; padding: var(--cds-pad-xs) var(--cds-pad-sm); cursor: pointer; }
+.rt-chip:hover { border-color: var(--color-fg-muted); }
+.rt-part { margin-top: var(--cds-gap-xl); scroll-margin-top: var(--cds-gap-md); }
+.rt-h2 { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); margin: 0 0 var(--cds-gap-sm); }
+.rt-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr)); gap: var(--cds-gap-md); }
+.rt-card { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius);
+  padding: var(--cds-pad-lg); display: flex; flex-direction: column; min-width: 0; }
+.rt-q { font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); margin: 0 0 var(--cds-gap-sm); }
+.rt-kpi { min-height: 2.6rem; }
+.rt-big { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); font-variant-numeric: tabular-nums; }
+.rt-cap, .rt-from { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin: var(--cds-gap-xs) 0 0; font-variant-numeric: tabular-nums; }
+.rt-legend { display: flex; flex-wrap: wrap; gap: var(--cds-gap-xs) var(--cds-gap-sm); margin-top: var(--cds-gap-sm);
+  font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); min-height: 1.2rem; }
+.rt-sw { display: inline-block; width: 0.75rem; height: 2px; vertical-align: middle; margin-right: 0.35rem; border-radius: 1px; }
+.rt-chart { position: relative; min-height: 180px; margin-top: var(--cds-gap-xs); }
+.rt-chart svg { display: block; }
+.rt-fail { display: flex; align-items: center; justify-content: center; gap: 0.4rem; min-height: 180px;
+  color: var(--color-fg-muted); font-size: var(--cds-font-size-caption); }
+.rt-fail::before { content: ''; width: 0.375rem; height: 0.375rem; border-radius: 50%; background: var(--color-bad); }
+.rt-src { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); margin: var(--cds-gap-sm) 0 var(--cds-gap-xs); flex: 1; }
+.rt-link { font-size: var(--cds-font-size-caption); }
+.rt-tip { position: absolute; pointer-events: none; background: var(--cds-surface-popover); border: 1px solid var(--cds-border);
+  border-radius: var(--cds-radius); box-shadow: var(--cds-shadow-popover); padding: var(--cds-pad-xs) var(--cds-pad-sm);
+  font-size: var(--cds-font-size-caption); white-space: nowrap; z-index: 2; font-variant-numeric: tabular-nums; }
+.rt-tip .rt-tip-h { color: var(--cds-text-secondary); margin-bottom: 2px; }
+.rt-tick { fill: var(--color-fg-muted); font-size: var(--cds-font-size-caption); }
+[data-dash-source-state=empty] { color: transparent; }
+[data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
+</style>
+<div class="rt">
+<header class="rt-head" id="top">
+<h1 class="rt-title">Retirement trends</h1>
+<p class="rt-take">Withdrawals follow the required-distribution rules, more workers save in DC plans, and the older cushions (DB pensions, Social Security's trust funds, annuities) keep shrinking while people live and work longer.</p>
+<p class="rt-meta">Headline indicators from the <a href="https://claude.ai/artifact/JTfbBBXQfUrpabgjxiGdqT" target="_blank" rel="noopener">Retirement account withdrawals report</a>, each with its trend, source and years. Hover a chart for values.</p>
+<nav class="rt-nav"><button class="rt-chip" data-target="p-withdrawals-and-rollovers">Withdrawals and rollovers</button><button class="rt-chip" data-target="p-saving-for-retirement">Saving for retirement</button><button class="rt-chip" data-target="p-income-in-retirement">Income in retirement</button><button class="rt-chip" data-target="p-living-longer-and-working-longer">Living longer and working longer</button><button class="rt-chip" data-target="p-older-households-finances">Older households’ finances</button></nav>
+</header>
+<section class="rt-part" id="p-withdrawals-and-rollovers"><h2 class="rt-h2">Withdrawals and rollovers</h2><div class="rt-grid"><article class="rt-card" id="c-ira_incidence">
+<h3 class="rt-q">Who takes money out of IRAs?</h3>
+<div class="rt-kpi"><span class="rt-big dash-skeleton" data-source="ira_incidence" data-field="value" data-where="series=RMD age or older&amp;year=2023" data-unit="%">—</span></div>
+<p class="rt-cap">RMD age or older, <span class="" data-source="ira_incidence" data-field="year" data-where="series=RMD age or older&amp;year=2023" data-unit="">—</span></p>
+<div class="rt-legend" data-source="ira_incidence"></div>
+<div class="rt-chart dash-skeleton" data-source="ira_incidence" data-id="ira_incidence"></div>
+<p class="rt-src">Share of traditional IRA investors taking a withdrawal in the year, by age group. ICI IRA Investor Database, Figure A.11; the sample changed in 2017.</p>
+<a class="rt-link" href="https://claude.ai/artifact/JTfbBBXQfUrpabgjxiGdqT#s-who" target="_blank" rel="noopener">In the report: IRA withdrawals: who takes them →</a>
+</article><article class="rt-card" id="c-ira_rate">
+<h3 class="rt-q">How much do they take out?</h3>
+<div class="rt-kpi"><span class="rt-big dash-skeleton" data-source="ira_rate" data-field="value" data-where="series=70 or older&amp;year=2023" data-unit="%">—</span></div>
+<p class="rt-cap">70 or older, <span class="" data-source="ira_rate" data-field="year" data-where="series=70 or older&amp;year=2023" data-unit="">—</span></p>
+<p class="rt-from">From <span class="" data-source="ira_rate" data-field="value" data-where="series=70 or older&amp;year=2019" data-unit="%">—</span> in <span class="" data-source="ira_rate" data-field="year" data-where="series=70 or older&amp;year=2019" data-unit="">—</span></p>
+<div class="rt-legend" data-source="ira_rate"></div>
+<div class="rt-chart dash-skeleton" data-source="ira_rate" data-id="ira_rate"></div>
+<p class="rt-src">IRA withdrawals as a share of the same age group’s prior year-end balance, all IRA types, dollar-weighted. IRS Statistics of Income Table 4 (computed); 2022-2023 are a new IRS series.</p>
+<a class="rt-link" href="https://claude.ai/artifact/JTfbBBXQfUrpabgjxiGdqT#s-rate" target="_blank" rel="noopener">In the report: IRA withdrawals: how much →</a>
+</article><article class="rt-card" id="c-rollover_share">
+<h3 class="rt-q">Is less money leaving plans for IRAs?</h3>
+<div class="rt-kpi"><span class="rt-big dash-skeleton" data-source="rollover_share" data-field="value" data-where="series=Rollovers ÷ all DC outflows (BEA)&amp;year=2023" data-unit="%">—</span></div>
+<p class="rt-cap">Rollovers ÷ all DC outflows (BEA), <span class="" data-source="rollover_share" data-field="year" data-where="series=Rollovers ÷ all DC outflows (BEA)&amp;year=2023" data-unit="">—</span></p>
+<p class="rt-from">From <span class="" data-source="rollover_share" data-field="value" data-where="series=Rollovers ÷ all DC outflows (BEA)&amp;year=1996" data-unit="%">—</span> in <span class="" data-source="rollover_share" data-field="year" data-where="series=Rollovers ÷ all DC outflows (BEA)&amp;year=1996" data-unit="">—</span></p>
+<div class="rt-legend" data-source="rollover_share"></div>
+<div class="rt-chart dash-skeleton" data-source="rollover_share" data-id="rollover_share"></div>
+<p class="rt-src">Rollovers into traditional IRAs (IRS Statistics of Income) as a share of money paid out of DC plans (BEA) and of private DC plan benefits (Form 5500). A ratio of two sources, not a true rollover share; the IRS method changed in 2022.</p>
+<a class="rt-link" href="https://claude.ai/artifact/JTfbBBXQfUrpabgjxiGdqT#s-roll" target="_blank" rel="noopener">In the report: Rollovers →</a>
+</article></div></section>
+<section class="rt-part" id="p-saving-for-retirement"><h2 class="rt-h2">Saving for retirement</h2><div class="rt-grid"><article class="rt-card" id="c-dc_participation">
+<h3 class="rt-q">Are more workers in a DC plan?</h3>
+<div class="rt-kpi"><span class="rt-big dash-skeleton" data-source="dc_participation" data-field="value" data-where="series=Participating in a DC plan&amp;year=2026" data-unit="%">—</span></div>
+<p class="rt-cap">Participating in a DC plan, <span class="" data-source="dc_participation" data-field="year" data-where="series=Participating in a DC plan&amp;year=2026" data-unit="">—</span></p>
+<p class="rt-from">From <span class="" data-source="dc_participation" data-field="value" data-where="series=Participating in a DC plan&amp;year=2010" data-unit="%">—</span> in <span class="" data-source="dc_participation" data-field="year" data-where="series=Participating in a DC plan&amp;year=2010" data-unit="">—</span></p>
+<div class="rt-legend" data-source="dc_participation"></div>
+<div class="rt-chart dash-skeleton" data-source="dc_participation" data-id="dc_participation"></div>
+<p class="rt-src">Private-industry workers with access to, and participating in, an employer defined contribution plan, March of each year. BLS National Compensation Survey (DC plans only, not the all-plans rate that includes DB).</p>
+<a class="rt-link" href="https://claude.ai/artifact/JTfbBBXQfUrpabgjxiGdqT#s-laws" target="_blank" rel="noopener">In the report: Do the laws work? →</a>
+</article><article class="rt-card" id="c-dc_contributions">
+<h3 class="rt-q">How much goes into DC plans?</h3>
+<div class="rt-kpi"><span class="rt-big dash-skeleton" data-source="dc_contributions" data-field="value" data-where="series=Total&amp;year=2023" data-unit="%">—</span></div>
+<p class="rt-cap">Total, <span class="" data-source="dc_contributions" data-field="year" data-where="series=Total&amp;year=2023" data-unit="">—</span></p>
+<p class="rt-from">From <span class="" data-source="dc_contributions" data-field="value" data-where="series=Total&amp;year=1999" data-unit="%">—</span> in <span class="" data-source="dc_contributions" data-field="year" data-where="series=Total&amp;year=1999" data-unit="">—</span></p>
+<div class="rt-legend" data-source="dc_contributions"></div>
+<div class="rt-chart dash-skeleton" data-source="dc_contributions" data-id="dc_contributions"></div>
+<p class="rt-src">Employer and employee contributions to private DC plans (excluding rollovers) as a share of all private wages and salaries. DOL Form 5500 abstracts divided by BEA private wages (computed).</p>
+<a class="rt-link" href="https://claude.ai/artifact/JTfbBBXQfUrpabgjxiGdqT#s-contrib" target="_blank" rel="noopener">In the report: How much goes in: contribution trends →</a>
+</article><article class="rt-card" id="c-nrri">
+<h3 class="rt-q">Are workers on track?</h3>
+<div class="rt-kpi"><span class="rt-big dash-skeleton" data-source="nrri" data-field="value" data-where="series=Version 2.0 (2024)&amp;year=2022" data-unit="%">—</span></div>
+<p class="rt-cap">Version 2.0 (2024), <span class="" data-source="nrri" data-field="year" data-where="series=Version 2.0 (2024)&amp;year=2022" data-unit="">—</span></p>
+<p class="rt-from">From <span class="" data-source="nrri" data-field="value" data-where="series=Version 2.0 (2024)&amp;year=2004" data-unit="%">—</span> in <span class="" data-source="nrri" data-field="year" data-where="series=Version 2.0 (2024)&amp;year=2004" data-unit="">—</span></p>
+<div class="rt-legend" data-source="nrri"></div>
+<div class="rt-chart dash-skeleton" data-source="nrri" data-id="nrri"></div>
+<p class="rt-src">Share of working-age households projected to fall more than 10% short of the income needed to keep their consumption in retirement. Center for Retirement Research NRRI; the two methods are not comparable and are never joined.</p>
+<a class="rt-link" href="https://claude.ai/artifact/JTfbBBXQfUrpabgjxiGdqT#s-ready" target="_blank" rel="noopener">In the report: Are workers ready for retirement? →</a>
+</article></div></section>
+<section class="rt-part" id="p-income-in-retirement"><h2 class="rt-h2">Income in retirement</h2><div class="rt-grid"><article class="rt-card" id="c-income_shares">
+<h3 class="rt-q">Where does retirees’ income come from?</h3>
+<div class="rt-kpi"><span class="rt-big dash-skeleton" data-source="income_shares" data-field="value" data-where="series=Social Security&amp;year=2025" data-unit="%">—</span></div>
+<p class="rt-cap">Social Security, <span class="" data-source="income_shares" data-field="year" data-where="series=Social Security&amp;year=2025" data-unit="">—</span></p>
+<p class="rt-from">Earnings <span class="" data-source="income_shares" data-field="value" data-where="series=Earnings&amp;year=2025" data-unit="%">—</span> · DB pensions <span class="" data-source="income_shares" data-field="value" data-where="series=DB pensions&amp;year=2025" data-unit="%">—</span> · Account withdrawals <span class="" data-source="income_shares" data-field="value" data-where="series=Account withdrawals&amp;year=2025" data-unit="%">—</span></p>
+<div class="rt-legend" data-source="income_shares"></div>
+<div class="rt-chart dash-skeleton" data-source="income_shares" data-id="income_shares"></div>
+<p class="rt-src">Share of the aggregate income of people 65 or older by source, CPS ASEC public-use files tabulated for the report. Income years 1997-2013 (traditional questions) and 2016-2025 (redesigned) are separate series; compare levels only within one.</p>
+<a class="rt-link" href="https://claude.ai/artifact/JTfbBBXQfUrpabgjxiGdqT#s-income" target="_blank" rel="noopener">In the report: Where retirees’ income comes from →</a>
+</article><article class="rt-card" id="c-ss_runway">
+<h3 class="rt-q">How long until Social Security’s trust funds run out?</h3>
+<div class="rt-kpi"><span class="rt-big dash-skeleton" data-source="ss_runway" data-field="value" data-where="series=Years to trust fund depletion&amp;year=2026" data-unit="years">—</span></div>
+<p class="rt-cap">Years to trust fund depletion, <span class="" data-source="ss_runway" data-field="year" data-where="series=Years to trust fund depletion&amp;year=2026" data-unit="">—</span></p>
+<p class="rt-from">From <span class="" data-source="ss_runway" data-field="value" data-where="series=Years to trust fund depletion&amp;year=1985" data-unit="years">—</span> in <span class="" data-source="ss_runway" data-field="year" data-where="series=Years to trust fund depletion&amp;year=1985" data-unit="">—</span></p>
+<div class="rt-legend" data-source="ss_runway"></div>
+<div class="rt-chart dash-skeleton" data-source="ss_runway" data-id="ss_runway"></div>
+<p class="rt-src">Years from each Trustees Report to the year the combined OASI and DI trust funds are projected to run out, intermediate assumptions. 2026 Trustees Report Table VI.B1 (computed).</p>
+<a class="rt-link" href="https://claude.ai/artifact/JTfbBBXQfUrpabgjxiGdqT#s-ss" target="_blank" rel="noopener">In the report: Social Security’s finances →</a>
+</article><article class="rt-card" id="c-db_participation">
+<h3 class="rt-q">How many workers still earn a pension?</h3>
+<div class="rt-kpi"><span class="rt-big dash-skeleton" data-source="db_participation" data-field="value" data-where="series=Form 5500&amp;year=2023" data-unit="%">—</span></div>
+<p class="rt-cap">Form 5500, <span class="" data-source="db_participation" data-field="year" data-where="series=Form 5500&amp;year=2023" data-unit="">—</span></p>
+<p class="rt-from">From <span class="" data-source="db_participation" data-field="value" data-where="series=Form 5500&amp;year=1980" data-unit="%">—</span> in <span class="" data-source="db_participation" data-field="year" data-where="series=Form 5500&amp;year=1980" data-unit="">—</span></p>
+<div class="rt-legend" data-source="db_participation"></div>
+<div class="rt-chart dash-skeleton" data-source="db_participation" data-id="db_participation"></div>
+<p class="rt-src">Active participants in private defined benefit plans as a share of private wage and salary workers: Form 5500 (DOL Table E7 over CPS workers, computed) and the BLS employer surveys.</p>
+<a class="rt-link" href="https://claude.ai/artifact/JTfbBBXQfUrpabgjxiGdqT#s-db" target="_blank" rel="noopener">In the report: The decline of defined benefit pensions →</a>
+</article><article class="rt-card" id="c-annuity_ownership">
+<h3 class="rt-q">Do retirees buy lifetime income?</h3>
+<div class="rt-kpi"><span class="rt-big dash-skeleton" data-source="annuity_ownership" data-field="value" data-where="series=65+, any annuity&amp;year=2022" data-unit="%">—</span></div>
+<p class="rt-cap">65+, any annuity, <span class="" data-source="annuity_ownership" data-field="year" data-where="series=65+, any annuity&amp;year=2022" data-unit="">—</span></p>
+<p class="rt-from">From <span class="" data-source="annuity_ownership" data-field="value" data-where="series=65+, any annuity&amp;year=2004" data-unit="%">—</span> in <span class="" data-source="annuity_ownership" data-field="year" data-where="series=65+, any annuity&amp;year=2004" data-unit="">—</span></p>
+<div class="rt-legend" data-source="annuity_ownership"></div>
+<div class="rt-chart dash-skeleton" data-source="annuity_ownership" data-id="annuity_ownership"></div>
+<p class="rt-src">Share of households owning an annuity outside an employer pension, by age of the household head. Survey of Consumer Finances 2004-2022, tabulated for the report.</p>
+<a class="rt-link" href="https://claude.ai/artifact/JTfbBBXQfUrpabgjxiGdqT#s-annuity" target="_blank" rel="noopener">In the report: Annuities and lifetime income →</a>
+</article></div></section>
+<section class="rt-part" id="p-living-longer-and-working-longer"><h2 class="rt-h2">Living longer and working longer</h2><div class="rt-grid"><article class="rt-card" id="c-life_expectancy">
+<h3 class="rt-q">How long does the money have to last?</h3>
+<div class="rt-kpi"><span class="rt-big dash-skeleton" data-source="life_expectancy" data-field="value" data-where="series=Women&amp;year=2024" data-unit="years">—</span></div>
+<p class="rt-cap">Women, <span class="" data-source="life_expectancy" data-field="year" data-where="series=Women&amp;year=2024" data-unit="">—</span></p>
+<p class="rt-from">Men <span class="" data-source="life_expectancy" data-field="value" data-where="series=Men&amp;year=2024" data-unit="years">—</span></p>
+<div class="rt-legend" data-source="life_expectancy"></div>
+<div class="rt-chart dash-skeleton" data-source="life_expectancy" data-id="life_expectancy"></div>
+<p class="rt-src">Period life expectancy at 65 in years, by sex. NCHS Health, United States (1980-2017) and United States Life Tables (2018-2024).</p>
+<a class="rt-link" href="https://claude.ai/artifact/JTfbBBXQfUrpabgjxiGdqT#s-long" target="_blank" rel="noopener">In the report: How long the money has to last →</a>
+</article><article class="rt-card" id="c-older_lfpr">
+<h3 class="rt-q">Are people working longer?</h3>
+<div class="rt-kpi"><span class="rt-big dash-skeleton" data-source="older_lfpr" data-field="value" data-where="series=65 to 69&amp;year=2025" data-unit="%">—</span></div>
+<p class="rt-cap">65 to 69, <span class="" data-source="older_lfpr" data-field="year" data-where="series=65 to 69&amp;year=2025" data-unit="">—</span></p>
+<p class="rt-from">From <span class="" data-source="older_lfpr" data-field="value" data-where="series=65 to 69&amp;year=1976" data-unit="%">—</span> in <span class="" data-source="older_lfpr" data-field="year" data-where="series=65 to 69&amp;year=1976" data-unit="">—</span></p>
+<div class="rt-legend" data-source="older_lfpr"></div>
+<div class="rt-chart dash-skeleton" data-source="older_lfpr" data-id="older_lfpr"></div>
+<p class="rt-src">Labor force participation rate by age, annual averages. BLS Current Population Survey; the 1994 redesign raised measured participation at 65+ by about a point.</p>
+<a class="rt-link" href="https://claude.ai/artifact/JTfbBBXQfUrpabgjxiGdqT#s-work" target="_blank" rel="noopener">In the report: Working longer →</a>
+</article><article class="rt-card" id="c-work_after_claiming">
+<h3 class="rt-q">Do retirees keep working?</h3>
+<div class="rt-kpi"><span class="rt-big dash-skeleton" data-source="work_after_claiming" data-field="value" data-where="series=Employed part time&amp;year=2026" data-unit="%">—</span></div>
+<p class="rt-cap">Employed part time, <span class="" data-source="work_after_claiming" data-field="year" data-where="series=Employed part time&amp;year=2026" data-unit="">—</span></p>
+<p class="rt-from">From <span class="" data-source="work_after_claiming" data-field="value" data-where="series=Employed part time&amp;year=2010" data-unit="%">—</span> in <span class="" data-source="work_after_claiming" data-field="year" data-where="series=Employed part time&amp;year=2010" data-unit="">—</span></p>
+<p class="rt-from">Employed full time <span class="" data-source="work_after_claiming" data-field="value" data-where="series=Employed full time&amp;year=2026" data-unit="%">—</span></p>
+<div class="rt-legend" data-source="work_after_claiming"></div>
+<div class="rt-chart dash-skeleton" data-source="work_after_claiming" data-id="work_after_claiming"></div>
+<p class="rt-src">Retired-worker Social Security beneficiaries 62 or older: share employed in the March survey week by usual hours, and share who worked in the previous year. CPS ASEC public-use files, tabulated for the report.</p>
+<a class="rt-link" href="https://claude.ai/artifact/JTfbBBXQfUrpabgjxiGdqT#s-work" target="_blank" rel="noopener">In the report: Working longer →</a>
+</article><article class="rt-card" id="c-medicare_premium">
+<h3 class="rt-q">How much of Social Security goes to Medicare premiums?</h3>
+<div class="rt-kpi"><span class="rt-big dash-skeleton" data-source="medicare_premium" data-field="value" data-where="series=Part B standard premium&amp;year=2026" data-unit="%">—</span></div>
+<p class="rt-cap">Part B standard premium, <span class="" data-source="medicare_premium" data-field="year" data-where="series=Part B standard premium&amp;year=2026" data-unit="">—</span></p>
+<p class="rt-from">From <span class="" data-source="medicare_premium" data-field="value" data-where="series=Part B standard premium&amp;year=1990" data-unit="%">—</span> in <span class="" data-source="medicare_premium" data-field="year" data-where="series=Part B standard premium&amp;year=1990" data-unit="">—</span></p>
+<div class="rt-legend" data-source="medicare_premium"></div>
+<div class="rt-chart dash-skeleton" data-source="medicare_premium" data-id="medicare_premium"></div>
+<p class="rt-src">Standard Medicare Part B premium as a percentage of the average Social Security retired-worker benefit. 2026 Medicare Trustees Report (computed).</p>
+<a class="rt-link" href="https://claude.ai/artifact/JTfbBBXQfUrpabgjxiGdqT#s-health" target="_blank" rel="noopener">In the report: Health care costs →</a>
+</article></div></section>
+<section class="rt-part" id="p-older-households-finances"><h2 class="rt-h2">Older households’ finances</h2><div class="rt-grid"><article class="rt-card" id="c-older_debt">
+<h3 class="rt-q">Are more older households in debt?</h3>
+<div class="rt-kpi"><span class="rt-big dash-skeleton" data-source="older_debt" data-field="value" data-where="series=75 or older&amp;year=2022" data-unit="%">—</span></div>
+<p class="rt-cap">75 or older, <span class="" data-source="older_debt" data-field="year" data-where="series=75 or older&amp;year=2022" data-unit="">—</span></p>
+<p class="rt-from">From <span class="" data-source="older_debt" data-field="value" data-where="series=75 or older&amp;year=1989" data-unit="%">—</span> in <span class="" data-source="older_debt" data-field="year" data-where="series=75 or older&amp;year=1989" data-unit="">—</span></p>
+<div class="rt-legend" data-source="older_debt"></div>
+<div class="rt-chart dash-skeleton" data-source="older_debt" data-id="older_debt"></div>
+<p class="rt-src">Share of households with any debt, by age of the household head. Survey of Consumer Finances 1989-2022, tabulated for the report; matches the Fed’s historical tables.</p>
+<a class="rt-link" href="https://claude.ai/artifact/JTfbBBXQfUrpabgjxiGdqT#s-debt" target="_blank" rel="noopener">In the report: Debt and housing wealth in later life →</a>
+</article><article class="rt-card" id="c-poverty_65">
+<h3 class="rt-q">How many older people are poor?</h3>
+<div class="rt-kpi"><span class="rt-big dash-skeleton" data-source="poverty_65" data-field="value" data-where="series=Supplemental Poverty Measure&amp;year=2025" data-unit="%">—</span></div>
+<p class="rt-cap">Supplemental Poverty Measure, <span class="" data-source="poverty_65" data-field="year" data-where="series=Supplemental Poverty Measure&amp;year=2025" data-unit="">—</span></p>
+<p class="rt-from">Official measure <span class="" data-source="poverty_65" data-field="value" data-where="series=Official measure&amp;year=2025" data-unit="%">—</span></p>
+<div class="rt-legend" data-source="poverty_65"></div>
+<div class="rt-chart dash-skeleton" data-source="poverty_65" data-id="poverty_65"></div>
+<p class="rt-src">Poverty rate of people 65 or older on the Supplemental Poverty Measure and the official measure. Census P60-290 and earlier reports; lines break where Census changed questions, processing or SPM method.</p>
+<a class="rt-link" href="https://claude.ai/artifact/JTfbBBXQfUrpabgjxiGdqT#s-poverty" target="_blank" rel="noopener">In the report: Poverty among older Americans →</a>
+</article></div></section>
+</div>
+<script>window.RT_CFG = {"ira_incidence": {"order": ["RMD age or older", "60 to RMD age", "18 to 59"], "breaks": [], "unit": "%", "head": "RMD age or older"}, "ira_rate": {"order": ["70 or older", "60 to 69", "All ages"], "breaks": [], "unit": "%", "head": "70 or older"}, "rollover_share": {"order": ["Rollovers ÷ all DC outflows (BEA)", "Rollovers ÷ private DC benefits (Form 5500)"], "breaks": ["2021"], "unit": "%", "head": "Rollovers ÷ all DC outflows (BEA)"}, "dc_participation": {"order": ["Participating in a DC plan", "With access to a DC plan"], "breaks": [], "unit": "%", "head": "Participating in a DC plan"}, "dc_contributions": {"order": ["Total", "Employee", "Employer"], "breaks": [], "unit": "%", "head": "Total"}, "nrri": {"order": ["Version 2.0 (2024)", "Original method (2018)"], "breaks": [], "unit": "%", "head": "Version 2.0 (2024)"}, "income_shares": {"order": ["Social Security", "Earnings", "DB pensions", "Account withdrawals"], "breaks": ["2013"], "unit": "%", "head": "Social Security"}, "ss_runway": {"order": ["Years to trust fund depletion"], "breaks": [], "unit": "years", "head": "Years to trust fund depletion"}, "db_participation": {"order": ["Form 5500", "BLS survey"], "breaks": [], "unit": "%", "head": "Form 5500"}, "annuity_ownership": {"order": ["65+, any annuity", "55–64, any annuity", "65+, income annuity"], "breaks": [], "unit": "%", "head": "65+, any annuity"}, "life_expectancy": {"order": ["Women", "Men"], "breaks": [], "unit": "years", "head": "Women"}, "older_lfpr": {"order": ["62 to 64", "65 to 69", "70 to 74"], "breaks": [], "unit": "%", "head": "65 to 69"}, "work_after_claiming": {"order": ["Worked in prior year", "Employed part time", "Employed full time"], "breaks": [], "unit": "%", "head": "Employed part time"}, "medicare_premium": {"order": ["Part B standard premium"], "breaks": [], "unit": "%", "head": "Part B standard premium"}, "older_debt": {"order": ["75 or older", "65 to 74", "55 to 64"], "breaks": [], "unit": "%", "head": "75 or older"}, "poverty_65": {"order": ["Supplemental Poverty Measure", "Official measure"], "breaks": ["2012", "2016", "2018"], "unit": "%", "head": "Supplemental Poverty Measure"}};</script>
+<script>(function () {
+  const CFG = window.RT_CFG;
+  const num = (v) => (Number.isInteger(v) ? String(v) : v.toFixed(1));
+  const withUnit = (v, unit) => (unit === '%' ? num(v) + '%' : num(v) + ' years');
+
+  // part chips scroll to their section
+  document.querySelectorAll('.rt-chip').forEach((b) => {
+    b.addEventListener('click', () => {
+      const el = document.getElementById(b.dataset.target);
+      if (el) { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); dash.setLink(el.id); }
+    });
+  });
+
+  const parseWhere = (w) => Object.fromEntries(w.split('&').map((kv) => kv.split('=').map(decodeURIComponent)));
+
+  function rowsOf(id) {
+    const d = dash.data(id);
+    if (d.status !== 'ok') return null;
+    return d.data.map((r) => ({ year: String(r.year), series: String(r.series), value: Number(r.value) }));
+  }
+
+  function fillCells(id, rows, status) {
+    document.querySelectorAll(`span[data-source="${id}"][data-field]`).forEach((el) => {
+      if (!rows) {
+        el.textContent = '—';
+        if (status === 'error' || status === 'connect') el.classList.remove('dash-skeleton');
+        return;
+      }
+      const w = parseWhere(el.dataset.where);
+      const r = rows.find((x) => x.series === w.series && x.year === w.year);
+      el.classList.remove('dash-skeleton');
+      if (!r) { el.textContent = '—'; return; }
+      el.textContent = el.dataset.field === 'year' ? r.year : withUnit(r.value, el.dataset.unit);
+    });
+  }
+
+  function drawLegend(id, order) {
+    const box = document.querySelector(`.rt-legend[data-source="${id}"]`);
+    box.replaceChildren(...order.map((name, i) => {
+      const s = document.createElement('span');
+      const sw = document.createElement('span');
+      sw.className = 'rt-sw';
+      sw.style.background = dash.colors[i];
+      s.append(sw, document.createTextNode(name));
+      return s;
+    }));
+  }
+
+  function segments(points, breaks) {
+    // split a series where a break year falls between two points
+    const segs = [];
+    let cur = [];
+    points.forEach((p, i) => {
+      if (i > 0) {
+        const prev = points[i - 1].x;
+        if (breaks.some((b) => prev <= b && p.x > b)) { segs.push(cur); cur = []; }
+      }
+      cur.push(p);
+    });
+    if (cur.length) segs.push(cur);
+    return segs;
+  }
+
+  function drawChart(id, rows, status) {
+    const box = document.querySelector(`.rt-chart[data-id="${id}"]`);
+    const cfg = CFG[id];
+    if (!rows) {
+      box.replaceChildren();
+      if (status === 'error' || status === 'connect') {
+        box.classList.remove('dash-skeleton');
+        const f = document.createElement('div');
+        f.className = 'rt-fail';
+        f.textContent = 'Failed to load';
+        box.append(f);
+      }
+      return;
+    }
+    box.classList.remove('dash-skeleton');
+    const W = Math.max(240, box.clientWidth || 320), H = 180;
+    const breaks = cfg.breaks.map(Number);
+    const series = cfg.order.map((name, i) => ({
+      name, color: dash.colors[i],
+      pts: rows.filter((r) => r.series === name).map((r) => ({ x: Number(r.year), y: r.value, year: r.year }))
+        .sort((a, b) => a.x - b.x),
+    }));
+    const years = Array.from(new Set(rows.map((r) => Number(r.year)))).sort((a, b) => a - b);
+    const yMax = d3.max(rows, (r) => r.value) * 1.08;
+
+    const svg = d3.create('svg').attr('width', '100%').attr('viewBox', `0 0 ${W} ${H}`).attr('role', 'img');
+    const y = d3.scaleLinear([0, yMax], [H - 22, 6]).nice();
+    const yTicks = y.ticks(4);
+    // measure widest y tick
+    const probe = svg.append('text').attr('class', 'rt-tick');
+    let lw = 0;
+    box.appendChild(svg.node());
+    yTicks.forEach((t) => { probe.text(withUnit(t, cfg.unit).replace(' years', '')); lw = Math.max(lw, probe.node().getComputedTextLength()); });
+    probe.remove();
+    svg.node().remove();
+    const ml = Math.ceil(lw) + 8, mr = 10;
+    const x = d3.scaleLinear([years[0], years[years.length - 1]], [ml, W - mr]);
+
+    const g = svg.append('g');
+    g.selectAll('line.grid').data(yTicks).join('line')
+      .attr('x1', ml).attr('x2', W - mr).attr('y1', (d) => y(d)).attr('y2', (d) => y(d))
+      .attr('stroke', 'var(--cds-chart-grid)').attr('stroke-width', 1);
+    g.selectAll('text.yt').data(yTicks).join('text').attr('class', 'rt-tick')
+      .attr('x', ml - 6).attr('y', (d) => y(d)).attr('dy', '0.32em').attr('text-anchor', 'end')
+      .text((d) => withUnit(d, cfg.unit).replace(' years', ''));
+    g.append('line').attr('x1', ml).attr('x2', W - mr).attr('y1', y(0)).attr('y2', y(0))
+      .attr('stroke', 'var(--cds-chart-axis)');
+    const nx = W < 360 ? 3 : 5;
+    const xt = x.ticks(nx).filter((t) => Number.isInteger(t));
+    g.selectAll('text.xt').data(xt).join('text').attr('class', 'rt-tick')
+      .attr('x', (d) => x(d)).attr('y', H - 4).attr('text-anchor', 'middle').text((d) => String(d));
+
+    // break markers
+    breaks.forEach((b) => {
+      const bx = x(b + 0.5);
+      if (bx > ml && bx < W - mr) {
+        g.append('line').attr('x1', bx).attr('x2', bx).attr('y1', 6).attr('y2', H - 22)
+          .attr('stroke', 'var(--cds-chart-reference)').attr('stroke-dasharray', '3 3');
+      }
+    });
+
+    const line = d3.line().x((p) => x(p.x)).y((p) => y(p.y));
+    series.slice().reverse().forEach((s) => {
+      segments(s.pts, breaks).forEach((seg) => {
+        if (seg.length === 1) {
+          g.append('circle').attr('cx', x(seg[0].x)).attr('cy', y(seg[0].y)).attr('r', 2.5).attr('fill', s.color);
+        } else {
+          g.append('path').attr('d', line(seg)).attr('fill', 'none').attr('stroke', s.color)
+            .attr('stroke-width', 2).attr('stroke-linecap', 'round').attr('stroke-linejoin', 'round');
+        }
+      });
+    });
+
+    const rule = g.append('line').attr('y1', 6).attr('y2', H - 22).attr('stroke', 'var(--cds-chart-axis)').style('display', 'none');
+    const dots = g.append('g');
+    const tip = document.createElement('div');
+    tip.className = 'rt-tip';
+    tip.style.display = 'none';
+
+    svg.append('rect').attr('x', ml).attr('y', 0).attr('width', W - ml - mr).attr('height', H - 20)
+      .attr('fill', 'transparent')
+      .on('mousemove', (event) => {
+        const [mx] = d3.pointer(event);
+        const yr = years[d3.minIndex(years, (v) => Math.abs(x(v) - mx))];
+        const hits = series.map((s) => ({ s, p: s.pts.find((p) => p.x === yr) })).filter((h) => h.p);
+        rule.style('display', null).attr('x1', x(yr)).attr('x2', x(yr));
+        dots.selectAll('circle').data(hits).join('circle').attr('r', 3.5)
+          .attr('cx', (h) => x(h.p.x)).attr('cy', (h) => y(h.p.y)).attr('fill', (h) => h.s.color);
+        const head = document.createElement('div');
+        head.className = 'rt-tip-h';
+        head.textContent = String(yr);
+        const lines = hits.map((h) => {
+          const d = document.createElement('div');
+          if (series.length > 1) {
+            const sw = document.createElement('span');
+            sw.className = 'rt-sw';
+            sw.style.background = h.s.color;
+            d.append(sw);
+          }
+          d.append(document.createTextNode(`${h.s.name}: ${withUnit(h.p.y, cfg.unit)}`));
+          return d;
+        });
+        tip.replaceChildren(head, ...(lines.length ? lines : [document.createTextNode('No data this year')]));
+        tip.style.display = 'block';
+        const bw = box.clientWidth, scale = bw / W, px = x(yr) * scale;
+        const tw = tip.offsetWidth;
+        tip.style.left = Math.max(0, Math.min(bw - tw, px + 10 > bw - tw ? px - tw - 10 : px + 10)) + 'px';
+        tip.style.top = '4px';
+      })
+      .on('mouseleave', () => { tip.style.display = 'none'; rule.style('display', 'none'); dots.selectAll('circle').remove(); });
+
+    box.replaceChildren(svg.node(), tip);
+  }
+
+  dash.onData(() => {
+    Object.keys(CFG).forEach((id) => {
+      const d = dash.data(id);
+      const rows = rowsOf(id);
+      fillCells(id, rows, d.status);
+      drawLegend(id, CFG[id].order);
+      drawChart(id, rows, d.status);
+    });
+  });
+
+  let jumped = false;
+  dash.onData(() => {
+    if (jumped) return;
+    jumped = true;
+    const named = document.getElementById(location.hash.slice(1));
+    if (named) named.scrollIntoView();
+  });
+})();
+</script>
