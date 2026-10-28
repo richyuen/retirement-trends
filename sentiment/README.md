@@ -95,3 +95,40 @@ The full write-up is a Claude Doc: https://claude.ai/artifact/Byw2yfRUJe5aNt7U3V
 ## SCF cohort table (added 2026-10-27)
 
 `output/scf_cohort_contrib_vs_sentiment.csv` (built by `scripts/scf_cohort_table.py`) puts the SCF income-cohort series and sentiment in one table: one row per wave (1989-2025) and family income quartile, 52 rows. Columns: families contributing to a current-job DC plan (% of families), take-up among families with a DC plan (%), employee and employer DC contributions (% of current main-job pay), each with its replicate-weight SE; `n_families` is the unweighted sample count (the SCF oversamples high-wealth families, so Q4 has the most cases); the matched Michigan sentiment (`ics_own_group`: Q1 = bottom third, Q2-Q3 = middle, Q4 = top) plus all three thirds and all respondents. DC items are current at the interview in the survey year; quartiles use prior-year family income; sentiment is the survey year's calendar average.
+
+## Saving rate vs expectations: replicating Divounguy (2026)
+
+Richard asked (2026-10-27) whether we can replicate O. Divounguy, "Optimism or pressure? What the data says about
+why households are saving less" (29 May 2026, orphedivounguy.com/savings-and-consumer-expectations/), and whether it
+is by income cohort. The article correlates the monthly Michigan Index of Consumer Expectations (ICE) with the BEA
+personal saving rate, in levels, across six windows. It is **not** split by income.
+
+Script: `scripts/saving_expectations.py`. Outputs: `output/saving_expectations_windows.csv`,
+`saving_expectations_cohorts.csv`, `saving_expectations_cohort_panel_ce.csv`, `saving_expectations_cohort_panel_scf.csv`.
+Raw: `raw/PSAVERT_vintage_2026-05-29.csv` (ALFRED, article date), `raw/PSAVERT_vintage_2026-10-27.csv` (current),
+`raw/umich_components_income_*33.xls` (ICE by income third), `raw/bls_ce_income_quintiles_long.csv`.
+
+Findings:
+1. **Exact replication** with the article-date vintage: -0.59, -0.55, +0.48, -0.49, -0.42, +0.53.
+2. **Data revisions:** BEA's September 2026 annual update raised recent saving rates (April 2026 2.6% -> 4.4%,
+   March 3.2% -> 5.1%). The "today" window still holds: 0.57 through April 2026, 0.64 through August 2026. Saving
+   fell from 5.6% (Jan 2026) to 4.1% (Aug 2026) on current data.
+3. **Levels only:** in month-to-month changes the window correlations are -0.25 to +0.17; full sample -0.11 in
+   levels and -0.01 in changes. The level correlations reflect shared slow swings, not a month-to-month link.
+   12-month changes are mixed: pandemic -0.71, today +0.48, other windows -0.27 to +0.21, full sample -0.02
+   (overlapping changes, so p-values overstated). Why levels mislead: monthly autocorrelation 0.87 (ICE) and
+   0.90 (saving) in the today window, so 44 months ~ 5 effective observations; 41% of independent 44-month
+   random-walk pairs give |r| > 0.5.
+   Non-overlapping changes (computed ad hoc 2026-10-28, current vintage): calendar-year averages, year-over-year,
+   full sample r = +0.10 (p 0.50, n 47); same-month year-over-year (Jan-Jan, ..., Dec-Dec) r -0.27 to +0.25,
+   median -0.06, none p < 0.05; quarterly averages q/q full sample -0.11 (p 0.12, n 194), pandemic -0.65
+   (p 0.02, n 12), today +0.22 (p 0.43, n 15). Short windows have only 2-5 annual changes, too few to test.
+4. **Income cohorts** (annual, ICE by income third):
+   - BLS Consumer Expenditure Survey saving proxy ((after-tax income - spending) / after-tax income) by quintile,
+     1984-2023: change correlations -0.14 to +0.01; panel with year effects -0.4 pts per 10 ICE pts
+     (HC1 p 0.89, permutation p 0.88).
+   - SCF share of families spending less than income (SAVED) by quartile, 1992-2025: bottom quartile r = 0.65
+     (p 0.03, n = 11; 0.45, p 0.19 without the 2019-22 change; 1 of 11 CE+SCF change tests); others -0.04 to 0.22; panel +1.6 pts per 10 ICE pts
+     (p 0.44, permutation p 0.50). SAVED fell in every quartile 2022 -> 2025 (all families 56.5% -> 53.4%).
+5. Consistent with the contribution results above: sentiment does not move saving or contributions in a
+   measurable way once trends are removed, overall or by income.

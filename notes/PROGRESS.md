@@ -82,3 +82,7 @@ SCF 2025 (2024 withdrawals) added to Section 10 at Richard's approval: 70-74 IRA
 
 ## 2026-10-27 v19
 All other SCF-based sections extended to 2025 (contributions, readiness, income, annuities, debt, past-job plans). Highlights: workplace contributors 49.2%; 55-64 coverage 70.1%; withdrawals 9.5% of 65+ income; SS average share 46.2%; income annuities 2.6%; 65+ with debt 60.8%; past-job plan share 26.8% all households.
+
+## 2026-10-28 v20
+v20 (2026-10-28) added one paragraph to Section 11 (after the contributor-rate paragraph, ref sipp-micro): SIPP workplace DC contributions 2020-2024 from sipp/contrib/ (Richard said add). Full-year workers 18-64: 42-44% have a main-job plan, 39-42% contribute, median own 5.4-5.8% of pay, employer ~3%, own 3.8-4.3% and employer 2.3-2.7% of all their pay. No SEs; SIPP has no personal IRA contribution item and pre-2021 files have no contribution items. No figure/table numbers changed.
+Published as artifact version 20 (1793156673-9489). Render check clean (bad [], empty [], ox 0, 159 refs).
